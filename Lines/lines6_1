@@ -1,0 +1,178 @@
+,Player,Team,Line,Stat,League,Date
+0,Nikola Jokic,MIA,27.5,PTS,7,2023-06-01
+3,Nikola Jokic,MIA,3.0,Offensive Rebounds,7,2023-06-01
+6,Nikola Jokic,MIA,4.5,Points In First 6 Minutes,7,2023-06-01
+10,Nikola Jokic,MIA,27.5,PTS,7,2023-06-01
+11,Nikola Jokic,MIA,23.5,TRB+AST,7,2023-06-01
+15,Nikola Jokic,MIA,50.5,PTS+TRB+AST,7,2023-06-01
+16,Nikola Jokic,MIA,10.5,Defensive Rebounds,7,2023-06-01
+26,Nikola Jokic,MIA,37.5,PTS+AST,7,2023-06-01
+30,Nikola Jokic,MIA,10.0,FG Missed,7,2023-06-01
+31,Nikola Jokic,MIA,2.5,3-PT Attempted,7,2023-06-01
+32,Nikola Jokic,MIA (Last 6 Minutes of Regulation),4.5,Points in Crunch Time,7,2023-06-01
+34,Nikola Jokic,MIA,3.0,FG Made in First 5 Attempts,7,2023-06-01
+35,Nikola Jokic,MIA,20.5,FGA,7,2023-06-01
+40,Nikola Jokic,MIA,13.5,TRB,7,2023-06-01
+44,Nikola Jokic,MIA,40.5,PTS+TRB,7,2023-06-01
+47,Nikola Jokic,MIA,10.0,AST,7,2023-06-01
+50,Nikola Jokic,MIA,2.5,Deflections,7,2023-06-01
+53,Nikola Jokic,MIA,10.5,FG Made,7,2023-06-01
+58,Jimmy Butler,DEN,3.0,3-PT Attempted,7,2023-06-01
+60,Jimmy Butler,DEN,21.0,FGA,7,2023-06-01
+61,Jimmy Butler,DEN,10.0,FG Made,7,2023-06-01
+63,Jimmy Butler,DEN,7.0,TRB,7,2023-06-01
+66,Jimmy Butler,DEN,27.5,PTS,7,2023-06-01
+71,Jimmy Butler,DEN (Last 6 Minutes of Regulation),4.5,Points in Crunch Time,7,2023-06-01
+74,Jimmy Butler,DEN,3.5,Deflections,7,2023-06-01
+75,Jimmy Butler,DEN,2.0,Offensive Rebounds,7,2023-06-01
+80,Jimmy Butler,DEN,11.0,FG Missed,7,2023-06-01
+87,Jimmy Butler,DEN,2.5,FG Made in First 5 Attempts,7,2023-06-01
+94,Jimmy Butler,DEN,13.5,TRB+AST,7,2023-06-01
+95,Jimmy Butler,DEN,33.5,PTS+AST,7,2023-06-01
+96,Jimmy Butler,DEN,34.5,PTS+TRB,7,2023-06-01
+97,Jimmy Butler,DEN,4.0,Points In First 6 Minutes,7,2023-06-01
+101,Jimmy Butler,DEN,5.0,Defensive Rebounds,7,2023-06-01
+103,Jimmy Butler,DEN,40.5,PTS+TRB+AST,7,2023-06-01
+105,Jimmy Butler,DEN,6.0,AST,7,2023-06-01
+109,Jamal Murray,MIA,0.5,Offensive Rebounds,7,2023-06-01
+111,Jamal Murray,MIA,36.5,PTS+TRB+AST,7,2023-06-01
+118,Jamal Murray,MIA,8.0,3-PT Attempted,7,2023-06-01
+119,Jamal Murray,MIA,10.5,TRB+AST,7,2023-06-01
+123,Jamal Murray,MIA (Last 6 Minutes of Regulation),4.0,Points in Crunch Time,7,2023-06-01
+126,Jamal Murray,MIA,31.5,PTS+AST,7,2023-06-01
+130,Jamal Murray,MIA,4.0,Points In First 6 Minutes,7,2023-06-01
+133,Jamal Murray,MIA,5.5,AST,7,2023-06-01
+142,Jamal Murray,MIA,11.0,FG Missed,7,2023-06-01
+143,Jamal Murray,MIA,2.5,TOV,7,2023-06-01
+144,Jamal Murray,MIA,5.0,TRB,7,2023-06-01
+150,Jamal Murray,MIA,2.5,Deflections,7,2023-06-01
+151,Jamal Murray,MIA,21.0,FGA,7,2023-06-01
+154,Jamal Murray,MIA,31.0,PTS+TRB,7,2023-06-01
+155,Jamal Murray,MIA,25.5,PTS,7,2023-06-01
+159,Jamal Murray,MIA,4.5,Defensive Rebounds,7,2023-06-01
+160,Jamal Murray,MIA,1.5,BLK+STL,7,2023-06-01
+161,Jamal Murray,MIA,1.5,FG Made in First 3 Attempts,7,2023-06-01
+169,Bam Adebayo,DEN,9.0,TRB,7,2023-06-01
+170,Bam Adebayo,DEN,6.5,FG Made,7,2023-06-01
+171,Bam Adebayo,DEN,13.5,FGA,7,2023-06-01
+178,Bam Adebayo,DEN,1.5,Deflections,7,2023-06-01
+201,Bam Adebayo,DEN,16.5,PTS,7,2023-06-01
+204,Bam Adebayo,DEN,3.5,AST,7,2023-06-01
+206,Bam Adebayo,DEN,2.5,TOV,7,2023-06-01
+207,Bam Adebayo,DEN,29.5,PTS+TRB+AST,7,2023-06-01
+210,Bam Adebayo,DEN,12.5,TRB+AST,7,2023-06-01
+211,Bam Adebayo,DEN,20.5,PTS+AST,7,2023-06-01
+212,Bam Adebayo,DEN,25.5,PTS+TRB,7,2023-06-01
+213,Bam Adebayo,DEN,1.5,FG Made in First 3 Attempts,7,2023-06-01
+214,Bam Adebayo,DEN,7.0,FG Missed,7,2023-06-01
+218,Bam Adebayo,DEN,6.5,Defensive Rebounds,7,2023-06-01
+220,Caleb Martin,DEN,1.5,Offensive Rebounds,7,2023-06-01
+221,Bam Adebayo,DEN (Last 6 Minutes of Regulation),2.5,Points in Crunch Time,7,2023-06-01
+223,Bam Adebayo,DEN,2.5,Points In First 6 Minutes,7,2023-06-01
+225,Michael Porter Jr.,MIA,16.5,PTS+AST,7,2023-06-01
+228,Aaron Gordon,MIA,1.5,FG Made in First 3 Attempts,7,2023-06-01
+229,Michael Porter Jr.,MIA,22.5,PTS+TRB,7,2023-06-01
+230,Michael Porter Jr.,MIA,8.5,TRB+AST,7,2023-06-01
+234,Michael Porter Jr.,MIA,7.5,TRB,7,2023-06-01
+237,Kentavious Caldwell-Pope,MIA,2.5,Defensive Rebounds,7,2023-06-01
+240,Aaron Gordon,MIA,4.5,FG Missed,7,2023-06-01
+242,Michael Porter Jr.,MIA,13.0,FGA,7,2023-06-01
+244,Michael Porter Jr.,MIA,7.0,3-PT Attempted,7,2023-06-01
+245,Michael Porter Jr.,MIA,6.0,FG Made,7,2023-06-01
+247,Michael Porter Jr.,MIA,2.5,Points In First 6 Minutes,7,2023-06-01
+250,Michael Porter Jr.,MIA,15.5,PTS,7,2023-06-01
+256,Aaron Gordon,MIA (Last 6 Minutes of Regulation),2.0,Points in Crunch Time,7,2023-06-01
+271,Michael Porter Jr.,MIA,23.5,PTS+TRB+AST,7,2023-06-01
+274,Aaron Gordon,MIA,1.0,Deflections,7,2023-06-01
+277,Max Strus,DEN,5.5,3-PT Attempted,7,2023-06-01
+281,Max Strus,DEN,10.5,PTS+AST,7,2023-06-01
+282,Max Strus,DEN,9.5,PTS,7,2023-06-01
+284,Max Strus,DEN,12.5,PTS+TRB,7,2023-06-01
+287,Caleb Martin,DEN,1.5,Deflections,7,2023-06-01
+292,Caleb Martin,DEN,6.5,FG Missed,7,2023-06-01
+293,Caleb Martin,DEN,1.5,FG Made in First 3 Attempts,7,2023-06-01
+305,Aaron Gordon,MIA,2.0,Offensive Rebounds,7,2023-06-01
+306,Caleb Martin,DEN,5.5,Defensive Rebounds,7,2023-06-01
+308,Caleb Martin,DEN (Last 6 Minutes of Regulation),2.5,Points in Crunch Time,7,2023-06-01
+312,Max Strus,DEN,9.0,FGA,7,2023-06-01
+313,Michael Porter Jr.,MIA (Last 6 Minutes of Regulation),2.5,Points in Crunch Time,7,2023-06-01
+317,Michael Porter Jr.,MIA,1.5,Deflections,7,2023-06-01
+323,Kentavious Caldwell-Pope,MIA,4.0,FG Made,7,2023-06-01
+325,Kentavious Caldwell-Pope,MIA,13.5,PTS+TRB,7,2023-06-01
+327,Michael Porter Jr.,MIA,7.0,FG Missed,7,2023-06-01
+329,Kentavious Caldwell-Pope,MIA,4.5,3-PT Attempted,7,2023-06-01
+331,Kentavious Caldwell-Pope,MIA,11.5,PTS+AST,7,2023-06-01
+333,Kentavious Caldwell-Pope,MIA,10.5,PTS,7,2023-06-01
+347,Kentavious Caldwell-Pope,MIA,9.0,FGA,7,2023-06-01
+352,Michael Porter Jr.,MIA,2.5,FG Made in First 5 Attempts,7,2023-06-01
+353,Gabe Vincent,DEN,0.5,Offensive Rebounds,7,2023-06-01
+354,Gabe Vincent,DEN,6.5,FG Missed,7,2023-06-01
+358,Gabe Vincent,DEN,17.5,PTS+TRB+AST,7,2023-06-01
+359,Gabe Vincent,DEN,2.5,Deflections,7,2023-06-01
+364,Gabe Vincent,DEN,15.5,PTS+AST,7,2023-06-01
+366,Gabe Vincent,DEN,14.5,PTS+TRB,7,2023-06-01
+375,Gabe Vincent,DEN,4.5,FG Made,7,2023-06-01
+376,Gabe Vincent,DEN,12.5,PTS,7,2023-06-01
+378,Gabe Vincent,DEN,6.0,3-PT Attempted,7,2023-06-01
+380,Gabe Vincent,DEN,11.0,FGA,7,2023-06-01
+387,Aaron Gordon,MIA,12.5,PTS,7,2023-06-01
+389,Aaron Gordon,MIA,0.5,3P,7,2023-06-01
+390,Aaron Gordon,MIA,5.5,TRB,7,2023-06-01
+391,Aaron Gordon,MIA,21.0,PTS+TRB+AST,7,2023-06-01
+392,Aaron Gordon,MIA,18.5,PTS+TRB,7,2023-06-01
+393,Aaron Gordon,MIA,8.5,TRB+AST,7,2023-06-01
+394,Aaron Gordon,MIA,15.5,PTS+AST,7,2023-06-01
+402,Aaron Gordon,MIA,9.5,FGA,7,2023-06-01
+403,Aaron Gordon,MIA,5.0,FG Made,7,2023-06-01
+404,Aaron Gordon,MIA,2.0,Points In First 6 Minutes,7,2023-06-01
+406,Kentavious Caldwell-Pope,MIA,0.5,Offensive Rebounds,7,2023-06-01
+408,Kentavious Caldwell-Pope,MIA,2.5,Deflections,7,2023-06-01
+410,Kentavious Caldwell-Pope,MIA,5.0,FG Missed,7,2023-06-01
+417,Caleb Martin,DEN,16.0,PTS,7,2023-06-01
+420,Kyle Lowry,DEN,1.5,Deflections,7,2023-06-01
+423,Caleb Martin,DEN,1.5,BLK+STL,7,2023-06-01
+424,Caleb Martin,DEN,17.5,PTS+AST,7,2023-06-01
+427,Caleb Martin,DEN,6.5,FG Made,7,2023-06-01
+429,Caleb Martin,DEN,23.5,PTS+TRB,7,2023-06-01
+430,Caleb Martin,DEN,24.5,PTS+TRB+AST,7,2023-06-01
+431,Max Strus,DEN,0.5,Offensive Rebounds,7,2023-06-01
+432,Caleb Martin,DEN,7.0,TRB,7,2023-06-01
+436,Caleb Martin,DEN,5.5,3-PT Attempted,7,2023-06-01
+437,Caleb Martin,DEN,2.5,Points In First 6 Minutes,7,2023-06-01
+439,Kyle Lowry,DEN,4.5,FG Missed,7,2023-06-01
+441,Caleb Martin,DEN,13.0,FGA,7,2023-06-01
+445,Caleb Martin,DEN,8.5,TRB+AST,7,2023-06-01
+452,Bruce Brown,MIA,3.5,Defensive Rebounds,7,2023-06-01
+455,Bruce Brown,MIA,1.5,BLK+STL,7,2023-06-01
+458,Bruce Brown,MIA,1.5,Deflections,7,2023-06-01
+472,Bruce Brown,MIA,5.0,FG Missed,7,2023-06-01
+475,Bruce Brown,MIA,0.5,Offensive Rebounds,7,2023-06-01
+488,Bruce Brown,MIA,1.5,FG Made in First 3 Attempts,7,2023-06-01
+497,Bruce Brown,MIA,4.5,FG Made,7,2023-06-01
+498,Bruce Brown,MIA,9.5,FGA,7,2023-06-01
+499,Bruce Brown,MIA,11.0,PTS,7,2023-06-01
+502,Bruce Brown,MIA,17.5,PTS+TRB+AST,7,2023-06-01
+503,Bruce Brown,MIA,15.5,PTS+TRB,7,2023-06-01
+504,Bruce Brown,MIA,13.5,PTS+AST,7,2023-06-01
+514,Max Strus,DEN,5.5,FG Missed,7,2023-06-01
+515,Duncan Robinson,DEN,0.5,Deflections,7,2023-06-01
+552,Duncan Robinson,DEN,8.5,PTS,7,2023-06-01
+557,Kyle Lowry,DEN,7.5,PTS,7,2023-06-01
+558,Kyle Lowry,DEN,10.5,PTS+TRB,7,2023-06-01
+562,Kyle Lowry,DEN,3.0,FG Made,7,2023-06-01
+563,Kyle Lowry,DEN,10.5,PTS+AST,7,2023-06-01
+565,Kyle Lowry,DEN,7.5,FGA,7,2023-06-01
+571,Max Strus,DEN,2.5,Defensive Rebounds,7,2023-06-01
+572,Kyle Lowry,DEN,3.5,3-PT Attempted,7,2023-06-01
+659,Nikola Jokic,MIA,5.0,FT,7,2023-06-01
+667,Jimmy Butler,DEN,8.5,FT,7,2023-06-01
+676,Jamal Murray,MIA,3.5,FT,7,2023-06-01
+684,Bam Adebayo,DEN,3.5,FT,7,2023-06-01
+689,Aaron Gordon,MIA,2.5,FT,7,2023-06-01
+700,Caleb Martin,DEN,1.5,FT,7,2023-06-01
+704,Michael Porter Jr.,MIA,1.5,FT,7,2023-06-01
+712,Gabe Vincent,DEN,1.5,FT,7,2023-06-01
+717,Kentavious Caldwell-Pope,MIA,0.5,FT,7,2023-06-01
+721,Kyle Lowry,DEN,0.5,FT,7,2023-06-01
+724,Bruce Brown,MIA,1.5,FT,7,2023-06-01
+726,Max Strus,DEN,0.5,FT,7,2023-06-01

@@ -1,0 +1,1772 @@
+,Player,Team,Line,Stat,League,Date
+0,Nikola Jokic,TBA,27.5,PTS,7,2023-06-01
+1,Bijan Robinson,2023 ATL,1075.5,Rush Yards,163,2023-09-07
+2,Bryce Young,2023 CAR,3649.5,Pass Yards,163,2023-09-07
+3,Hunter Greene,CHC,4.0,Hits Allowed,2,2023-05-26
+4,Christopher Nkunku,Schalke 04,0.5,Goals,82,2023-05-27
+5,Justin Steele,CIN,1.5,Earned Runs Allowed,2,2023-05-26
+6,Sebastien Haller,1. FSV Mainz 05,0.5,Goals,82,2023-05-27
+7,Hunter Greene,CHC,17.0,Pitching Outs,2,2023-05-26
+8,Alexandre Lacazette,Stade de Reims,0.5,Goals,82,2023-05-27
+9,Jonathan David,FC Nantes,0.5,Goals,82,2023-05-27
+10,Kylian Mbappe,Strasbourg,0.5,Goals,82,2023-05-27
+11,Kremp,LDN Royal Ravens,24.5,MAP 4 Kills,145,2023-05-26
+12,Hunter Greene,CHC 1+2+3 Innings,4.0,Pitcher Strikeouts,231,2023-05-26
+13,Elena Delle Donne,CHI,19.5,PTS,3,2023-05-26
+14,Kingsley Coman,FC Koln,0.5,Goal + Assist,82,2023-05-27
+15,Elena Delle Donne,CHI,22.5,PTS+AST,3,2023-05-26
+16,Karim Adeyemi,1. FSV Mainz 05,0.5,Goal + Assist,82,2023-05-27
+17,Lautaro Martinez,Atalanta,0.5,Goal + Assist,82,2023-05-27
+18,Scottie Scheffler,RD2,12.5,Greens In Regulation,1,2023-05-26
+19,Kremp,LDN Royal Ravens,7.0,MAP 5 Kills,145,2023-05-26
+20,Kremp,LDN Royal Ravens,7.0,MAP 2 Kills,145,2023-05-26
+21,Kremp,LDN Royal Ravens,22.5,MAP 3 Kills,145,2023-05-26
+22,Elena Delle Donne,CHI 1st Half,10.0,PTS,193,2023-05-26
+23,Derke,Team Liquid (MAP 3 Kills),19.5,MAP 3 Kills,159,2023-05-26
+24,Christopher Morel,CIN,0.5,Total Bases,2,2023-05-26
+25,Hunter Greene,CHC,7.0,Pitcher Strikeouts,2,2023-05-26
+26,Hunter Greene,CHC,100.5,Pitches Thrown,2,2023-05-26
+27,C.J. Stroud,2023 HOU,3625.5,Pass Yards,163,2023-09-07
+28,Kremp,LDN Royal Ravens,54.5,MAPS 1-3 Kills,145,2023-05-26
+29,Elena Delle Donne,CHI,7.0,TRB,3,2023-05-26
+30,Jayson Tatum,MIA,36.5,PTS+AST,7,2023-05-27
+31,Jayson Tatum,MIA,41.5,PTS+TRB,7,2023-05-27
+32,Zane Smith,Charlotte - North Carolina Education Lottery 200,37.5,NASCAR Points,138,2023-05-26
+33,Jayson Tatum,MIA,3.5,TOV,7,2023-05-27
+34,Kyle Larson,Charlotte - Coca Cola 600,36.5,NASCAR Points,4,2023-05-28
+35,Jayson Tatum,MIA,16.5,TRB+AST,7,2023-05-27
+36,Brooks Koepka,RD1,4.5,Birdies Or Better,228,2023-05-26
+37,Jayson Tatum,MIA,47.0,PTS+TRB+AST,7,2023-05-27
+38,Jayson Tatum,MIA 1st Half,24.0,PTS+TRB+AST,84,2023-05-27
+39,Elena Delle Donne,CHI,26.5,PTS+TRB,3,2023-05-26
+40,Jayson Tatum,MIA,10.5,TRB,7,2023-05-27
+41,Jayson Tatum,MIA,6.0,AST,7,2023-05-27
+42,Brooks Koepka,Cameron Smith,0.0,Birdies or Better Matchup,228,2023-05-26
+43,Dominik Szoboszlai,Schalke 04,0.5,Goal + Assist,82,2023-05-27
+44,Jayson Tatum,MIA 1st Half,15.5,PTS,84,2023-05-27
+45,Ty Gibbs,Charlotte - Alsco Uniforms 300,38.5,NASCAR Points,137,2023-05-27
+46,Jayson Tatum,MIA,30.5,PTS,7,2023-05-27
+47,Hunter Greene,CHC 1st Inning,16.5,Pitches Thrown,231,2023-05-26
+48,Dansby Swanson,CIN,7.5,Hitter Fantasy Score,2,2023-05-26
+49,Elena Delle Donne,CHI 1st Half,14.5,PTS+TRB+AST,193,2023-05-26
+50,Ross Chastain,Charlotte,6.5,Starting Position,4,2023-05-27
+51,Si Woo Kim,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+52,Oscar Piastri,Monaco GP,2.9,1st Pit Stop Time (sec),125,2023-05-28
+53,Elena Delle Donne,CHI,29.5,PTS+TRB+AST,3,2023-05-26
+54,Hunter Greene + Justin Steele,CHC/CIN,13.5,Pitcher Strikeouts,2,2023-05-26
+55,Justin Steele,CIN,1.5,Walks Allowed,2,2023-05-26
+56,Elena Delle Donne,CHI,10.0,TRB+AST,3,2023-05-26
+57,Lois Openda,AC Ajaccio,0.5,Goals,82,2023-05-27
+58,Hunter Greene,CHC,37.0,Pitcher Fantasy Score,2,2023-05-26
+59,Kremp,LDN Royal Ravens,24.5,MAP 1 Kills,145,2023-05-26
+60,Serge Gnabry,FC Koln,0.5,Goals,82,2023-05-27
+61,Kahleah Copper,WAS,18.5,PTS,3,2023-05-26
+62,Justin Steele,CIN 1st Inning,15.0,Pitches Thrown,231,2023-05-26
+63,Kyle Busch,Charlotte - Alsco Uniforms 300,38.5,NASCAR Points,137,2023-05-27
+64,Beans,LDN Royal Ravens,24.5,MAP 1 Kills,145,2023-05-26
+65,Jon Gray,BAL,1.5,Walks Allowed,2,2023-05-26
+66,Joey Logano,Charlotte,7.5,Starting Position,4,2023-05-27
+67,Jimmy Butler,BOS 1st Half,14.5,PTS,84,2023-05-27
+68,Jimmy Butler,BOS,28.5,PTS,7,2023-05-27
+69,Beans,LDN Royal Ravens,23.5,MAP 4 Kills,145,2023-05-26
+70,Lando Norris,Monaco GP,2.9,1st Pit Stop Time (sec),125,2023-05-28
+71,Jimmy Butler,BOS,2.5,BLK+STL,7,2023-05-27
+72,Jonathan India,CHC,6.5,Hitter Fantasy Score,2,2023-05-26
+73,Ciro Immobile,Cremonese,0.5,Goals,82,2023-05-28
+74,Grayson Rodriguez,TEX,5.0,Hits Allowed,2,2023-05-26
+75,Jimmy Butler,BOS,13.5,TRB+AST,7,2023-05-27
+76,William Byron,Charlotte - Coca Cola 600,35.5,NASCAR Points,4,2023-05-28
+77,Erling Braut Haaland,Brentford,0.5,Goals,82,2023-05-28
+78,Beans,LDN Royal Ravens,23.5,MAP 3 Kills,145,2023-05-26
+79,Harry Kane,Leeds United,0.5,Goals,82,2023-05-28
+80,Justin Steele,CIN,36.5,Pitcher Fantasy Score,2,2023-05-26
+81,Alfajer,Team Liquid (MAP 3 Kills),18.0,MAP 3 Kills,159,2023-05-26
+82,Justin Steele,CIN 1+2 Innings,2.0,Pitcher Strikeouts,231,2023-05-26
+83,Eberechi Eze,Nottingham Forest,0.5,Goal + Assist,82,2023-05-28
+84,Jimmy Butler,BOS,42.5,PTS+TRB+AST,7,2023-05-27
+85,Jon Gray,BAL,2.5,Earned Runs Allowed,2,2023-05-26
+86,Neal Maupay,Bournemouth,0.5,Goal + Assist,82,2023-05-28
+87,Ollie Watkins,BHA,0.5,Goal + Assist,82,2023-05-28
+88,Kahleah Copper,WAS,22.5,PTS+AST,3,2023-05-26
+89,Dustin Johnson,RD1,5.0,Birdies Or Better,228,2023-05-26
+90,Jimmy Butler,BOS 1st Half,21.5,PTS+TRB+AST,84,2023-05-27
+91,Beans,LDN Royal Ravens,6.5,MAP 5 Kills,145,2023-05-26
+92,Kahleah Copper,WAS,9.5,TRB+AST,3,2023-05-26
+93,Kahleah Copper,WAS,6.0,TRB,3,2023-05-26
+94,Kahleah Copper,WAS 1st Half,14.5,PTS+TRB+AST,193,2023-05-26
+95,Beans,LDN Royal Ravens,6.5,MAP 2 Kills,145,2023-05-26
+96,Billy Horschel,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+97,Kahleah Copper,WAS,28.5,PTS+TRB+AST,3,2023-05-26
+98,Kahleah Copper,WAS 1st Half,9.5,PTS,193,2023-05-26
+99,Beans,LDN Royal Ravens,54.5,MAPS 1-3 Kills,145,2023-05-26
+100,Aaron Rodgers,2023 NYJ,4050.5,Pass Yards,163,2023-09-07
+101,Mohamed Salah,Southampton,0.5,Goals,82,2023-05-28
+102,Justin Steele,CIN,5.5,Pitcher Strikeouts,2,2023-05-26
+103,Jimmy Butler,BOS,6.0,AST,7,2023-05-27
+104,Jon Gray,BAL,16.5,Pitching Outs,2,2023-05-26
+105,Kahleah Copper,WAS,24.5,PTS+TRB,3,2023-05-26
+106,Justin Steele,CIN,90.5,Pitches Thrown,2,2023-05-26
+107,Jimmy Butler,BOS,7.5,TRB,7,2023-05-27
+108,Dustin Johnson,Brooks Koepka,0.0,Birdies or Better Matchup,228,2023-05-26
+109,Ty Majeski,Charlotte - North Carolina Education Lottery 200,37.5,NASCAR Points,138,2023-05-26
+110,Jimmy Butler,BOS,36.5,PTS+TRB,7,2023-05-27
+111,James Maddison,West Ham United,0.5,Goal + Assist,82,2023-05-28
+112,Jimmy Butler,BOS,34.5,PTS+AST,7,2023-05-27
+113,Ryan Blaney,Charlotte,10.5,Starting Position,4,2023-05-27
+114,Shakira Austin,CHI,7.5,TRB,3,2023-05-26
+115,Shakira Austin,CHI,21.5,PTS+TRB+AST,3,2023-05-26
+116,Shakira Austin,CHI,12.5,PTS,3,2023-05-26
+117,Owakening,LDN Royal Ravens,21.5,MAP 3 Kills,145,2023-05-26
+118,Denny Hamlin,Charlotte - Coca Cola 600,35.5,NASCAR Points,4,2023-05-28
+119,Nico Hoerner,CIN,7.0,Hitter Fantasy Score,2,2023-05-26
+120,Owakening,LDN Royal Ravens,23.5,MAP 1 Kills,145,2023-05-26
+121,Owakening,LDN Royal Ravens,22.5,MAP 4 Kills,145,2023-05-26
+122,Shakira Austin,CHI,20.5,PTS+TRB,3,2023-05-26
+123,Owakening,LDN Royal Ravens,49.5,MAPS 1-3 Kills,145,2023-05-26
+124,John Hunter Nemechek,Charlotte - Alsco Uniforms 300,36.5,NASCAR Points,137,2023-05-27
+125,Ian Happ,CIN,0.5,Total Bases,2,2023-05-26
+126,Corey Heim,Charlotte - North Carolina Education Lottery 200,36.5,NASCAR Points,138,2023-05-26
+127,Jaylen Brown,MIA,2.5,TOV,7,2023-05-27
+128,Jaylen Brown,MIA,28.5,PTS+TRB,7,2023-05-27
+129,Jaylen Brown,MIA,9.5,TRB+AST,7,2023-05-27
+130,Cameron Smith,RD1,5.0,Birdies Or Better,228,2023-05-26
+131,Jaylen Brown,MIA,26.5,PTS+AST,7,2023-05-27
+132,Cameron Smith,Dustin Johnson,0.0,Birdies or Better Matchup,228,2023-05-26
+133,Jaylen Brown,MIA 1st Half,16.5,PTS+TRB+AST,84,2023-05-27
+134,Jaylen Brown,MIA,32.5,PTS+TRB+AST,7,2023-05-27
+135,Jaylen Brown,MIA,3.5,AST,7,2023-05-27
+136,Jaylen Brown,MIA,5.5,TRB,7,2023-05-27
+137,Jaylen Brown,MIA 1st Half,11.5,PTS,84,2023-05-27
+138,Jaylen Brown,MIA,22.5,PTS,7,2023-05-27
+139,Owakening,LDN Royal Ravens,6.0,MAP 5 Kills,145,2023-05-26
+140,Sam Burns,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+141,Max Verstappen,Monaco GP,2.5,1st Pit Stop Time (sec),125,2023-05-28
+142,Shakira Austin,CHI 1st Half,10.5,PTS+TRB+AST,193,2023-05-26
+143,Matthew Liberatore,CLE,2.5,Earned Runs Allowed,2,2023-05-26
+144,Matthew Liberatore,CLE,5.0,Hits Allowed,2,2023-05-26
+145,Owakening,LDN Royal Ravens,6.0,MAP 2 Kills,145,2023-05-26
+146,Kevin Gausman,MIN,18.5,Pitching Outs,2,2023-05-26
+147,Kevin Gausman,MIN,1.5,Walks Allowed,2,2023-05-26
+148,Shakira Austin,CHI 1st Half,6.5,PTS,193,2023-05-26
+149,Leo,Team Liquid (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-05-26
+150,Lance Lynn,DET,36.5,Pitcher Fantasy Score,2,2023-05-26
+151,Marina Mabrey,WAS,1.5,3P,3,2023-05-26
+152,Justin Allgaier,Charlotte - Alsco Uniforms 300,36.5,NASCAR Points,137,2023-05-27
+153,Martin Truex Jr.,Charlotte - Coca Cola 600,34.5,NASCAR Points,4,2023-05-28
+154,Marina Mabrey,WAS,3.5,AST,3,2023-05-26
+155,Stuart Fairchild,CHC,0.5,Total Bases,2,2023-05-26
+156,Bam Adebayo,BOS,2.5,TOV,7,2023-05-27
+157,Bam Adebayo,BOS,1.5,BLK+STL,7,2023-05-27
+158,Bam Adebayo,BOS,20.5,PTS+AST,7,2023-05-27
+159,Bam Adebayo,BOS,26.5,PTS+TRB,7,2023-05-27
+160,Bam Adebayo,BOS,12.0,TRB+AST,7,2023-05-27
+161,Bam Adebayo,BOS 1st Half,15.0,PTS+TRB+AST,84,2023-05-27
+162,Bam Adebayo,BOS,29.5,PTS+TRB+AST,7,2023-05-27
+163,Bam Adebayo,BOS,8.5,TRB,7,2023-05-27
+164,Bam Adebayo,BOS 1st Half,8.5,PTS,84,2023-05-27
+165,Bam Adebayo,BOS,17.5,PTS,7,2023-05-27
+166,Si Woo Kim,RD2,9.5,Fairways Hit,1,2023-05-26
+167,Kyle Busch,Charlotte,11.5,Starting Position,4,2023-05-27
+168,Matt McLain,CHC,6.5,Hitter Fantasy Score,2,2023-05-26
+169,Jordan Lyles,WSH,1.5,Walks Allowed,2,2023-05-26
+170,Louie Varland,TOR,17.0,Pitching Outs,2,2023-05-26
+171,Shane Bieber,STL,2.5,Earned Runs Allowed,2,2023-05-26
+172,Jared Shuster,PHI,5.0,Hits Allowed,2,2023-05-26
+173,Boaster,Team Liquid (MAP 3 Kills),11.0,MAP 3 Kills,159,2023-05-26
+174,Marina Mabrey,WAS,13.5,PTS,3,2023-05-26
+175,Joe Musgrove,NYY,29.5,Pitcher Fantasy Score,2,2023-05-26
+176,Vivid,LDN Royal Ravens,7.0,MAP 5 Kills,145,2023-05-26
+177,Marina Mabrey,WAS,21.5,PTS+TRB+AST,3,2023-05-26
+178,Marina Mabrey,WAS,17.5,PTS+AST,3,2023-05-26
+179,Marina Mabrey,WAS 1st Half,6.5,PTS,193,2023-05-26
+180,Vivid,LDN Royal Ravens,7.0,MAP 2 Kills,145,2023-05-26
+181,Marina Mabrey,WAS 1st Half,10.5,PTS+TRB+AST,193,2023-05-26
+182,Marina Mabrey,WAS,4.0,TRB,3,2023-05-26
+183,Marina Mabrey,WAS,8.0,TRB+AST,3,2023-05-26
+184,Sergio Perez,Monaco GP,2.45,1st Pit Stop Time (sec),125,2023-05-28
+185,Vivid,LDN Royal Ravens,52.5,MAPS 1-3 Kills,145,2023-05-26
+186,Vivid,LDN Royal Ravens,22.5,MAP 3 Kills,145,2023-05-26
+187,Vivid,LDN Royal Ravens,23.5,MAP 4 Kills,145,2023-05-26
+188,Vivid,LDN Royal Ravens,24.5,MAP 1 Kills,145,2023-05-26
+189,Marina Mabrey,WAS,17.5,PTS+TRB,3,2023-05-26
+190,Davis Riley,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+191,Bryson Dechambeau,Mito Pereira,0.0,Birdies or Better Matchup,228,2023-05-26
+192,Bryson Dechambeau,RD1,4.5,Birdies Or Better,228,2023-05-26
+193,Christian Eckes,Charlotte - North Carolina Education Lottery 200,35.5,NASCAR Points,138,2023-05-26
+194,Shane Bieber,STL,31.0,Pitcher Fantasy Score,2,2023-05-26
+195,Grant Enfinger,Charlotte - North Carolina Education Lottery 200,34.5,NASCAR Points,138,2023-05-26
+196,Mike Tauchman,CIN,0.5,Total Bases,2,2023-05-26
+197,Natasha Cloud,CHI 1st Half,5.5,PTS,193,2023-05-26
+198,Skrapz,BOS Breach,46.5,MAPS 1-3 Kills,145,2023-05-26
+199,Natasha Cloud,CHI,15.0,PTS+TRB,3,2023-05-26
+200,Natasha Cloud,CHI,21.5,PTS+TRB+AST,3,2023-05-26
+201,Marcus Smart,MIA,6.0,AST,7,2023-05-27
+202,Skrapz,BOS Breach,20.5,MAP 1 Kills,145,2023-05-26
+203,Taijuan Walker,ATL,5.5,Hits Allowed,2,2023-05-26
+204,Joaquin Niemann,RD1,4.5,Birdies Or Better,228,2023-05-26
+205,Marcus Smart,MIA,19.5,PTS+AST,7,2023-05-27
+206,Skrapz,BOS Breach,6.0,MAP 5 Kills,145,2023-05-26
+207,Louie Varland,TOR,2.5,Earned Runs Allowed,2,2023-05-26
+208,Marcus Smart,MIA,22.5,PTS+TRB+AST,7,2023-05-27
+209,Marcus Smart,MIA,16.5,PTS+TRB,7,2023-05-27
+210,Marcus Smart,MIA,13.5,PTS,7,2023-05-27
+211,Marcus Smart,MIA 1st Half,6.5,PTS,84,2023-05-27
+212,Skrapz,BOS Breach,19.5,MAP 3 Kills,145,2023-05-26
+213,Marcus Smart,MIA,3.5,TRB,7,2023-05-27
+214,Max Scherzer,COL,17.5,Pitching Outs,2,2023-05-26
+215,Natasha Cloud,CHI 1st Half,10.5,PTS+TRB+AST,193,2023-05-26
+216,Joaquin Niemann,Talor Gooch,0.0,Birdies or Better Matchup,228,2023-05-26
+217,Sayf,Fnatic (MAP 3 Kills),16.5,MAP 3 Kills,159,2023-05-26
+218,Ross Chastain,Charlotte - Coca Cola 600,34.5,NASCAR Points,4,2023-05-28
+219,Russell Henley,RD2,9.5,Fairways Hit,1,2023-05-26
+220,Natasha Cloud,CHI,9.5,TRB+AST,3,2023-05-26
+221,Natasha Cloud,CHI,17.5,PTS+AST,3,2023-05-26
+222,Natasha Cloud,CHI,6.0,AST,3,2023-05-26
+223,Marcus Smart,MIA 1st Half,11.5,PTS+TRB+AST,84,2023-05-27
+224,Skrapz,BOS Breach,6.0,MAP 2 Kills,145,2023-05-26
+225,Josh Berry,Charlotte - Alsco Uniforms 300,35.5,NASCAR Points,137,2023-05-27
+226,Natasha Cloud,CHI,11.5,PTS,3,2023-05-26
+227,Connor Seabold,NYM,1.5,Walks Allowed,2,2023-05-26
+228,Bubba Wallace,Charlotte,12.5,Starting Position,4,2023-05-27
+229,Charles Leclerc,Monaco GP,2.5,1st Pit Stop Time (sec),125,2023-05-28
+230,Marcus Smart,MIA,9.5,TRB+AST,7,2023-05-27
+231,Justin Rose,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+232,Courtney Williams,WAS,6.0,TRB,3,2023-05-26
+233,Skrapz,BOS Breach,20.5,MAP 4 Kills,145,2023-05-26
+234,Courtney Williams,WAS,21.0,PTS+TRB+AST,3,2023-05-26
+235,Uli,BOS Breach,6.5,MAP 2 Kills,145,2023-05-26
+236,Uli,BOS Breach,21.5,MAP 1 Kills,145,2023-05-26
+237,Max Strus,BOS,15.5,PTS+TRB+AST,7,2023-05-27
+238,Uli,BOS Breach,21.5,MAP 4 Kills,145,2023-05-26
+239,Uli,BOS Breach,45.5,MAPS 1-3 Kills,145,2023-05-26
+240,Jordan Spieth,Sam Burns,0.0,Birdies or Better Matchup,1,2023-05-26
+241,Courtney Williams,WAS 1st Half,10.5,PTS+TRB+AST,193,2023-05-26
+242,Scottie Scheffler,RD2,9.0,Fairways Hit,1,2023-05-26
+243,Max Strus,BOS 1st Half,5.5,PTS,84,2023-05-27
+244,Max Strus,BOS,3.0,TRB,7,2023-05-27
+245,Uli,BOS Breach,6.5,MAP 5 Kills,145,2023-05-26
+246,Patrick Reed,RD1,4.5,Birdies Or Better,228,2023-05-26
+247,Courtney Williams,WAS,10.5,TRB+AST,3,2023-05-26
+248,Patrick Reed,Sergio Garcia,0.0,Birdies or Better Matchup,228,2023-05-26
+249,Courtney Williams,WAS,15.5,PTS+AST,3,2023-05-26
+250,Jordan Spieth,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+251,Austin Hill,Charlotte - Alsco Uniforms 300,34.5,NASCAR Points,137,2023-05-27
+252,Chase Elliott,Charlotte - Coca Cola 600,34.5,NASCAR Points,4,2023-05-28
+253,Elizabeth Williams,WAS,7.0,TRB,3,2023-05-26
+254,Kevin Gausman,MIN,5.0,Hits Allowed,2,2023-05-26
+255,Courtney Williams,WAS 1st Half,5.5,PTS,193,2023-05-26
+256,Freddy Peralta,SF,35.5,Pitcher Fantasy Score,2,2023-05-26
+257,nAts,Fnatic (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-05-26
+258,Kevin Harvick,Charlotte,13.5,Starting Position,4,2023-05-27
+259,Max Strus,BOS,13.5,PTS+TRB,7,2023-05-27
+260,Courtney Williams,WAS,10.5,PTS,3,2023-05-26
+261,Max Strus,BOS,11.0,PTS,7,2023-05-27
+262,Courtney Williams,WAS,4.5,AST,3,2023-05-26
+263,Uli,BOS Breach,20.5,MAP 3 Kills,145,2023-05-26
+264,Jesus Luzardo,LAA,17.5,Pitching Outs,2,2023-05-26
+265,Max Strus,BOS,12.5,PTS+AST,7,2023-05-27
+266,Max Strus,BOS 1st Half,7.5,PTS+TRB+AST,84,2023-05-27
+267,Carlos Sainz Jr.,Monaco GP,2.55,1st Pit Stop Time (sec),125,2023-05-28
+268,Carson Hocevar,Charlotte - North Carolina Education Lottery 200,33.5,NASCAR Points,138,2023-05-26
+269,Courtney Williams,WAS,16.5,PTS+TRB,3,2023-05-26
+270,Tom Hoge,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+271,Nastie,BOS Breach,22.5,MAP 1 Kills,145,2023-05-26
+272,Ariel Atkins,CHI,12.5,PTS,3,2023-05-26
+273,Nastie,BOS Breach,6.5,MAP 2 Kills,145,2023-05-26
+274,Nastie,BOS Breach,6.5,MAP 5 Kills,145,2023-05-26
+275,Ariel Atkins,CHI 1st Half,6.5,PTS,193,2023-05-26
+276,Kevin Gausman,MIN,42.5,Pitcher Fantasy Score,2,2023-05-26
+277,Jesus Luzardo,LAA,2.5,Earned Runs Allowed,2,2023-05-26
+278,Jamppi,Fnatic (MAP 3 Kills),14.5,MAP 3 Kills,159,2023-05-26
+279,Jordan Lyles,WSH,6.0,Hits Allowed,2,2023-05-26
+280,Nick Sanchez,Charlotte - North Carolina Education Lottery 200,33.5,NASCAR Points,138,2023-05-26
+281,Logan Sargeant,Monaco GP,3.05,1st Pit Stop Time (sec),125,2023-05-28
+282,Jordan Spieth,RD2,12.0,Greens In Regulation,1,2023-05-26
+283,Ariel Atkins,CHI,17.5,PTS+TRB+AST,3,2023-05-26
+284,Nastie,BOS Breach,49.5,MAPS 1-3 Kills,145,2023-05-26
+285,Daniel Suarez,Charlotte,14.5,Starting Position,4,2023-05-27
+286,Sam Burns,Thomas Detry,0.0,Birdies or Better Matchup,1,2023-05-26
+287,Nastie,BOS Breach,20.5,MAP 3 Kills,145,2023-05-26
+288,Nastie,BOS Breach,22.5,MAP 4 Kills,145,2023-05-26
+289,Derrick White,MIA 1st Half,6.5,PTS,84,2023-05-27
+290,Derrick White,MIA,13.5,PTS,7,2023-05-27
+291,Derrick White,MIA 1st Half,9.5,PTS+TRB+AST,84,2023-05-27
+292,Mito Pereira,RD1,4.5,Birdies Or Better,228,2023-05-26
+293,Kyle Busch,Charlotte - Coca Cola 600,33.5,NASCAR Points,4,2023-05-28
+294,Derrick White,MIA,16.5,PTS+AST,7,2023-05-27
+295,Derrick White,MIA,17.5,PTS+TRB,7,2023-05-27
+296,Mito Pereira,Joaquin Niemann,0.0,Birdies or Better Matchup,228,2023-05-26
+297,Derrick White,MIA,2.5,3P,7,2023-05-27
+298,Cole Custer,Charlotte - Alsco Uniforms 300,34.5,NASCAR Points,137,2023-05-27
+299,Ariel Atkins,CHI 1st Half,8.5,PTS+TRB+AST,193,2023-05-26
+300,Derrick White,MIA,19.5,PTS+TRB+AST,7,2023-05-27
+301,Ariel Atkins,CHI,1.5,3P,3,2023-05-26
+302,Phil Mickelson,Cameron Tringale,0.0,Birdies or Better Matchup,228,2023-05-26
+303,Elizabeth Williams,WAS,10.0,PTS,3,2023-05-26
+304,Sam Burns,RD2,12.0,Greens In Regulation,1,2023-05-26
+305,Austin Dillon,Charlotte,17.5,Starting Position,4,2023-05-27
+306,Connor Seabold,NYM,6.0,Hits Allowed,2,2023-05-26
+307,Asim,BOS Breach,7.0,MAP 2 Kills,145,2023-05-26
+308,Asim,BOS Breach,7.0,MAP 5 Kills,145,2023-05-26
+309,Christopher Bell,Charlotte - Coca Cola 600,33.5,NASCAR Points,4,2023-05-28
+310,Asim,BOS Breach,22.5,MAP 3 Kills,145,2023-05-26
+311,Caleb Martin,BOS,18.5,PTS+TRB,7,2023-05-27
+312,Caleb Martin,BOS,13.5,PTS,7,2023-05-27
+313,Rickie Fowler,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+314,Alexander Albon,Monaco GP,3.05,1st Pit Stop Time (sec),125,2023-05-28
+315,Max Scherzer,COL,31.0,Pitcher Fantasy Score,2,2023-05-26
+316,Elizabeth Williams,WAS 1st Half,9.5,PTS+TRB+AST,193,2023-05-26
+317,Redgar,Fnatic (MAP 3 Kills),11.5,MAP 3 Kills,159,2023-05-26
+318,Ben Rhodes,Charlotte - North Carolina Education Lottery 200,32.5,NASCAR Points,138,2023-05-26
+319,Elizabeth Williams,WAS 1st Half,4.5,PTS,193,2023-05-26
+320,Asim,BOS Breach,50.5,MAPS 1-3 Kills,145,2023-05-26
+321,Elizabeth Williams,WAS,18.5,PTS+TRB+AST,3,2023-05-26
+322,Caleb Martin,BOS,5.0,TRB,7,2023-05-27
+323,Justin Rose,RD2,8.5,Fairways Hit,1,2023-05-26
+324,Caleb Martin,BOS 1st Half,6.5,PTS,84,2023-05-27
+325,Sergio Garcia,RD1,4.5,Birdies Or Better,228,2023-05-26
+326,Sammy Smith,Charlotte - Alsco Uniforms 300,33.5,NASCAR Points,137,2023-05-27
+327,Caleb Martin,BOS,14.5,PTS+AST,7,2023-05-27
+328,Asim,BOS Breach,22.5,MAP 4 Kills,145,2023-05-26
+329,Caleb Martin,BOS,19.5,PTS+TRB+AST,7,2023-05-27
+330,Asim,BOS Breach,24.5,MAP 1 Kills,145,2023-05-26
+331,Caleb Martin,BOS 1st Half,9.5,PTS+TRB+AST,84,2023-05-27
+332,Brittney Sykes,CHI,10.5,PTS,3,2023-05-26
+333,Stewart Friesen,Charlotte - North Carolina Education Lottery 200,31.5,NASCAR Points,138,2023-05-26
+334,Al Horford,MIA,6.0,TRB,7,2023-05-27
+335,Brittney Sykes,CHI,3.5,AST,3,2023-05-26
+336,Nyck de Vries,Monaco GP,3.0,1st Pit Stop Time (sec),125,2023-05-28
+337,Talor Gooch,RD1,4.5,Birdies Or Better,228,2023-05-26
+338,Brittney Sykes,CHI,8.5,TRB+AST,3,2023-05-26
+339,Al Horford,MIA,7.0,PTS,7,2023-05-27
+340,Al Horford,MIA,15.5,PTS+TRB+AST,7,2023-05-27
+341,Brittney Sykes,CHI,19.5,PTS+TRB+AST,3,2023-05-26
+342,Al Horford,MIA,0.5,TOV,7,2023-05-27
+343,Al Horford,MIA,8.5,TRB+AST,7,2023-05-27
+344,Al Horford,MIA 1st Half,8.0,PTS+TRB+AST,84,2023-05-27
+345,Sam Mayer,Charlotte - Alsco Uniforms 300,32.5,NASCAR Points,137,2023-05-27
+346,HyDra,LA Guerrillas,25.5,MAP 4 Kills,145,2023-05-26
+347,HyDra,LA Guerrillas,8.0,MAP 5 Kills,145,2023-05-26
+348,Al Horford,MIA,1.5,3P,7,2023-05-27
+349,Al Horford,MIA,13.5,PTS+TRB,7,2023-05-27
+350,Brittney Sykes,CHI 1st Half,5.5,PTS,193,2023-05-26
+351,HyDra,LA Guerrillas,24.5,MAP 3 Kills,145,2023-05-26
+352,Brittney Sykes,CHI 1st Half,9.5,PTS+TRB+AST,193,2023-05-26
+353,Jesus Luzardo,LAA,5.0,Hits Allowed,2,2023-05-26
+354,HyDra,LA Guerrillas,56.5,MAPS 1-3 Kills,145,2023-05-26
+355,Bubba Watson,Henrik Stenson,0.0,Birdies or Better Matchup,228,2023-05-26
+356,HyDra,LA Guerrillas,8.0,MAP 2 Kills,145,2023-05-26
+357,Brittney Sykes,CHI,15.5,PTS+TRB,3,2023-05-26
+358,Justin Rose,RD2,11.5,Greens In Regulation,1,2023-05-26
+359,Brittney Sykes,CHI,14.5,PTS+AST,3,2023-05-26
+360,Tommy Fleetwood,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+361,Al Horford,MIA 1st Half,3.5,PTS,84,2023-05-27
+362,HyDra,LA Guerrillas,25.5,MAP 1 Kills,145,2023-05-26
+363,Jesus Luzardo,LAA,30.5,Pitcher Fantasy Score,2,2023-05-26
+364,Tommy Fleetwood,RD2,8.5,Fairways Hit,1,2023-05-26
+365,Al Horford,MIA,2.5,AST,7,2023-05-27
+366,Justin Rose,Russell Henley,0.0,Birdies or Better Matchup,1,2023-05-26
+367,Tyler Reddick,Charlotte - Coca Cola 600,32.5,NASCAR Points,4,2023-05-28
+368,Tommy Fleetwood,RD2,11.5,Greens In Regulation,1,2023-05-26
+369,Lamar Jackson,2023 BAL,3625.5,Pass Yards,163,2023-09-07
+370,KiSMET,LA Guerrillas,52.5,MAPS 1-3 Kills,145,2023-05-26
+371,Reid Detmers,MIA,32.5,Pitcher Fantasy Score,2,2023-05-26
+372,Chandler Smith,Charlotte - Alsco Uniforms 300,32.5,NASCAR Points,137,2023-05-27
+373,Chris Sale,ARI,5.5,Hits Allowed,2,2023-05-26
+374,Maverick McNealy,Colonial Country Club -Hole 1,4.5,Hole 1 Shots,1,2023-05-26
+375,Kevin Harvick,Charlotte - Coca Cola 600,32.5,NASCAR Points,4,2023-05-28
+376,KiSMET,LA Guerrillas,23.5,MAP 1 Kills,145,2023-05-26
+377,qw1,Natus Vincere (MAPS 1-2 Kills),34.5,MAPS 1-2 Kills,159,2023-05-26
+378,Yuki Tsunoda,Monaco GP,3.0,1st Pit Stop Time (sec),125,2023-05-28
+379,Sergio Garcia,Matthew Wolff,0.0,Birdies or Better Matchup,228,2023-05-26
+380,KiSMET,LA Guerrillas,6.5,MAP 5 Kills,145,2023-05-26
+381,Jason Kokrak,RD1,4.5,Birdies Or Better,228,2023-05-26
+382,Matt Crafton,Charlotte - North Carolina Education Lottery 200,30.5,NASCAR Points,138,2023-05-26
+383,KiSMET,LA Guerrillas,6.5,MAP 2 Kills,145,2023-05-26
+384,qw1,Natus Vincere (MAP 3 Kills),17.0,MAP 3 Kills,159,2023-05-26
+385,Tommy Fleetwood,Stephan Jaeger,0.0,Birdies or Better Matchup,1,2023-05-26
+386,KiSMET,LA Guerrillas,22.5,MAP 3 Kills,145,2023-05-26
+387,KiSMET,LA Guerrillas,23.5,MAP 4 Kills,145,2023-05-26
+388,Skyz,LA Guerrillas,19.5,MAP 3 Kills,145,2023-05-26
+389,Skyz,LA Guerrillas,20.5,MAP 4 Kills,145,2023-05-26
+390,Louis Oosthuizen,Dean Burmester,0.0,Birdies or Better Matchup,228,2023-05-26
+391,Chris Kirk,Ryan Fox,0.0,Birdies or Better Matchup,1,2023-05-26
+392,Chris Sale,ARI,35.5,Pitcher Fantasy Score,2,2023-05-26
+393,Christiaan Bezuidenhout,RD2,8.5,Fairways Hit,1,2023-05-26
+394,Ryan Blaney,Charlotte - Coca Cola 600,31.5,NASCAR Points,4,2023-05-28
+395,Chase Purdy,Charlotte - North Carolina Education Lottery 200,29.5,NASCAR Points,138,2023-05-26
+396,qRaxs,Natus Vincere (MAP 3 Kills),14.5,MAP 3 Kills,159,2023-05-26
+397,qRaxs,Natus Vincere (MAPS 1-2 Kills),29.5,MAPS 1-2 Kills,159,2023-05-26
+398,Skyz,LA Guerrillas,20.5,MAP 1 Kills,145,2023-05-26
+399,Hunter Brown,OAK,4.5,Hits Allowed,2,2023-05-26
+400,Skyz,LA Guerrillas,47.5,MAPS 1-3 Kills,145,2023-05-26
+401,Pierre Gasly,Monaco GP,2.75,1st Pit Stop Time (sec),125,2023-05-28
+402,Skyz,LA Guerrillas,6.5,MAP 5 Kills,145,2023-05-26
+403,Matthew Wolff,RD1,4.5,Birdies Or Better,228,2023-05-26
+404,Si Woo Kim,RD2,12.0,Greens In Regulation,1,2023-05-26
+405,Skyz,LA Guerrillas,6.5,MAP 2 Kills,145,2023-05-26
+406,Sheldon Creed,Charlotte - Alsco Uniforms 300,31.5,NASCAR Points,137,2023-05-27
+407,Matheus Henrique,Sampdoria,1.0,Shots Assisted,82,2023-05-26
+408,George Kirby,PIT,5.0,Hits Allowed,2,2023-05-26
+409,Alessandro Zanoli,Sassuolo,1.5,Tackles,82,2023-05-26
+410,Tommaso Augello,Sassuolo,33.5,Passes Attempted,82,2023-05-26
+411,Hunter Brown,OAK,36.5,Pitcher Fantasy Score,2,2023-05-26
+412,Nicola Ravaglia,Sassuolo,3.0,Goalie Saves,82,2023-05-26
+413,Mehdi Leris,Sassuolo,0.5,Shots,82,2023-05-26
+414,Fabio Quagliarella,Sassuolo,2.0,Shots,82,2023-05-26
+415,Davide Frattesi,Sampdoria,1.5,Tackles,82,2023-05-26
+416,Bruno Amione,Sassuolo,1.5,Tackles,82,2023-05-26
+417,Tomas Rincon,Sassuolo,1.5,Tackles,82,2023-05-26
+418,Filip Duricic,Sassuolo,1.0,Tackles,82,2023-05-26
+419,Martin Erlic,Sampdoria,3.0,Clearances,82,2023-05-26
+420,Domenico Berardi,Sampdoria,38.5,Passes Attempted,82,2023-05-26
+421,Manolo Gabbiadini,Sassuolo,21.5,Passes Attempted,82,2023-05-26
+422,Domenico Berardi,Sampdoria,1.5,Shots Assisted,82,2023-05-26
+423,Rogerio,Sampdoria,4.5,Crosses,82,2023-05-26
+424,Esteban Ocon,Monaco GP,2.75,1st Pit Stop Time (sec),125,2023-05-28
+425,Domenico Berardi,Sampdoria,5.5,Crosses,82,2023-05-26
+426,Bruno Amione,Sassuolo,2.5,Clearances,82,2023-05-26
+427,Sam Lammers,Sassuolo,1.5,Shots,82,2023-05-26
+428,Tommaso Augello,Sassuolo,1.0,Shots Assisted,82,2023-05-26
+429,Gian Marco Ferrari,Sampdoria,2.5,Clearances,82,2023-05-26
+430,Mehdi Leris,Sassuolo,2.0,Tackles,82,2023-05-26
+431,Andrea Consigli,Sampdoria,2.5,Goalie Saves,82,2023-05-26
+432,Davide Frattesi,Sampdoria,0.5,Shots On Target,82,2023-05-26
+433,Maxime Lopez,Sampdoria,1.5,Tackles,82,2023-05-26
+434,Domenico Berardi,Sampdoria,3.5,Shots,82,2023-05-26
+435,Nedim Bajrami,Sampdoria,0.5,Shots On Target,82,2023-05-26
+436,Gian Marco Ferrari,Sampdoria,0.5,Tackles,82,2023-05-26
+437,Alessandro Zanoli,Sassuolo,0.5,Shots Assisted,82,2023-05-26
+438,Manolo Gabbiadini,Sassuolo,0.5,Shots Assisted,82,2023-05-26
+439,Alessandro Zanoli,Sassuolo,0.5,Shots,82,2023-05-26
+440,Andrea Pinamonti,Sampdoria,2.0,Shots,82,2023-05-26
+441,Davide Frattesi,Sampdoria,30.5,Passes Attempted,82,2023-05-26
+442,Harry Winks,Sassuolo,1.5,Tackles,82,2023-05-26
+443,Matheus Henrique,Sampdoria,1.0,Tackles,82,2023-05-26
+444,Maxime Lopez,Sampdoria,0.5,Shots,82,2023-05-26
+445,Tommaso Augello,Sassuolo,0.5,Tackles,82,2023-05-26
+446,Joey Logano,Charlotte - Coca Cola 600,31.5,NASCAR Points,4,2023-05-28
+447,Brandon Jones,Charlotte - Alsco Uniforms 300,29.5,NASCAR Points,137,2023-05-27
+448,Matt Dibenedetto,Charlotte - North Carolina Education Lottery 200,28.5,NASCAR Points,138,2023-05-26
+449,Talor Gooch,Bryson DeChambeau,0.0,Birdies or Better Matchup,228,2023-05-26
+450,Phil Mickelson,RD1,4.0,Birdies Or Better,228,2023-05-26
+451,Filip Duricic,Sassuolo,1.0,Shots Assisted,82,2023-05-26
+452,Priestahh,LA Guerrillas,21.5,MAP 1 Kills,145,2023-05-26
+453,Priestahh,LA Guerrillas,21.5,MAP 4 Kills,145,2023-05-26
+454,Si Woo Kim,Nate Lashley,0.0,Birdies or Better Matchup,1,2023-05-26
+455,Priestahh,LA Guerrillas,48.5,MAPS 1-3 Kills,145,2023-05-26
+456,Priestahh,LA Guerrillas,6.5,MAP 5 Kills,145,2023-05-26
+457,Priestahh,LA Guerrillas,6.5,MAP 2 Kills,145,2023-05-26
+458,Priestahh,LA Guerrillas,20.5,MAP 3 Kills,145,2023-05-26
+459,Mattaes Phillipou,Hawthorn,0.5,Goals,165,2023-05-26
+460,AtaKaptan,Natus Vincere (MAP 3 Kills),13.5,MAP 3 Kills,159,2023-05-26
+461,AtaKaptan,Natus Vincere (MAPS 1-2 Kills),27.0,MAPS 1-2 Kills,159,2023-05-26
+462,MrFaliN,Natus Vincere (MAP 3 Kills),13.0,MAP 3 Kills,159,2023-05-26
+463,Marco Silvestri,Salernitana,3.0,Goalie Saves,82,2023-05-27
+464,JoeDeceives,NY Subliners,6.5,MAP 2 Kills,145,2023-05-26
+465,Jai Newcombe,St Kilda,0.5,Goals,165,2023-05-26
+466,Bubba Wallace,Charlotte - Coca Cola 600,30.5,NASCAR Points,4,2023-05-28
+467,Pasquale Mazzocchi,Udinese,0.5,Shots,82,2023-05-27
+468,Guillermo Ochoa,Udinese,3.0,Goalie Saves,82,2023-05-27
+469,Krzysztof Piatek,Udinese,2.0,Shots,82,2023-05-27
+470,Sandi Lovric,Salernitana,1.5,Shots,82,2023-05-27
+471,Lazar Samardzic,Salernitana,0.5,Shots On Target,82,2023-05-27
+472,Antonio Candreva,Udinese,1.5,Shots,82,2023-05-27
+473,Roberto Pereyra,Salernitana,1.5,Shots Assisted,82,2023-05-27
+474,Tom Hoge,RD2,8.5,Fairways Hit,1,2023-05-26
+475,Antonio Candreva,Udinese,0.5,Shots On Target,82,2023-05-27
+476,Matteo Lovato,Udinese,3.5,Clearances,82,2023-05-27
+477,Pasquale Mazzocchi,Udinese,1.0,Tackles,82,2023-05-27
+478,Walace,Salernitana,2.0,Tackles,82,2023-05-27
+479,Lassana Coulibaly,Udinese,2.5,Tackles,82,2023-05-27
+480,Dylan Bronn,Udinese,46.5,Passes Attempted,82,2023-05-27
+481,Pasquale Mazzocchi,Udinese,25.5,Passes Attempted,82,2023-05-27
+482,Jaka Bijol,Salernitana,4.5,Clearances,82,2023-05-27
+483,Sandi Lovric,Salernitana,32.5,Passes Attempted,82,2023-05-27
+484,Grigoris Kastanos,Udinese,0.5,Shots Assisted,82,2023-05-27
+485,Antonio Candreva,Udinese,6.5,Crosses,82,2023-05-27
+486,Beto,Salernitana,2.5,Shots,82,2023-05-27
+487,Lazar Samardzic,Salernitana,3.5,Crosses,82,2023-05-27
+488,JoeDeceives,NY Subliners,6.5,MAP 5 Kills,145,2023-05-26
+489,Lewis Hamilton,Monaco GP,2.7,1st Pit Stop Time (sec),125,2023-05-28
+490,JoeDeceives,NY Subliners,50.5,MAPS 1-3 Kills,145,2023-05-26
+491,M'Bala Nzola,Torino,2.5,Shots,82,2023-05-27
+492,Vanja Milinkovic-Savic,Spezia,3.0,Goalie Saves,82,2023-05-27
+493,Rodrigo Becao,Salernitana,48.5,Passes Attempted,82,2023-05-27
+494,Bartlomiej Dragowski,Torino,2.5,Goalie Saves,82,2023-05-27
+495,Aleksei Miranchuk,Spezia,1.5,Shots,82,2023-05-27
+496,Antonio Sanabria,Spezia,2.5,Shots,82,2023-05-27
+497,Ivan Ilic,Spezia,0.5,Shots,82,2023-05-27
+498,Samuele Ricci,Spezia,0.5,Shots,82,2023-05-27
+499,Mitch Keller,SEA,37.5,Pitcher Fantasy Score,2,2023-05-26
+500,Russell Henley,RD2,11.5,Greens In Regulation,1,2023-05-26
+501,Rodrigo Becao,Salernitana,0.5,Shots,82,2023-05-27
+502,Marvin Zeegelaar,Salernitana,1.5,Tackles,82,2023-05-27
+503,MrFaliN,Natus Vincere (MAPS 1-2 Kills),26.5,MAPS 1-2 Kills,159,2023-05-26
+504,Lazar Samardzic,Salernitana,1.5,Shots,82,2023-05-27
+505,Nikola Vlasic,Spezia,0.5,Shots On Target,82,2023-05-27
+506,JoeDeceives,NY Subliners,23.5,MAP 1 Kills,145,2023-05-26
+507,Domagoj Bradaric,Udinese,1.5,Clearances,82,2023-05-27
+508,Albin Ekdal,Torino,1.5,Tackles,82,2023-05-27
+509,Rickie Fowler,Nick Hardy,0.0,Birdies or Better Matchup,1,2023-05-26
+510,JoeDeceives,NY Subliners,23.5,MAP 3 Kills,145,2023-05-26
+511,Nikola Vlasic,Spezia,1.5,Crosses,82,2023-05-27
+512,Alessandro Buongiorno,Spezia,3.0,Clearances,82,2023-05-27
+513,Arkadiusz Reca,Torino,4.5,Crosses,82,2023-05-27
+514,Koffi Djidji,Spezia,2.5,Clearances,82,2023-05-27
+515,Aleksei Miranchuk,Spezia,1.5,Shots Assisted,82,2023-05-27
+516,Arkadiusz Reca,Torino,1.5,Tackles,82,2023-05-27
+517,Aleksei Miranchuk,Spezia,34.5,Passes Attempted,82,2023-05-27
+518,Dimitris Nikolaou,Torino,42.5,Passes Attempted,82,2023-05-27
+519,Mehdi Bourabia,Torino,29.5,Passes Attempted,82,2023-05-27
+520,Perr Schuurs,Spezia,58.5,Passes Attempted,82,2023-05-27
+521,Ivan Ilic,Spezia,1.0,Tackles,82,2023-05-27
+522,JoeDeceives,NY Subliners,24.5,MAP 4 Kills,145,2023-05-26
+523,Wilfried Singo,Spezia,1.0,Tackles,82,2023-05-27
+524,Salvatore Esposito,Torino,1.0,Shots Assisted,82,2023-05-27
+525,Nehuen Perez,Salernitana,2.5,Clearances,82,2023-05-27
+526,Ian Poulter,Lee Westwood,0.0,Birdies or Better Matchup,228,2023-05-26
+527,Gregor Kobel,1. FSV Mainz 05,1.5,Goalie Saves,82,2023-05-27
+528,Ralf Fahrmann,RB Leipzig,3.5,Goalie Saves,82,2023-05-27
+529,Christopher Nkunku,Schalke 04,1.5,Shots On Target,82,2023-05-27
+530,Dominik Szoboszlai,Schalke 04,4.5,Crosses,82,2023-05-27
+531,Rodrigo Zalazar,RB Leipzig,0.5,Shots On Target,82,2023-05-27
+532,Josko Gvardiol,Schalke 04,0.5,Tackles,82,2023-05-27
+533,Donyell Malen,1. FSV Mainz 05,3.0,Shots,82,2023-05-27
+534,Dominik Szoboszlai,Schalke 04,2.5,Shots Assisted,82,2023-05-27
+535,Dani Olmo,Schalke 04,2.5,Shots,82,2023-05-27
+536,Marius Bulter,RB Leipzig,1.0,Shots Assisted,82,2023-05-27
+537,Dominik Szoboszlai,Schalke 04,2.5,Shots,82,2023-05-27
+538,Christopher Nkunku,Schalke 04,25.5,Passes Attempted,82,2023-05-27
+539,Emil Forsberg,Schalke 04,1.0,Shots Assisted,82,2023-05-27
+540,Alex Kral,RB Leipzig,1.0,Tackles,82,2023-05-27
+541,Janis Blaswich,Schalke 04,2.5,Goalie Saves,82,2023-05-27
+542,Sepp van den Berg,RB Leipzig,35.5,Passes Attempted,82,2023-05-27
+543,Willi Orban,Schalke 04,3.0,Clearances,82,2023-05-27
+544,Konrad Laimer,Schalke 04,1.0,Shots Assisted,82,2023-05-27
+545,Timo Werner,Schalke 04,3.0,Shots,82,2023-05-27
+546,Christopher Nkunku,Schalke 04,3.5,Shots,82,2023-05-27
+547,Simon Terodde,RB Leipzig,0.5,Shots On Target,82,2023-05-27
+548,Christopher Nkunku,Schalke 04,1.5,Shots Assisted,82,2023-05-27
+549,Tom Krauss,RB Leipzig,3.0,Tackles,82,2023-05-27
+550,Rodrigo Zalazar,RB Leipzig,2.0,Shots,82,2023-05-27
+551,Rodrigo Zalazar,RB Leipzig,1.5,Shots Assisted,82,2023-05-27
+552,Dani Olmo,Schalke 04,2.0,Shots Assisted,82,2023-05-27
+553,Marius Bulter,RB Leipzig,0.5,Tackles,82,2023-05-27
+554,David Raum,Schalke 04,1.5,Shots Assisted,82,2023-05-27
+555,Josko Gvardiol,Schalke 04,2.5,Clearances,82,2023-05-27
+556,Cedric Brunner,RB Leipzig,1.5,Tackles,82,2023-05-27
+557,Sebastien Polter,RB Leipzig,0.5,Shots On Target,82,2023-05-27
+558,Konrad Laimer,Schalke 04,2.5,Tackles,82,2023-05-27
+559,Sebastien Polter,RB Leipzig,1.5,Shots,82,2023-05-27
+560,Simon Terodde,RB Leipzig,1.5,Shots,82,2023-05-27
+561,Sepp van den Berg,RB Leipzig,3.0,Clearances,82,2023-05-27
+562,Emil Forsberg,Schalke 04,2.0,Shots,82,2023-05-27
+563,Cedric Brunner,RB Leipzig,1.5,Crosses,82,2023-05-27
+564,Alex Bowman,Charlotte - Coca Cola 600,29.5,NASCAR Points,4,2023-05-28
+565,Benjamin Henrichs,Schalke 04,1.5,Clearances,82,2023-05-27
+566,Amadou Haidara,Schalke 04,0.5,Shots Assisted,82,2023-05-27
+567,Marius Bulter,RB Leipzig,0.5,Clearances,82,2023-05-27
+568,Simon Terodde,RB Leipzig,1.0,Shots Assisted,82,2023-05-27
+569,Benjamin Henrichs,Schalke 04,0.5,Shots,82,2023-05-27
+570,Tom Krauss,RB Leipzig,0.5,Shots,82,2023-05-27
+571,Andre Silva,Schalke 04,2.5,Shots,82,2023-05-27
+572,Jude Bellingham,1. FSV Mainz 05,2.5,Shots,82,2023-05-27
+573,Niklas Sule,1. FSV Mainz 05,2.5,Clearances,82,2023-05-27
+574,Jude Bellingham,1. FSV Mainz 05,1.5,Shots Assisted,82,2023-05-27
+575,Kingsley Coman,FC Koln,2.0,Shots Assisted,82,2023-05-27
+576,Niklas Sule,1. FSV Mainz 05,78.5,Passes Attempted,82,2023-05-27
+577,Dominik Kohr,Borussia Dortmund,34.5,Passes Attempted,82,2023-05-27
+578,Sebastien Haller,1. FSV Mainz 05,16.5,Passes Attempted,82,2023-05-27
+579,Leroy Sane,FC Koln,3.0,Shots,82,2023-05-27
+580,Florian Kainz,Bayern Munich,5.5,Crosses,82,2023-05-27
+581,Jonas Hector,Bayern Munich,32.5,Passes Attempted,82,2023-05-27
+582,Florian Wirtz,VfL Bochum,48.5,Passes Attempted,82,2023-05-27
+583,Edmond Tapsoba,VfL Bochum,60.5,Passes Attempted,82,2023-05-27
+584,Dejan Ljubicic,Bayern Munich,1.0,Tackles,82,2023-05-27
+585,Davie Selke,Bayern Munich,1.5,Shots,82,2023-05-27
+586,David Raum,Schalke 04,1.5,Tackles,82,2023-05-27
+587,Kevin Stoger,Bayer 04 Leverkusen,2.5,Tackles,82,2023-05-27
+588,Dominik Kohr,Borussia Dortmund,0.5,Shots Assisted,82,2023-05-27
+589,Moussa Diaby,VfL Bochum,2.0,Shots Assisted,82,2023-05-27
+590,Benjamin Henrichs,Schalke 04,2.0,Tackles,82,2023-05-27
+591,Donyell Malen,1. FSV Mainz 05,2.5,Crosses,82,2023-05-27
+592,Tom Krauss,RB Leipzig,22.5,Passes Attempted,82,2023-05-27
+593,Anton Stach,Borussia Dortmund,2.0,Crosses,82,2023-05-27
+594,Raphael Guerreiro,1. FSV Mainz 05,2.5,Shots Assisted,82,2023-05-27
+595,Dominique Heintz,Bayer 04 Leverkusen,1.0,Tackles,82,2023-05-27
+596,Dominik Kohr,Borussia Dortmund,2.0,Tackles,82,2023-05-27
+597,Marcus Ingvartsen,Borussia Dortmund,1.5,Shots,82,2023-05-27
+598,Karim Adeyemi,1. FSV Mainz 05,1.5,Shots Assisted,82,2023-05-27
+599,Anthony Losilla,Bayer 04 Leverkusen,27.5,Passes Attempted,82,2023-05-27
+600,Anton Stach,Borussia Dortmund,1.0,Tackles,82,2023-05-27
+601,Giovanni Reyna,1. FSV Mainz 05,2.0,Shots,82,2023-05-27
+602,Anthony Caci,Borussia Dortmund,2.0,Tackles,82,2023-05-27
+603,Karim Onisiwo,Borussia Dortmund,1.5,Shots,82,2023-05-27
+604,Jamal Musiala,FC Koln,2.0,Shots Assisted,82,2023-05-27
+605,Karim Onisiwo,Borussia Dortmund,0.5,Shots On Target,82,2023-05-27
+606,Sebastien Haller,1. FSV Mainz 05,1.0,Shots Assisted,82,2023-05-27
+607,Kingsley Coman,FC Koln,2.5,Shots,82,2023-05-27
+608,Emre Can,1. FSV Mainz 05,1.0,Shots Assisted,82,2023-05-27
+609,Karim Onisiwo,Borussia Dortmund,15.5,Passes Attempted,82,2023-05-27
+610,Kevin Trapp,SC Freiburg,3.0,Goalie Saves,82,2023-05-27
+611,Tuta,SC Freiburg,0.5,Shots,82,2023-05-27
+612,Rafael Santos Borre,SC Freiburg,2.0,Shots,82,2023-05-27
+613,Randal Kolo Muani,SC Freiburg,2.0,Shots,82,2023-05-27
+614,Lucas Alario,SC Freiburg,2.5,Shots,82,2023-05-27
+615,Daichi Kamada,SC Freiburg,0.5,Shots On Target,82,2023-05-27
+616,Rafael Santos Borre,SC Freiburg,0.5,Shots On Target,82,2023-05-27
+617,Tuta,SC Freiburg,1.5,Tackles,82,2023-05-27
+618,Christopher Lenz,SC Freiburg,1.5,Tackles,82,2023-05-27
+619,Daichi Kamada,SC Freiburg,1.5,Tackles,82,2023-05-27
+620,Tuta,SC Freiburg,4.0,Clearances,82,2023-05-27
+621,Ansgar Knauff,SC Freiburg,1.5,Shots,82,2023-05-27
+622,Evan N'Dicka,SC Freiburg,4.0,Clearances,82,2023-05-27
+623,Daichi Kamada,SC Freiburg,1.0,Shots Assisted,82,2023-05-27
+624,Mario Gotze,SC Freiburg,1.5,Shots Assisted,82,2023-05-27
+625,Randal Kolo Muani,SC Freiburg,1.5,Shots Assisted,82,2023-05-27
+626,Mark Flekken,Eintracht Frankfurt,3.0,Goalie Saves,82,2023-05-27
+627,Michael Gregoritsch,Eintracht Frankfurt,2.0,Shots,82,2023-05-27
+628,Christian Gunter,Eintracht Frankfurt,0.5,Shots,82,2023-05-27
+629,Vincenzo Grifo,Eintracht Frankfurt,2.0,Shots,82,2023-05-27
+630,Maximilian Eggestein,Eintracht Frankfurt,0.5,Shots,82,2023-05-27
+631,Ritsu Doan,Eintracht Frankfurt,1.5,Shots,82,2023-05-27
+632,Roland Sallai,Eintracht Frankfurt,2.0,Shots,82,2023-05-27
+633,Nils Petersen,Eintracht Frankfurt,1.5,Shots,82,2023-05-27
+634,Roland Sallai,Eintracht Frankfurt,0.5,Shots On Target,82,2023-05-27
+635,Ritsu Doan,Eintracht Frankfurt,0.5,Shots On Target,82,2023-05-27
+636,Lucas Holer,Eintracht Frankfurt,0.5,Shots On Target,82,2023-05-27
+637,Lucas Holer,Eintracht Frankfurt,1.0,Tackles,82,2023-05-27
+638,Maximilian Eggestein,Eintracht Frankfurt,1.5,Tackles,82,2023-05-27
+639,Ritsu Doan,Eintracht Frankfurt,1.5,Tackles,82,2023-05-27
+640,Matthias Ginter,Eintracht Frankfurt,3.5,Clearances,82,2023-05-27
+641,Philipp Lienhart,Eintracht Frankfurt,3.0,Clearances,82,2023-05-27
+642,Vincenzo Grifo,Eintracht Frankfurt,1.5,Shots Assisted,82,2023-05-27
+643,Maximilian Eggestein,Eintracht Frankfurt,0.5,Shots Assisted,82,2023-05-27
+644,Roland Sallai,Eintracht Frankfurt,3.0,Crosses,82,2023-05-27
+645,Daichi Kamada,SC Freiburg,2.0,Shots,82,2023-05-27
+646,Sebastian Rode,SC Freiburg,2.0,Tackles,82,2023-05-27
+647,Mario Gotze,SC Freiburg,0.5,Shots,82,2023-05-27
+648,Stefan Bell,Borussia Dortmund,1.5,Tackles,82,2023-05-27
+649,Thomas Muller,FC Koln,1.5,Shots Assisted,82,2023-05-27
+650,Marius Wolf,1. FSV Mainz 05,1.5,Shots,82,2023-05-27
+651,Raphael Guerreiro,1. FSV Mainz 05,1.5,Shots,82,2023-05-27
+652,Marco Reus,1. FSV Mainz 05,2.5,Shots,82,2023-05-27
+653,Julian Brandt,1. FSV Mainz 05,1.5,Shots,82,2023-05-27
+654,Niklas Sule,1. FSV Mainz 05,0.5,Tackles,82,2023-05-27
+655,Sebastien Haller,1. FSV Mainz 05,3.5,Shots,82,2023-05-27
+656,Leandro Barreiro,Borussia Dortmund,2.0,Tackles,82,2023-05-27
+657,Robin Zentner,Borussia Dortmund,4.0,Goalie Saves,82,2023-05-27
+658,Stefan Bell,Borussia Dortmund,4.5,Clearances,82,2023-05-27
+659,Mats Hummels,1. FSV Mainz 05,3.0,Clearances,82,2023-05-27
+660,Jason Kokrak,Harold Varner III,0.0,Birdies or Better Matchup,228,2023-05-26
+661,Marius Bulter,RB Leipzig,2.0,Shots,82,2023-05-27
+662,Leonardo Bittencourt,1. FC Union Berlin,0.5,Shots Assisted,82,2023-05-27
+663,Marco Friedl,1. FC Union Berlin,63.5,Passes Attempted,82,2023-05-27
+664,Marvin Ducksch,1. FC Union Berlin,5.0,Crosses,82,2023-05-27
+665,Niklas Schmidt,1. FC Union Berlin,1.5,Tackles,82,2023-05-27
+666,Niklas Stark,1. FC Union Berlin,4.0,Clearances,82,2023-05-27
+667,Milos Veljkovic,1. FC Union Berlin,3.5,Clearances,82,2023-05-27
+668,Rani Khedira,Werder Bremen,1.0,Clearances,82,2023-05-27
+669,Christopher Trimmel,Werder Bremen,0.5,Shots,82,2023-05-27
+670,Frederik Ronnow,Werder Bremen,2.5,Goalie Saves,82,2023-05-27
+671,Robin Knoche,Werder Bremen,51.5,Passes Attempted,82,2023-05-27
+672,Jerome Roussillon,Werder Bremen,26.5,Passes Attempted,82,2023-05-27
+673,Kevin Behrens,Werder Bremen,2.5,Shots,82,2023-05-27
+674,Niclas Fullkrug,1. FC Union Berlin,2.0,Shots,82,2023-05-27
+675,Rani Khedira,Werder Bremen,0.5,Shots,82,2023-05-27
+676,Jiri Pavlenka,1. FC Union Berlin,3.5,Goalie Saves,82,2023-05-27
+677,Sheraldo Becker,Werder Bremen,3.0,Shots,82,2023-05-27
+678,Christopher Antwi-Adjei,Bayer 04 Leverkusen,1.0,Shots Assisted,82,2023-05-27
+679,Jerome Roussillon,Werder Bremen,0.5,Shots,82,2023-05-27
+680,Aissa Laidouni,Werder Bremen,0.5,Shots,82,2023-05-27
+681,Marvin Ducksch,1. FC Union Berlin,2.0,Shots,82,2023-05-27
+682,Christopher Trimmel,Werder Bremen,8.5,Crosses,82,2023-05-27
+683,Sheraldo Becker,Werder Bremen,1.5,Shots Assisted,82,2023-05-27
+684,George Kirby,PIT,34.0,Pitcher Fantasy Score,2,2023-05-26
+685,Paul Jaeckel,Werder Bremen,2.5,Clearances,82,2023-05-27
+686,Marvin Schwabe,Bayern Munich,4.5,Goalie Saves,82,2023-05-27
+687,Takuma Asano,Bayer 04 Leverkusen,2.0,Shots,82,2023-05-27
+688,Keven Schlotterbeck,Bayer 04 Leverkusen,4.0,Clearances,82,2023-05-27
+689,Manuel Riemann,Bayer 04 Leverkusen,3.0,Goalie Saves,82,2023-05-27
+690,Christopher Antwi-Adjei,Bayer 04 Leverkusen,1.5,Shots,82,2023-05-27
+691,Edmond Tapsoba,VfL Bochum,0.5,Shots,82,2023-05-27
+692,Mitchel Bakker,VfL Bochum,0.5,Shots,82,2023-05-27
+693,Moussa Diaby,VfL Bochum,2.5,Shots,82,2023-05-27
+694,Nadiem Amiri,VfL Bochum,0.5,Shots On Target,82,2023-05-27
+695,Kevin Stoger,Bayer 04 Leverkusen,2.0,Shots,82,2023-05-27
+696,Amine Adli,VfL Bochum,2.0,Shots,82,2023-05-27
+697,Timothy Fosu-Mensah,VfL Bochum,2.5,Clearances,82,2023-05-27
+698,Kevin Stoger,Bayer 04 Leverkusen,0.5,Shots On Target,82,2023-05-27
+699,Lukas Hradecky,VfL Bochum,2.5,Goalie Saves,82,2023-05-27
+700,Nadiem Amiri,VfL Bochum,1.5,Shots,82,2023-05-27
+701,Exceed,NY Subliners,22.5,MAP 1 Kills,145,2023-05-26
+702,Philipp Hofmann,Bayer 04 Leverkusen,2.0,Shots,82,2023-05-27
+703,Russell Henley,Will Gordon,0.0,Birdies or Better Matchup,1,2023-05-26
+704,Kyoung-Hoon Lee,RD2,8.5,Fairways Hit,1,2023-05-26
+705,George Russell,Monaco GP,2.8,1st Pit Stop Time (sec),125,2023-05-28
+706,Exceed,NY Subliners,48.5,MAPS 1-3 Kills,145,2023-05-26
+707,Jeremie Frimpong,VfL Bochum,2.5,Crosses,82,2023-05-27
+708,Exceed,NY Subliners,6.5,MAP 5 Kills,145,2023-05-26
+709,Exceed,NY Subliners,6.5,MAP 2 Kills,145,2023-05-26
+710,Exceed,NY Subliners,22.5,MAP 4 Kills,145,2023-05-26
+711,Ivan Ordets,Bayer 04 Leverkusen,30.5,Passes Attempted,82,2023-05-27
+712,Exceed,NY Subliners,21.5,MAP 3 Kills,145,2023-05-26
+713,Exequiel Palacios,VfL Bochum,2.5,Tackles,82,2023-05-27
+714,Jonathan Tah,VfL Bochum,3.5,Clearances,82,2023-05-27
+715,Brian Harman,RD2,11.5,Greens In Regulation,1,2023-05-26
+716,Dan Butler,Hawthorn,1.5,Goals,165,2023-05-26
+717,Josko Gvardiol,Schalke 04,73.5,Passes Attempted,82,2023-05-27
+718,Janik Haberer,Werder Bremen,1.0,Tackles,82,2023-05-27
+719,Lucas Holer,Eintracht Frankfurt,2.0,Shots,82,2023-05-27
+720,Benno Schmitz,Bayern Munich,2.0,Tackles,82,2023-05-27
+721,Evan N'Dicka,SC Freiburg,1.0,Tackles,82,2023-05-27
+722,Christian Grob,1. FC Union Berlin,37.5,Passes Attempted,82,2023-05-27
+723,cNed,FUT Esports (MAPS 1-2 Kills),36.5,MAPS 1-2 Kills,159,2023-05-26
+724,cNed,FUT Esports (MAP 3 Kills),18.0,MAP 3 Kills,159,2023-05-26
+725,Matthijs De Ligt,FC Koln,83.5,Passes Attempted,82,2023-05-27
+726,Mohamed Simakan,Schalke 04,1.0,Tackles,82,2023-05-27
+727,Benjamin Pavard,FC Koln,3.0,Clearances,82,2023-05-27
+728,Thomas Muller,FC Koln,2.0,Shots,82,2023-05-27
+729,Jamal Musiala,FC Koln,2.0,Shots,82,2023-05-27
+730,Joao Cancelo,FC Koln,1.5,Tackles,82,2023-05-27
+731,Serge Gnabry,FC Koln,3.0,Shots,82,2023-05-27
+732,Ellyes Skhiri,Bayern Munich,0.5,Shots,82,2023-05-27
+733,Mitchel Bakker,VfL Bochum,0.5,Tackles,82,2023-05-27
+734,Yann Sommer,FC Koln,2.0,Goalie Saves,82,2023-05-27
+735,Christopher Lenz,SC Freiburg,4.5,Crosses,82,2023-05-27
+736,Sebastien Haller,1. FSV Mainz 05,1.5,Shots On Target,82,2023-05-27
+737,Jude Bellingham,1. FSV Mainz 05,2.0,Tackles,82,2023-05-27
+738,Donyell Malen,1. FSV Mainz 05,1.5,Shots Assisted,82,2023-05-27
+739,Emre Can,1. FSV Mainz 05,0.5,Shots,82,2023-05-27
+740,Emre Can,1. FSV Mainz 05,2.0,Tackles,82,2023-05-27
+741,Youssoufa Moukoko,1. FSV Mainz 05,3.5,Shots,82,2023-05-27
+742,Karim Adeyemi,1. FSV Mainz 05,2.5,Shots,82,2023-05-27
+743,Julian Brandt,1. FSV Mainz 05,2.5,Shots Assisted,82,2023-05-27
+744,Anthony Modeste,1. FSV Mainz 05,4.0,Shots,82,2023-05-27
+745,Joshua Kimmich,FC Koln,8.0,Crosses,82,2023-05-27
+746,Ellyes Skhiri,Bayern Munich,38.5,Passes Attempted,82,2023-05-27
+747,Joshua Kimmich,FC Koln,2.0,Tackles,82,2023-05-27
+748,Leroy Sane,FC Koln,45.5,Passes Attempted,82,2023-05-27
+749,Julian Chabot,Bayern Munich,5.0,Clearances,82,2023-05-27
+750,Timo Hubers,Bayern Munich,5.5,Clearances,82,2023-05-27
+751,Matthijs De Ligt,FC Koln,0.5,Shots,82,2023-05-27
+752,Assault,NY Subliners,20.5,MAP 1 Kills,145,2023-05-26
+753,Assault,NY Subliners,20.5,MAP 4 Kills,145,2023-05-26
+754,Assault,NY Subliners,46.5,MAPS 1-3 Kills,145,2023-05-26
+755,Brian Harman,Lucas Herbert,0.0,Birdies or Better Matchup,1,2023-05-26
+756,Daniel Suarez,Charlotte - Coca Cola 600,28.5,NASCAR Points,4,2023-05-28
+757,Brittney Sykes,CHI,5.0,TRB,3,2023-05-26
+758,Assault,NY Subliners,6.5,MAP 2 Kills,145,2023-05-26
+759,SUYGETSU,FUT Esports (MAPS 1-2 Kills),32.5,MAPS 1-2 Kills,159,2023-05-26
+760,Marc Leishman,Carlos Ortiz,0.0,Birdies or Better Matchup,228,2023-05-26
+761,Assault,NY Subliners,6.5,MAP 5 Kills,145,2023-05-26
+762,Max King,Hawthorn,2.5,Goals,165,2023-05-26
+763,Assault,NY Subliners,19.5,MAP 3 Kills,145,2023-05-26
+764,Sam Burns,RD2,8.0,Fairways Hit,1,2023-05-26
+765,SUYGETSU,FUT Esports (MAP 3 Kills),16.0,MAP 3 Kills,159,2023-05-26
+766,Fernando Alonso,Monaco GP,3.0,1st Pit Stop Time (sec),125,2023-05-28
+767,Ivan Rakitic,Real Madrid,3.0,Crosses,82,2023-05-27
+768,Suso,Real Madrid,1.5,Shots Assisted,82,2023-05-27
+769,Marco Asensio,Sevilla,5.0,Crosses,82,2023-05-27
+770,Karim Benzema,Sevilla,1.5,Shots Assisted,82,2023-05-27
+771,Zyppan,FUT Esports (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-05-26
+772,Zyppan,FUT Esports (MAPS 1-2 Kills),30.5,MAPS 1-2 Kills,159,2023-05-26
+773,Arcitys,NY Subliners,18.5,MAP 3 Kills,145,2023-05-26
+774,Arcitys,NY Subliners,44.5,MAPS 1-3 Kills,145,2023-05-26
+775,Arcitys,NY Subliners,19.5,MAP 4 Kills,145,2023-05-26
+776,Brad Keselowski,Charlotte - Coca Cola 600,27.5,NASCAR Points,4,2023-05-28
+777,Arcitys,NY Subliners,6.5,MAP 5 Kills,145,2023-05-26
+778,Arcitys,NY Subliners,6.5,MAP 2 Kills,145,2023-05-26
+779,Nemanja Gudelj,Real Madrid,49.5,Passes Attempted,82,2023-05-27
+780,Eder Militao,Sevilla,58.5,Passes Attempted,82,2023-05-27
+781,Karim Rekik,Real Madrid,3.0,Clearances,82,2023-05-27
+782,Marko Dmitrovic,Real Madrid,3.5,Goalie Saves,82,2023-05-27
+783,Marcos Acuna,Real Madrid,42.5,Passes Attempted,82,2023-05-27
+784,Alejandro Gomez,Real Madrid,0.5,Shots On Target,82,2023-05-27
+785,Antonio Rudiger,Sevilla,0.5,Shots,82,2023-05-27
+786,Marco Asensio,Sevilla,2.0,Shots,82,2023-05-27
+787,Alejandro Gomez,Real Madrid,1.5,Shots,82,2023-05-27
+788,Aurelien Tchouameni,Sevilla,67.5,Passes Attempted,82,2023-05-27
+789,Eduardo Camavinga,Sevilla,0.5,Shots,82,2023-05-27
+790,Lucas Vazquez,Sevilla,0.5,Shots,82,2023-05-27
+791,Lance Stroll,Monaco GP,3.0,1st Pit Stop Time (sec),125,2023-05-28
+792,Arcitys,NY Subliners,19.5,MAP 1 Kills,145,2023-05-26
+793,Thibaut Courtois,Sevilla,3.0,Goalie Saves,82,2023-05-27
+794,Vinicius Junior,Sevilla,2.0,Shots Assisted,82,2023-05-27
+795,Antonio Rudiger,Sevilla,2.5,Clearances,82,2023-05-27
+796,Ferland Mendy,Sevilla,0.5,Clearances,82,2023-05-27
+797,Lucas Vazquez,Sevilla,2.0,Tackles,82,2023-05-27
+798,Rafa Mir,Real Madrid,2.5,Shots,82,2023-05-27
+799,Loic Bade,Real Madrid,4.0,Clearances,82,2023-05-27
+800,Erik Lamela,Real Madrid,2.0,Tackles,82,2023-05-27
+801,Ivan Rakitic,Real Madrid,1.5,Tackles,82,2023-05-27
+802,Karim Benzema,Sevilla,3.5,Shots,82,2023-05-27
+803,Erik Lamela,Real Madrid,2.0,Shots,82,2023-05-27
+804,Matthew Wolff,Louis Oosthuizen,0.0,Birdies or Better Matchup,228,2023-05-26
+805,Vinicius Junior,Sevilla,2.0,Shots,82,2023-05-27
+806,Eduardo Camavinga,Sevilla,2.5,Tackles,82,2023-05-27
+807,Suso,Real Madrid,1.5,Shots,82,2023-05-27
+808,Shotzzy,LA Thieves,56.5,MAPS 1-3 Kills,145,2023-05-26
+809,Ty Gibbs,Charlotte - Coca Cola 600,26.5,NASCAR Points,4,2023-05-28
+810,Shotzzy,LA Thieves,7.0,MAP 5 Kills,145,2023-05-26
+811,Shotzzy,LA Thieves,24.5,MAP 4 Kills,145,2023-05-26
+812,Carlos Ortiz,Sebastian Munoz,0.0,Birdies or Better Matchup,228,2023-05-26
+813,Shotzzy,LA Thieves,7.0,MAP 2 Kills,145,2023-05-26
+814,Valtteri Bottas,Monaco GP,3.25,1st Pit Stop Time (sec),125,2023-05-28
+815,Brad Crouch,Hawthorn,25.5,Disposals,165,2023-05-26
+816,Shotzzy,LA Thieves,24.5,MAP 3 Kills,145,2023-05-26
+817,ANGE1,FUT Esports (MAP 3 Kills),13.5,MAP 3 Kills,159,2023-05-26
+818,ANGE1,FUT Esports (MAPS 1-2 Kills),27.0,MAPS 1-2 Kills,159,2023-05-26
+819,Shotzzy,LA Thieves,24.5,MAP 1 Kills,145,2023-05-26
+820,Adrien Thomasson,AC Ajaccio,1.5,Shots,82,2023-05-27
+821,Deiver Machado,AC Ajaccio,0.5,Shots,82,2023-05-27
+822,Jonathan Gradit,AC Ajaccio,73.5,Passes Attempted,82,2023-05-27
+823,Adrien Thomasson,AC Ajaccio,0.5,Shots On Target,82,2023-05-27
+824,Kevin Spadanuda,RC Lens,0.5,Crosses,82,2023-05-27
+825,Salis Abdul Samed,AC Ajaccio,64.5,Passes Attempted,82,2023-05-27
+826,Warmed Omari,AS Monaco,65.5,Passes Attempted,82,2023-05-27
+827,Folarin Balogun,Lyon,1.0,Shots Assisted,82,2023-05-27
+828,Sael Kumbedi,Stade de Reims,0.5,Clearances,82,2023-05-27
+829,Maxence Caqueret,Stade de Reims,1.5,Shots Assisted,82,2023-05-27
+830,Kaj Sierhuis,Lyon,1.5,Shots,82,2023-05-27
+831,Alexis Flips,Lyon,1.5,Shots,82,2023-05-27
+832,Adrien Thomasson,AC Ajaccio,1.5,Tackles,82,2023-05-27
+833,Dion Lopy,Lyon,37.5,Passes Attempted,82,2023-05-27
+834,Rayan Cherki,Stade de Reims,3.0,Crosses,82,2023-05-27
+835,Alexandre Lacazette,Stade de Reims,3.5,Shots,82,2023-05-27
+836,Alexandre Lacazette,Stade de Reims,27.5,Passes Attempted,82,2023-05-27
+837,Alexandre Lacazette,Stade de Reims,1.5,Shots On Target,82,2023-05-27
+838,Marshall Munetsi,Lyon,2.0,Shots,82,2023-05-27
+839,Castello Lukeba,Stade de Reims,65.5,Passes Attempted,82,2023-05-27
+840,Corentin Tolisso,Stade de Reims,1.5,Shots,82,2023-05-27
+841,Nicolas Tagliafico,Stade de Reims,0.5,Shots,82,2023-05-27
+842,Corentin Tolisso,Stade de Reims,1.5,Tackles,82,2023-05-27
+843,Junya Ito,Lyon,6.5,Crosses,82,2023-05-27
+844,Thomas Foket,Lyon,1.5,Tackles,82,2023-05-27
+845,Sinaly Diomande,Stade de Reims,3.0,Clearances,82,2023-05-27
+846,Yunis Abdelhamid,Lyon,3.5,Clearances,82,2023-05-27
+847,Folarin Balogun,Lyon,2.5,Shots,82,2023-05-27
+848,Marshall Munetsi,Lyon,2.0,Tackles,82,2023-05-27
+849,Yehvann Diouf,Lyon,3.5,Goalie Saves,82,2023-05-27
+850,Nicolas Tagliafico,Stade de Reims,2.5,Tackles,82,2023-05-27
+851,Bradley Barcola,Stade de Reims,2.0,Shots,82,2023-05-27
+852,Anthony Lopes,Stade de Reims,2.5,Goalie Saves,82,2023-05-27
+853,Rayan Cherki,Stade de Reims,2.5,Shots,82,2023-05-27
+854,Bradley Barcola,Stade de Reims,0.5,Shots On Target,82,2023-05-27
+855,Maxence Caqueret,Stade de Reims,0.5,Shots,82,2023-05-27
+856,Emmanuel Agbadou,Lyon,4.0,Clearances,82,2023-05-27
+857,Amine Gouiri,AS Monaco,1.0,Shots Assisted,82,2023-05-27
+858,Lovro Majer,AS Monaco,1.5,Tackles,82,2023-05-27
+859,Alban Lafont,Lille OSC,4.0,Goalie Saves,82,2023-05-27
+860,Gerzino Nyamsi,Paris Saint-Germain,3.5,Clearances,82,2023-05-27
+861,Jordan Ferri,OGC Nice,53.5,Passes Attempted,82,2023-05-27
+862,Jean-Clair Todibo,Montpellier,67.5,Passes Attempted,82,2023-05-27
+863,Juan Bernat,Strasbourg,1.5,Tackles,82,2023-05-27
+864,Kylian Mbappe,Strasbourg,2.5,Shots On Target,82,2023-05-27
+865,Huke,LA Thieves,23.5,MAP 1 Kills,145,2023-05-26
+866,Kylian Mbappe,Strasbourg,1.5,Shots Assisted,82,2023-05-27
+867,Marco Verratti,Strasbourg,1.5,Shots Assisted,82,2023-05-27
+868,Fabian Ruiz,Strasbourg,1.0,Shots Assisted,82,2023-05-27
+869,Marquinhos,Strasbourg,0.5,Shots,82,2023-05-27
+870,Danilo Pereira,Strasbourg,0.5,Shots,82,2023-05-27
+871,Samuel Moutoussamy,Lille OSC,2.0,Tackles,82,2023-05-27
+872,Remy Cabella,FC Nantes,1.5,Shots,82,2023-05-27
+873,Bafode Diakite,FC Nantes,1.5,Clearances,82,2023-05-27
+874,Ismaily,FC Nantes,2.0,Tackles,82,2023-05-27
+875,Jonathan Bamba,FC Nantes,1.5,Shots Assisted,82,2023-05-27
+876,Jonathan Bamba,FC Nantes,0.5,Shots On Target,82,2023-05-27
+877,Alexsandro Ribeiro,FC Nantes,71.5,Passes Attempted,82,2023-05-27
+878,Bafode Diakite,FC Nantes,0.5,Shots,82,2023-05-27
+879,Marco Verratti,Strasbourg,104.5,Passes Attempted,82,2023-05-27
+880,Lucas Chevalier,FC Nantes,2.0,Goalie Saves,82,2023-05-27
+881,Benjamin Andre,FC Nantes,3.5,Tackles,82,2023-05-27
+882,Christiaan Bezuidenhout,Austin Smotherman,0.0,Birdies or Better Matchup,1,2023-05-26
+883,Jonathan David,FC Nantes,24.5,Passes Attempted,82,2023-05-27
+884,Moses Simon,Lille OSC,1.5,Shots Assisted,82,2023-05-27
+885,Jonathan David,FC Nantes,3.0,Shots,82,2023-05-27
+886,Ludovic Blas,Lille OSC,4.0,Crosses,82,2023-05-27
+887,Remy Cabella,FC Nantes,7.0,Crosses,82,2023-05-27
+888,Remy Cabella,FC Nantes,0.5,Shots On Target,82,2023-05-27
+889,Huke,LA Thieves,23.5,MAP 3 Kills,145,2023-05-26
+890,Jonathan Bamba,FC Nantes,2.0,Shots,82,2023-05-27
+891,Huke,LA Thieves,52.5,MAPS 1-3 Kills,145,2023-05-26
+892,Zhou Guanyu,Monaco GP,3.4,1st Pit Stop Time (sec),125,2023-05-28
+893,Hugo Ekitike,Strasbourg,1.5,Shots,82,2023-05-27
+894,Benjamin Andre,FC Nantes,0.5,Shots,82,2023-05-27
+895,Ismaily,FC Nantes,0.5,Shots,82,2023-05-27
+896,Ludovic Blas,Lille OSC,2.0,Shots,82,2023-05-27
+897,Quentin Merlin,Lille OSC,1.5,Tackles,82,2023-05-27
+898,Andy Delort,Lille OSC,1.5,Shots,82,2023-05-27
+899,Jose Fonte,FC Nantes,3.5,Clearances,82,2023-05-27
+900,Andrei Girotto,Lille OSC,5.0,Clearances,82,2023-05-27
+901,Fabien Centonze,Lille OSC,30.5,Passes Attempted,82,2023-05-27
+902,Jean-Charles Castelletto,Lille OSC,3.0,Clearances,82,2023-05-27
+903,Lionel Messi,Strasbourg,3.5,Shots,82,2023-05-27
+904,Gianluigi Donnarumma,Strasbourg,2.5,Goalie Saves,82,2023-05-27
+905,Sergio Ramos,Strasbourg,0.5,Shots,82,2023-05-27
+906,Huke,LA Thieves,7.0,MAP 5 Kills,145,2023-05-26
+907,Morgan Sanson,Paris Saint-Germain,1.0,Shots Assisted,82,2023-05-27
+908,Frederic Guilbert,Paris Saint-Germain,0.5,Shots Assisted,82,2023-05-27
+909,Huke,LA Thieves,7.0,MAP 2 Kills,145,2023-05-26
+910,Huke,LA Thieves,23.5,MAP 4 Kills,145,2023-05-26
+911,Habib Diallo,Paris Saint-Germain,15.5,Passes Attempted,82,2023-05-27
+912,Gerzino Nyamsi,Paris Saint-Germain,37.5,Passes Attempted,82,2023-05-27
+913,Yunis Abdelhamid,Lyon,46.5,Passes Attempted,82,2023-05-27
+914,Benjamin Bourigeaud,AS Monaco,0.5,Shots On Target,82,2023-05-27
+915,Lionel Messi,Strasbourg,1.5,Shots On Target,82,2023-05-27
+916,Habib Diallo,Paris Saint-Germain,2.0,Shots,82,2023-05-27
+917,Kevin Gameiro,Paris Saint-Germain,1.5,Shots,82,2023-05-27
+918,Baptiste Santamaria,AS Monaco,60.5,Passes Attempted,82,2023-05-27
+919,Youssouf Fofana,Stade Rennais,2.0,Tackles,82,2023-05-27
+920,Matz Sels,Paris Saint-Germain,4.0,Goalie Saves,82,2023-05-27
+921,Will Day,St Kilda,27.5,Disposals,165,2023-05-26
+922,Nicolas Pallois,Lille OSC,32.5,Passes Attempted,82,2023-05-27
+923,Gerzino Nyamsi,Paris Saint-Germain,1.5,Tackles,82,2023-05-27
+924,Lucas Perrin,Paris Saint-Germain,2.0,Tackles,82,2023-05-27
+925,Ismael Doukoure,Paris Saint-Germain,1.5,Tackles,82,2023-05-27
+926,Takumi Minamino,Stade Rennais,1.5,Shots,82,2023-05-27
+927,Fabian Ruiz,Strasbourg,2.0,Tackles,82,2023-05-27
+928,Kylian Mbappe,Strasbourg,4.5,Shots,82,2023-05-27
+929,Takumi Minamino,Stade Rennais,0.5,Shots On Target,82,2023-05-27
+930,Caio Henrique,Stade Rennais,2.0,Tackles,82,2023-05-27
+931,Eliot Matazo,Stade Rennais,1.5,Tackles,82,2023-05-27
+932,Axel Disasi,Stade Rennais,3.0,Clearances,82,2023-05-27
+933,Caio Henrique,Stade Rennais,43.5,Passes Attempted,82,2023-05-27
+934,Youssouf Fofana,Stade Rennais,1.0,Shots Assisted,82,2023-05-27
+935,Aleksandr Golovin,Stade Rennais,3.5,Crosses,82,2023-05-27
+936,Aleksandr Golovin,Stade Rennais,28.5,Passes Attempted,82,2023-05-27
+937,Breel Embolo,Stade Rennais,1.5,Shots,82,2023-05-27
+938,Benjamin Bourigeaud,AS Monaco,2.0,Shots,82,2023-05-27
+939,Benjamin Bourigeaud,AS Monaco,2.5,Shots Assisted,82,2023-05-27
+940,Aleksandr Golovin,Stade Rennais,1.5,Shots Assisted,82,2023-05-27
+941,Arthur Theate,AS Monaco,3.0,Clearances,82,2023-05-27
+942,Arnaud Kalimuendo,AS Monaco,0.5,Shots On Target,82,2023-05-27
+943,Hamari Traore,AS Monaco,2.0,Clearances,82,2023-05-27
+944,Karl Toko Ekambi,AS Monaco,1.0,Shots Assisted,82,2023-05-27
+945,Arnaud Kalimuendo,AS Monaco,0.5,Shots Assisted,82,2023-05-27
+946,Benjamin Bourigeaud,AS Monaco,5.5,Crosses,82,2023-05-27
+947,Karl Toko Ekambi,AS Monaco,2.0,Shots,82,2023-05-27
+948,Arnaud Kalimuendo,AS Monaco,2.0,Shots,82,2023-05-27
+949,Breel Embolo,Stade Rennais,0.5,Shots On Target,82,2023-05-27
+950,Steve Mandanda,AS Monaco,2.5,Goalie Saves,82,2023-05-27
+951,Jeremy Doku,AS Monaco,1.5,Shots,82,2023-05-27
+952,Warmed Omari,AS Monaco,2.5,Clearances,82,2023-05-27
+953,Alexander Nubel,Stade Rennais,3.5,Goalie Saves,82,2023-05-27
+954,Amine Gouiri,AS Monaco,2.0,Shots,82,2023-05-27
+955,Wissam Ben Yedder,Stade Rennais,2.0,Shots,82,2023-05-27
+956,Baptiste Santamaria,AS Monaco,0.5,Shots,82,2023-05-27
+957,Hamari Traore,AS Monaco,0.5,Shots,82,2023-05-27
+958,Arthur Theate,AS Monaco,0.5,Shots,82,2023-05-27
+959,Marco Bizot,Marseille,4.0,Goalie Saves,82,2023-05-27
+960,Steve Mounie,Marseille,2.0,Shots,82,2023-05-27
+961,Frederic Guilbert,Paris Saint-Germain,2.5,Tackles,82,2023-05-27
+962,Brendan Chardonnet,Marseille,1.5,Tackles,82,2023-05-27
+963,Lilian Brassier,Marseille,1.0,Tackles,82,2023-05-27
+964,Pierre Lees Melou,Marseille,2.5,Tackles,82,2023-05-27
+965,Jean-Kevin Duverne,Marseille,2.0,Tackles,82,2023-05-27
+966,Lilian Brassier,Marseille,3.5,Clearances,82,2023-05-27
+967,Kenny Lala,Marseille,2.5,Tackles,82,2023-05-27
+968,Brendan Chardonnet,Marseille,4.0,Clearances,82,2023-05-27
+969,Franck Honorat,Marseille,2.0,Shots Assisted,82,2023-05-27
+970,Kenny Lala,Marseille,2.5,Crosses,82,2023-05-27
+971,Lilian Brassier,Marseille,39.5,Passes Attempted,82,2023-05-27
+972,Jeremy Le Douaron,Marseille,14.5,Passes Attempted,82,2023-05-27
+973,Romain Del Castillo,Marseille,1.5,Shots Assisted,82,2023-05-27
+974,Aleksandr Golovin,Stade Rennais,2.0,Tackles,82,2023-05-27
+975,Kylian Mbappe,Strasbourg,46.5,Passes Attempted,82,2023-05-27
+976,Lionel Messi,Strasbourg,64.5,Passes Attempted,82,2023-05-27
+977,Kylian Mbappe,Strasbourg,1.5,Crosses,82,2023-05-27
+978,Lionel Messi,Strasbourg,3.0,Shots Assisted,82,2023-05-27
+979,Marquinhos,Strasbourg,2.5,Clearances,82,2023-05-27
+980,Sebastian Munoz,Branden Grace,0.0,Birdies or Better Matchup,228,2023-05-26
+981,Sergio Ramos,Strasbourg,3.0,Clearances,82,2023-05-27
+982,Marquinhos,Strasbourg,1.0,Tackles,82,2023-05-27
+983,Danilo Pereira,Strasbourg,2.5,Clearances,82,2023-05-27
+984,Benjamin Leroy,RC Lens,4.0,Goalie Saves,82,2023-05-27
+985,Brice Samba,AC Ajaccio,2.0,Goalie Saves,82,2023-05-27
+986,Sergio Ramos,Strasbourg,1.0,Tackles,82,2023-05-27
+987,Danilo Pereira,Strasbourg,0.5,Tackles,82,2023-05-27
+988,Pablo Rosario,Montpellier,1.5,Tackles,82,2023-05-27
+989,Jordan Ferri,OGC Nice,1.5,Tackles,82,2023-05-27
+990,Terem Moffi,Montpellier,1.0,Shots Assisted,82,2023-05-27
+991,Jordan Lotomba,Montpellier,1.5,Tackles,82,2023-05-27
+992,Hicham Boudaoui,Montpellier,2.0,Tackles,82,2023-05-27
+993,Jordan Lotomba,Montpellier,1.5,Clearances,82,2023-05-27
+994,Dante,Montpellier,3.0,Clearances,82,2023-05-27
+995,Faitout Maouassa,OGC Nice,2.5,Crosses,82,2023-05-27
+996,Faitout Maouassa,OGC Nice,1.5,Tackles,82,2023-05-27
+997,Teji Savanier,OGC Nice,43.5,Passes Attempted,82,2023-05-27
+998,Terem Moffi,Montpellier,2.5,Shots,82,2023-05-27
+999,Gaetan Laborde,Montpellier,2.0,Shots,82,2023-05-27
+1000,Terem Moffi,Montpellier,15.5,Passes Attempted,82,2023-05-27
+1001,Gaetan Laborde,Montpellier,3.5,Crosses,82,2023-05-27
+1002,Kasper Schmeichel,Montpellier,3.0,Goalie Saves,82,2023-05-27
+1003,Arnaud Nordin,OGC Nice,2.0,Shots,82,2023-05-27
+1004,Teji Savanier,OGC Nice,2.0,Shots,82,2023-05-27
+1005,Arnaud Nordin,OGC Nice,0.5,Shots On Target,82,2023-05-27
+1006,Benjamin Lecomte,OGC Nice,3.0,Goalie Saves,82,2023-05-27
+1007,Dante,Montpellier,1.5,Tackles,82,2023-05-27
+1008,Jean-Clair Todibo,Montpellier,3.0,Clearances,82,2023-05-27
+1009,Arnaud Nordin,OGC Nice,0.5,Shots Assisted,82,2023-05-27
+1010,Wahbi Khazri,OGC Nice,0.5,Shots On Target,82,2023-05-27
+1011,Wahbi Khazri,OGC Nice,2.0,Shots,82,2023-05-27
+1012,Jean-Clair Todibo,Montpellier,2.0,Tackles,82,2023-05-27
+1013,Marco Verratti,Strasbourg,2.0,Tackles,82,2023-05-27
+1014,Lionel Messi,Strasbourg,3.5,Crosses,82,2023-05-27
+1015,Facundo Medina,AC Ajaccio,2.0,Clearances,82,2023-05-27
+1016,Kevin Danso,AC Ajaccio,3.0,Clearances,82,2023-05-27
+1017,Deiver Machado,AC Ajaccio,1.5,Tackles,82,2023-05-27
+1018,Oumar Gonzalez,RC Lens,3.0,Clearances,82,2023-05-27
+1019,Mathieu Coutadeur,RC Lens,0.5,Clearances,82,2023-05-27
+1020,Lois Openda,AC Ajaccio,1.5,Shots On Target,82,2023-05-27
+1021,Clement Vidal,RC Lens,27.5,Passes Attempted,82,2023-05-27
+1022,Mickael Barreto,RC Lens,34.5,Passes Attempted,82,2023-05-27
+1023,Lois Openda,AC Ajaccio,4.0,Shots,82,2023-05-27
+1024,Ludovic Blas,Lille OSC,0.5,Shots On Target,82,2023-05-27
+1025,Seko Fofana,AC Ajaccio,1.0,Shots Assisted,82,2023-05-27
+1026,Florian Sotoca,AC Ajaccio,0.5,Shots On Target,82,2023-05-27
+1027,Facundo Medina,AC Ajaccio,0.5,Shots,82,2023-05-27
+1028,Mickael Barreto,RC Lens,1.5,Tackles,82,2023-05-27
+1029,Deiver Machado,AC Ajaccio,2.5,Crosses,82,2023-05-27
+1030,Florian Sotoca,AC Ajaccio,1.5,Shots Assisted,82,2023-05-27
+1031,Florian Sotoca,AC Ajaccio,2.0,Shots,82,2023-05-27
+1032,Seko Fofana,AC Ajaccio,2.5,Shots,82,2023-05-27
+1033,Dashy,LA Thieves,22.5,MAP 4 Kills,145,2023-05-26
+1034,Jack Sinclair,Hawthorn,28.5,Disposals,165,2023-05-26
+1035,Dashy,LA Thieves,22.5,MAP 1 Kills,145,2023-05-26
+1036,Dashy,LA Thieves,6.5,MAP 2 Kills,145,2023-05-26
+1037,Dashy,LA Thieves,22.5,MAP 3 Kills,145,2023-05-26
+1038,Thomas Pieters,Abraham Ancer,0.0,Birdies or Better Matchup,228,2023-05-26
+1039,Dashy,LA Thieves,6.5,MAP 5 Kills,145,2023-05-26
+1040,Nico Hulkenberg,Monaco GP,3.45,1st Pit Stop Time (sec),125,2023-05-28
+1041,Dashy,LA Thieves,52.5,MAPS 1-3 Kills,145,2023-05-26
+1042,Scottie Scheffler,RD2,16.5,Pars Or Better,1,2023-05-26
+1043,Kyoung-Hoon Lee,RD2,11.5,Greens In Regulation,1,2023-05-26
+1044,Ghosty,LA Thieves,21.5,MAP 4 Kills,145,2023-05-26
+1045,Ghosty,LA Thieves,6.5,MAP 5 Kills,145,2023-05-26
+1046,Harold Varner III,Thomas Pieters,0.0,Birdies or Better Matchup,228,2023-05-26
+1047,Conor Nash,St Kilda,26.5,Disposals,165,2023-05-26
+1048,Ghosty,LA Thieves,21.5,MAP 1 Kills,145,2023-05-26
+1049,aspas,Evil Geniuses (MAP 3 Kills),19.0,MAP 3 Kills,159,2023-05-26
+1050,aspas,Evil Geniuses (MAPS 1-2 Kills),38.0,MAPS 1-2 Kills,159,2023-05-26
+1051,Rickie Fowler,RD2,11.0,Greens In Regulation,1,2023-05-26
+1052,Ghosty,LA Thieves,21.5,MAP 3 Kills,145,2023-05-26
+1053,Ghosty,LA Thieves,6.5,MAP 2 Kills,145,2023-05-26
+1054,Ghosty,LA Thieves,50.5,MAPS 1-3 Kills,145,2023-05-26
+1055,Kevin Magnussen,Monaco GP,3.35,1st Pit Stop Time (sec),125,2023-05-28
+1056,Tom Hoge,Maverick McNealy,0.0,Birdies or Better Matchup,1,2023-05-26
+1057,Octane,OpTic TEX,6.0,MAP 2 Kills,145,2023-05-26
+1058,Joey Wentz,CWS 1+2 Innings,1.5,Pitcher Strikeouts,231,2023-05-26
+1059,Jack Steele,Hawthorn,25.5,Disposals,165,2023-05-26
+1060,Lance Lynn + Joey Wentz,DET/CWS,0.5,1st Inning Runs Allowed,2,2023-05-26
+1061,Lance Lynn,DET,6.5,Pitcher Strikeouts,2,2023-05-26
+1062,Andrew Benintendi,DET,1.5,Hits+Runs+RBIS,2,2023-05-26
+1063,Octane,OpTic TEX,22.5,MAP 4 Kills,145,2023-05-26
+1064,Lance Lynn,DET,99.5,Pitches Thrown,2,2023-05-26
+1065,Octane,OpTic TEX,22.5,MAP 1 Kills,145,2023-05-26
+1066,Luis Robert,DET,8.0,Hitter Fantasy Score,2,2023-05-26
+1067,Lance Lynn,DET 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1068,Chase Koepka,Sihwan Kim,0.0,Birdies or Better Matchup,228,2023-05-26
+1069,Octane,OpTic TEX,22.5,MAP 3 Kills,145,2023-05-26
+1070,Less,Evil Geniuses (MAP 3 Kills),17.0,MAP 3 Kills,159,2023-05-26
+1071,Christiaan Bezuidenhout,RD2,11.0,Greens In Regulation,1,2023-05-26
+1072,Octane,OpTic TEX,6.0,MAP 5 Kills,145,2023-05-26
+1073,Octane,OpTic TEX,52.5,MAPS 1-3 Kills,145,2023-05-26
+1074,Less,Evil Geniuses (MAPS 1-2 Kills),34.5,MAPS 1-2 Kills,159,2023-05-26
+1075,Drazah,OpTic TEX,51.5,MAPS 1-3 Kills,145,2023-05-26
+1076,Drazah,OpTic TEX,6.5,MAP 5 Kills,145,2023-05-26
+1077,Drazah,OpTic TEX,23.5,MAP 4 Kills,145,2023-05-26
+1078,Drazah,OpTic TEX,23.5,MAP 3 Kills,145,2023-05-26
+1079,Drazah,OpTic TEX,6.5,MAP 2 Kills,145,2023-05-26
+1080,Lance Lynn,DET 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1081,cauanzin,Evil Geniuses (MAPS 1-2 Kills),29.0,MAPS 1-2 Kills,159,2023-05-26
+1082,Riley Greene,CWS,7.0,Hitter Fantasy Score,2,2023-05-26
+1083,Drazah,OpTic TEX,23.5,MAP 1 Kills,145,2023-05-26
+1084,James Sicily,St Kilda,26.0,Disposals,165,2023-05-26
+1085,Sebastian Munoz,Anirban Lahiri,0.0,Birdies or Better Matchup,228,2023-05-26
+1086,Joey Wentz,CWS 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1087,cauanzin,Evil Geniuses (MAP 3 Kills),14.5,MAP 3 Kills,159,2023-05-26
+1088,Hanser Alberto,DET,1.5,Hits+Runs+RBIS,2,2023-05-26
+1089,Joey Wentz,CWS,4.0,Pitcher Strikeouts,2,2023-05-26
+1090,Kenny,OpTic TEX,22.5,MAP 3 Kills,145,2023-05-26
+1091,Kenny,OpTic TEX,22.5,MAP 4 Kills,145,2023-05-26
+1092,Jake Rogers,CWS,0.5,Hits+Runs+RBIS,2,2023-05-26
+1093,Kenny,OpTic TEX,50.5,MAPS 1-3 Kills,145,2023-05-26
+1094,Andrew Vaughn,DET,1.5,Total Bases,2,2023-05-26
+1095,Henrik Stenson,Pat Perez,0.0,Birdies or Better Matchup,228,2023-05-26
+1096,Kenny,OpTic TEX,6.5,MAP 5 Kills,145,2023-05-26
+1097,Kenny,OpTic TEX,22.5,MAP 1 Kills,145,2023-05-26
+1098,Kenny,OpTic TEX,6.5,MAP 2 Kills,145,2023-05-26
+1099,tuyz,Evil Geniuses (MAPS 1-2 Kills),24.5,MAPS 1-2 Kills,159,2023-05-26
+1100,Kyoung-Hoon Lee,Sam Ryder,0.0,Birdies or Better Matchup,1,2023-05-26
+1101,tuyz,Evil Geniuses (MAP 3 Kills),12.0,MAP 3 Kills,159,2023-05-26
+1102,Envoy,OpTic TEX,23.5,MAP 4 Kills,145,2023-05-26
+1103,Demon1,LOUD (MAPS 1-2 Kills),33.5,MAPS 1-2 Kills,159,2023-05-26
+1104,Demon1,LOUD (MAP 3 Kills),16.5,MAP 3 Kills,159,2023-05-26
+1105,Cameron Tringale,Brendan Steele,0.0,Birdies or Better Matchup,228,2023-05-26
+1106,Envoy,OpTic TEX,23.5,MAP 3 Kills,145,2023-05-26
+1107,Envoy,OpTic TEX,7.0,MAP 5 Kills,145,2023-05-26
+1108,Jordan Spieth,RD2,15.5,Pars Or Better,1,2023-05-26
+1109,Nat Fyfe,Melbourne,0.5,Goals,165,2023-05-27
+1110,Envoy,OpTic TEX,7.0,MAP 2 Kills,145,2023-05-26
+1111,Nick Maton,CWS,0.5,Total Bases,2,2023-05-26
+1112,Envoy,OpTic TEX,53.5,MAPS 1-3 Kills,145,2023-05-26
+1113,Envoy,OpTic TEX,23.5,MAP 1 Kills,145,2023-05-26
+1114,Yoan Moncada,DET,1.5,Hits+Runs+RBIS,2,2023-05-26
+1115,Jye Amiss,Melbourne,1.5,Goals,165,2023-05-27
+1116,Boostio,LOUD (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-05-26
+1117,Sam Burns,RD2,15.5,Pars Or Better,1,2023-05-26
+1118,Pat Perez,Ian Poulter,0.0,Birdies or Better Matchup,228,2023-05-26
+1119,Tim Anderson,DET,1.5,Total Bases,2,2023-05-26
+1120,Zach McKinstry,CWS,1.5,Hits+Runs+RBIS,2,2023-05-26
+1121,Boostio,LOUD (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-05-26
+1122,Standy,SEA Surge,22.5,MAP 3 Kills,145,2023-05-26
+1123,Standy,SEA Surge,7.0,MAP 2 Kills,145,2023-05-26
+1124,Standy,SEA Surge,23.5,MAP 1 Kills,145,2023-05-26
+1125,Standy,SEA Surge,23.5,MAP 4 Kills,145,2023-05-26
+1126,Standy,SEA Surge,7.0,MAP 5 Kills,145,2023-05-26
+1127,Standy,SEA Surge,51.5,MAPS 1-3 Kills,145,2023-05-26
+1128,Lachie Schultz,Melbourne,1.5,Goals,165,2023-05-27
+1129,Clayster,SEA Surge,48.5,MAPS 1-3 Kills,145,2023-05-26
+1130,Clayster,SEA Surge,21.5,MAP 4 Kills,145,2023-05-26
+1131,Thomas Detry,S.H. Kim,0.0,Birdies or Better Matchup,1,2023-05-26
+1132,Clayster,SEA Surge,7.0,MAP 5 Kills,145,2023-05-26
+1133,Clayster,SEA Surge,20.5,MAP 3 Kills,145,2023-05-26
+1134,C0M,LOUD (MAPS 1-2 Kills),25.0,MAPS 1-2 Kills,159,2023-05-26
+1135,Clayster,SEA Surge,7.0,MAP 2 Kills,145,2023-05-26
+1136,Tim Anderson,DET,0.5,Runs,2,2023-05-26
+1137,Clayster,SEA Surge,21.5,MAP 1 Kills,145,2023-05-26
+1138,Kevin Na,Scott Vincent,0.0,Birdies or Better Matchup,228,2023-05-26
+1139,C0M,LOUD (MAP 3 Kills),12.5,MAP 3 Kills,159,2023-05-26
+1140,Temp,SEA Surge,6.5,MAP 2 Kills,145,2023-05-26
+1141,Temp,SEA Surge,49.5,MAPS 1-3 Kills,145,2023-05-26
+1142,Temp,SEA Surge,22.5,MAP 4 Kills,145,2023-05-26
+1143,Temp,SEA Surge,6.5,MAP 5 Kills,145,2023-05-26
+1144,Justin Rose,RD2,15.5,Pars Or Better,1,2023-05-26
+1145,Temp,SEA Surge,21.5,MAP 3 Kills,145,2023-05-26
+1146,Temp,SEA Surge,22.5,MAP 1 Kills,145,2023-05-26
+1147,jawgemo,LOUD (MAP 3 Kills),14.0,MAP 3 Kills,159,2023-05-26
+1148,jawgemo,LOUD (MAPS 1-2 Kills),28.5,MAPS 1-2 Kills,159,2023-05-26
+1149,Charl Schwartzel,Eugenio Lopez-Chacarra,0.0,Birdies or Better Matchup,228,2023-05-26
+1150,TJHaLy,SEA Surge,6.5,MAP 2 Kills,145,2023-05-26
+1151,TJHaLy,SEA Surge,21.5,MAP 4 Kills,145,2023-05-26
+1152,TJHaLy,SEA Surge,47.5,MAPS 1-3 Kills,145,2023-05-26
+1153,Graeme McDowell,Martin Kaymer,0.0,Birdies or Better Matchup,228,2023-05-26
+1154,Tommy Fleetwood,RD2,15.5,Pars Or Better,1,2023-05-26
+1155,Angus Brayshaw,Fremantle,26.0,Disposals,165,2023-05-27
+1156,TJHaLy,SEA Surge,20.5,MAP 3 Kills,145,2023-05-26
+1157,TJHaLy,SEA Surge,6.5,MAP 5 Kills,145,2023-05-26
+1158,TJHaLy,SEA Surge,21.5,MAP 1 Kills,145,2023-05-26
+1159,Pred,LV Legion,24.5,MAP 3 Kills,145,2023-05-26
+1160,Andy Ibanez,CWS,0.5,Hitter Strikeouts,2,2023-05-26
+1161,Pred,LV Legion,56.5,MAPS 1-3 Kills,145,2023-05-26
+1162,Pred,LV Legion,25.5,MAP 1 Kills,145,2023-05-26
+1163,Pred,LV Legion,7.5,MAP 2 Kills,145,2023-05-26
+1164,Pred,LV Legion,25.5,MAP 4 Kills,145,2023-05-26
+1165,Christian Petracca,Fremantle,29.0,Disposals,165,2023-05-27
+1166,Chris Kirk,RD2,15.5,Pars Or Better,1,2023-05-26
+1167,Lee Westwood,Bernd Wiesberger,0.0,Birdies or Better Matchup,228,2023-05-26
+1168,Pred,LV Legion,7.5,MAP 5 Kills,145,2023-05-26
+1169,Jack Viney,Fremantle,27.0,Disposals,165,2023-05-27
+1170,Rickie Fowler,RD2,15.5,Pars Or Better,1,2023-05-26
+1171,Sib,LV Legion,23.5,MAP 4 Kills,145,2023-05-26
+1172,Sib,LV Legion,22.5,MAP 3 Kills,145,2023-05-26
+1173,Victor,Cloud9 (MAPS 1-2 Kills),32.5,MAPS 1-2 Kills,159,2023-05-26
+1174,Sib,LV Legion,7.0,MAP 2 Kills,145,2023-05-26
+1175,Sib,LV Legion,23.5,MAP 1 Kills,145,2023-05-26
+1176,Sib,LV Legion,52.5,MAPS 1-3 Kills,145,2023-05-26
+1177,Victor,Cloud9 (MAP 3 Kills),16.0,MAP 3 Kills,159,2023-05-26
+1178,Martin Kaymer,Richard Bland,0.0,Birdies or Better Matchup,228,2023-05-26
+1179,Sib,LV Legion,7.0,MAP 5 Kills,145,2023-05-26
+1180,Accuracy,LV Legion,19.5,MAP 3 Kills,145,2023-05-26
+1181,Russell Henley,RD2,15.5,Pars Or Better,1,2023-05-26
+1182,Accuracy,LV Legion,46.5,MAPS 1-3 Kills,145,2023-05-26
+1183,s0m,Cloud9 (MAPS 1-2 Kills),32.5,MAPS 1-2 Kills,159,2023-05-26
+1184,Andrew Brayshaw,Melbourne,29.5,Disposals,165,2023-05-27
+1185,Accuracy,LV Legion,6.5,MAP 5 Kills,145,2023-05-26
+1186,Accuracy,LV Legion,6.5,MAP 2 Kills,145,2023-05-26
+1187,Accuracy,LV Legion,20.5,MAP 4 Kills,145,2023-05-26
+1188,s0m,Cloud9 (MAP 3 Kills),16.0,MAP 3 Kills,159,2023-05-26
+1189,Accuracy,LV Legion,20.5,MAP 1 Kills,145,2023-05-26
+1190,Charles Howell III,Peter Uihlein,0.0,Birdies or Better Matchup,228,2023-05-26
+1191,Jaeger O'Meara,Melbourne,23.5,Disposals,165,2023-05-27
+1192,crashies,Cloud9 (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-05-26
+1193,crashies,Cloud9 (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-05-26
+1194,Mack,LV Legion,21.5,MAP 1 Kills,145,2023-05-26
+1195,Mack,LV Legion,21.5,MAP 3 Kills,145,2023-05-26
+1196,Mack,LV Legion,47.5,MAPS 1-3 Kills,145,2023-05-26
+1197,Brian Harman,RD2,15.5,Pars Or Better,1,2023-05-26
+1198,Mack,LV Legion,6.5,MAP 5 Kills,145,2023-05-26
+1199,Mack,LV Legion,21.5,MAP 4 Kills,145,2023-05-26
+1200,Mack,LV Legion,6.5,MAP 2 Kills,145,2023-05-26
+1201,Caleb Serong,Melbourne,28.5,Disposals,165,2023-05-27
+1202,ardiis,Cloud9 (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-05-26
+1203,ardiis,Cloud9 (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-05-26
+1204,leaf,NRG (MAPS 1-2 Kills),36.5,MAPS 1-2 Kills,159,2023-05-26
+1205,leaf,NRG (MAP 3 Kills),18.0,MAP 3 Kills,159,2023-05-26
+1206,Xeppaa,NRG (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-05-26
+1207,Xeppaa,NRG (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-05-26
+1208,Christiaan Bezuidenhout,RD2,15.5,Pars Or Better,1,2023-05-26
+1209,jakee,NRG (MAP 3 Kills),14.0,MAP 3 Kills,159,2023-05-26
+1210,jakee,NRG (MAPS 1-2 Kills),28.5,MAPS 1-2 Kills,159,2023-05-26
+1211,Thomas Detry,RD2,15.5,Pars Or Better,1,2023-05-26
+1212,Zellsis,NRG (MAP 3 Kills),13.5,MAP 3 Kills,159,2023-05-26
+1213,Zellsis,NRG (MAPS 1-2 Kills),27.0,MAPS 1-2 Kills,159,2023-05-26
+1214,Joe Musgrove + Jalen Beeks,NYY/LAD,0.5,1st Inning Runs Allowed,2,2023-05-26
+1215,Noah Syndergaard + Randy Vasquez,TB/SD,0.5,1st Inning Runs Allowed,2,2023-05-26
+1216,Christian Bethancourt,LAD,1.5,Hits+Runs+RBIS,2,2023-05-26
+1217,Noah Syndergaard,TB,4.0,Pitcher Strikeouts,2,2023-05-26
+1218,Freddie Freeman,TB,8.5,Hitter Fantasy Score,2,2023-05-26
+1219,Noah Syndergaard,TB 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1220,Randy Arozarena,LAD,8.0,Hitter Fantasy Score,2,2023-05-26
+1221,Isaac Paredes,LAD,0.5,Hitter Strikeouts,2,2023-05-26
+1222,Jalen Beeks,LAD 1st Inning,16.5,Pitches Thrown,231,2023-05-26
+1223,Isaac Paredes,LAD,1.5,Hits+Runs+RBIS,2,2023-05-26
+1224,Josh Lowe,LAD,1.5,Hits+Runs+RBIS,2,2023-05-26
+1225,Mookie Betts,TB,8.5,Hitter Fantasy Score,2,2023-05-26
+1226,Wander Franco,LAD,0.5,Runs,2,2023-05-26
+1227,Wander Franco,LAD,8.0,Hitter Fantasy Score,2,2023-05-26
+1228,Yandy Diaz,LAD,0.5,Hitter Strikeouts,2,2023-05-26
+1229,Yandy Diaz,LAD,0.5,Runs,2,2023-05-26
+1230,Arike Ogunbowale,SEA,22.5,PTS,3,2023-05-26
+1231,Arike Ogunbowale,SEA,3.5,TRB,3,2023-05-26
+1232,Arike Ogunbowale,SEA,29.5,PTS+TRB+AST,3,2023-05-26
+1233,Arike Ogunbowale,SEA,26.5,PTS+TRB,3,2023-05-26
+1234,Arike Ogunbowale,SEA,7.0,TRB+AST,3,2023-05-26
+1235,Arike Ogunbowale,SEA,3.0,3P,3,2023-05-26
+1236,Arike Ogunbowale,SEA 1st Half,14.5,PTS+TRB+AST,193,2023-05-26
+1237,Arike Ogunbowale,SEA 1st Half,11.5,PTS,193,2023-05-26
+1238,Arike Ogunbowale,SEA,26.0,PTS+AST,3,2023-05-26
+1239,Jewell Loyd,DAL,7.0,TRB+AST,3,2023-05-26
+1240,Jewell Loyd,DAL,28.5,PTS+TRB+AST,3,2023-05-26
+1241,Jewell Loyd,DAL,2.5,3P,3,2023-05-26
+1242,Jewell Loyd,DAL,25.5,PTS+AST,3,2023-05-26
+1243,Jewell Loyd,DAL,24.5,PTS+TRB,3,2023-05-26
+1244,Jewell Loyd,DAL 1st Half,10.5,PTS,193,2023-05-26
+1245,Jewell Loyd,DAL 1st Half,14.5,PTS+TRB+AST,193,2023-05-26
+1246,Jewell Loyd,DAL,21.5,PTS,3,2023-05-26
+1247,Satou Sabally,SEA 1st Half,12.5,PTS+TRB+AST,193,2023-05-26
+1248,Satou Sabally,SEA 1st Half,7.5,PTS,193,2023-05-26
+1249,Satou Sabally,SEA,8.5,TRB+AST,3,2023-05-26
+1250,Satou Sabally,SEA,24.5,PTS+TRB+AST,3,2023-05-26
+1251,Satou Sabally,SEA,22.5,PTS+TRB,3,2023-05-26
+1252,Satou Sabally,SEA,15.5,PTS,3,2023-05-26
+1253,Satou Sabally,SEA,6.5,TRB,3,2023-05-26
+1254,Ezi Magbegor,DAL 1st Half,5.5,PTS,193,2023-05-26
+1255,Ezi Magbegor,DAL,17.5,PTS+TRB,3,2023-05-26
+1256,Ezi Magbegor,DAL 1st Half,9.5,PTS+TRB+AST,193,2023-05-26
+1257,Ezi Magbegor,DAL,10.5,PTS,3,2023-05-26
+1258,Ezi Magbegor,DAL,6.5,TRB,3,2023-05-26
+1259,Ezi Magbegor,DAL,18.5,PTS+TRB+AST,3,2023-05-26
+1260,Natasha Howard,SEA 1st Half,14.5,PTS+TRB+AST,193,2023-05-26
+1261,Natasha Howard,SEA,7.5,TRB,3,2023-05-26
+1262,Natasha Howard,SEA,25.5,PTS+TRB,3,2023-05-26
+1263,Natasha Howard,SEA,17.5,PTS,3,2023-05-26
+1264,Natasha Howard,SEA,10.5,TRB+AST,3,2023-05-26
+1265,Natasha Howard,SEA,28.5,PTS+TRB+AST,3,2023-05-26
+1266,Natasha Howard,SEA 1st Half,8.5,PTS,193,2023-05-26
+1267,Mercedes Russell,DAL,6.5,PTS,3,2023-05-26
+1268,Mercedes Russell,DAL 1st Half,7.5,PTS+TRB+AST,193,2023-05-26
+1269,Mercedes Russell,DAL 1st Half,3.0,PTS,193,2023-05-26
+1270,Mercedes Russell,DAL,7.0,TRB,3,2023-05-26
+1271,Mercedes Russell,DAL,15.5,PTS+TRB+AST,3,2023-05-26
+1272,Xander Bogaerts,NYY,1.5,Hits+Runs+RBIS,2,2023-05-26
+1273,Joe Musgrove,NYY,5.5,Pitcher Strikeouts,2,2023-05-26
+1274,Noah Syndergaard,TB 1st Inning,0.5,Pitcher Strikeouts,231,2023-05-26
+1275,Aaron Judge,SD,8.5,Hitter Fantasy Score,2,2023-05-26
+1276,Joe Musgrove,NYY 1+2 Innings,2.0,Pitcher Strikeouts,231,2023-05-26
+1277,Jon Gray,BAL 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1278,Joe Musgrove,NYY,95.5,Pitches Thrown,2,2023-05-26
+1279,DJ LeMahieu,SD,1.5,Hits+Runs+RBIS,2,2023-05-26
+1280,Fernando Tatis Jr.,NYY,8.5,Hitter Fantasy Score,2,2023-05-26
+1281,Grayson Rodriguez,TEX 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1282,Fernando Tatis Jr.,NYY,1.5,Total Bases,2,2023-05-26
+1283,Harrison Bader,SD,1.5,Hits+Runs+RBIS,2,2023-05-26
+1284,Kyle Higashioka,SD,0.5,Total Bases,2,2023-05-26
+1285,Anthony Rizzo,SD,6.5,Hitter Fantasy Score,2,2023-05-26
+1286,Jake Cronenworth,NYY,1.5,Hits+Runs+RBIS,2,2023-05-26
+1287,Juan Soto,NYY,8.0,Hitter Fantasy Score,2,2023-05-26
+1288,Juan Soto,NYY,0.5,Runs,2,2023-05-26
+1289,Jake Bauers,SD,0.5,Total Bases,2,2023-05-26
+1290,Aaron Judge,SD,0.5,Runs,2,2023-05-26
+1291,Fernando Tatis Jr.,NYY,0.5,Runs,2,2023-05-26
+1292,Isiah Kiner-Falefa,SD,0.5,Hitter Strikeouts,2,2023-05-26
+1293,Austin Hays,TEX,1.5,Hits+Runs+RBIS,2,2023-05-26
+1294,Grayson Rodriguez + Jon Gray,TEX/BAL,0.5,1st Inning Runs Allowed,2,2023-05-26
+1295,Grayson Rodriguez + Jon Gray,TEX/BAL,10.5,Pitcher Strikeouts,2,2023-05-26
+1296,Grayson Rodriguez,TEX 1+2 Innings,2.0,Pitcher Strikeouts,231,2023-05-26
+1297,Corey Seager,BAL,7.5,Hitter Fantasy Score,2,2023-05-26
+1298,Jon Gray,BAL,4.5,Pitcher Strikeouts,2,2023-05-26
+1299,Joe Musgrove,NYY 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1300,Grayson Rodriguez + Jon Gray,TEX/BAL,1.5,1st Inning Hits Allowed,2,2023-05-26
+1301,Jon Gray,BAL,93.5,Pitches Thrown,2,2023-05-26
+1302,Josh Smith,BAL,0.5,Total Bases,2,2023-05-26
+1303,Nathaniel Lowe,BAL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1304,Grayson Rodriguez,TEX,90.5,Pitches Thrown,2,2023-05-26
+1305,Jon Gray,BAL 1+2+3 Innings,2.5,Pitcher Strikeouts,231,2023-05-26
+1306,Grayson Rodriguez,TEX,5.5,Pitcher Strikeouts,2,2023-05-26
+1307,Adley Rutschman,TEX,6.5,Hitter Fantasy Score,2,2023-05-26
+1308,Adley Rutschman,TEX,0.5,Runs,2,2023-05-26
+1309,Marcus Semien,BAL,8.5,Hitter Fantasy Score,2,2023-05-26
+1310,Adley Rutschman,TEX,0.5,Hitter Strikeouts,2,2023-05-26
+1311,Cedric Mullins,TEX,7.5,Hitter Fantasy Score,2,2023-05-26
+1312,Cedric Mullins,TEX,0.5,Runs,2,2023-05-26
+1313,Marcus Semien,BAL,0.5,Runs,2,2023-05-26
+1314,Adolis Garcia,BAL,7.5,Hitter Fantasy Score,2,2023-05-26
+1315,Jared Shuster + Shane Bieber,PHI/STL,0.5,1st Inning Runs Allowed,2,2023-05-26
+1316,Shane Bieber,STL,5.0,Pitcher Strikeouts,2,2023-05-26
+1317,Paul Goldschmidt,CLE,7.0,Hitter Fantasy Score,2,2023-05-26
+1318,Justin Jefferson,2023 MIN,1450.5,Receiving Yards,163,2023-09-07
+1319,Scottie Scheffler,Colonial Country Club RD 2,67.5,Strokes,1,2023-05-26
+1320,Shane Bieber,STL 1st Inning,15.0,Pitches Thrown,231,2023-05-26
+1321,Patrick Mahomes,2023 KC,4800.5,Pass Yards,163,2023-09-07
+1322,Scottie Scheffler,Colonial Country Club RD 2,4.0,Birdies Or Better,1,2023-05-26
+1323,Shane Bieber,STL,96.5,Pitches Thrown,2,2023-05-26
+1324,Alec Burleson,CLE,1.5,Hits+Runs+RBIS,2,2023-05-26
+1325,Derrick Henry,2023 TEN,1275.5,Rush Yards,163,2023-09-07
+1326,Shane Bieber,STL 1+2+3 Innings,2.5,Pitcher Strikeouts,231,2023-05-26
+1327,Tyreek Hill,2023 MIA,1299.5,Receiving Yards,163,2023-09-07
+1328,Josh Allen,2023 BUF,4375.5,Pass Yards,163,2023-09-07
+1329,Andres Gimenez,STL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1330,Matthew Liberatore,CLE 1+2 Innings,1.5,Pitcher Strikeouts,231,2023-05-26
+1331,Jose Ramirez,STL,7.5,Hitter Fantasy Score,2,2023-05-26
+1332,Matthew Liberatore,CLE,4.0,Pitcher Strikeouts,2,2023-05-26
+1333,Jonathan Taylor,2023 IND,1300.5,Rush Yards,163,2023-09-07
+1334,Matthew Liberatore,CLE 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1335,Mike Zunino,STL,0.5,Total Bases,2,2023-05-26
+1336,Nolan Arenado,CLE,6.5,Hitter Fantasy Score,2,2023-05-26
+1337,Ja'Marr Chase,2023 CIN,1325.5,Receiving Yards,163,2023-09-07
+1338,Joe Burrow,2023 CIN,4500.5,Pass Yards,163,2023-09-07
+1339,Brendan Donovan,CLE,1.5,Hits+Runs+RBIS,2,2023-05-26
+1340,Nick Chubb,2023 CLE,1275.5,Rush Yards,163,2023-09-07
+1341,Josh Bell,STL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1342,Steven Kwan,STL,6.5,Hitter Fantasy Score,2,2023-05-26
+1343,Justin Herbert,2023 LAC,4725.5,Pass Yards,163,2023-09-07
+1344,Travis Kelce,2023 KC,1150.5,Receiving Yards,163,2023-09-07
+1345,Travis Etienne Jr.,2023 JAX,1125.5,Rush Yards,163,2023-09-07
+1346,Trevor Lawrence,2023 JAX,4175.5,Pass Yards,163,2023-09-07
+1347,Stefon Diggs,2023 BUF,1225.5,Receiving Yards,163,2023-09-07
+1348,Josh Naylor,STL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1349,Jordan Spieth,Colonial Country Club RD 2,3.5,Birdies Or Better,1,2023-05-26
+1350,Nolan Gorman,CLE,1.5,Hits+Runs+RBIS,2,2023-05-26
+1351,Najee Harris,2023 PIT,1050.5,Rush Yards,163,2023-09-07
+1352,Jalen Hurts,2023 PHI,3675.5,Pass Yards,163,2023-09-07
+1353,Sam Burns,Colonial Country Club RD 2,68.5,Strokes,1,2023-05-26
+1354,CeeDee Lamb,2023 DAL,1225.5,Receiving Yards,163,2023-09-07
+1355,Sam Burns,Colonial Country Club RD 2,3.5,Birdies Or Better,1,2023-05-26
+1356,Tommy Edman,CLE,1.5,Hits+Runs+RBIS,2,2023-05-26
+1357,Kirk Cousins,2023 MIN,4250.5,Pass Yards,163,2023-09-07
+1358,Josh Allen,2023 BUF,600.5,Rush Yards,163,2023-09-07
+1359,Davante Adams,2023 LV,1250.5,Receiving Yards,163,2023-09-07
+1360,Dak Prescott,2023 DAL,4250.5,Pass Yards,163,2023-09-07
+1361,Willson Contreras,CLE,1.5,Hits+Runs+RBIS,2,2023-05-26
+1362,Jalen Hurts,2023 PHI,725.5,Rush Yards,163,2023-09-07
+1363,Jordan Spieth,Colonial Country Club RD 2,69.0,Strokes,1,2023-05-26
+1364,Amon-Ra St. Brown	,2023 DET,1150.5,Receiving Yards,163,2023-09-07
+1365,Will Brennan,STL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1366,Justin Rose,Colonial Country Club RD 2,69.0,Strokes,1,2023-05-26
+1367,DK Metcalf,2023 SEA,999.5,Receiving Yards,163,2023-09-07
+1368,Amed Rosario,STL,0.5,Runs,2,2023-05-26
+1369,AJ Brown,2023 PHI,1150.5,Receiving Yards,163,2023-09-07
+1370,Tommy Fleetwood,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1371,Lamar Jackson,2023 BAL,850.5,Rush Yards,163,2023-09-07
+1372,Chris Kirk,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1373,Devonta Smith,2023 PHI,1100.5,Receiving Yards,163,2023-09-07
+1374,Lars Nootbaar,CLE,0.5,Runs,2,2023-05-26
+1375,Chris Kirk,Colonial Country Club RD 2,3.0,Birdies Or Better,1,2023-05-26
+1376,Alec Burleson,CLE,0.5,Hitter Strikeouts,2,2023-05-26
+1377,Si Woo Kim,Colonial Country Club RD 2,3.5,Birdies Or Better,1,2023-05-26
+1378,Garrett Wilson,2023 NYJ,1149.5,Receiving Yards,163,2023-09-07
+1379,Si Woo Kim,Colonial Country Club RD 2,69.0,Strokes,1,2023-05-26
+1380,Myles Straw,STL,0.5,Hitter Strikeouts,2,2023-05-26
+1381,Rickie Fowler,Colonial Country Club RD 2,3.5,Birdies Or Better,1,2023-05-26
+1382,Rickie Fowler,Colonial Country Club RD 2,69.0,Strokes,1,2023-05-26
+1383,Russell Henley,Colonial Country Club RD 2,69.0,Strokes,1,2023-05-26
+1384,Brian Harman,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1385,Brian Harman,Colonial Country Club RD 2,3.0,Birdies Or Better,1,2023-05-26
+1386,Christiaan Bezuidenhout,Colonial Country Club RD 2,3.0,Birdies Or Better,1,2023-05-26
+1387,Christiaan Bezuidenhout,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1388,Mitch Keller + Taijuan Walker,SEA/ATL,0.5,1st Inning Runs Allowed,2,2023-05-26
+1389,Tom Hoge,Colonial Country Club RD 2,69.0,Strokes,1,2023-05-26
+1390,Jared Shuster,PHI,4.5,Pitcher Strikeouts,2,2023-05-26
+1391,Tom Hoge,Colonial Country Club RD 2,3.5,Birdies Or Better,1,2023-05-26
+1392,Ronald Acuna Jr.,PHI,9.5,Hitter Fantasy Score,2,2023-05-26
+1393,Jared Shuster,PHI 1+2+3 Innings,2.5,Pitcher Strikeouts,231,2023-05-26
+1394,Taijuan Walker,ATL 1st Inning,17.0,Pitches Thrown,231,2023-05-26
+1395,Taijuan Walker,ATL,4.0,Pitcher Strikeouts,2,2023-05-26
+1396,Taijuan Walker,ATL 1+2 Innings,1.5,Pitcher Strikeouts,231,2023-05-26
+1397,Jared Shuster,PHI 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1398,Trea Turner,ATL,8.0,Hitter Fantasy Score,2,2023-05-26
+1399,Ronald Acuna Jr.,PHI,1.5,Total Bases,2,2023-05-26
+1400,Matt Olson,PHI,8.0,Hitter Fantasy Score,2,2023-05-26
+1401,Trea Turner,ATL,1.5,Total Bases,2,2023-05-26
+1402,Marcell Ozuna,PHI,1.5,Hits+Runs+RBIS,2,2023-05-26
+1403,Kyoung-Hoon Lee,Colonial Country Club RD 2,3.5,Birdies Or Better,1,2023-05-26
+1404,Kyoung-Hoon Lee,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1405,Bryce Harper,ATL,8.0,Hitter Fantasy Score,2,2023-05-26
+1406,Matt Olson,PHI,1.5,Total Bases,2,2023-05-26
+1407,Michael Harris II,PHI,1.5,Hits+Runs+RBIS,2,2023-05-26
+1408,Orlando Arcia,PHI,1.5,Hits+Runs+RBIS,2,2023-05-26
+1409,Jaxon Smith-Njigba,2023 SEA,799.5,Receiving Yards,163,2023-09-07
+1410,Thomas Detry,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1411,Dalton Guthrie,ATL,0.5,Total Bases,2,2023-05-26
+1412,Austin Riley,PHI,7.5,Hitter Fantasy Score,2,2023-05-26
+1413,Jahmyr Gibbs,2023 DET,599.5,Rush Yards,163,2023-09-07
+1414,Ozzie Albies,PHI,0.5,Hitter Strikeouts,2,2023-05-26
+1415,Harry Hall,Colonial Country Club RD 2,69.5,Strokes,1,2023-05-26
+1416,D'Andre Swift,2023 PHI,599.5,Rush Yards,163,2023-09-07
+1417,Quentin Johnston ,2023 LAC,650.5,Receiving Yards,163,2023-09-07
+1418,Ozzie Albies,PHI,1.5,Hits+Runs+RBIS,2,2023-05-26
+1419,Zay Flowers,2023 BAL,625.5,Receiving Yards,163,2023-09-07
+1420,Jordan Addison,2023 MIN,825.5,Receiving Yards,163,2023-09-07
+1421,Freddy Peralta,SF,94.5,Pitches Thrown,2,2023-05-26
+1422,Freddy Peralta,SF 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1423,Alex Wood + Freddy Peralta,MIL/SF,0.5,1st Inning Runs Allowed,2,2023-05-26
+1424,Alex Wood + Freddy Peralta,MIL/SF,1.5,1st Inning Hits Allowed,2,2023-05-26
+1425,Christian Yelich,SF,6.5,Hitter Fantasy Score,2,2023-05-26
+1426,Alex Wood + Freddy Peralta,MIL/SF,12.5,Pitcher Strikeouts,2,2023-05-26
+1427,Owen Miller,SF,1.5,Hits+Runs+RBIS,2,2023-05-26
+1428,Freddy Peralta,SF,6.5,Pitcher Strikeouts,2,2023-05-26
+1429,Patrick Corbin,KC 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1430,Jordan Lyles,WSH 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1431,Brian Anderson,SF,0.5,Total Bases,2,2023-05-26
+1432,Thairo Estrada,MIL,6.5,Hitter Fantasy Score,2,2023-05-26
+1433,Alex Wood,MIL,5.5,Pitcher Strikeouts,2,2023-05-26
+1434,Alex Wood,MIL 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1435,Blake Sabol,MIL,0.5,Total Bases,2,2023-05-26
+1436,Willy Adames,SF,6.5,Hitter Fantasy Score,2,2023-05-26
+1437,Michael Conforto,MIL,6.0,Hitter Fantasy Score,2,2023-05-26
+1438,Brandon Crawford,MIL,0.5,Total Bases,2,2023-05-26
+1439,Darin Ruf,SF,0.5,Total Bases,2,2023-05-26
+1440,Joey Wiemer,SF,0.5,Total Bases,2,2023-05-26
+1441,Mitch Haniger,MIL,0.5,Total Bases,2,2023-05-26
+1442,George Kirby + Louie Varland,PIT/TOR,0.5,1st Inning Runs Allowed,2,2023-05-26
+1443,Kevin Gausman + Louie Varland,MIN/TOR,13.5,Pitcher Strikeouts,2,2023-05-26
+1444,Whit Merrifield,MIN,1.5,Hits+Runs+RBIS,2,2023-05-26
+1445,Joey Gallo,TOR,0.5,Total Bases,2,2023-05-26
+1446,Kevin Gausman,MIN,8.0,Pitcher Strikeouts,2,2023-05-26
+1447,Vladimir Guerrero Jr.,MIN,7.5,Hitter Fantasy Score,2,2023-05-26
+1448,Kevin Gausman,MIN 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1449,Louie Varland,TOR 1+2 Innings,1.5,Pitcher Strikeouts,231,2023-05-26
+1450,Kevin Gausman,MIN,100.5,Pitches Thrown,2,2023-05-26
+1451,Matt Chapman,MIN,1.5,Hits+Runs+RBIS,2,2023-05-26
+1452,Bo Bichette,MIN,1.5,Total Bases,2,2023-05-26
+1453,Louie Varland,TOR,5.0,Pitcher Strikeouts,2,2023-05-26
+1454,Byron Buxton,TOR,6.5,Hitter Fantasy Score,2,2023-05-26
+1455,Kevin Gausman,MIN 1+2+3 Innings,4.0,Pitcher Strikeouts,231,2023-05-26
+1456,Louie Varland,TOR 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1457,Alejandro Kirk,MIN,1.5,Hits+Runs+RBIS,2,2023-05-26
+1458,Michael A. Taylor,TOR,0.5,Total Bases,2,2023-05-26
+1459,George Springer,MIN,7.5,Hitter Fantasy Score,2,2023-05-26
+1460,Bo Bichette,MIN,7.5,Hitter Fantasy Score,2,2023-05-26
+1461,Vladimir Guerrero Jr.,MIN,1.5,Total Bases,2,2023-05-26
+1462,Vladimir Guerrero Jr.,MIN,0.5,Runs,2,2023-05-26
+1463,Kyle Garlick,TOR,0.5,Total Bases,2,2023-05-26
+1464,George Springer,MIN,0.5,Runs,2,2023-05-26
+1465,Bo Bichette,MIN,0.5,Runs,2,2023-05-26
+1466,Salvador Perez,WSH,7.0,Hitter Fantasy Score,2,2023-05-26
+1467,Jordan Lyles,WSH,3.5,Pitcher Strikeouts,2,2023-05-26
+1468,Freddy Peralta,SF 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1469,Patrick Corbin,KC 1st Inning,0.5,Pitcher Strikeouts,231,2023-05-26
+1470,MJ Melendez,WSH,1.5,Hits+Runs+RBIS,2,2023-05-26
+1471,Bobby Witt Jr.,WSH,1.5,Total Bases,2,2023-05-26
+1472,Jordan Lyles,WSH,93.5,Pitches Thrown,2,2023-05-26
+1473,Alex Wood,MIL 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1474,CJ Abrams,KC,1.5,Hits+Runs+RBIS,2,2023-05-26
+1475,Joey Meneses,KC,6.5,Hitter Fantasy Score,2,2023-05-26
+1476,Patrick Corbin,KC,4.0,Pitcher Strikeouts,2,2023-05-26
+1477,Joey Meneses,KC,1.5,Total Bases,2,2023-05-26
+1478,Jordan Lyles,WSH 1st Inning,0.5,Pitcher Strikeouts,231,2023-05-26
+1479,Salvador Perez,WSH,1.5,Total Bases,2,2023-05-26
+1480,Corey Dickerson,KC,1.5,Hits+Runs+RBIS,2,2023-05-26
+1481,Dominic Smith,KC,1.5,Hits+Runs+RBIS,2,2023-05-26
+1482,Freddy Fermin,WSH,1.5,Hits+Runs+RBIS,2,2023-05-26
+1483,Keibert Ruiz,KC,1.5,Hits+Runs+RBIS,2,2023-05-26
+1484,Maikel Garcia,WSH,1.5,Hits+Runs+RBIS,2,2023-05-26
+1485,Luis Garcia,KC,0.5,Runs,2,2023-05-26
+1486,Bobby Witt Jr.,WSH,0.5,Runs,2,2023-05-26
+1487,Freddy Fermin,WSH,0.5,Hitter Strikeouts,2,2023-05-26
+1488,Salvador Perez,WSH,0.5,Hitter Strikeouts,2,2023-05-26
+1489,Odell Beckham Jr.,2023 BAL,575.5,Receiving Yards,163,2023-09-07
+1490,Connor Seabold,NYM 1+2+3 Innings,2.0,Pitcher Strikeouts,231,2023-05-26
+1491,Pete Alonso,COL,8.5,Hitter Fantasy Score,2,2023-05-26
+1492,Max Scherzer,COL 1st Inning,16.0,Pitches Thrown,231,2023-05-26
+1493,Connor Seabold,NYM,3.0,Pitcher Strikeouts,2,2023-05-26
+1494,Max Scherzer,COL 1+2+3 Innings,2.5,Pitcher Strikeouts,231,2023-05-26
+1495,Daniel Vogelbach,COL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1496,Charlie Blackmon,NYM,7.0,Hitter Fantasy Score,2,2023-05-26
+1497,Connor Seabold,NYM 1st Inning,17.0,Pitches Thrown,231,2023-05-26
+1498,Max Scherzer,COL,5.0,Pitcher Strikeouts,2,2023-05-26
+1499,Ezequiel Tovar,NYM,1.5,Hits+Runs+RBIS,2,2023-05-26
+1500,Francisco Lindor,COL,9.0,Hitter Fantasy Score,2,2023-05-26
+1501,Starling Marte,COL,1.5,Total Bases,2,2023-05-26
+1502,Kris Bryant,NYM,6.5,Hitter Fantasy Score,2,2023-05-26
+1503,Francisco Alvarez,COL,1.5,Hits+Runs+RBIS,2,2023-05-26
+1504,Ryan McMahon,NYM,1.5,Hits+Runs+RBIS,2,2023-05-26
+1505,Brett Baty,COL,0.5,Runs,2,2023-05-26
+1506,Charlie Blackmon,NYM,0.5,Runs,2,2023-05-26
+1507,Starling Marte,COL,0.5,Runs,2,2023-05-26
+1508,Starling Marte,COL,0.5,Hitter Strikeouts,2,2023-05-26
+1509,Harold Castro,NYM,0.5,Hitter Strikeouts,2,2023-05-26
+1510,Jesus Luzardo,LAA,6.0,Pitcher Strikeouts,2,2023-05-26
+1511,Shohei Ohtani,MIA,7.5,Hitter Fantasy Score,2,2023-05-26
+1512,Reid Detmers + Jesus Luzardo,MIA/LAA,0.5,1st Inning Runs Allowed,2,2023-05-26
+1513,Reid Detmers + Jesus Luzardo,MIA/LAA,1.5,1st Inning Hits Allowed,2,2023-05-26
+1514,Brandon Drury,MIA,1.5,Hits+Runs+RBIS,2,2023-05-26
+1515,Jesus Luzardo,LAA 1st Inning,17.0,Pitches Thrown,231,2023-05-26
+1516,Reid Detmers + Jesus Luzardo,MIA/LAA,12.0,Pitcher Strikeouts,2,2023-05-26
+1517,Reid Detmers,MIA 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1518,Jesus Luzardo,LAA,94.5,Pitches Thrown,2,2023-05-26
+1519,Reid Detmers,MIA,92.5,Pitches Thrown,2,2023-05-26
+1520,Reid Detmers,MIA,6.0,Pitcher Strikeouts,2,2023-05-26
+1521,Reid Detmers,MIA 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1522,Garrett Hampson,LAA,0.5,Total Bases,2,2023-05-26
+1523,Gio Urshela,MIA,1.5,Hits+Runs+RBIS,2,2023-05-26
+1524,Jesus Luzardo,LAA 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1525,Mike Trout,MIA,7.5,Hitter Fantasy Score,2,2023-05-26
+1526,Hunter Renfroe,MIA,1.5,Hits+Runs+RBIS,2,2023-05-26
+1527,Chad Wallach,MIA,0.5,Total Bases,2,2023-05-26
+1528,Jon Berti,LAA,1.5,Hits+Runs+RBIS,2,2023-05-26
+1529,Bryan De La Cruz,LAA,7.5,Hitter Fantasy Score,2,2023-05-26
+1530,Jacob Stallings,LAA,0.5,Total Bases,2,2023-05-26
+1531,Jorge Soler,LAA,1.5,Hits+Runs+RBIS,2,2023-05-26
+1532,Taylor Ward,MIA,1.5,Hits+Runs+RBIS,2,2023-05-26
+1533,Jorge Soler,LAA,0.5,Runs,2,2023-05-26
+1534,Mike Trout,MIA,0.5,Runs,2,2023-05-26
+1535,Jean Segura,LAA,0.5,Hitter Strikeouts,2,2023-05-26
+1536,Chris Sale,ARI 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1537,Chris Sale,ARI,6.0,Pitcher Strikeouts,2,2023-05-26
+1538,Rafael Devers,ARI,7.5,Hitter Fantasy Score,2,2023-05-26
+1539,Brandon Pfaadt,BOS 1st Inning,0.5,Pitcher Strikeouts,231,2023-05-26
+1540,Brandon Pfaadt + Chris Sale,BOS/ARI,0.5,1st Inning Runs Allowed,2,2023-05-26
+1541,Chris Sale,ARI,98.5,Pitches Thrown,2,2023-05-26
+1542,Chris Sale,ARI 1+2+3 Innings,3.0,Pitcher Strikeouts,231,2023-05-26
+1543,Ketel Marte,BOS,7.5,Hitter Fantasy Score,2,2023-05-26
+1544,Brandon Pfaadt,BOS 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1545,Rafael Devers,ARI,1.5,Total Bases,2,2023-05-26
+1546,Enmanuel Valdez,ARI,1.5,Hits+Runs+RBIS,2,2023-05-26
+1547,Justin Turner,ARI,1.5,Total Bases,2,2023-05-26
+1548,Masataka Yoshida,ARI,0.5,Runs,2,2023-05-26
+1549,Masataka Yoshida,ARI,7.0,Hitter Fantasy Score,2,2023-05-26
+1550,Justin Turner,ARI,0.5,Runs,2,2023-05-26
+1551,Christian Walker,BOS,7.0,Hitter Fantasy Score,2,2023-05-26
+1552,Alex Verdugo,ARI,0.5,Hitter Strikeouts,2,2023-05-26
+1553,Masataka Yoshida,ARI,0.5,Hitter Strikeouts,2,2023-05-26
+1554,Yordan Alvarez,OAK,0.5,Runs,2,2023-05-26
+1555,Kyle Tucker,OAK,0.5,Hitter Strikeouts,2,2023-05-26
+1556,Hunter Brown,OAK 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1557,James Kaprielian,HOU 1+2 Innings,1.5,Pitcher Strikeouts,231,2023-05-26
+1558,James Kaprielian,HOU,4.0,Pitcher Strikeouts,2,2023-05-26
+1559,James Kaprielian + Hunter Brown,HOU/OAK,1.5,1st Inning Hits Allowed,2,2023-05-26
+1560,James Kaprielian + Hunter Brown,HOU/OAK,0.5,1st Inning Runs Allowed,2,2023-05-26
+1561,Yordan Alvarez,OAK,8.5,Hitter Fantasy Score,2,2023-05-26
+1562,Hunter Brown,OAK,95.5,Pitches Thrown,2,2023-05-26
+1563,Alex Bregman,OAK,1.5,Hits+Runs+RBIS,2,2023-05-26
+1564,Esteury Ruiz,HOU,1.5,Hits+Runs+RBIS,2,2023-05-26
+1565,Hunter Brown,OAK,6.0,Pitcher Strikeouts,2,2023-05-26
+1566,Jose Altuve,OAK,7.5,Hitter Fantasy Score,2,2023-05-26
+1567,Hunter Brown,OAK 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1568,James Kaprielian,HOU 1st Inning,17.5,Pitches Thrown,231,2023-05-26
+1569,Jose Abreu,OAK,1.5,Hits+Runs+RBIS,2,2023-05-26
+1570,Kyle Tucker,OAK,7.5,Hitter Fantasy Score,2,2023-05-26
+1571,Jace Peterson,HOU,0.5,Total Bases,2,2023-05-26
+1572,Martin Maldonado,OAK,0.5,Hits+Runs+RBIS,2,2023-05-26
+1573,JJ Bleday,HOU,0.5,Total Bases,2,2023-05-26
+1574,Shea Langeliers,HOU,0.5,Total Bases,2,2023-05-26
+1575,Tony Kemp,HOU,0.5,Total Bases,2,2023-05-26
+1576,Mitch Keller,SEA,94.5,Pitches Thrown,2,2023-05-26
+1577,Mitch Keller,SEA 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-05-26
+1578,George Kirby,PIT 1st Inning,15.0,Pitches Thrown,231,2023-05-26
+1579,George Kirby,PIT,5.5,Pitcher Strikeouts,2,2023-05-26
+1580,Mitch Keller + George Kirby,SEA/PIT,13.0,Pitcher Strikeouts,2,2023-05-26
+1581,Julio Rodriguez,PIT,7.5,Hitter Fantasy Score,2,2023-05-26
+1582,Austin Hedges,SEA,0.5,Total Bases,2,2023-05-26
+1583,George Kirby,PIT,94.5,Pitches Thrown,2,2023-05-26
+1584,Mitch Keller,SEA,7.0,Pitcher Strikeouts,2,2023-05-26
+1585,Mitch Keller,SEA 1st Inning,15.5,Pitches Thrown,231,2023-05-26
+1586,Bryan Reynolds,SEA,6.5,Hitter Fantasy Score,2,2023-05-26
+1587,George Kirby,PIT 1+2+3 Innings,2.5,Pitcher Strikeouts,231,2023-05-26
+1588,Taylor Trammell,PIT,0.5,Hits+Runs+RBIS,2,2023-05-26
+1589,Cal Raleigh,PIT,0.5,Total Bases,2,2023-05-26
+1590,Ty France,PIT,1.5,Hits+Runs+RBIS,2,2023-05-26
+1591,Jarred Kelenic,PIT,6.5,Hitter Fantasy Score,2,2023-05-26
+1592,Andrew McCutchen,SEA,6.5,Hitter Fantasy Score,2,2023-05-26
+1593,Jose Caballero,PIT,0.5,Total Bases,2,2023-05-26
+1594,Crystallis,Entity (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-26
+1595,Armel,Entity (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-26
+1596,watson,Secret (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-05-26
+1597,Stormstormer,Secret (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-26
+1598,Shad,Quest (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-05-26
+1599,Shad,Quest (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-05-26
+1600,Adzantick,Quest (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-26
+1601,Adzantick,Quest (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-05-26
+1602,TA2000,D1 H (MAPS 1-2 Kills),16.5,MAPS 1-2 Kills,174,2023-05-26
+1603,TA2000,D1 H (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-26
+1604,No!ob,D1 H (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-05-26
+1605,No!ob,D1 H (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-26
+1606,Timado,nouns (MAPS 1-2 Kills),15.0,MAPS 1-2 Kills,174,2023-05-26
+1607,Timado,nouns (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-05-26
+1608,Bryle,nouns (MAPS 1-2 Kills),18.0,MAPS 1-2 Kills,174,2023-05-26
+1609,Bryle,nouns (MAP 3 Kills),9.0,MAP 3 Kills,174,2023-05-26
+1610,Yamsun,TSM (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-05-26
+1611,Yamsun,TSM (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-05-26
+1612,Gunnar,TSM (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-26
+1613,Gunnar,TSM (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-05-26
+1614,shiro,Bright (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-05-27
+1615,shiro,Bright (MAPS 1-2 Kills),15.0,MAPS 1-2 Kills,174,2023-05-27
+1616,NothingToSay,Bright (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-05-27
+1617,NothingToSay,Bright (MAPS 1-2 Kills),14.5,MAPS 1-2 Kills,174,2023-05-27
+1618,once.,PSG.LGD (MAPS 1-2 Kills),7.5,MAPS 1-2 Kills,174,2023-05-27
+1619,once.,PSG.LGD (MAP 3 Kills),3.5,MAP 3 Kills,174,2023-05-27
+1620,phoenix,PSG.LGD (MAP 3 Kills),4.0,MAP 3 Kills,174,2023-05-27
+1621,phoenix,PSG.LGD (MAPS 1-2 Kills),8.0,MAPS 1-2 Kills,174,2023-05-27
+1622,Ulu,XG (MAPS 1-2 Kills),8.0,MAPS 1-2 Kills,174,2023-05-27
+1623,Ulu,XG (MAP 3 Kills),4.0,MAP 3 Kills,174,2023-05-27
+1624,Xwy,XG (MAP 3 Kills),4.0,MAP 3 Kills,174,2023-05-27
+1625,Xwy,XG (MAPS 1-2 Kills),8.5,MAPS 1-2 Kills,174,2023-05-27
+1626,Ghost,Aries (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-27
+1627,Ghost,Aries (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-05-27
+1628,PaparaziSi ,Aries (MAPS 1-2 Kills),17.0,MAPS 1-2 Kills,174,2023-05-27
+1629,PaparaziSi ,Aries (MAP 3 Kills),8.5,MAP 3 Kills,174,2023-05-27
+1630,Emo,AR (MAPS 1-2 Kills),13.5,MAPS 1-2 Kills,174,2023-05-27
+1631,Emo,AR (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-27
+1632,Dust,AR (MAP 3 Kills),5.0,MAP 3 Kills,174,2023-05-27
+1633,Dust,AR (MAPS 1-2 Kills),9.5,MAPS 1-2 Kills,174,2023-05-27
+1634,Lou,iG (MAPS 1-2 Kills),14.5,MAPS 1-2 Kills,174,2023-05-27
+1635,Lou,iG (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-05-27
+1636,Somnus,iG (MAP 3 Kills),9.5,MAP 3 Kills,174,2023-05-27
+1637,Somnus,iG (MAPS 1-2 Kills),18.5,MAPS 1-2 Kills,174,2023-05-27
+1638,Yatoro,Nemiga (MAPS 1-2 Kills),16.5,MAPS 1-2 Kills,174,2023-05-27
+1639,Yatoro,Nemiga (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-27
+1640,Larl,Nemiga (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-27
+1641,Larl,Nemiga (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-05-27
+1642,v1olent`,TSpirit (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-05-27
+1643,v1olent`,TSpirit (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-27
+1644,Malr1ne,TSpirit (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-05-27
+1645,Malr1ne,TSpirit (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-05-27
+1646,dream`,UALEIK (MAPS 1-2 Kills),17.5,MAPS 1-2 Kills,174,2023-05-27
+1647,dream`,UALEIK (MAP 3 Kills),8.5,MAP 3 Kills,174,2023-05-27
+1648,Worick,UALEIK (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-05-27
+1649,Worick,UALEIK (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-27
+1650,Palantimos,HYDRA (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-05-27
+1651,Palantimos,HYDRA (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-27
+1652,CHIRA JUNIOR,HYDRA (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-05-27
+1653,CHIRA JUNIOR,HYDRA (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-27
+1654,RAMZES666,BB (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-27
+1655,RAMZES666,BB (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-05-27
+1656,kiyotaka,BB (MAPS 1-2 Kills),18.5,MAPS 1-2 Kills,174,2023-05-27
+1657,kiyotaka,BB (MAP 3 Kills),9.0,MAP 3 Kills,174,2023-05-27
+1658,Nightfall,9P (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-05-27
+1659,Nightfall,9P (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-27
+1660,gpk,9P (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-05-27
+1661,gpk,9P (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-27
+1662,Berna,nouns (MAP 3 Kills),5.0,MAP 3 Kills,174,2023-05-27
+1663,Berna,nouns (MAPS 1-2 Kills),10.0,MAPS 1-2 Kills,174,2023-05-27
+1664,Kitzz,nouns (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-27
+1665,Kitzz,nouns (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-05-27
+1666,Yamsun,felt (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-27
+1667,Yamsun,felt (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-05-27
+1668,Gunnar,felt (MAP 3 Kills),9.0,MAP 3 Kills,174,2023-05-27
+1669,Gunnar,felt (MAPS 1-2 Kills),18.0,MAPS 1-2 Kills,174,2023-05-27
+1670,Leonidas,Dog (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-05-27
+1671,Leonidas,Dog (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-27
+1672,lundd,Dog (MAPS 1-2 Kills),14.5,MAPS 1-2 Kills,174,2023-05-27
+1673,lundd,Dog (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-27
+1674,dnm,SKG (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-05-27
+1675,dnm,SKG (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-05-27
+1676,red2,SKG (MAPS 1-2 Kills),19.0,MAPS 1-2 Kills,174,2023-05-27
+1677,red2,SKG (MAP 3 Kills),9.5,MAP 3 Kills,174,2023-05-27
+1678,n1xen,EC Brugge,18.0,MAP 3 Kills,124,2023-05-26
+1679,MSL,EC Brugge,16.5,MAP 3 Kills,124,2023-05-26
+1680,LUMSEN,Sashi,15.0,MAP 3 Kills,124,2023-05-26
+1681,Stev0se,Sashi,19.0,MAP 3 Kills,124,2023-05-26
+1682,swiiffter,Sashi,17.0,MAP 3 Kills,124,2023-05-26
+1683,Markos,Sashi,17.5,MAP 3 Kills,124,2023-05-26
+1684,n1xen,EC Brugge,9.0,MAP 3 Headshots,124,2023-05-26
+1685,MSL,EC Brugge,5.0,MAP 3 Headshots,124,2023-05-26
+1686,LUMSEN,Sashi,7.5,MAP 3 Headshots,124,2023-05-26
+1687,Stev0se,Sashi,5.5,MAP 3 Headshots,124,2023-05-26
+1688,swiiffter,Sashi,9.0,MAP 3 Headshots,124,2023-05-26
+1689,Markos,Sashi,6.5,MAP 3 Headshots,124,2023-05-26
+1690,glowiing,Spirit Academy,18.5,MAP 3 Kills,124,2023-05-26
+1691,d1Ledez,Spirit Academy,18.0,MAP 3 Kills,124,2023-05-26
+1692,clax,Spirit Academy,17.5,MAP 3 Kills,124,2023-05-26
+1693,donk,9 Pandas,21.0,MAP 3 Kills,124,2023-05-26
+1694,ArtFr0st,9 Pandas,19.5,MAP 3 Kills,124,2023-05-26
+1695,zont1x,9 Pandas,18.5,MAP 3 Kills,124,2023-05-26
+1696,glowiing,Spirit Academy,9.5,MAP 3 Headshots,124,2023-05-26
+1697,d1Ledez,Spirit Academy,11.5,MAP 3 Headshots,124,2023-05-26
+1698,clax,Spirit Academy,10.0,MAP 3 Headshots,124,2023-05-26
+1699,donk,9 Pandas,13.5,MAP 3 Headshots,124,2023-05-26
+1700,ArtFr0st,9 Pandas,4.5,MAP 3 Headshots,124,2023-05-26
+1701,zont1x,9 Pandas,7.5,MAP 3 Headshots,124,2023-05-26
+1702,Woro2k,1WIN,39.0,MAPS 1-2 Kills,124,2023-05-26
+1703,Woro2k,1WIN,19.5,MAP 3 Kills,124,2023-05-26
+1704,BOROS,1WIN,43.5,MAPS 1-2 Kills,124,2023-05-26
+1705,BOROS,1WIN,20.5,MAP 3 Kills,124,2023-05-26
+1706,sdy,1WIN,19.0,MAP 3 Kills,124,2023-05-26
+1707,sdy,1WIN,37.0,MAPS 1-2 Kills,124,2023-05-26
+1708,Forester,Monte,18.0,MAP 3 Kills,124,2023-05-26
+1709,Forester,Monte,37.0,MAPS 1-2 Kills,124,2023-05-26
+1710,NickelBack,Monte,32.5,MAPS 1-2 Kills,124,2023-05-26
+1711,NickelBack,Monte,16.5,MAP 3 Kills,124,2023-05-26
+1712,deko,Monte,41.0,MAPS 1-2 Kills,124,2023-05-26
+1713,deko,Monte,20.0,MAP 3 Kills,124,2023-05-26
+1714,Woro2k,1WIN,6.5,MAP 3 Headshots,124,2023-05-26
+1715,Woro2k,1WIN,13.0,MAPS 1-2 Headshots,124,2023-05-26
+1716,BOROS,1WIN,13.0,MAP 3 Headshots,124,2023-05-26
+1717,BOROS,1WIN,26.0,MAPS 1-2 Headshots,124,2023-05-26
+1718,sdy,1WIN,9.0,MAP 3 Headshots,124,2023-05-26
+1719,sdy,1WIN,18.0,MAPS 1-2 Headshots,124,2023-05-26
+1720,Forester,Monte,19.5,MAPS 1-2 Headshots,124,2023-05-26
+1721,Forester,Monte,9.5,MAP 3 Headshots,124,2023-05-26
+1722,NickelBack,Monte,7.0,MAP 3 Headshots,124,2023-05-26
+1723,NickelBack,Monte,14.0,MAPS 1-2 Headshots,124,2023-05-26
+1724,deko,Monte,15.0,MAPS 1-2 Headshots,124,2023-05-26
+1725,deko,Monte,7.5,MAP 3 Headshots,124,2023-05-26
+1726,Krimbo,ECSTATIC,39.0,MAPS 1-2 Kills,124,2023-05-26
+1727,Krimbo,ECSTATIC,19.0,MAP 3 Kills,124,2023-05-26
+1728,tabseN,ECSTATIC,37.5,MAPS 1-2 Kills,124,2023-05-26
+1729,tabseN,ECSTATIC,18.5,MAP 3 Kills,124,2023-05-26
+1730,faveN,ECSTATIC,18.5,MAP 3 Kills,124,2023-05-26
+1731,faveN,ECSTATIC,37.5,MAPS 1-2 Kills,124,2023-05-26
+1732,kraghen,BIG,36.0,MAPS 1-2 Kills,124,2023-05-26
+1733,kraghen,BIG,18.0,MAP 3 Kills,124,2023-05-26
+1734,Queenix,BIG,16.5,MAP 3 Kills,124,2023-05-26
+1735,Queenix,BIG,33.5,MAPS 1-2 Kills,124,2023-05-26
+1736,salazar,BIG,34.0,MAPS 1-2 Kills,124,2023-05-26
+1737,salazar,BIG,17.0,MAP 3 Kills,124,2023-05-26
+1738,Krimbo,ECSTATIC,9.5,MAP 3 Headshots,124,2023-05-26
+1739,Krimbo,ECSTATIC,19.0,MAPS 1-2 Headshots,124,2023-05-26
+1740,tabseN,ECSTATIC,20.0,MAPS 1-2 Headshots,124,2023-05-26
+1741,tabseN,ECSTATIC,10.0,MAP 3 Headshots,124,2023-05-26
+1742,faveN,ECSTATIC,10.5,MAP 3 Headshots,124,2023-05-26
+1743,faveN,ECSTATIC,21.5,MAPS 1-2 Headshots,124,2023-05-26
+1744,kraghen,BIG,8.5,MAP 3 Headshots,124,2023-05-26
+1745,kraghen,BIG,17.0,MAPS 1-2 Headshots,124,2023-05-26
+1746,Queenix,BIG,18.0,MAPS 1-2 Headshots,124,2023-05-26
+1747,Queenix,BIG,9.0,MAP 3 Headshots,124,2023-05-26
+1748,Jack Eichel,DAL,5.5,Faceoffs Won,8,2023-05-27
+1749,salazar,BIG,9.5,MAPS 1-2 Headshots,124,2023-05-26
+1750,Max Domi,VGK,3.5,Faceoffs Won,8,2023-05-27
+1751,salazar,BIG,4.5,MAP 3 Headshots,124,2023-05-26
+1752,Chandler Stephenson,DAL,6.5,Faceoffs Won,8,2023-05-27
+1753,Tyler Seguin,VGK,5.5,Faceoffs Won,8,2023-05-27
+1754,William Karlsson,DAL,6.5,Faceoffs Won,8,2023-05-27
+1755,Jason Robertson,VGK (Regulation Only),18.5,Time On Ice,8,2023-05-27
+1756,Jack Eichel,DAL (Regulation Only),17.75,Time On Ice,8,2023-05-27
+1757,Wyatt Johnston,VGK (Regulation Only),16.0,Time On Ice,8,2023-05-27
+1758,William Karlsson,DAL (Regulation Only),17.0,Time On Ice,8,2023-05-27
+1759,Alex Pietrangelo,DAL (Regulation Only),23.25,Time On Ice,8,2023-05-27
+1760,Miro Heiskanen,VGK (Regulation Only),28.0,Time On Ice,8,2023-05-27
+1761,Ryan Suter,VGK (Regulation Only),23.0,Time On Ice,8,2023-05-27
+1762,Shea Theodore,DAL (Regulation Only),19.5,Time On Ice,8,2023-05-27
+1763,Keegan Kolesar,DAL,3.0,Hits,8,2023-05-27
+1764,Max Domi,VGK,0.5,Hits,8,2023-05-27
+1765,Shea Theodore,DAL,0.5,Hits,8,2023-05-27
+1766,Miro Heiskanen,VGK,1.5,Hits,8,2023-05-27
+1767,Brayden McNabb,DAL,1.5,Hits,8,2023-05-27
+1768,Ty Dellandrea,VGK,2.0,Hits,8,2023-05-27
+1769,Ivan Barbashev,DAL,3.5,Hits,8,2023-05-27
+1770,Roope Hintz,VGK,2.0,Hits,8,2023-05-27

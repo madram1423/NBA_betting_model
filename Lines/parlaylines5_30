@@ -1,0 +1,431 @@
+,Player,Team,Stat,Line,Date
+0,Alex Faedo,DET,SO (K),4.5,2023-05-30
+1,Alex Faedo,DET,H,5.0,2023-05-30
+2,Eric Haase,DET,H+R+R,1.5,2023-05-30
+3,Riley Greene,DET,FPTS,7.5,2023-05-30
+4,Miguel Cabrera,DET,SO,0.5,2023-05-30
+5,Martin Pérez,TEX,SO (K),4.5,2023-05-30
+6,Martin Pérez,TEX,PO,17.5,2023-05-30
+7,Martin Pérez,TEX,ER,2.5,2023-05-30
+8,Marcus Semien,TEX,R,0.5,2023-05-30
+9,Marcus Semien,TEX,TB,1.5,2023-05-30
+10,Marcus Semien,TEX,FPTS,10.0,2023-05-30
+11,Leody Taveras,TEX,H+R+R,1.5,2023-05-30
+12,Jonah Heim,TEX,H+R+R,1.5,2023-05-30
+13,Adolis García,TEX,R,0.5,2023-05-30
+14,Corey Seager,TEX,R,0.5,2023-05-30
+15,Corey Seager,TEX,TB,1.5,2023-05-30
+16,Corey Seager,TEX,FPTS,10.0,2023-05-30
+17,Sandy Alcantara,MIA,SO (K),6.0,2023-05-30
+18,Sandy Alcantara,MIA,H,5.0,2023-05-30
+19,Sandy Alcantara,MIA,P,98.5,2023-05-30
+20,Bryan De La Cruz,MIA,FPTS,8.5,2023-05-30
+21,Jorge Soler,MIA,TB,1.5,2023-05-30
+22,Jorge Soler,MIA,FPTS,9.0,2023-05-30
+23,Jean Segura,MIA,H+R+R,1.5,2023-05-30
+24,Jon Berti,MIA,R,0.5,2023-05-30
+25,Ryan Weathers,SD,SO (K),3.0,2023-05-30
+26,Ryan Weathers,SD,H,5.0,2023-05-30
+27,Ryan Weathers,SD,ER,2.5,2023-05-30
+28,Fernando Tatis Jr.,SD,FPTS,10.0,2023-05-30
+29,Jake Cronenworth,SD,H+R+R,1.5,2023-05-30
+30,Xander Bogaerts,SD,H+R+R,1.5,2023-05-30
+31,Juan Soto,SD,FPTS,8.5,2023-05-30
+32,Trent Grisham,SD,TB,0.5,2023-05-30
+33,Kahleah Copper,CHI,PTS,17.0,2023-05-30
+34,Kahleah Copper,CHI,PTS+TRB+AST,25.5,2023-05-30
+35,Kahleah Copper,CHI,PTS+TRB,23.0,2023-05-30
+36,Kahleah Copper,CHI,PTS+AST,20.0,2023-05-30
+37,Kahleah Copper,CHI,FPTS,25.5,2023-05-30
+38,Marina Mabrey,CHI,PTS,16.5,2023-05-30
+39,Marina Mabrey,CHI,REB,4.5,2023-05-30
+40,Marina Mabrey,CHI,AST,4.0,2023-05-30
+41,Marina Mabrey,CHI,PTS+TRB+AST,25.5,2023-05-30
+42,Marina Mabrey,CHI,PTS+TRB,21.0,2023-05-30
+43,Marina Mabrey,CHI,PTS+AST,20.5,2023-05-30
+44,Marina Mabrey,CHI,TRB+AST,8.5,2023-05-30
+45,Marina Mabrey,CHI,FPTS,26.5,2023-05-30
+46,Courtney Williams,CHI,PTS,11.5,2023-05-30
+47,Courtney Williams,CHI,REB,7.0,2023-05-30
+48,Courtney Williams,CHI,AST,5.0,2023-05-30
+49,Courtney Williams,CHI,PTS+TRB+AST,24.0,2023-05-30
+50,Courtney Williams,CHI,PTS+TRB,18.5,2023-05-30
+51,Courtney Williams,CHI,PTS+AST,17.0,2023-05-30
+52,Courtney Williams,CHI,TRB+AST,12.0,2023-05-30
+53,Courtney Williams,CHI,FPTS,24.5,2023-05-30
+54,Elizabeth Williams,CHI,PTS,9.0,2023-05-30
+55,Elizabeth Williams,CHI,REB,6.0,2023-05-30
+56,Elizabeth Williams,CHI,PTS+TRB+AST,16.5,2023-05-30
+57,Elizabeth Williams,CHI,PTS+TRB,15.0,2023-05-30
+58,Elizabeth Williams,CHI,PTS+AST,10.5,2023-05-30
+59,Elizabeth Williams,CHI,FPTS,20.0,2023-05-30
+60,Rhyne Howard,ATL,PTS,17.5,2023-05-30
+61,Rhyne Howard,ATL,REB,5.0,2023-05-30
+62,Rhyne Howard,ATL,AST,3.5,2023-05-30
+63,Rhyne Howard,ATL,3P,2.5,2023-05-30
+64,Rhyne Howard,ATL,PTS+TRB+AST,26.5,2023-05-30
+65,Rhyne Howard,ATL,PTS+TRB,22.5,2023-05-30
+66,Rhyne Howard,ATL,PTS+AST,21.0,2023-05-30
+67,Rhyne Howard,ATL,TRB+AST,8.5,2023-05-30
+68,Rhyne Howard,ATL,FPTS,29.5,2023-05-30
+69,Allisha Gray,ATL,PTS,17.0,2023-05-30
+70,Allisha Gray,ATL,REB,6.0,2023-05-30
+71,Allisha Gray,ATL,AST,3.5,2023-05-30
+72,Allisha Gray,ATL,PTS+TRB+AST,26.5,2023-05-30
+73,Allisha Gray,ATL,PTS+TRB,23.0,2023-05-30
+74,Allisha Gray,ATL,PTS+AST,20.5,2023-05-30
+75,Allisha Gray,ATL,TRB+AST,9.5,2023-05-30
+76,Allisha Gray,ATL,FPTS,28.5,2023-05-30
+77,Cheyenne Parker,ATL,PTS,15.0,2023-05-30
+78,Cheyenne Parker,ATL,REB,6.0,2023-05-30
+79,Cheyenne Parker,ATL,PTS+TRB+AST,23.5,2023-05-30
+80,Cheyenne Parker,ATL,PTS+TRB,21.5,2023-05-30
+81,Cheyenne Parker,ATL,PTS+AST,17.5,2023-05-30
+82,Cheyenne Parker,ATL,FPTS,26.5,2023-05-30
+83,Aari McDonald,ATL,PTS,7.5,2023-05-30
+84,Aari McDonald,ATL,AST,3.5,2023-05-30
+85,Aari McDonald,ATL,PTS+TRB+AST,13.5,2023-05-30
+86,Aari McDonald,ATL,PTS+AST,11.0,2023-05-30
+87,Aari McDonald,ATL,FPTS,15.0,2023-05-30
+88,DeWanna Bonner,CON,PTS,17.5,2023-05-30
+89,DeWanna Bonner,CON,REB,5.0,2023-05-30
+90,DeWanna Bonner,CON,PTS+TRB+AST,25.5,2023-05-30
+91,DeWanna Bonner,CON,PTS+TRB,22.5,2023-05-30
+92,DeWanna Bonner,CON,PTS+AST,20.0,2023-05-30
+93,DeWanna Bonner,CON,TRB+AST,8.0,2023-05-30
+94,DeWanna Bonner,CON,FPTS,27.5,2023-05-30
+95,Alyssa Thomas,CON,PTS,16.5,2023-05-30
+96,Alyssa Thomas,CON,REB,10.0,2023-05-30
+97,Alyssa Thomas,CON,AST,5.5,2023-05-30
+98,Alyssa Thomas,CON,PTS+TRB+AST,31.5,2023-05-30
+99,Alyssa Thomas,CON,PTS+TRB,26.5,2023-05-30
+100,Alyssa Thomas,CON,PTS+AST,21.5,2023-05-30
+101,Alyssa Thomas,CON,TRB+AST,15.5,2023-05-30
+102,Alyssa Thomas,CON,FPTS,34.5,2023-05-30
+103,Tiffany Hayes,CON,PTS,12.5,2023-05-30
+104,Tiffany Hayes,CON,REB,3.5,2023-05-30
+105,Tiffany Hayes,CON,3P,1.5,2023-05-30
+106,Tiffany Hayes,CON,PTS+TRB+AST,19.5,2023-05-30
+107,Tiffany Hayes,CON,PTS+TRB,16.0,2023-05-30
+108,Tiffany Hayes,CON,PTS+AST,16.0,2023-05-30
+109,Tiffany Hayes,CON,FPTS,20.5,2023-05-30
+110,Brionna Jones,CON,PTS,13.5,2023-05-30
+111,Brionna Jones,CON,REB,7.5,2023-05-30
+112,Brionna Jones,CON,PTS+TRB+AST,23.0,2023-05-30
+113,Brionna Jones,CON,PTS+TRB,21.5,2023-05-30
+114,Brionna Jones,CON,PTS+AST,15.5,2023-05-30
+115,Brionna Jones,CON,FPTS,24.0,2023-05-30
+116,Aliyah Boston,IND,PTS,14.5,2023-05-30
+117,Aliyah Boston,IND,REB,6.5,2023-05-30
+118,Aliyah Boston,IND,PTS+TRB+AST,22.5,2023-05-30
+119,Aliyah Boston,IND,PTS+TRB,21.0,2023-05-30
+120,Aliyah Boston,IND,PTS+AST,15.5,2023-05-30
+121,Aliyah Boston,IND,FPTS,25.5,2023-05-30
+122,Kelsey Mitchell,IND,PTS,16.5,2023-05-30
+123,Kelsey Mitchell,IND,REB,2.5,2023-05-30
+124,Kelsey Mitchell,IND,AST,3.5,2023-05-30
+125,Kelsey Mitchell,IND,3P,2.5,2023-05-30
+126,Kelsey Mitchell,IND,PTS+TRB+AST,22.5,2023-05-30
+127,Kelsey Mitchell,IND,PTS+TRB,19.0,2023-05-30
+128,Kelsey Mitchell,IND,PTS+AST,20.0,2023-05-30
+129,Kelsey Mitchell,IND,TRB+AST,6.0,2023-05-30
+130,Kelsey Mitchell,IND,FPTS,22.5,2023-05-30
+131,NaLyssa Smith,IND,PTS,14.5,2023-05-30
+132,NaLyssa Smith,IND,REB,9.5,2023-05-30
+133,NaLyssa Smith,IND,PTS+TRB+AST,26.5,2023-05-30
+134,NaLyssa Smith,IND,PTS+TRB,24.0,2023-05-30
+135,NaLyssa Smith,IND,PTS+AST,16.5,2023-05-30
+136,NaLyssa Smith,IND,TRB+AST,11.5,2023-05-30
+137,NaLyssa Smith,IND,FPTS,26.5,2023-05-30
+138,Erica Wheeler,IND,PTS,7.5,2023-05-30
+139,Erica Wheeler,IND,PTS+TRB+AST,14.5,2023-05-30
+140,Erica Wheeler,IND,PTS+TRB,11.0,2023-05-30
+141,Erica Wheeler,IND,PTS+AST,11.5,2023-05-30
+142,Erica Wheeler,IND,FPTS,15.0,2023-05-30
+143,NEOFRAG,OG,Kills,33.5,2023-05-30
+144,flameZ,OG,Kills,38.5,2023-05-30
+145,niko,OG,Kills,31.5,2023-05-30
+146,dgt,9z,Kills,37.5,2023-05-30
+147,dav1deuS,9z,Kills,37.5,2023-05-30
+148,buda,9z,Kills,29.5,2023-05-30
+149,sh1ro,Cloud9,Kills,42.5,2023-05-30
+150,Ax1Le,Cloud9,Kills,40.5,2023-05-30
+151,HObbit,Cloud9,Kills,37.5,2023-05-30
+152,blameF,Astrali,Kills,42.5,2023-05-30
+153,device,Astrali,Kills,41.5,2023-05-30
+154,Buzz,Astrali,Kills,33.5,2023-05-30
+155,kauez,FURIAAca,Kills,37.5,2023-05-30
+156,zmb,FURIAAca,Kills,30.5,2023-05-30
+157,Bruninho,FURIAAca,Kills,34.5,2023-05-30
+158,venomzera,Paqueta,Kills,40.5,2023-05-30
+159,nython,Paqueta,Kills,37.5,2023-05-30
+160,DeStiNy,Paqueta,Kills,37.5,2023-05-30
+161,hoax,TheUnion,Kills,38.5,2023-05-30
+162,koala,TheUnion,Kills,38.5,2023-05-30
+163,frostezoR,TheUnion,Kills,28.5,2023-05-30
+164,beg0d,ex-Cori,Kills,34.5,2023-05-30
+165,bnc,ex-Cori,Kills,39.5,2023-05-30
+166,tkl,ex-Cori,Kills,34.5,2023-05-30
+167,Cal Quantrill,CLE,SO (K),3.0,2023-05-30
+168,Cal Quantrill,CLE,P,94.5,2023-05-30
+169,Cal Quantrill,CLE,ER,2.5,2023-05-30
+170,Andrés Giménez,CLE,SO,0.5,2023-05-30
+171,Andrés Giménez,CLE,H+R+R,1.5,2023-05-30
+172,José Ramírez,CLE,FPTS,9.0,2023-05-30
+173,Steven Kwan,CLE,FPTS,8.5,2023-05-30
+174,Josh Bell,CLE,H+R+R,1.5,2023-05-30
+175,Kyle Gibson,BAL,SO (K),4.0,2023-05-30
+176,Kyle Gibson,BAL,P,94.5,2023-05-30
+177,Kyle Gibson,BAL,ER,2.5,2023-05-30
+178,Adley Rutschman,BAL,SO,0.5,2023-05-30
+179,Adley Rutschman,BAL,FPTS,8.5,2023-05-30
+180,Austin Hays,BAL,H+R+R,1.5,2023-05-30
+181,Anthony Santander,BAL,FPTS,7.5,2023-05-30
+182,Yusei Kikuchi,TOR,SO (K),6.0,2023-05-30
+183,Yusei Kikuchi,TOR,H,5.0,2023-05-30
+184,Yusei Kikuchi,TOR,P,88.5,2023-05-30
+185,Bo Bichette,TOR,R,0.5,2023-05-30
+186,Bo Bichette,TOR,TB,1.5,2023-05-30
+187,Bo Bichette,TOR,FPTS,10.0,2023-05-30
+188,Vladimir Guerrero Jr.,TOR,TB,1.5,2023-05-30
+189,Vladimir Guerrero Jr.,TOR,FPTS,9.0,2023-05-30
+190,George Springer,TOR,R,0.5,2023-05-30
+191,George Springer,TOR,SO,0.5,2023-05-30
+192,George Springer,TOR,FPTS,10.0,2023-05-30
+193,Whit Merrifield,TOR,SO,0.5,2023-05-30
+194,Adrian Houser,MIL,SO (K),3.0,2023-05-30
+195,William Contreras,MIL,H+R+R,1.5,2023-05-30
+196,Tyrone Taylor,MIL,H+R+R,1.5,2023-05-30
+197,Christian Yelich,MIL,FPTS,8.5,2023-05-30
+198,Ben Lively,CIN,SO (K),3.0,2023-05-30
+199,Ben Lively,CIN,H,6.0,2023-05-30
+200,Jonathan India,CIN,FPTS,8.5,2023-05-30
+201,Matt McLain,CIN,FPTS,9.0,2023-05-30
+202,Brayan Bello,BOS,SO (K),5.5,2023-05-30
+203,Brayan Bello,BOS,H,5.0,2023-05-30
+204,Brayan Bello,BOS,PO,17.5,2023-05-30
+205,Masataka Yoshida,BOS,R,0.5,2023-05-30
+206,Masataka Yoshida,BOS,FPTS,7.5,2023-05-30
+207,Rafael Devers,BOS,R,0.5,2023-05-30
+208,Rafael Devers,BOS,TB,1.5,2023-05-30
+209,Rafael Devers,BOS,FPTS,8.5,2023-05-30
+210,Ranger Suárez,PHI,SO (K),4.0,2023-05-30
+211,Bryce Harper,PHI,FPTS,9.0,2023-05-30
+212,Kody Clemens,PHI,TB,0.5,2023-05-30
+213,Nick Castellanos,PHI,H+R+R,1.5,2023-05-30
+214,J.T. Realmuto,PHI,H+R+R,1.5,2023-05-30
+215,Bryson Stott,PHI,H+R+R,1.5,2023-05-30
+216,Alec Bohm,PHI,H+R+R,1.5,2023-05-30
+217,Kyle Schwarber,PHI,TB,0.5,2023-05-30
+218,Trea Turner,PHI,FPTS,9.0,2023-05-30
+219,Kodai Senga,NYM,SO (K),6.0,2023-05-30
+220,Kodai Senga,NYM,P,96.5,2023-05-30
+221,Francisco Lindor,NYM,FPTS,8.5,2023-05-30
+222,Pete Alonso,NYM,FPTS,9.0,2023-05-30
+223,Zack Greinke,KC,SO (K),3.0,2023-05-30
+224,Zack Greinke,KC,H,5.5,2023-05-30
+225,Bobby Witt Jr.,KC,FPTS,9.0,2023-05-30
+226,Salvador Perez,KC,FPTS,7.5,2023-05-30
+227,Miles Mikolas,STL,SO (K),5.0,2023-05-30
+228,Miles Mikolas,STL,P,96.5,2023-05-30
+229,Nolan Arenado,STL,FPTS,8.5,2023-05-30
+230,Paul Goldschmidt,STL,TB,1.5,2023-05-30
+231,Paul Goldschmidt,STL,FPTS,10.0,2023-05-30
+232,Arike Ogunbowale,DAL,PTS,26.5,2023-05-30
+233,Arike Ogunbowale,DAL,REB,4.0,2023-05-30
+234,Arike Ogunbowale,DAL,AST,3.5,2023-05-30
+235,Arike Ogunbowale,DAL,3P,3.5,2023-05-30
+236,Arike Ogunbowale,DAL,PTS+TRB+AST,34.5,2023-05-30
+237,Arike Ogunbowale,DAL,PTS+TRB,30.5,2023-05-30
+238,Arike Ogunbowale,DAL,PTS+AST,30.5,2023-05-30
+239,Arike Ogunbowale,DAL,TRB+AST,7.5,2023-05-30
+240,Arike Ogunbowale,DAL,FPTS,35.5,2023-05-30
+241,Natasha Howard,DAL,PTS,16.5,2023-05-30
+242,Natasha Howard,DAL,REB,8.5,2023-05-30
+243,Natasha Howard,DAL,PTS+TRB+AST,27.5,2023-05-30
+244,Natasha Howard,DAL,PTS+TRB,25.5,2023-05-30
+245,Natasha Howard,DAL,PTS+AST,19.0,2023-05-30
+246,Natasha Howard,DAL,TRB+AST,11.0,2023-05-30
+247,Natasha Howard,DAL,FPTS,30.5,2023-05-30
+248,Satou Sabally,DAL,PTS,20.5,2023-05-30
+249,Satou Sabally,DAL,REB,7.5,2023-05-30
+250,Satou Sabally,DAL,AST,2.5,2023-05-30
+251,Satou Sabally,DAL,PTS+TRB+AST,30.5,2023-05-30
+252,Satou Sabally,DAL,PTS+TRB,28.5,2023-05-30
+253,Satou Sabally,DAL,PTS+AST,23.0,2023-05-30
+254,Satou Sabally,DAL,TRB+AST,10.0,2023-05-30
+255,Satou Sabally,DAL,FPTS,31.5,2023-05-30
+256,Jessica Shepard,MIN,PTS,8.0,2023-05-30
+257,Jessica Shepard,MIN,REB,8.5,2023-05-30
+258,Jessica Shepard,MIN,AST,4.0,2023-05-30
+259,Jessica Shepard,MIN,PTS+TRB+AST,20.5,2023-05-30
+260,Jessica Shepard,MIN,PTS+TRB,16.5,2023-05-30
+261,Jessica Shepard,MIN,PTS+AST,12.0,2023-05-30
+262,Jessica Shepard,MIN,TRB+AST,12.5,2023-05-30
+263,Jessica Shepard,MIN,FPTS,20.5,2023-05-30
+264,Napheesa Collier,MIN,PTS,17.5,2023-05-30
+265,Napheesa Collier,MIN,REB,6.5,2023-05-30
+266,Napheesa Collier,MIN,PTS+TRB+AST,27.5,2023-05-30
+267,Napheesa Collier,MIN,PTS+TRB,24.0,2023-05-30
+268,Napheesa Collier,MIN,PTS+AST,20.5,2023-05-30
+269,Napheesa Collier,MIN,FPTS,29.5,2023-05-30
+270,Diamond Miller,MIN,PTS,11.5,2023-05-30
+271,Diamond Miller,MIN,PTS+TRB+AST,16.5,2023-05-30
+272,Diamond Miller,MIN,PTS+TRB,14.5,2023-05-30
+273,Diamond Miller,MIN,PTS+AST,13.5,2023-05-30
+274,Diamond Miller,MIN,FPTS,19.0,2023-05-30
+275,decenty,OPLANO,Kills,40.5,2023-05-30
+276,piriaz1n,OPLANO,Kills,41.5,2023-05-30
+277,kNgV-,OPLANO,Kills,37.5,2023-05-30
+278,t9rnay,REDCan,Kills,40.5,2023-05-30
+279,detr0ittJ,REDCan,Kills,34.5,2023-05-30
+280,ckzao,REDCan,Kills,34.5,2023-05-30
+281,Kyle Hendricks,CHC,SO (K),4.0,2023-05-30
+282,Kyle Hendricks,CHC,H,5.0,2023-05-30
+283,Nico Hoerner,CHC,FPTS,7.5,2023-05-30
+284,Dansby Swanson,CHC,FPTS,7.5,2023-05-30
+285,Shane McClanahan,TB,SO (K),7.0,2023-05-30
+286,Shane McClanahan,TB,H,4.5,2023-05-30
+287,Shane McClanahan,TB,P,91.5,2023-05-30
+288,Wander Franco,TB,R,0.5,2023-05-30
+289,Wander Franco,TB,SO,0.5,2023-05-30
+290,Wander Franco,TB,FPTS,10.5,2023-05-30
+291,Josh Lowe,TB,H+R+R,1.5,2023-05-30
+292,Brandon Lowe,TB,H+R+R,1.5,2023-05-30
+293,Yandy Díaz,TB,R,0.5,2023-05-30
+294,Yandy Díaz,TB,FPTS,9.0,2023-05-30
+295,Randy Arozarena,TB,FPTS,9.0,2023-05-30
+296,Lucas Giolito,CHW,SO (K),6.0,2023-05-30
+297,Lucas Giolito,CHW,H,5.5,2023-05-30
+298,Lucas Giolito,CHW,BB,1.5,2023-05-30
+299,Luis Robert,CHW,TB,1.5,2023-05-30
+300,Yoán Moncada,CHW,H+R+R,1.5,2023-05-30
+301,Tim Anderson,CHW,R,0.5,2023-05-30
+302,Tim Anderson,CHW,TB,1.5,2023-05-30
+303,Andrew Benintendi,CHW,FPTS,7.5,2023-05-30
+304,Yasmani Grandal,CHW,H+R+R,1.5,2023-05-30
+305,Tyler Anderson,LAA,SO (K),4.0,2023-05-30
+306,Tyler Anderson,LAA,PO,17.5,2023-05-30
+307,Tyler Anderson,LAA,P,94.5,2023-05-30
+308,Shohei Ohtani,LAA,R,0.5,2023-05-30
+309,Shohei Ohtani,LAA,FPTS,9.5,2023-05-30
+310,Hunter Renfroe,LAA,H+R+R,1.5,2023-05-30
+311,Mike Trout,LAA,R,0.5,2023-05-30
+312,Mike Trout,LAA,FPTS,9.0,2023-05-30
+313,Gio Urshela,LAA,H+R+R,1.5,2023-05-30
+314,Matt Thaiss,LAA,TB,0.5,2023-05-30
+315,Joe Ryan,MIN,SO (K),6.0,2023-05-30
+316,Joe Ryan,MIN,P,96.5,2023-05-30
+317,Byron Buxton,MIN,FPTS,9.0,2023-05-30
+318,Carlos Correa,MIN,FPTS,8.5,2023-05-30
+319,Brandon Bielak,HOU,SO (K),5.0,2023-05-30
+320,Brandon Bielak,HOU,H,5.0,2023-05-30
+321,Brandon Bielak,HOU,ER,2.5,2023-05-30
+322,Yordan Alvarez,HOU,R,0.5,2023-05-30
+323,Yordan Alvarez,HOU,FPTS,9.0,2023-05-30
+324,José Altuve,HOU,FPTS,9.0,2023-05-30
+325,Kyle Tucker,HOU,FPTS,8.5,2023-05-30
+326,Breanna Stewart,NYL,PTS,22.5,2023-05-30
+327,Breanna Stewart,NYL,REB,9.0,2023-05-30
+328,Breanna Stewart,NYL,AST,3.5,2023-05-30
+329,Breanna Stewart,NYL,3P,2.5,2023-05-30
+330,Breanna Stewart,NYL,PTS+TRB+AST,35.5,2023-05-30
+331,Breanna Stewart,NYL,PTS+TRB,31.5,2023-05-30
+332,Breanna Stewart,NYL,PTS+AST,26.5,2023-05-30
+333,Breanna Stewart,NYL,TRB+AST,12.5,2023-05-30
+334,Breanna Stewart,NYL,FPTS,38.5,2023-05-30
+335,Sabrina Ionescu,NYL,PTS,16.5,2023-05-30
+336,Sabrina Ionescu,NYL,REB,7.0,2023-05-30
+337,Sabrina Ionescu,NYL,PTS+TRB+AST,28.5,2023-05-30
+338,Sabrina Ionescu,NYL,PTS+TRB,23.5,2023-05-30
+339,Sabrina Ionescu,NYL,PTS+AST,21.5,2023-05-30
+340,Sabrina Ionescu,NYL,TRB+AST,11.5,2023-05-30
+341,Sabrina Ionescu,NYL,FPTS,28.5,2023-05-30
+342,Courtney Vandersloot,NYL,PTS,11.5,2023-05-30
+343,Courtney Vandersloot,NYL,AST,7.5,2023-05-30
+344,Courtney Vandersloot,NYL,PTS+TRB+AST,22.0,2023-05-30
+345,Courtney Vandersloot,NYL,PTS+TRB,14.5,2023-05-30
+346,Courtney Vandersloot,NYL,PTS+AST,19.0,2023-05-30
+347,Courtney Vandersloot,NYL,TRB+AST,10.5,2023-05-30
+348,Courtney Vandersloot,NYL,FPTS,23.0,2023-05-30
+349,Jewell Loyd,SEA,PTS,22.5,2023-05-30
+350,Jewell Loyd,SEA,REB,3.5,2023-05-30
+351,Jewell Loyd,SEA,AST,3.5,2023-05-30
+352,Jewell Loyd,SEA,3P,2.5,2023-05-30
+353,Jewell Loyd,SEA,PTS+TRB+AST,29.5,2023-05-30
+354,Jewell Loyd,SEA,PTS+TRB,26.5,2023-05-30
+355,Jewell Loyd,SEA,PTS+AST,26.5,2023-05-30
+356,Jewell Loyd,SEA,TRB+AST,7.0,2023-05-30
+357,Jewell Loyd,SEA,FPTS,30.5,2023-05-30
+358,Ezi Magbegor,SEA,PTS,11.5,2023-05-30
+359,Ezi Magbegor,SEA,REB,7.0,2023-05-30
+360,Ezi Magbegor,SEA,PTS+TRB+AST,19.0,2023-05-30
+361,Ezi Magbegor,SEA,PTS+TRB,18.5,2023-05-30
+362,Ezi Magbegor,SEA,PTS+AST,12.0,2023-05-30
+363,Ezi Magbegor,SEA,FPTS,22.5,2023-05-30
+364,Kia Nurse,SEA,PTS,11.5,2023-05-30
+365,Kia Nurse,SEA,PTS+TRB+AST,17.5,2023-05-30
+366,Kia Nurse,SEA,PTS+TRB,15.0,2023-05-30
+367,Kia Nurse,SEA,PTS+AST,14.0,2023-05-30
+368,Kia Nurse,SEA,FPTS,17.5,2023-05-30
+369,Zac Gallen,ARI,SO (K),6.5,2023-05-30
+370,Zac Gallen,ARI,H,5.0,2023-05-30
+371,Zac Gallen,ARI,P,95.5,2023-05-30
+372,Ketel Marte,ARI,TB,1.5,2023-05-30
+373,Ketel Marte,ARI,SO,0.5,2023-05-30
+374,Ketel Marte,ARI,FPTS,10.0,2023-05-30
+375,Corbin Carroll,ARI,FPTS,10.5,2023-05-30
+376,Christian Walker,ARI,TB,1.5,2023-05-30
+377,Lourdes Gurriel Jr.,ARI,TB,1.5,2023-05-30
+378,Lourdes Gurriel Jr.,ARI,SO,0.5,2023-05-30
+379,Kyle Freeland,COL,SO (K),3.5,2023-05-30
+380,Kyle Freeland,COL,PO,15.5,2023-05-30
+381,Elias Díaz,COL,H+R+R,1.5,2023-05-30
+382,Jurickson Profar,COL,H+R+R,1.5,2023-05-30
+383,Nolan Jones,COL,TB,0.5,2023-05-30
+384,JP Sears,OAK,SO (K),5.0,2023-05-30
+385,Esteury Ruiz,OAK,H+R+R,1.5,2023-05-30
+386,Seth Brown,OAK,H+R+R,1.5,2023-05-30
+387,Jonah Bride,OAK,TB,0.5,2023-05-30
+388,Jonah Bride,OAK,SO,0.5,2023-05-30
+389,Nick Allen,OAK,SO,0.5,2023-05-30
+390,Bryce Elder,ATL,SO (K),5.0,2023-05-30
+391,Bryce Elder,ATL,H,5.0,2023-05-30
+392,Bryce Elder,ATL,P,95.5,2023-05-30
+393,Ronald Acuña Jr.,ATL,FPTS,12.0,2023-05-30
+394,Austin Riley,ATL,R,0.5,2023-05-30
+395,Austin Riley,ATL,FPTS,10.0,2023-05-30
+396,Matt Olson,ATL,FPTS,10.0,2023-05-30
+397,Travis d'Arnaud,ATL,H+R+R,1.5,2023-05-30
+398,Sean Murphy,ATL,H+R+R,1.5,2023-05-30
+399,Ozzie Albies,ATL,SO,0.5,2023-05-30
+400,Logan Gilbert,SEA,SO (K),6.0,2023-05-30
+401,Logan Gilbert,SEA,P,89.5,2023-05-30
+402,Julio Rodríguez,SEA,FPTS,10.0,2023-05-30
+403,Jarred Kelenic,SEA,FPTS,7.5,2023-05-30
+404,Nestor Cortes,NYY,SO (K),6.0,2023-05-30
+405,Nestor Cortes,NYY,BB,1.5,2023-05-30
+406,Nestor Cortes,NYY,P,90.5,2023-05-30
+407,Nestor Cortes,NYY,ER,2.5,2023-05-30
+408,Aaron Judge,NYY,R,0.5,2023-05-30
+409,Aaron Judge,NYY,TB,1.5,2023-05-30
+410,Aaron Judge,NYY,FPTS,10.0,2023-05-30
+411,Gleyber Torres,NYY,FPTS,7.5,2023-05-30
+412,DJ LeMahieu,NYY,H+R+R,1.5,2023-05-30
+413,Johan Oviedo,PIT,SO (K),5.0,2023-05-30
+414,Johan Oviedo,PIT,PO,16.5,2023-05-30
+415,Johan Oviedo,PIT,ER,2.5,2023-05-30
+416,Ke'Bryan Hayes,PIT,H+R+R,1.5,2023-05-30
+417,Bryan Reynolds,PIT,FPTS,9.0,2023-05-30
+418,Andrew McCutchen,PIT,FPTS,8.5,2023-05-30
+419,Carlos Santana,PIT,H+R+R,1.5,2023-05-30
+420,Michael Conforto,SF,FPTS,8.5,2023-05-30
+421,Tony Gonsolin,LAD,SO (K),4.0,2023-05-30
+422,Freddie Freeman,LAD,SO,0.5,2023-05-30
+423,Freddie Freeman,LAD,FPTS,11.5,2023-05-30
+424,Will Smith,LAD,SO,0.5,2023-05-30
+425,Will Smith,LAD,FPTS,9.0,2023-05-30
+426,Mookie Betts,LAD,FPTS,10.5,2023-05-30
+427,Jake Irvin,WSH,SO (K),3.5,2023-05-30
+428,Joey Meneses,WSH,FPTS,7.0,2023-05-30
+429,Lane Thomas,WSH,FPTS,7.0,2023-05-30

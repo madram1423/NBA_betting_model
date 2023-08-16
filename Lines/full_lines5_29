@@ -1,0 +1,733 @@
+,Player,Team,Line,Stat,League,Date
+0,Bryce Young,2023 CAR,3649.5,Pass Yards,163,2023-09-07
+1,Bijan Robinson,2023 ATL,1075.5,Rush Yards,163,2023-09-07
+2,Nikola Jokic,TBA,27.5,PTS,7,2023-06-01
+3,Adam Phillips,Sheffield Wednesday,1.5,Shots,82,2023-05-29
+4,Jayson Tatum,MIA 1st Half,2.5,FT,84,2023-05-29
+5,Mads Andersen,Sheffield Wednesday,4.5,Clearances,82,2023-05-29
+6,Liam Palmer,Barnsley,1.5,Tackles,82,2023-05-29
+7,Jayson Tatum,MIA,37.5,PTS+AST,7,2023-05-29
+8,Josh Windass,Barnsley,2.5,Shots,82,2023-05-29
+9,Harry Isted,Sheffield Wednesday,2.5,Goalie Saves,82,2023-05-29
+10,Mads Andersen,Sheffield Wednesday,41.5,Passes Attempted,82,2023-05-29
+11,Barry Bannan,Barnsley,51.5,Passes Attempted,82,2023-05-29
+12,Jayson Tatum,MIA,7.5,FT,7,2023-05-29
+13,Moeen Ali,Gujarat Titans,13.5,Runs,162,2023-05-29
+14,C.J. Stroud,2023 HOU,3625.5,Pass Yards,163,2023-09-07
+15,Cameron Dawson,Barnsley,2.5,Goalie Saves,82,2023-05-29
+16,James Norwood,Sheffield Wednesday,0.5,Shots On Target,82,2023-05-29
+17,Jayson Tatum,MIA,3.5,TOV,7,2023-05-29
+18,Jayson Tatum,MIA,42.5,PTS+TRB,7,2023-05-29
+19,Jayson Tatum,MIA,16.5,TRB+AST,7,2023-05-29
+20,Liam Palmer,Barnsley,0.5,Shots,82,2023-05-29
+21,Michael Smith,Barnsley,2.5,Shots,82,2023-05-29
+22,Lee Gregory,Barnsley,2.0,Shots,82,2023-05-29
+23,Callum Paterson,Barnsley,1.5,Shots,82,2023-05-29
+24,Jayson Tatum,MIA,6.0,AST,7,2023-05-29
+25,Jayson Tatum,MIA 1st Half,24.5,PTS+TRB+AST,84,2023-05-29
+26,Jayson Tatum,MIA,48.5,PTS+TRB+AST,7,2023-05-29
+27,Tyler Wells,CLE,4.5,Pitcher Strikeouts,2,2023-05-29
+28,Jayson Tatum,MIA,10.5,TRB,7,2023-05-29
+29,Jayson Tatum,MIA,1.5,FT,192,2023-05-29
+30,NiKo,Nouns,19.5,MAP 1 Kills,124,2023-05-29
+31,James Norwood,Sheffield Wednesday,1.5,Shots,82,2023-05-29
+32,Luca Connell,Sheffield Wednesday,1.5,Tackles,82,2023-05-29
+33,Jayson Tatum,MIA 1st Half,15.5,PTS,84,2023-05-29
+34,Jayson Tatum,MIA,31.5,PTS,7,2023-05-29
+35,Devante Cole,Sheffield Wednesday,1.5,Shots,82,2023-05-29
+36,Jordan Williams,Sheffield Wednesday,28.5,Passes Attempted,82,2023-05-29
+37,Devante Cole,Sheffield Wednesday,0.5,Shots On Target,82,2023-05-29
+38,Josh Windass,Barnsley,0.5,Tackles,82,2023-05-29
+39,Max Watters,Sheffield Wednesday,1.5,Shots,82,2023-05-29
+40,Michael Ihiekwe,Barnsley,51.5,Passes Attempted,82,2023-05-29
+41,Liam Kitching,Sheffield Wednesday,3.0,Clearances,82,2023-05-29
+42,Slobodan Tedic,Sheffield Wednesday,0.5,Shots On Target,82,2023-05-29
+43,Michael Ihiekwe,Barnsley,3.0,Clearances,82,2023-05-29
+44,Jose Ramirez,BAL,7.0,Hitter Fantasy Score,2,2023-05-29
+45,Jimmy Butler,BOS,6.0,AST,7,2023-05-29
+46,Jimmy Butler,BOS 1st Half,21.5,PTS+TRB+AST,84,2023-05-29
+47,Jimmy Butler,BOS,28.5,PTS,7,2023-05-29
+48,Jimmy Butler,BOS,2.0,FT,192,2023-05-29
+49,Jimmy Butler,BOS,8.0,TRB,7,2023-05-29
+50,Jimmy Butler,BOS,42.5,PTS+TRB+AST,7,2023-05-29
+51,Jimmy Butler,BOS 1st Half,14.5,PTS,84,2023-05-29
+52,Jimmy Butler,BOS,14.5,TRB+AST,7,2023-05-29
+53,Jimmy Butler,BOS,8.5,FT,7,2023-05-29
+54,Adley Rutschman,CLE,7.0,Hitter Fantasy Score,2,2023-05-29
+55,Jimmy Butler,BOS,34.5,PTS+AST,7,2023-05-29
+56,Shubman Gill,Chennai Super Kings,30.5,Runs,162,2023-05-29
+57,m0NESY,Nouns,20.0,MAP 1 Kills,124,2023-05-29
+58,Aaron Rodgers,2023 NYJ,4050.5,Pass Yards,163,2023-09-07
+59,Jimmy Butler,BOS,36.5,PTS+TRB,7,2023-05-29
+60,Jimmy Butler,BOS 1st Half,3.5,FT,84,2023-05-29
+61,Jaylen Brown,MIA,10.0,TRB+AST,7,2023-05-29
+62,Steven Kwan,BAL,6.5,Hitter Fantasy Score,2,2023-05-29
+63,Jaylen Brown,MIA 1st Half,17.5,PTS+TRB+AST,84,2023-05-29
+64,Ryan Mountcastle,CLE,1.5,Total Bases,2,2023-05-29
+65,Jaylen Brown,MIA,3.5,AST,7,2023-05-29
+66,Marcus Smart,MIA 1st Half,0.5,FT,84,2023-05-29
+67,Jaylen Brown,MIA,3.5,FT,7,2023-05-29
+68,Jaylen Brown,MIA,1.5,BLK+STL,7,2023-05-29
+69,Jaylen Brown,MIA,24.5,PTS,7,2023-05-29
+70,Jaylen Brown,MIA,28.5,PTS+AST,7,2023-05-29
+71,Jaylen Brown,MIA,6.5,TRB,7,2023-05-29
+72,Jaylen Brown,MIA,34.5,PTS+TRB+AST,7,2023-05-29
+73,Jaylen Brown,MIA,31.0,PTS+TRB,7,2023-05-29
+74,Jaylen Brown,MIA 1st Half,12.5,PTS,84,2023-05-29
+75,Jaylen Brown,MIA,0.5,FT,192,2023-05-29
+76,Devon Conway,Gujarat Titans,28.5,Runs,162,2023-05-29
+77,huNter-,Nouns,18.5,MAP 1 Kills,124,2023-05-29
+78,Bam Adebayo,BOS,26.5,PTS+TRB,7,2023-05-29
+79,Bam Adebayo,BOS,0.5,FT,192,2023-05-29
+80,Bam Adebayo,BOS 1st Half,1.5,FT,84,2023-05-29
+81,Bam Adebayo,BOS,3.5,FT,7,2023-05-29
+82,Bam Adebayo,BOS,20.5,PTS+AST,7,2023-05-29
+83,Bam Adebayo,BOS,2.5,TOV,7,2023-05-29
+84,Bam Adebayo,BOS,30.5,PTS+TRB+AST,7,2023-05-29
+85,Bam Adebayo,BOS,9.5,TRB,7,2023-05-29
+86,Bam Adebayo,BOS 1st Half,8.5,PTS,84,2023-05-29
+87,Bam Adebayo,BOS,17.0,PTS,7,2023-05-29
+88,Bam Adebayo,BOS 1st Half,15.5,PTS+TRB+AST,84,2023-05-29
+89,Bam Adebayo,BOS,13.5,TRB+AST,7,2023-05-29
+90,jks,Nouns,18.0,MAP 1 Kills,124,2023-05-29
+91,Anthony Santander,CLE,7.0,Hitter Fantasy Score,2,2023-05-29
+92,David Miller,Chennai Super Kings,17.5,Runs,162,2023-05-29
+93,Marcus Smart,MIA,18.5,PTS+TRB,7,2023-05-29
+94,HooXi,Nouns,13.5,MAP 1 Kills,124,2023-05-29
+95,Marcus Smart,MIA 1st Half,7.5,PTS,84,2023-05-29
+96,Marcus Smart,MIA,2.5,FT,7,2023-05-29
+97,Marcus Smart,MIA,9.5,TRB+AST,7,2023-05-29
+98,Marcus Smart,MIA,5.5,AST,7,2023-05-29
+99,Marcus Smart,MIA,14.5,PTS,7,2023-05-29
+100,Marcus Smart,MIA 1st Half,11.5,PTS+TRB+AST,84,2023-05-29
+101,Marcus Smart,MIA,23.5,PTS+TRB+AST,7,2023-05-29
+102,Marcus Smart,MIA,4.0,TRB,7,2023-05-29
+103,Shivam Dube,Gujarat Titans,18.5,Runs,162,2023-05-29
+104,Marcus Smart,MIA,19.5,PTS+AST,7,2023-05-29
+105,Hardik Pandya,Chennai Super Kings,22.5,Runs,162,2023-05-29
+106,Caleb Martin,BOS 1st Half,11.5,PTS+TRB+AST,84,2023-05-29
+107,Caleb Martin,BOS,16.5,PTS+AST,7,2023-05-29
+108,Caleb Martin,BOS,22.5,PTS+TRB,7,2023-05-29
+109,Caleb Martin,BOS,8.5,TRB+AST,7,2023-05-29
+110,Caleb Martin,BOS,23.5,PTS+TRB+AST,7,2023-05-29
+111,cynic,G2,16.0,MAP 1 Kills,124,2023-05-29
+112,Caleb Martin,BOS,1.5,FT,7,2023-05-29
+113,Caleb Martin,BOS,15.0,PTS,7,2023-05-29
+114,Caleb Martin,BOS,7.0,TRB,7,2023-05-29
+115,Caleb Martin,BOS 1st Half,7.5,PTS,84,2023-05-29
+116,Derrick White,MIA,2.5,3P,7,2023-05-29
+117,Robert Williams,MIA,0.5,FT,7,2023-05-29
+118,Ruturaj Gaikwad,Gujarat Titans,28.5,Runs,162,2023-05-29
+119,MarKE,G2,15.5,MAP 1 Kills,124,2023-05-29
+120,Derrick White,MIA,17.5,PTS+AST,7,2023-05-29
+121,Derrick White,MIA,18.5,PTS+TRB,7,2023-05-29
+122,Derrick White,MIA 1st Half,7.5,PTS,84,2023-05-29
+123,Derrick White,MIA 1st Half,10.5,PTS+TRB+AST,84,2023-05-29
+124,Derrick White,MIA,21.5,PTS+TRB+AST,7,2023-05-29
+125,Derrick White,MIA,14.5,PTS,7,2023-05-29
+126,Bwills,G2,15.5,MAP 1 Kills,124,2023-05-29
+127,Wriddhiman Saha,Chennai Super Kings,19.5,Runs,162,2023-05-29
+128,Max Strus,BOS,10.0,PTS,7,2023-05-29
+129,Kyle Lowry,BOS,0.5,FT,7,2023-05-29
+130,Max Strus,BOS,12.5,PTS+TRB,7,2023-05-29
+131,Max Strus,BOS,11.5,PTS+AST,7,2023-05-29
+132,Max Strus,BOS 1st Half,5.5,PTS,84,2023-05-29
+133,Al Horford,MIA,7.0,PTS,7,2023-05-29
+134,Al Horford,MIA 1st Half,3.5,PTS,84,2023-05-29
+135,Al Horford,MIA,16.5,PTS+TRB+AST,7,2023-05-29
+136,Al Horford,MIA,2.5,AST,7,2023-05-29
+137,Al Horford,MIA,6.5,TRB,7,2023-05-29
+138,Al Horford,MIA 1st Half,8.5,PTS+TRB+AST,84,2023-05-29
+139,Al Horford,MIA,9.0,TRB+AST,7,2023-05-29
+140,Ajinkya Rahane,Gujarat Titans,19.5,Runs,162,2023-05-29
+141,Al Horford,MIA,13.5,PTS+TRB,7,2023-05-29
+142,Al Horford,MIA,0.5,TOV,7,2023-05-29
+143,Derrick White,MIA,1.5,FT,7,2023-05-29
+144,cJ,G2,14.0,MAP 1 Kills,124,2023-05-29
+145,Gabe Vincent,BOS,16.5,PTS+AST,7,2023-05-29
+146,Sai Sudharsan,Chennai Super Kings,17.5,Runs,162,2023-05-29
+147,Gabe Vincent,BOS 1st Half,6.5,PTS,84,2023-05-29
+148,Gabe Vincent,BOS,16.5,PTS+TRB,7,2023-05-29
+149,Gabe Vincent,BOS,2.5,TRB,7,2023-05-29
+150,Gabe Vincent,BOS,2.5,3P,7,2023-05-29
+151,nosraC,G2,13.5,MAP 1 Kills,124,2023-05-29
+152,Gabe Vincent,BOS 1st Half,9.5,PTS+TRB+AST,84,2023-05-29
+153,Gabe Vincent,BOS,19.5,PTS+TRB+AST,7,2023-05-29
+154,Lamar Jackson,2023 BAL,3625.5,Pass Yards,163,2023-09-07
+155,Gabe Vincent,BOS,1.5,FT,7,2023-05-29
+156,Gabe Vincent,BOS,13.5,PTS,7,2023-05-29
+157,Robert Williams,MIA,1.5,BLK+STL,7,2023-05-29
+158,Robert Williams,MIA 1st Half,3.5,PTS,84,2023-05-29
+159,Robert Williams,MIA,12.5,PTS+TRB+AST,7,2023-05-29
+160,Robert Williams,MIA 1st Half,6.5,PTS+TRB+AST,84,2023-05-29
+161,NiKo,Nouns,10.5,MAP 1 Headshots,124,2023-05-29
+162,Robert Williams,MIA,0.5,AST,7,2023-05-29
+163,Grant Williams,MIA,0.5,FT,7,2023-05-29
+164,Robert Williams,MIA,5.0,TRB,7,2023-05-29
+165,Robert Williams,MIA,6.5,PTS,7,2023-05-29
+166,Kyle Lowry,BOS,7.5,PTS,7,2023-05-29
+167,Max Strus,BOS,0.5,FT,7,2023-05-29
+168,Kyle Lowry,BOS 1st Half,6.5,PTS+TRB+AST,84,2023-05-29
+169,Kyle Lowry,BOS,10.5,PTS+AST,7,2023-05-29
+170,Kyle Lowry,BOS,13.5,PTS+TRB+AST,7,2023-05-29
+171,Kyle Lowry,BOS 1st Half,3.5,PTS,84,2023-05-29
+172,m0NESY,Nouns,7.0,MAP 1 Headshots,124,2023-05-29
+173,Shubman Gill,Chennai Super Kings,3.5,Fours,162,2023-05-29
+174,Grant Williams,MIA,11.5,PTS+TRB+AST,7,2023-05-29
+175,Grant Williams,MIA,3.5,TRB,7,2023-05-29
+176,huNter-,Nouns,8.0,MAP 1 Headshots,124,2023-05-29
+177,Grant Williams,MIA 1st Half,6.0,PTS+TRB+AST,84,2023-05-29
+178,Grant Williams,MIA 1st Half,3.5,PTS,84,2023-05-29
+179,Grant Williams,MIA,6.5,PTS,7,2023-05-29
+180,Justin Allgaier,1 - Alsco Uniforms 300,43.5,Laps Led,137,2023-05-29
+181,Duncan Robinson,BOS,11.5,PTS+TRB+AST,7,2023-05-29
+182,Duncan Robinson,BOS 1st Half,4.5,PTS,84,2023-05-29
+183,Ruturaj Gaikwad,Gujarat Titans,2.5,Fours,162,2023-05-29
+184,Duncan Robinson,BOS,8.5,PTS,7,2023-05-29
+185,jks,Nouns,10.0,MAP 1 Headshots,124,2023-05-29
+186,Ty Gibbs,3 - Alsco Uniforms 300,41.5,Laps Led,137,2023-05-29
+187,HooXi,Nouns,7.0,MAP 1 Headshots,124,2023-05-29
+188,cynic,G2,6.0,MAP 1 Headshots,124,2023-05-29
+189,Devon Conway,Gujarat Titans,0.5,Sixes,162,2023-05-29
+190,Justin Allgaier,1 - Alsco Uniforms 300,25.5,Fastest Laps,137,2023-05-29
+191,Ruturaj Gaikwad,Gujarat Titans,0.5,Sixes,162,2023-05-29
+192,MarKE,G2,8.0,MAP 1 Headshots,124,2023-05-29
+193,John Hunter Nemechek,2 - Alsco Uniforms 300,20.5,Fastest Laps,137,2023-05-29
+194,Anna Blinkova,Y. Bonaventure (French Open),3.0,Aces,5,2023-05-29
+195,HOYA,FPX (MAP 3 Kills),2.5,MAP 3 Kills,121,2023-05-29
+196,Bwills,G2,8.0,MAP 1 Headshots,124,2023-05-29
+197,William Byron,1 - Coca Cola 600,51.5,Laps Led,4,2023-05-29
+198,Ty Gibbs,3 - Alsco Uniforms 300,19.5,Fastest Laps,137,2023-05-29
+199,Anna Blinkova,Y. Bonaventure (French Open),21.0,Total Games,5,2023-05-29
+200,Kyle Larson,12 - Coca Cola 600,31.5,Laps Led,4,2023-05-29
+201,Ekaterina Alexandrova,V. Tomova (French Open),20.5,Total Games,5,2023-05-29
+202,cJ,G2,8.0,MAP 1 Headshots,124,2023-05-29
+203,Josh Berry,14 - Alsco Uniforms 300,7.5,Cars Passed (Net),137,2023-05-29
+204,Beichuan,FPX (MAP 3 Kills),2.5,MAP 3 Kills,121,2023-05-29
+205,Jelena Ostapenko,T. Martincova (French Open),3.5,Aces,5,2023-05-29
+206,Jelena Ostapenko,T. Martincova (French Open),18.5,Total Games,5,2023-05-29
+207,William Byron,1 - Coca Cola 600,27.5,Fastest Laps,4,2023-05-29
+208,Tereza Martincova,J. Ostapenko (French Open),1.5,Aces,5,2023-05-29
+209,nosraC,G2,6.5,MAP 1 Headshots,124,2023-05-29
+210,Matthew Boyd + Nathan Eovaldi,TEX/DET,1.5,1st Inning Hits Allowed,2,2023-05-29
+211,Sammy Smith,18 - Alsco Uniforms 300,10.5,Cars Passed (Net),137,2023-05-29
+212,Anna-Lena Friedsam,N. Hibino (French Open),21.0,Total Games,5,2023-05-29
+213,Corey Seager,DET,7.5,Hitter Fantasy Score,2,2023-05-29
+214,Kyle Larson,12 - Coca Cola 600,23.5,Fastest Laps,4,2023-05-29
+215,KSCERATO,OG,19.5,MAP 1 Kills,124,2023-05-29
+216,ucal,FPX (MAP 3 Kills),4.5,MAP 3 Kills,121,2023-05-29
+217,Petra Kvitova,E. Cocciaretto (French Open),21.5,Total Games,5,2023-05-29
+218,Riley Greene,TEX,6.5,Hitter Fantasy Score,2,2023-05-29
+219,yuurih,OG,18.0,MAP 1 Kills,124,2023-05-29
+220,Kyle Larson,12 - Coca Cola 600,7.5,Cars Passed (Net),4,2023-05-29
+221,Austin Hill,17 - Alsco Uniforms 300,8.5,Cars Passed (Net),137,2023-05-29
+222,Marcus Semien,DET,1.5,Total Bases,2,2023-05-29
+223,Elizabeth Mandlik,S. Waltert (French Open),21.5,Total Games,5,2023-05-29
+224,saffee,OG,17.5,MAP 1 Kills,124,2023-05-29
+225,Marcus Semien,DET,8.0,Hitter Fantasy Score,2,2023-05-29
+226,Martin Truex Jr.,18 - Coca Cola 600,10.5,Cars Passed (Net),4,2023-05-29
+227,Veronika Kudermetova,A. Schmiedlova (French Open),18.5,Total Games,5,2023-05-29
+228,Ross Chastain,14 - Coca Cola 600,6.5,Cars Passed (Net),4,2023-05-29
+229,arT,OG,16.5,MAP 1 Kills,124,2023-05-29
+230,1xn,FPX (MAP 3 Kills),5.0,MAP 3 Kills,121,2023-05-29
+231,Adolis Garcia,DET,7.0,Hitter Fantasy Score,2,2023-05-29
+232,drop,OG,14.5,MAP 1 Kills,124,2023-05-29
+233,Tyler Reddick,15 - Coca Cola 600,5.5,Cars Passed (Net),4,2023-05-29
+234,Joey Logano,17 - Coca Cola 600,6.5,Cars Passed (Net),4,2023-05-29
+235,Xiaolaohu,TT (MAP 3 Kills),2.0,MAP 3 Kills,121,2023-05-29
+236,regali,FURIA,20.5,MAP 1 Kills,124,2023-05-29
+237,Alex Bowman,31 - Coca Cola 600,18.5,Cars Passed (Net),4,2023-05-29
+238,flameZ,FURIA,18.5,MAP 1 Kills,124,2023-05-29
+239,Daniel Suarez,24 - Coca Cola 600,10.5,Cars Passed (Net),4,2023-05-29
+240,H4cker,TT (MAP 3 Kills),1.5,MAP 3 Kills,121,2023-05-29
+241,NEOFRAG,FURIA,16.5,MAP 1 Kills,124,2023-05-29
+242,Ty Gibbs,19 - Coca Cola 600,4.5,Cars Passed (Net),4,2023-05-29
+243,F1KU,FURIA,16.0,MAP 1 Kills,124,2023-05-29
+244,niko,FURIA,16.0,MAP 1 Kills,124,2023-05-29
+245,Care,TT (MAP 3 Kills),3.0,MAP 3 Kills,121,2023-05-29
+246,KSCERATO,OG,9.0,MAP 1 Headshots,124,2023-05-29
+247,yuurih,OG,7.5,MAP 1 Headshots,124,2023-05-29
+248,Lwx,TT (MAP 3 Kills),3.0,MAP 3 Kills,121,2023-05-29
+249,saffee,OG,5.0,MAP 1 Headshots,124,2023-05-29
+250,arT,OG,7.0,MAP 1 Headshots,124,2023-05-29
+251,drop,OG,7.5,MAP 1 Headshots,124,2023-05-29
+252,regali,FURIA,7.0,MAP 1 Headshots,124,2023-05-29
+253,flameZ,FURIA,9.0,MAP 1 Headshots,124,2023-05-29
+254,Borna Coric,F. Coria (French Open),31.5,Total Games,5,2023-05-29
+255,Borna Coric,F. Coria (French Open),5.5,Aces,5,2023-05-29
+256,NEOFRAG,FURIA,9.0,MAP 1 Headshots,124,2023-05-29
+257,Carlos Alcaraz,F. Cobolli (French Open),27.0,Total Games,5,2023-05-29
+258,F1KU,FURIA,9.0,MAP 1 Headshots,124,2023-05-29
+259,niko,FURIA,8.0,MAP 1 Headshots,124,2023-05-29
+260,Dominic Thiem,P. Cachin (French Open),38.5,Total Games,5,2023-05-29
+261,Paul Goldschmidt,KC,7.5,Hitter Fantasy Score,2,2023-05-29
+262,Frances Tiafoe,F. Krajinovic (French Open),36.0,Total Games,5,2023-05-29
+263,f0rest,MOUZ,16.5,MAP 1 Kills,124,2023-05-29
+264,Bobby Witt Jr.,STL,1.5,Total Bases,2,2023-05-29
+265,Salvador Perez,STL,1.5,Total Bases,2,2023-05-29
+266,Hamad Medjedovic,M. Giron (French Open),37.5,Total Games,5,2023-05-29
+267,Salvador Perez,STL,7.0,Hitter Fantasy Score,2,2023-05-29
+268,mezii,MOUZ,18.0,MAP 1 Kills,124,2023-05-29
+269,nicoodoz,MOUZ,17.5,MAP 1 Kills,124,2023-05-29
+270,Nolan Arenado,KC,7.0,Hitter Fantasy Score,2,2023-05-29
+271,roeJ,MOUZ,17.0,MAP 1 Kills,124,2023-05-29
+272,Alejandro Davidovich Fokina,A. Fils (French Open),35.5,Total Games,5,2023-05-29
+273,Bobby Witt Jr.,STL,7.5,Hitter Fantasy Score,2,2023-05-29
+274,FASHR,MOUZ,16.0,MAP 1 Kills,124,2023-05-29
+275,Daniel Altmaier,M. Huesler (French Open),38.5,Total Games,5,2023-05-29
+276,frozen,fnatic,20.0,MAP 1 Kills,124,2023-05-29
+277,Dusan Lajovic,Z. Zhang (French Open),37.5,Total Games,5,2023-05-29
+278,Luca Van Assche,M. Cecchinato (French Open),3.0,Aces,5,2023-05-29
+279,xertioN,fnatic,19.0,MAP 1 Kills,124,2023-05-29
+280,Luca Van Assche,M. Cecchinato (French Open),37.5,Total Games,5,2023-05-29
+281,Marco Cecchinato,L. Van Assche (French Open),7.5,Aces,5,2023-05-29
+282,Jannik Sinner,A. Muller (French Open),6.0,Aces,5,2023-05-29
+283,Alexandre Muller,J. Sinner (French Open),2.5,Aces,5,2023-05-29
+284,Jannik Sinner,A. Muller (French Open),28.5,Total Games,5,2023-05-29
+285,torzsi,fnatic,18.0,MAP 1 Kills,124,2023-05-29
+286,JDC,fnatic,16.0,MAP 1 Kills,124,2023-05-29
+287,dexter,fnatic,15.5,MAP 1 Kills,124,2023-05-29
+288,f0rest,MOUZ,8.5,MAP 1 Headshots,124,2023-05-29
+289,mezii,MOUZ,9.5,MAP 1 Headshots,124,2023-05-29
+290,nicoodoz,MOUZ,6.0,MAP 1 Headshots,124,2023-05-29
+291,roeJ,MOUZ,9.0,MAP 1 Headshots,124,2023-05-29
+292,FASHR,MOUZ,8.0,MAP 1 Headshots,124,2023-05-29
+293,frozen,fnatic,9.5,MAP 1 Headshots,124,2023-05-29
+294,xertioN,fnatic,9.5,MAP 1 Headshots,124,2023-05-29
+295,torzsi,fnatic,5.0,MAP 1 Headshots,124,2023-05-29
+296,JDC,fnatic,8.0,MAP 1 Headshots,124,2023-05-29
+297,dexter,fnatic,8.0,MAP 1 Headshots,124,2023-05-29
+298,Randy Arozarena,CHC,7.5,Hitter Fantasy Score,2,2023-05-29
+299,try,Heroic,16.5,MAP 1 Kills,124,2023-05-29
+300,dav1deuS,Heroic,16.5,MAP 1 Kills,124,2023-05-29
+301,Dansby Swanson,TB,8.0,Hitter Fantasy Score,2,2023-05-29
+302,Wander Franco,CHC,8.5,Hitter Fantasy Score,2,2023-05-29
+303,dgt,Heroic,16.0,MAP 1 Kills,124,2023-05-29
+304,max,Heroic,14.5,MAP 1 Kills,124,2023-05-29
+305,Nico Hoerner,TB,7.5,Hitter Fantasy Score,2,2023-05-29
+306,buda,Heroic,13.0,MAP 1 Kills,124,2023-05-29
+307,Yandy Diaz,CHC,7.5,Hitter Fantasy Score,2,2023-05-29
+308,stavn,9z,20.0,MAP 1 Kills,124,2023-05-29
+309,jabbi,9z,18.5,MAP 1 Kills,124,2023-05-29
+310,cadiaN,9z,18.0,MAP 1 Kills,124,2023-05-29
+311,TeSeS,9z,17.5,MAP 1 Kills,124,2023-05-29
+312,sjuush,9z,17.0,MAP 1 Kills,124,2023-05-29
+313,try,Heroic,5.5,MAP 1 Headshots,124,2023-05-29
+314,dav1deuS,Heroic,8.0,MAP 1 Headshots,124,2023-05-29
+315,dgt,Heroic,8.5,MAP 1 Headshots,124,2023-05-29
+316,max,Heroic,6.0,MAP 1 Headshots,124,2023-05-29
+317,buda,Heroic,6.0,MAP 1 Headshots,124,2023-05-29
+318,stavn,9z,8.0,MAP 1 Headshots,124,2023-05-29
+319,jabbi,9z,10.5,MAP 1 Headshots,124,2023-05-29
+320,cadiaN,9z,5.5,MAP 1 Headshots,124,2023-05-29
+321,TeSeS,9z,9.0,MAP 1 Headshots,124,2023-05-29
+322,sjuush,9z,8.0,MAP 1 Headshots,124,2023-05-29
+323,Ketel Marte,COL,8.5,Hitter Fantasy Score,2,2023-05-29
+324,broky,Evil Geniuses,20.0,MAP 1 Kills,124,2023-05-29
+325,Christian Walker,COL,7.0,Hitter Fantasy Score,2,2023-05-29
+326,ropz,Evil Geniuses,20.5,MAP 1 Kills,124,2023-05-29
+327,rain,Evil Geniuses,18.0,MAP 1 Kills,124,2023-05-29
+328,Corbin Carroll,COL,1.5,Total Bases,2,2023-05-29
+329,Kris Bryant,ARI,7.5,Hitter Fantasy Score,2,2023-05-29
+330,Geraldo Perdomo,COL,0.5,Total Bases,2,2023-05-29
+331,Charlie Blackmon,ARI,7.5,Hitter Fantasy Score,2,2023-05-29
+332,Twistzz,Evil Geniuses,17.0,MAP 1 Kills,124,2023-05-29
+333,karrigan,Evil Geniuses,14.5,MAP 1 Kills,124,2023-05-29
+334,autimatic,FaZe,16.0,MAP 1 Kills,124,2023-05-29
+335,Brehze,FaZe,15.0,MAP 1 Kills,124,2023-05-29
+336,neaLaN,FaZe,14.0,MAP 1 Kills,124,2023-05-29
+337,wiz,FaZe,14.0,MAP 1 Kills,124,2023-05-29
+338,refrezh,FaZe,14.0,MAP 1 Kills,124,2023-05-29
+339,broky,Evil Geniuses,6.5,MAP 1 Headshots,124,2023-05-29
+340,ropz,Evil Geniuses,11.5,MAP 1 Headshots,124,2023-05-29
+341,rain,Evil Geniuses,9.5,MAP 1 Headshots,124,2023-05-29
+342,Twistzz,Evil Geniuses,9.5,MAP 1 Headshots,124,2023-05-29
+343,karrigan,Evil Geniuses,6.0,MAP 1 Headshots,124,2023-05-29
+344,autimatic,FaZe,8.0,MAP 1 Headshots,124,2023-05-29
+345,Brehze,FaZe,8.5,MAP 1 Headshots,124,2023-05-29
+346,neaLaN,FaZe,7.5,MAP 1 Headshots,124,2023-05-29
+347,wiz,FaZe,4.0,MAP 1 Headshots,124,2023-05-29
+348,refrezh,FaZe,7.0,MAP 1 Headshots,124,2023-05-29
+349,Justin Jefferson,2023 MIN,1450.5,Receiving Yards,163,2023-09-07
+350,Yordan Alvarez,MIN,7.5,Hitter Fantasy Score,2,2023-05-29
+351,Derrick Henry,2023 TEN,1275.5,Rush Yards,163,2023-09-07
+352,Nertz,Complexity,19.5,MAP 1 Kills,124,2023-05-29
+353,Patrick Mahomes,2023 KC,4800.5,Pass Yards,163,2023-09-07
+354,Byron Buxton,HOU,7.5,Hitter Fantasy Score,2,2023-05-29
+355,Tyreek Hill,2023 MIA,1299.5,Receiving Yards,163,2023-09-07
+356,Jonathan Taylor,2023 IND,1300.5,Rush Yards,163,2023-09-07
+357,dycha,Complexity,19.0,MAP 1 Kills,124,2023-05-29
+358,Josh Allen,2023 BUF,4375.5,Pass Yards,163,2023-09-07
+359,Nick Chubb,2023 CLE,1275.5,Rush Yards,163,2023-09-07
+360,SunPayus,Complexity,18.0,MAP 1 Kills,124,2023-05-29
+361,Joe Burrow,2023 CIN,4500.5,Pass Yards,163,2023-09-07
+362,Jose Altuve,MIN,7.5,Hitter Fantasy Score,2,2023-05-29
+363,Ja'Marr Chase,2023 CIN,1325.5,Receiving Yards,163,2023-09-07
+364,Maden,Complexity,17.0,MAP 1 Kills,124,2023-05-29
+365,Justin Herbert,2023 LAC,4725.5,Pass Yards,163,2023-09-07
+366,Travis Kelce,2023 KC,1150.5,Receiving Yards,163,2023-09-07
+367,Travis Etienne Jr.,2023 JAX,1125.5,Rush Yards,163,2023-09-07
+368,Carlos Correa,HOU,6.5,Hitter Fantasy Score,2,2023-05-29
+369,Alex Bregman,MIN,6.5,Hitter Fantasy Score,2,2023-05-29
+370,Snappi,Complexity,16.0,MAP 1 Kills,124,2023-05-29
+371,Trevor Lawrence,2023 JAX,4175.5,Pass Yards,163,2023-09-07
+372,Stefon Diggs,2023 BUF,1225.5,Receiving Yards,163,2023-09-07
+373,Michael A. Taylor,HOU,0.5,Total Bases,2,2023-05-29
+374,Najee Harris,2023 PIT,1050.5,Rush Yards,163,2023-09-07
+375,Grim,ENCE,17.5,MAP 1 Kills,124,2023-05-29
+376,Jalen Hurts,2023 PHI,3675.5,Pass Yards,163,2023-09-07
+377,CeeDee Lamb,2023 DAL,1225.5,Receiving Yards,163,2023-09-07
+378,hallzerk,ENCE,16.5,MAP 1 Kills,124,2023-05-29
+379,Josh Allen,2023 BUF,600.5,Rush Yards,163,2023-09-07
+380,Davante Adams,2023 LV,1250.5,Receiving Yards,163,2023-09-07
+381,Kirk Cousins,2023 MIN,4250.5,Pass Yards,163,2023-09-07
+382,FaNg,ENCE,15.5,MAP 1 Kills,124,2023-05-29
+383,Jalen Hurts,2023 PHI,725.5,Rush Yards,163,2023-09-07
+384,Amon-Ra St. Brown	,2023 DET,1150.5,Receiving Yards,163,2023-09-07
+385,Dak Prescott,2023 DAL,4250.5,Pass Yards,163,2023-09-07
+386,DK Metcalf,2023 SEA,999.5,Receiving Yards,163,2023-09-07
+387,floppy,ENCE,14.5,MAP 1 Kills,124,2023-05-29
+388,Lamar Jackson,2023 BAL,850.5,Rush Yards,163,2023-09-07
+389,JT,ENCE,14.0,MAP 1 Kills,124,2023-05-29
+390,AJ Brown,2023 PHI,1150.5,Receiving Yards,163,2023-09-07
+391,Nertz,Complexity,9.0,MAP 1 Headshots,124,2023-05-29
+392,Devonta Smith,2023 PHI,1100.5,Receiving Yards,163,2023-09-07
+393,Garrett Wilson,2023 NYJ,1149.5,Receiving Yards,163,2023-09-07
+394,dycha,Complexity,9.0,MAP 1 Headshots,124,2023-05-29
+395,SunPayus,Complexity,5.0,MAP 1 Headshots,124,2023-05-29
+396,Maden,Complexity,9.0,MAP 1 Headshots,124,2023-05-29
+397,Snappi,Complexity,8.0,MAP 1 Headshots,124,2023-05-29
+398,Grim,ENCE,8.5,MAP 1 Headshots,124,2023-05-29
+399,hallzerk,ENCE,5.5,MAP 1 Headshots,124,2023-05-29
+400,FaNg,ENCE,8.0,MAP 1 Headshots,124,2023-05-29
+401,floppy,ENCE,6.5,MAP 1 Headshots,124,2023-05-29
+402,JT,ENCE,7.5,MAP 1 Headshots,124,2023-05-29
+403,blameF,Liquid,21.0,MAP 1 Kills,124,2023-05-29
+404,Rich Hill + Anthony DeSclafani,SF/PIT,1.5,1st Inning Hits Allowed,2,2023-05-29
+405,Bryan Reynolds,SF,7.0,Hitter Fantasy Score,2,2023-05-29
+406,Anthony DeSclafani,PIT,4.5,Pitcher Strikeouts,2,2023-05-29
+407,device,Liquid,21.0,MAP 1 Kills,124,2023-05-29
+408,Michael Conforto,PIT,7.0,Hitter Fantasy Score,2,2023-05-29
+409,Austin Hedges,SF,0.5,Total Bases,2,2023-05-29
+410,Andrew McCutchen,SF,6.5,Hitter Fantasy Score,2,2023-05-29
+411,Altekz,Liquid,17.0,MAP 1 Kills,124,2023-05-29
+412,Buzz,Liquid,16.5,MAP 1 Kills,124,2023-05-29
+413,Bryan Reynolds,SF,1.5,Total Bases,2,2023-05-29
+414,Jahmyr Gibbs,2023 DET,599.5,Rush Yards,163,2023-09-07
+415,Jaxon Smith-Njigba,2023 SEA,799.5,Receiving Yards,163,2023-09-07
+416,gla1ve,Liquid,16.0,MAP 1 Kills,124,2023-05-29
+417,YEKINDAR,Astralis,19.5,MAP 1 Kills,124,2023-05-29
+418,D'Andre Swift,2023 PHI,599.5,Rush Yards,163,2023-09-07
+419,Quentin Johnston ,2023 LAC,650.5,Receiving Yards,163,2023-09-07
+420,Zay Flowers,2023 BAL,625.5,Receiving Yards,163,2023-09-07
+421,NAF,Astralis,18.5,MAP 1 Kills,124,2023-05-29
+422,Jordan Addison,2023 MIN,825.5,Receiving Yards,163,2023-09-07
+423,EliGE,Astralis,18.5,MAP 1 Kills,124,2023-05-29
+424,oSee,Astralis,18.0,MAP 1 Kills,124,2023-05-29
+425,nitr0,Astralis,15.0,MAP 1 Kills,124,2023-05-29
+426,blameF,Liquid,8.0,MAP 1 Headshots,124,2023-05-29
+427,device,Liquid,7.0,MAP 1 Headshots,124,2023-05-29
+428,Altekz,Liquid,8.5,MAP 1 Headshots,124,2023-05-29
+429,Buzz,Liquid,8.0,MAP 1 Headshots,124,2023-05-29
+430,gla1ve,Liquid,8.0,MAP 1 Headshots,124,2023-05-29
+431,YEKINDAR,Astralis,11.0,MAP 1 Headshots,124,2023-05-29
+432,NAF,Astralis,7.5,MAP 1 Headshots,124,2023-05-29
+433,EliGE,Astralis,9.5,MAP 1 Headshots,124,2023-05-29
+434,oSee,Astralis,5.0,MAP 1 Headshots,124,2023-05-29
+435,nitr0,Astralis,6.5,MAP 1 Headshots,124,2023-05-29
+436,Ronald Acuna Jr.,OAK,9.5,Hitter Fantasy Score,2,2023-05-29
+437,sh1ro,Grayhound,21.0,MAP 1 Kills,124,2023-05-29
+438,Matt Olson,OAK,8.5,Hitter Fantasy Score,2,2023-05-29
+439,Ax1Le,Grayhound,20.5,MAP 1 Kills,124,2023-05-29
+440,Austin Riley,OAK,8.0,Hitter Fantasy Score,2,2023-05-29
+441,Jace Peterson,ATL,0.5,Total Bases,2,2023-05-29
+442,HObbit,Grayhound,18.5,MAP 1 Kills,124,2023-05-29
+443,Ronald Acuna Jr.,OAK,1.5,Total Bases,2,2023-05-29
+444,nafany,Grayhound,15.5,MAP 1 Kills,124,2023-05-29
+445,Tony Kemp,ATL,0.5,Total Bases,2,2023-05-29
+446,buster,Grayhound,15.5,MAP 1 Kills,124,2023-05-29
+447,INS,Cloud9,16.5,MAP 1 Kills,124,2023-05-29
+448,Liazz,Cloud9,14.5,MAP 1 Kills,124,2023-05-29
+449,Vexite,Cloud9,15.5,MAP 1 Kills,124,2023-05-29
+450,aliStair,Cloud9,14.0,MAP 1 Kills,124,2023-05-29
+451,Sico,Cloud9,13.5,MAP 1 Kills,124,2023-05-29
+452,sh1ro,Grayhound,6.0,MAP 1 Headshots,124,2023-05-29
+453,Ax1Le,Grayhound,9.5,MAP 1 Headshots,124,2023-05-29
+454,HObbit,Grayhound,9.0,MAP 1 Headshots,124,2023-05-29
+455,nafany,Grayhound,7.5,MAP 1 Headshots,124,2023-05-29
+456,buster,Grayhound,7.0,MAP 1 Headshots,124,2023-05-29
+457,INS,Cloud9,8.0,MAP 1 Headshots,124,2023-05-29
+458,Liazz,Cloud9,6.5,MAP 1 Headshots,124,2023-05-29
+459,Vexite,Cloud9,9.0,MAP 1 Headshots,124,2023-05-29
+460,aliStair,Cloud9,4.0,MAP 1 Headshots,124,2023-05-29
+461,Sico,Cloud9,6.0,MAP 1 Headshots,124,2023-05-29
+462,Michael Kopech,LAA,6.5,Pitcher Strikeouts,2,2023-05-29
+463,Griffin Canning + Michael Kopech,CWS/LAA,1.5,1st Inning Hits Allowed,2,2023-05-29
+464,Mike Trout,CWS,8.0,Hitter Fantasy Score,2,2023-05-29
+465,Luis Robert,LAA,7.0,Hitter Fantasy Score,2,2023-05-29
+466,Romy Gonzalez,LAA,0.5,Total Bases,2,2023-05-29
+467,Jared Walsh,CWS,0.5,Total Bases,2,2023-05-29
+468,Shohei Ohtani,CWS,8.0,Hitter Fantasy Score,2,2023-05-29
+469,Matt Thaiss,CWS,0.5,Total Bases,2,2023-05-29
+470,Mickey Moniak,CWS,0.5,Total Bases,2,2023-05-29
+471,Freddie Freeman,WSH,9.0,Hitter Fantasy Score,2,2023-05-29
+472,Bobby Miller,WSH,4.5,Pitcher Strikeouts,2,2023-05-29
+473,Joey Meneses,LAD,6.5,Hitter Fantasy Score,2,2023-05-29
+474,Mookie Betts,WSH,8.5,Hitter Fantasy Score,2,2023-05-29
+475,Lane Thomas,LAD,6.5,Hitter Fantasy Score,2,2023-05-29
+476,Will Smith,WSH,7.5,Hitter Fantasy Score,2,2023-05-29
+477,Odell Beckham Jr.,2023 BAL,575.5,Receiving Yards,163,2023-09-07
+478,Aaron Judge,SEA,8.5,Hitter Fantasy Score,2,2023-05-29
+479,Domingo German + Bryce Miller,SEA/NYY,1.5,1st Inning Hits Allowed,2,2023-05-29
+480,Julio Rodriguez,NYY,7.5,Hitter Fantasy Score,2,2023-05-29
+481,Jarred Kelenic,NYY,6.5,Hitter Fantasy Score,2,2023-05-29
+482,Jose Caballero,NYY,0.5,Total Bases,2,2023-05-29
+483,Gleyber Torres,SEA,7.0,Hitter Fantasy Score,2,2023-05-29
+484,Ty France,NYY,6.5,Hitter Fantasy Score,2,2023-05-29
+485,CDR,XERXIA (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-29
+486,MidOne,XERXIA (MAP 3 Kills),8.5,MAP 3 Kills,174,2023-05-29
+487,YoungGod,SMG (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+488,JG,SMG (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+489,miCKe,Tundra (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-29
+490,Nisha,Tundra (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-29
+491,skiter,Liquid (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+492,Nine,Liquid (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+493,Yuragi,GG (MAP 3 Kills),5.0,MAP 3 Kills,174,2023-05-29
+494,Yuragi,GG (MAPS 1-2 Kills),10.5,MAPS 1-2 Kills,174,2023-05-29
+495,bzm,GG (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-05-29
+496,bzm,GG (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+497,dyrachyo,OG (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-05-29
+498,dyrachyo,OG (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+499,Quinn,OG (MAP 3 Kills),9.0,MAP 3 Kills,174,2023-05-29
+500,Quinn,OG (MAPS 1-2 Kills),17.5,MAPS 1-2 Kills,174,2023-05-29
+501,Crystallis,Quest (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-05-29
+502,Crystallis,Quest (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-05-29
+503,Armel,Quest (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-29
+504,Armel,Quest (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-05-29
+505,TA2000,Secret (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-05-29
+506,TA2000,Secret (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-05-29
+507,No!ob,Secret (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-29
+508,No!ob,Secret (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-05-29
+509,Arteezy,felt (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-05-29
+510,Arteezy,felt (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-05-29
+511,Abed,felt (MAP 3 Kills),9.5,MAP 3 Kills,174,2023-05-29
+512,Abed,felt (MAPS 1-2 Kills),19.0,MAPS 1-2 Kills,174,2023-05-29
+513,Berna,SR (MAP 3 Kills),4.5,MAP 3 Kills,174,2023-05-29
+514,Berna,SR (MAPS 1-2 Kills),9.0,MAPS 1-2 Kills,174,2023-05-29
+515,Kitzz,SR (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-05-29
+516,Kitzz,SR (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-05-29
+517,Leonidas,nouns (MAPS 1-2 Kills),8.5,MAPS 1-2 Kills,174,2023-05-29
+518,Leonidas,nouns (MAP 3 Kills),4.5,MAP 3 Kills,174,2023-05-29
+519,lundd,nouns (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-05-29
+520,lundd,nouns (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-05-29
+521,Yamsun,SKG (MAPS 1-2 Kills),17.5,MAPS 1-2 Kills,174,2023-05-29
+522,Yamsun,SKG (MAP 3 Kills),8.5,MAP 3 Kills,174,2023-05-29
+523,Gunnar,SKG (MAP 3 Kills),9.5,MAP 3 Kills,174,2023-05-29
+524,Gunnar,SKG (MAPS 1-2 Kills),19.0,MAPS 1-2 Kills,174,2023-05-29
+525,Adin Hill + Jake Oettinger,DAL/VGK,0.5,Goals Allowed in First 10 Minutes,8,2023-05-29
+526,Jake Oettinger,VGK,9.0,Goalie Saves,227,2023-05-29
+527,Adin Hill,DAL,10.0,Goalie Saves,227,2023-05-29
+528,Shr,Sampi,20.0,MAP 3 Kills,124,2023-05-29
+529,Icarus,Sampi,16.0,MAP 3 Kills,124,2023-05-29
+530,rafaxF,Sampi,17.0,MAP 3 Kills,124,2023-05-29
+531,MATYS,GTZ,21.0,MAP 3 Kills,124,2023-05-29
+532,Blogg1s,GTZ,19.5,MAP 3 Kills,124,2023-05-29
+533,T4gg3D,GTZ,18.5,MAP 3 Kills,124,2023-05-29
+534,Shr,Sampi,10.0,MAP 3 Headshots,124,2023-05-29
+535,Icarus,Sampi,8.5,MAP 3 Headshots,124,2023-05-29
+536,rafaxF,Sampi,5.0,MAP 3 Headshots,124,2023-05-29
+537,MATYS,GTZ,13.0,MAP 3 Headshots,124,2023-05-29
+538,Blogg1s,GTZ,5.5,MAP 3 Headshots,124,2023-05-29
+539,T4gg3D,GTZ,9.5,MAP 3 Headshots,124,2023-05-29
+540,D0cC,Zero Tenacity,21.5,MAP 3 Kills,124,2023-05-29
+541,KD69z,Zero Tenacity,16.5,MAP 3 Kills,124,2023-05-29
+542,Lobanjica,Zero Tenacity,17.0,MAP 3 Kills,124,2023-05-29
+543,simke,Unlucko5,18.0,MAP 3 Kills,124,2023-05-29
+544,brutmonster,Unlucko5,17.5,MAP 3 Kills,124,2023-05-29
+545,Cjoffo,Unlucko5,16.5,MAP 3 Kills,124,2023-05-29
+546,D0cC,Zero Tenacity,9.5,MAP 3 Headshots,124,2023-05-29
+547,KD69z,Zero Tenacity,8.0,MAP 3 Headshots,124,2023-05-29
+548,Lobanjica,Zero Tenacity,8.0,MAP 3 Headshots,124,2023-05-29
+549,simke,Unlucko5,11.0,MAP 3 Headshots,124,2023-05-29
+550,brutmonster,Unlucko5,5.5,MAP 3 Headshots,124,2023-05-29
+551,Cjoffo,Unlucko5,9.0,MAP 3 Headshots,124,2023-05-29
+552,Rainwaker,MOUZ NXT,20.0,MAP 3 Kills,124,2023-05-29
+553,dennyslaw,MOUZ NXT,19.0,MAP 3 Kills,124,2023-05-29
+554,REDSTAR,MOUZ NXT,19.5,MAP 3 Kills,124,2023-05-29
+555,Jimpphat,500,20.5,MAP 3 Kills,124,2023-05-29
+556,Nexius,500,18.5,MAP 3 Kills,124,2023-05-29
+557,Chr1zN,500,17.0,MAP 3 Kills,124,2023-05-29
+558,Rainwaker,MOUZ NXT,7.5,MAP 3 Headshots,124,2023-05-29
+559,dennyslaw,MOUZ NXT,6.0,MAP 3 Headshots,124,2023-05-29
+560,REDSTAR,MOUZ NXT,10.0,MAP 3 Headshots,124,2023-05-29
+561,Jimpphat,500,10.5,MAP 3 Headshots,124,2023-05-29
+562,Nexius,500,10.5,MAP 3 Headshots,124,2023-05-29
+563,Chr1zN,500,9.5,MAP 3 Headshots,124,2023-05-29
+564,casey,JANO,20.5,MAP 3 Kills,124,2023-05-29
+565,olimp,JANO,19.5,MAP 3 Kills,124,2023-05-29
+566,sNx,JANO,16.5,MAP 3 Kills,124,2023-05-29
+567,allu,Ignis Serpens,20.0,MAP 3 Kills,124,2023-05-29
+568,ZOREE,Ignis Serpens,16.5,MAP 3 Kills,124,2023-05-29
+569,Sm1llee,Ignis Serpens,17.0,MAP 3 Kills,124,2023-05-29
+570,casey,JANO,10.5,MAP 3 Headshots,124,2023-05-29
+571,olimp,JANO,10.5,MAP 3 Headshots,124,2023-05-29
+572,sNx,JANO,9.0,MAP 3 Headshots,124,2023-05-29
+573,allu,Ignis Serpens,5.5,MAP 3 Headshots,124,2023-05-29
+574,ZOREE,Ignis Serpens,7.0,MAP 3 Headshots,124,2023-05-29
+575,Sm1llee,Ignis Serpens,9.5,MAP 3 Headshots,124,2023-05-29
+576,Jame,1WIN,17.5,MAP 3 Kills,124,2023-05-29
+577,fame,1WIN,17.5,MAP 3 Kills,124,2023-05-29
+578,FL1T,1WIN,19.0,MAP 3 Kills,124,2023-05-29
+579,deko,Virtus.Pro,20.5,MAP 3 Kills,124,2023-05-29
+580,TRAVIS,Virtus.Pro,18.0,MAP 3 Kills,124,2023-05-29
+581,Forester,Virtus.Pro,18.0,MAP 3 Kills,124,2023-05-29
+582,Jame,1WIN,4.5,MAP 3 Headshots,124,2023-05-29
+583,fame,1WIN,10.0,MAP 3 Headshots,124,2023-05-29
+584,FL1T,1WIN,9.0,MAP 3 Headshots,124,2023-05-29
+585,deko,Virtus.Pro,8.0,MAP 3 Headshots,124,2023-05-29
+586,TRAVIS,Virtus.Pro,9.0,MAP 3 Headshots,124,2023-05-29
+587,Forester,Virtus.Pro,10.0,MAP 3 Headshots,124,2023-05-29
+588,reiko,Entropiq,42.5,MAPS 1-2 Kills,124,2023-05-29
+589,reiko,Entropiq,20.5,MAP 3 Kills,124,2023-05-29
+590,Sobol,Entropiq,37.5,MAPS 1-2 Kills,124,2023-05-29
+591,Sobol,Entropiq,18.5,MAP 3 Kills,124,2023-05-29
+592,SaMey,Entropiq,19.0,MAP 3 Kills,124,2023-05-29
+593,SaMey,Entropiq,38.0,MAPS 1-2 Kills,124,2023-05-29
+594,ritchiEE,Anonymo,41.0,MAPS 1-2 Kills,124,2023-05-29
+595,ritchiEE,Anonymo,20.5,MAP 3 Kills,124,2023-05-29
+596,snatchie,Anonymo,19.0,MAP 3 Kills,124,2023-05-29
+597,snatchie,Anonymo,38.0,MAPS 1-2 Kills,124,2023-05-29
+598,AJTT,Anonymo,15.0,MAP 3 Kills,124,2023-05-29
+599,AJTT,Anonymo,30.0,MAPS 1-2 Kills,124,2023-05-29
+600,reiko,Entropiq,18.5,MAPS 1-2 Headshots,124,2023-05-29
+601,reiko,Entropiq,9.0,MAP 3 Headshots,124,2023-05-29
+602,Sobol,Entropiq,19.5,MAPS 1-2 Headshots,124,2023-05-29
+603,Sobol,Entropiq,9.5,MAP 3 Headshots,124,2023-05-29
+604,SaMey,Entropiq,6.5,MAP 3 Headshots,124,2023-05-29
+605,SaMey,Entropiq,13.5,MAPS 1-2 Headshots,124,2023-05-29
+606,ritchiEE,Anonymo,21.5,MAPS 1-2 Headshots,124,2023-05-29
+607,ritchiEE,Anonymo,10.5,MAP 3 Headshots,124,2023-05-29
+608,snatchie,Anonymo,11.0,MAPS 1-2 Headshots,124,2023-05-29
+609,snatchie,Anonymo,5.5,MAP 3 Headshots,124,2023-05-29
+610,AJTT,Anonymo,6.5,MAP 3 Headshots,124,2023-05-29
+611,AJTT,Anonymo,13.5,MAPS 1-2 Headshots,124,2023-05-29
+612,br0,FORZE,17.5,MAP 3 Kills,124,2023-05-29
+613,br0,FORZE,35.5,MAPS 1-2 Kills,124,2023-05-29
+614,MistR,FORZE,35.0,MAPS 1-2 Kills,124,2023-05-29
+615,MistR,FORZE,17.5,MAP 3 Kills,124,2023-05-29
+616,Kristou,FORZE,16.0,MAP 3 Kills,124,2023-05-29
+617,Kristou,FORZE,32.5,MAPS 1-2 Kills,124,2023-05-29
+618,shalfey,Astralis Talent,18.5,MAP 3 Kills,124,2023-05-29
+619,shalfey,Astralis Talent,37.5,MAPS 1-2 Kills,124,2023-05-29
+620,r3salt,Astralis Talent,39.5,MAPS 1-2 Kills,124,2023-05-29
+621,r3salt,Astralis Talent,19.0,MAP 3 Kills,124,2023-05-29
+622,zorte,Astralis Talent,19.5,MAP 3 Kills,124,2023-05-29
+623,zorte,Astralis Talent,39.5,MAPS 1-2 Kills,124,2023-05-29
+624,br0,FORZE,19.0,MAPS 1-2 Headshots,124,2023-05-29
+625,br0,FORZE,10.5,MAP 3 Headshots,124,2023-05-29
+626,MistR,FORZE,8.0,MAP 3 Headshots,124,2023-05-29
+627,MistR,FORZE,16.5,MAPS 1-2 Headshots,124,2023-05-29
+628,Kristou,FORZE,12.5,MAPS 1-2 Headshots,124,2023-05-29
+629,Kristou,FORZE,6.0,MAP 3 Headshots,124,2023-05-29
+630,shalfey,Astralis Talent,18.5,MAPS 1-2 Headshots,124,2023-05-29
+631,shalfey,Astralis Talent,9.0,MAP 3 Headshots,124,2023-05-29
+632,r3salt,Astralis Talent,11.0,MAP 3 Headshots,124,2023-05-29
+633,r3salt,Astralis Talent,22.0,MAPS 1-2 Headshots,124,2023-05-29
+634,zorte,Astralis Talent,14.0,MAPS 1-2 Headshots,124,2023-05-29
+635,zorte,Astralis Talent,7.0,MAP 3 Headshots,124,2023-05-29
+636,lub,Red Canids,16.0,MAP 3 Kills,124,2023-05-29
+637,lub,Red Canids,32.5,MAPS 1-2 Kills,124,2023-05-29
+638,BobZ,Red Canids,15.0,MAP 3 Kills,124,2023-05-29
+639,BobZ,Red Canids,30.5,MAPS 1-2 Kills,124,2023-05-29
+640,desh,Red Canids,37.5,MAPS 1-2 Kills,124,2023-05-29
+641,desh,Red Canids,19.0,MAP 3 Kills,124,2023-05-29
+642,t9rnay,INTZ,20.0,MAP 3 Kills,124,2023-05-29
+643,t9rnay,INTZ,40.5,MAPS 1-2 Kills,124,2023-05-29
+644,detr0ittJ,INTZ,18.0,MAP 3 Kills,124,2023-05-29
+645,detr0ittJ,INTZ,36.0,MAPS 1-2 Kills,124,2023-05-29
+646,ckzao,INTZ,17.5,MAP 3 Kills,124,2023-05-29
+647,ckzao,INTZ,35.5,MAPS 1-2 Kills,124,2023-05-29
+648,lub,Red Canids,8.0,MAP 3 Headshots,124,2023-05-29
+649,lub,Red Canids,16.0,MAPS 1-2 Headshots,124,2023-05-29
+650,BobZ,Red Canids,7.0,MAP 3 Headshots,124,2023-05-29
+651,BobZ,Red Canids,15.0,MAPS 1-2 Headshots,124,2023-05-29
+652,desh,Red Canids,5.0,MAP 3 Headshots,124,2023-05-29
+653,desh,Red Canids,10.0,MAPS 1-2 Headshots,124,2023-05-29
+654,t9rnay,INTZ,10.0,MAP 3 Headshots,124,2023-05-29
+655,t9rnay,INTZ,20.5,MAPS 1-2 Headshots,124,2023-05-29
+656,detr0ittJ,INTZ,5.5,MAP 3 Headshots,124,2023-05-29
+657,detr0ittJ,INTZ,11.0,MAPS 1-2 Headshots,124,2023-05-29
+658,ckzao,INTZ,18.0,MAPS 1-2 Headshots,124,2023-05-29
+659,ckzao,INTZ,9.0,MAP 3 Headshots,124,2023-05-29
+660,deco,ODDIK,34.0,MAPS 1-2 Kills,124,2023-05-29
+661,deco,ODDIK,17.0,MAP 3 Kills,124,2023-05-29
+662,meyern,ODDIK,18.5,MAP 3 Kills,124,2023-05-29
+663,meyern,ODDIK,37.5,MAPS 1-2 Kills,124,2023-05-29
+664,Noktse,ODDIK,17.0,MAP 3 Kills,124,2023-05-29
+665,Noktse,ODDIK,34.0,MAPS 1-2 Kills,124,2023-05-29
+666,r1see,BESTIA,33.0,MAPS 1-2 Kills,124,2023-05-29
+667,r1see,BESTIA,16.0,MAP 3 Kills,124,2023-05-29
+668,RICIOLI,BESTIA,16.0,MAP 3 Kills,124,2023-05-29
+669,RICIOLI,BESTIA,32.0,MAPS 1-2 Kills,124,2023-05-29
+670,naitte,BESTIA,17.5,MAP 3 Kills,124,2023-05-29
+671,naitte,BESTIA,35.5,MAPS 1-2 Kills,124,2023-05-29
+672,deco,ODDIK,17.0,MAPS 1-2 Headshots,124,2023-05-29
+673,deco,ODDIK,8.5,MAP 3 Headshots,124,2023-05-29
+674,meyern,ODDIK,10.5,MAP 3 Headshots,124,2023-05-29
+675,meyern,ODDIK,21.0,MAPS 1-2 Headshots,124,2023-05-29
+676,Noktse,ODDIK,10.5,MAPS 1-2 Headshots,124,2023-05-29
+677,Noktse,ODDIK,5.0,MAP 3 Headshots,124,2023-05-29
+678,r1see,BESTIA,15.5,MAPS 1-2 Headshots,124,2023-05-29
+679,r1see,BESTIA,7.0,MAP 3 Headshots,124,2023-05-29
+680,RICIOLI,BESTIA,14.0,MAPS 1-2 Headshots,124,2023-05-29
+681,RICIOLI,BESTIA,7.0,MAP 3 Headshots,124,2023-05-29
+682,naitte,BESTIA,20.5,MAPS 1-2 Headshots,124,2023-05-29
+683,naitte,BESTIA,10.0,MAP 3 Headshots,124,2023-05-29
+684,Jamie Benn,VGK,2.0,Shots On Goal,8,2023-05-29
+685,Alex Pietrangelo,DAL,2.0,Shots On Goal,8,2023-05-29
+686,Jason Robertson,VGK,3.5,Shots On Goal,8,2023-05-29
+687,Jack Eichel,DAL,3.0,Shots On Goal,8,2023-05-29
+688,Joe Pavelski,VGK,2.0,Shots On Goal,8,2023-05-29
+689,Jonathan Marchessault,DAL,3.0,Shots On Goal,8,2023-05-29
+690,Mark Stone,DAL,2.0,Shots On Goal,8,2023-05-29
+691,Miro Heiskanen,VGK,2.0,Shots On Goal,8,2023-05-29
+692,Reilly Smith,DAL,2.0,Shots On Goal,8,2023-05-29
+693,Roope Hintz,VGK,3.0,Shots On Goal,8,2023-05-29
+694,Shea Theodore,DAL,2.0,Shots On Goal,8,2023-05-29
+695,Tyler Seguin,VGK,2.5,Shots On Goal,8,2023-05-29
+696,William Karlsson,DAL,2.0,Shots On Goal,8,2023-05-29
+697,Wyatt Johnston,VGK,2.5,Shots On Goal,8,2023-05-29
+698,Alec Martinez,DAL,2.5,BLK,8,2023-05-29
+699,Miro Heiskanen,VGK,1.5,BLK,8,2023-05-29
+700,Alex Pietrangelo,DAL,2.5,BLK,8,2023-05-29
+701,Zach Whitecloud,DAL,1.5,BLK,8,2023-05-29
+702,Jason Robertson,VGK,18.5,Time On Ice,8,2023-05-29
+703,Jack Eichel,DAL,18.5,Time On Ice,8,2023-05-29
+704,Wyatt Johnston,VGK,16.0,Time On Ice,8,2023-05-29
+705,William Karlsson,DAL,17.25,Time On Ice,8,2023-05-29
+706,Miro Heiskanen,VGK,27.25,Time On Ice,8,2023-05-29
+707,Shea Theodore,DAL,20.25,Time On Ice,8,2023-05-29
+708,Ryan Suter,VGK,22.5,Time On Ice,8,2023-05-29
+709,Alex Pietrangelo,DAL,22.75,Time On Ice,8,2023-05-29
+710,Keegan Kolesar,DAL,2.5,Hits,8,2023-05-29
+711,Ty Dellandrea,VGK,2.5,Hits,8,2023-05-29
+712,Ivan Barbashev,DAL,3.5,Hits,8,2023-05-29
+713,Roope Hintz,VGK,2.0,Hits,8,2023-05-29
+714,Brayden McNabb,DAL,1.5,Hits,8,2023-05-29
+715,Miro Heiskanen,VGK,1.5,Hits,8,2023-05-29
+716,Shea Theodore,DAL,0.5,Hits,8,2023-05-29
+717,Max Domi,VGK,0.5,Hits,8,2023-05-29
+718,William Carrier,DAL,2.5,Hits,8,2023-05-29
+719,Roope Hintz,VGK,3.5,SOG + BS,8,2023-05-29
+720,Mark Stone,DAL,2.5,SOG + BS,8,2023-05-29
+721,Luke Glendening,VGK,1.5,SOG + BS,8,2023-05-29
+722,Alex Pietrangelo,DAL,4.5,SOG + BS,8,2023-05-29
+723,Ryan Suter,VGK,2.5,SOG + BS,8,2023-05-29
+724,Alec Martinez,DAL,3.5,SOG + BS,8,2023-05-29
+725,Adin Hill,DAL,29.5,Goalie Saves,8,2023-05-29
+726,Jake Oettinger,VGK,26.5,Goalie Saves,8,2023-05-29
+727,Adin Hill + Jake Oettinger,DAL/VGK,56.5,Goalie Saves,8,2023-05-29
+728,Jack Eichel,DAL,6.0,Faceoffs Won,8,2023-05-29
+729,Jamie Benn,VGK,6.0,Faceoffs Won,8,2023-05-29
+730,William Karlsson,DAL,5.5,Faceoffs Won,8,2023-05-29
+731,Tyler Seguin,VGK,5.0,Faceoffs Won,8,2023-05-29

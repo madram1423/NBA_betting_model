@@ -1,0 +1,350 @@
+,Player,Team,Stat,Line,Date
+0,Yonny Chirinos,TB,SO (K),3.5,2023-06-08
+1,Wander Franco,TB,FPTS,10.5,2023-06-08
+2,Bailey Ober,MIN,SO (K),5.0,2023-06-08
+3,Bailey Ober,MIN,H,5.0,2023-06-08
+4,Bailey Ober,MIN,PO,16.5,2023-06-08
+5,Bailey Ober,MIN,P,88.5,2023-06-08
+6,Bailey Ober,MIN,ER,2.5,2023-06-08
+7,Jorge Polanco,MIN,R,0.5,2023-06-08
+8,Kyle Bradish,BAL,SO (K),5.0,2023-06-08
+9,Kyle Bradish,BAL,H,5.0,2023-06-08
+10,Kyle Bradish,BAL,PO,15.5,2023-06-08
+11,Adley Rutschman,BAL,FPTS,8.5,2023-06-08
+12,Ryan Mountcastle,BAL,H+R+R,1.5,2023-06-08
+13,Gunnar Henderson,BAL,H+R+R,1.5,2023-06-08
+14,Colin Rea,MIL,SO (K),4.0,2023-06-08
+15,Colin Rea,MIL,H,5.0,2023-06-08
+16,Colin Rea,MIL,PO,15.5,2023-06-08
+17,Colin Rea,MIL,BB,1.5,2023-06-08
+18,Christian Yelich,MIL,FPTS,9.0,2023-06-08
+19,Willy Adames,MIL,H+R+R,1.5,2023-06-08
+20,Sapec,EYEBALL,Kills,33.5,2023-06-08
+21,JW,EYEBALL,Kills,34.5,2023-06-08
+22,flusha,EYEBALL,Kills,34.5,2023-06-08
+23,Rainwaker,500,Kills,39.5,2023-06-08
+24,REDSTAR,500,Kills,38.5,2023-06-08
+25,dennyslaw,500,Kills,38.5,2023-06-08
+26,Alex Cobb,SF,SO (K),4.5,2023-06-08
+27,Alex Cobb,SF,PO,17.0,2023-06-08
+28,Alex Cobb,SF,BB,1.5,2023-06-08
+29,Thairo Estrada,SF,R,0.5,2023-06-08
+30,Thairo Estrada,SF,TB,1.5,2023-06-08
+31,Michael Conforto,SF,R,0.5,2023-06-08
+32,Mitch Haniger,SF,R,0.5,2023-06-08
+33,Mitch Haniger,SF,TB,1.5,2023-06-08
+34,Joc Pederson,SF,TB,1.5,2023-06-08
+35,LaMonte Wade Jr.,SF,TB,1.5,2023-06-08
+36,Chase Anderson,COL,SO (K),3.0,2023-06-08
+37,Chase Anderson,COL,H,5.0,2023-06-08
+38,Charlie Blackmon,COL,TB,1.5,2023-06-08
+39,Charlie Blackmon,COL,SO,0.5,2023-06-08
+40,Charlie Blackmon,COL,FPTS,9.0,2023-06-08
+41,Ryan McMahon,COL,R,0.5,2023-06-08
+42,Ryan McMahon,COL,TB,1.5,2023-06-08
+43,Ryan McMahon,COL,FPTS,9.0,2023-06-08
+44,Elias Díaz,COL,R,0.5,2023-06-08
+45,Jurickson Profar,COL,R,0.5,2023-06-08
+46,Jurickson Profar,COL,TB,1.5,2023-06-08
+47,Randal Grichuk,COL,R,0.5,2023-06-08
+48,Randal Grichuk,COL,TB,1.5,2023-06-08
+49,koalanoob,M80,Kills,35.5,2023-06-08
+50,NiSMO,M80,Kills,32.5,2023-06-08
+51,eeiu,M80,Kills,29.5,2023-06-08
+52,zander,M80,Kills,29.5,2023-06-08
+53,aproto,MoistMog,Kills,30.5,2023-06-08
+54,flyuh,MoistMog,Kills,32.5,2023-06-08
+55,sym,MoistMog,Kills,35.5,2023-06-08
+56,thief,MoistMog,Kills,31.5,2023-06-08
+57,Grim,Complex,Kills,36.5,2023-06-08
+58,FaNg,Complex,Kills,32.5,2023-06-08
+59,floppy,Complex,Kills,31.5,2023-06-08
+60,JT,Complex,Kills,29.5,2023-06-08
+61,Sonic,Complex,Kills,36.5,2023-06-08
+62,blameF,Astrali,Kills,40.5,2023-06-08
+63,device,Astrali,Kills,43.5,2023-06-08
+64,Altekz,Astrali,Kills,34.5,2023-06-08
+65,Buzz,Astrali,Kills,33.5,2023-06-08
+66,gla1ve,Astrali,Kills,32.5,2023-06-08
+67,pavv,BocaJu,Kills,34.5,2023-06-08
+68,lenci,BocaJu,Kills,33.5,2023-06-08
+69,nacho,BocaJu,Kills,35.5,2023-06-08
+70,luchov,BESTIA,Kills,37.5,2023-06-08
+71,meyern,BESTIA,Kills,36.5,2023-06-08
+72,deco,BESTIA,Kills,32.5,2023-06-08
+73,Noktse,BESTIA,Kills,30.5,2023-06-08
+74,dumau,00NATIO,Kills,36.5,2023-06-08
+75,latto,00NATIO,Kills,37.5,2023-06-08
+76,nqz,00NATIO,Kills,36.5,2023-06-08
+77,remix,ODDIK,Kills,36.5,2023-06-08
+78,vLa,ODDIK,Kills,34.5,2023-06-08
+79,naitte,ODDIK,Kills,38.5,2023-06-08
+80,Lance Lynn,CHW,SO (K),6.0,2023-06-08
+81,Lance Lynn,CHW,H,5.0,2023-06-08
+82,Lance Lynn,CHW,PO,17.5,2023-06-08
+83,Lance Lynn,CHW,P,101.5,2023-06-08
+84,Lance Lynn,CHW,ER,2.5,2023-06-08
+85,Tim Anderson,CHW,H+R+R,1.5,2023-06-08
+86,Andrew Benintendi,CHW,SO,0.5,2023-06-08
+87,Andrew Benintendi,CHW,FPTS,7.5,2023-06-08
+88,Luis Robert,CHW,H+R+R,1.5,2023-06-08
+89,Luis Severino,NYY,SO (K),6.0,2023-06-08
+90,Luis Severino,NYY,H,5.0,2023-06-08
+91,Gleyber Torres,NYY,FPTS,8.5,2023-06-08
+92,DJ LeMahieu,NYY,H+R+R,1.5,2023-06-08
+93,Anthony Rizzo,NYY,H+R+R,1.5,2023-06-08
+94,Giancarlo Stanton,NYY,H+R+R,1.5,2023-06-08
+95,MisteM,ATKCSGO,Kills,34.5,2023-06-08
+96,Swisher,ATKCSGO,Kills,40.5,2023-06-08
+97,reck,ATKCSGO,Kills,36.5,2023-06-08
+98,Bwills,Nouns,Kills,38.5,2023-06-08
+99,cynic,Nouns,Kills,38.5,2023-06-08
+100,MarKE,Nouns,Kills,38.5,2023-06-08
+101,shane,timberm,Kills,34.5,2023-06-08
+102,dare,timberm,Kills,38.5,2023-06-08
+103,Fr3nk1e,timberm,Kills,36.5,2023-06-08
+104,SLIGHT,Wildcar,Kills,39.5,2023-06-08
+105,brett,Wildcar,Kills,37.5,2023-06-08
+106,freshie,Wildcar,Kills,36.5,2023-06-08
+107,Zack Wheeler,PHI,SO (K),8.0,2023-06-08
+108,Zack Wheeler,PHI,H,4.5,2023-06-08
+109,Zack Wheeler,PHI,P,100.5,2023-06-08
+110,Zack Wheeler,PHI,ER,1.5,2023-06-08
+111,Bryce Harper,PHI,FPTS,10.5,2023-06-08
+112,Trea Turner,PHI,FPTS,10.5,2023-06-08
+113,Javier Báez,DET,FPTS,7.0,2023-06-08
+114,DeWanna Bonner,CON,PTS,14.5,2023-06-08
+115,DeWanna Bonner,CON,REB,4.0,2023-06-08
+116,DeWanna Bonner,CON,PTS+TRB+AST,21.5,2023-06-08
+117,DeWanna Bonner,CON,PTS+TRB,18.5,2023-06-08
+118,DeWanna Bonner,CON,PTS+AST,17.5,2023-06-08
+119,DeWanna Bonner,CON,FPTS,24.5,2023-06-08
+120,Brionna Jones,CON,PTS,15.5,2023-06-08
+121,Brionna Jones,CON,REB,9.0,2023-06-08
+122,Brionna Jones,CON,PTS+TRB+AST,27.5,2023-06-08
+123,Brionna Jones,CON,PTS+TRB,24.5,2023-06-08
+124,Brionna Jones,CON,PTS+AST,18.0,2023-06-08
+125,Brionna Jones,CON,TRB+AST,11.5,2023-06-08
+126,Brionna Jones,CON,FPTS,31.5,2023-06-08
+127,Alyssa Thomas,CON,PTS,14.5,2023-06-08
+128,Alyssa Thomas,CON,REB,10.0,2023-06-08
+129,Alyssa Thomas,CON,AST,6.5,2023-06-08
+130,Alyssa Thomas,CON,PTS+TRB+AST,31.5,2023-06-08
+131,Alyssa Thomas,CON,PTS+TRB,24.5,2023-06-08
+132,Alyssa Thomas,CON,PTS+AST,21.0,2023-06-08
+133,Alyssa Thomas,CON,TRB+AST,16.5,2023-06-08
+134,Alyssa Thomas,CON,FPTS,31.5,2023-06-08
+135,Tiffany Hayes,CON,PTS,12.0,2023-06-08
+136,Tiffany Hayes,CON,PTS+TRB+AST,19.0,2023-06-08
+137,Tiffany Hayes,CON,PTS+TRB,16.0,2023-06-08
+138,Tiffany Hayes,CON,PTS+AST,15.0,2023-06-08
+139,Tiffany Hayes,CON,FPTS,20.0,2023-06-08
+140,Natisha Hiedeman,CON,PTS,9.5,2023-06-08
+141,Natisha Hiedeman,CON,PTS+TRB+AST,15.5,2023-06-08
+142,Natisha Hiedeman,CON,PTS+TRB,12.0,2023-06-08
+143,Natisha Hiedeman,CON,PTS+AST,13.0,2023-06-08
+144,Natisha Hiedeman,CON,FPTS,16.5,2023-06-08
+145,A'ja Wilson,LVA,PTS,21.5,2023-06-08
+146,A'ja Wilson,LVA,REB,9.5,2023-06-08
+147,A'ja Wilson,LVA,AST,2.5,2023-06-08
+148,A'ja Wilson,LVA,PTS+TRB+AST,33.5,2023-06-08
+149,A'ja Wilson,LVA,PTS+TRB,30.5,2023-06-08
+150,A'ja Wilson,LVA,PTS+AST,23.5,2023-06-08
+151,A'ja Wilson,LVA,TRB+AST,12.0,2023-06-08
+152,A'ja Wilson,LVA,FPTS,39.5,2023-06-08
+153,Kelsey Plum,LVA,PTS,16.0,2023-06-08
+154,Kelsey Plum,LVA,AST,4.5,2023-06-08
+155,Kelsey Plum,LVA,PTS+TRB+AST,23.5,2023-06-08
+156,Kelsey Plum,LVA,PTS+TRB,19.0,2023-06-08
+157,Kelsey Plum,LVA,PTS+AST,20.5,2023-06-08
+158,Kelsey Plum,LVA,FPTS,24.0,2023-06-08
+159,Chelsea Gray,LVA,PTS,13.5,2023-06-08
+160,Chelsea Gray,LVA,REB,4.5,2023-06-08
+161,Chelsea Gray,LVA,AST,6.5,2023-06-08
+162,Chelsea Gray,LVA,3P,1.5,2023-06-08
+163,Chelsea Gray,LVA,PTS+TRB+AST,24.5,2023-06-08
+164,Chelsea Gray,LVA,PTS+TRB,18.0,2023-06-08
+165,Chelsea Gray,LVA,PTS+AST,20.0,2023-06-08
+166,Chelsea Gray,LVA,TRB+AST,11.0,2023-06-08
+167,Chelsea Gray,LVA,FPTS,26.5,2023-06-08
+168,Jackie Young,LVA,PTS,20.0,2023-06-08
+169,Jackie Young,LVA,REB,5.0,2023-06-08
+170,Jackie Young,LVA,PTS+TRB+AST,27.5,2023-06-08
+171,Jackie Young,LVA,PTS+TRB,25.0,2023-06-08
+172,Jackie Young,LVA,PTS+AST,23.0,2023-06-08
+173,Jackie Young,LVA,FPTS,30.5,2023-06-08
+174,Candace Parker,LVA,PTS,7.5,2023-06-08
+175,Candace Parker,LVA,REB,4.5,2023-06-08
+176,Candace Parker,LVA,3P,0.5,2023-06-08
+177,Candace Parker,LVA,PTS+TRB+AST,15.0,2023-06-08
+178,Candace Parker,LVA,PTS+TRB,12.0,2023-06-08
+179,Candace Parker,LVA,PTS+AST,10.5,2023-06-08
+180,Candace Parker,LVA,FPTS,17.0,2023-06-08
+181,tex,The Gua,Kills,35.5,2023-06-08
+182,trent,The Gua,Kills,31.5,2023-06-08
+183,valyn,The Gua,Kills,30.5,2023-06-08
+184,neT,The Gua,Kills,30.5,2023-06-08
+185,Reduxx,OxygenEs,Kills,33.5,2023-06-08
+186,Verno,OxygenEs,Kills,33.5,2023-06-08
+187,skuba,OxygenEs,Kills,29.5,2023-06-08
+188,mitch,OxygenEs,Kills,25.5,2023-06-08
+189,stavn,Heroic,Kills,41.5,2023-06-08
+190,jabbi,Heroic,Kills,35.5,2023-06-08
+191,TeSeS,Heroic,Kills,33.5,2023-06-08
+192,cadiaN,Heroic,Kills,35.5,2023-06-08
+193,sjuush,Heroic,Kills,35.5,2023-06-08
+194,ropz,FaZe,Kills,41.5,2023-06-08
+195,broky,FaZe,Kills,40.5,2023-06-08
+196,Twistzz,FaZe,Kills,35.5,2023-06-08
+197,rain,FaZe,Kills,36.5,2023-06-08
+198,karrigan,FaZe,Kills,27.5,2023-06-08
+199,venomzera,Paqueta,Kills,40.5,2023-06-08
+200,nython,Paqueta,Kills,37.5,2023-06-08
+201,DeStiNy,Paqueta,Kills,35.5,2023-06-08
+202,decenty,OPLANO,Kills,40.5,2023-06-08
+203,piriaz1n,OPLANO,Kills,40.5,2023-06-08
+204,kNgV-,OPLANO,Kills,35.5,2023-06-08
+205,José Berríos,TOR,SO (K),5.0,2023-06-08
+206,José Berríos,TOR,H,5.5,2023-06-08
+207,José Berríos,TOR,PO,18.0,2023-06-08
+208,José Berríos,TOR,BB,1.5,2023-06-08
+209,José Berríos,TOR,P,94.5,2023-06-08
+210,José Berríos,TOR,ER,2.5,2023-06-08
+211,Vladimir Guerrero Jr.,TOR,FPTS,8.5,2023-06-08
+212,Bo Bichette,TOR,TB,1.5,2023-06-08
+213,Bo Bichette,TOR,FPTS,9.0,2023-06-08
+214,George Springer,TOR,FPTS,7.5,2023-06-08
+215,Alejandro Kirk,TOR,H+R+R,1.5,2023-06-08
+216,Matt Chapman,TOR,H+R+R,1.5,2023-06-08
+217,Whit Merrifield,TOR,SO,0.5,2023-06-08
+218,Framber Valdez,HOU,SO (K),5.0,2023-06-08
+219,Framber Valdez,HOU,H,6.0,2023-06-08
+220,Framber Valdez,HOU,PO,18.5,2023-06-08
+221,Framber Valdez,HOU,P,96.5,2023-06-08
+222,Framber Valdez,HOU,ER,2.5,2023-06-08
+223,Yordan Alvarez,HOU,R,0.5,2023-06-08
+224,Yordan Alvarez,HOU,FPTS,9.0,2023-06-08
+225,Alex Bregman,HOU,SO,0.5,2023-06-08
+226,Alex Bregman,HOU,FPTS,8.5,2023-06-08
+227,Kyle Tucker,HOU,SO,0.5,2023-06-08
+228,Kyle Tucker,HOU,FPTS,8.5,2023-06-08
+229,José Altuve,HOU,H+R+R,1.5,2023-06-08
+230,Jeremy Pena,HOU,R,0.5,2023-06-08
+231,José Abreu,HOU,H+R+R,1.5,2023-06-08
+232,Corey Julks,HOU,H+R+R,1.5,2023-06-08
+233,Aaron Civale,CLE,SO (K),4.5,2023-06-08
+234,Aaron Civale,CLE,H,5.0,2023-06-08
+235,José Ramírez,CLE,R,0.5,2023-06-08
+236,José Ramírez,CLE,TB,1.5,2023-06-08
+237,José Ramírez,CLE,FPTS,9.0,2023-06-08
+238,Steven Kwan,CLE,R,0.5,2023-06-08
+239,Steven Kwan,CLE,FPTS,7.5,2023-06-08
+240,Andrés Giménez,CLE,SO,0.5,2023-06-08
+241,Andrés Giménez,CLE,H+R+R,1.5,2023-06-08
+242,Amed Rosario,CLE,R,0.5,2023-06-08
+243,Amed Rosario,CLE,TB,1.5,2023-06-08
+244,Amed Rosario,CLE,SO,0.5,2023-06-08
+245,Josh Bell,CLE,H+R+R,1.5,2023-06-08
+246,Josh Naylor,CLE,SO,0.5,2023-06-08
+247,Josh Naylor,CLE,H+R+R,1.5,2023-06-08
+248,Rafael Devers,BOS,R,0.5,2023-06-08
+249,Rafael Devers,BOS,TB,1.5,2023-06-08
+250,Rafael Devers,BOS,FPTS,9.0,2023-06-08
+251,Masataka Yoshida,BOS,SO,0.5,2023-06-08
+252,Masataka Yoshida,BOS,FPTS,9.0,2023-06-08
+253,Alex Verdugo,BOS,R,0.5,2023-06-08
+254,Triston Casas,BOS,H+R+R,1.5,2023-06-08
+255,Jarren Duran,BOS,H+R+R,1.5,2023-06-08
+256,Justin Verlander,NYM,SO (K),5.5,2023-06-08
+257,Justin Verlander,NYM,H,6.0,2023-06-08
+258,Justin Verlander,NYM,P,98.5,2023-06-08
+259,Pete Alonso,NYM,FPTS,7.5,2023-06-08
+260,Francisco Lindor,NYM,FPTS,7.0,2023-06-08
+261,Brandon Nimmo,NYM,H+R+R,1.5,2023-06-08
+262,Jeff McNeil,NYM,H+R+R,1.5,2023-06-08
+263,Spencer Strider,ATL,SO (K),8.5,2023-06-08
+264,Spencer Strider,ATL,H,4.0,2023-06-08
+265,Spencer Strider,ATL,P,100.5,2023-06-08
+266,Ronald Acuña Jr.,ATL,FPTS,10.5,2023-06-08
+267,Matt Olson,ATL,TB,1.5,2023-06-08
+268,Matt Olson,ATL,FPTS,8.5,2023-06-08
+269,Ozzie Albies,ATL,H+R+R,1.5,2023-06-08
+270,Austin Riley,ATL,R,0.5,2023-06-08
+271,Austin Riley,ATL,TB,1.5,2023-06-08
+272,Michael Harris,ATL,H+R+R,1.5,2023-06-08
+273,Eddie Rosario,ATL,H+R+R,1.5,2023-06-08
+274,Marcell Ozuna,ATL,R,0.5,2023-06-08
+275,Marcell Ozuna,ATL,H+R+R,1.5,2023-06-08
+276,Jack Eichel,VGK,SHO,3.0,2023-06-08
+277,Jack Eichel,VGK,FPTS,6.0,2023-06-08
+278,Adin Hill,VGK,SV,30.5,2023-06-08
+279,Jonathan Marchessault,VGK,SHO,3.0,2023-06-08
+280,Jonathan Marchessault,VGK,FPTS,6.0,2023-06-08
+281,Alex Pietrangelo,VGK,SHO,2.0,2023-06-08
+282,Alex Pietrangelo,VGK,S+B,4.5,2023-06-08
+283,Alex Pietrangelo,VGK,BS,2.5,2023-06-08
+284,Alex Pietrangelo,VGK,FPTS,7.0,2023-06-08
+285,Mark Stone,VGK,SHO,2.5,2023-06-08
+286,Mark Stone,VGK,FPTS,5.5,2023-06-08
+287,William Karlsson,VGK,SHO,2.0,2023-06-08
+288,William Karlsson,VGK,HIT,0.5,2023-06-08
+289,Keegan Kolesar,VGK,SHO,0.5,2023-06-08
+290,Keegan Kolesar,VGK,HIT,3.5,2023-06-08
+291,Keegan Kolesar,VGK,FPTS,5.5,2023-06-08
+292,Alec Martinez,VGK,BS,2.5,2023-06-08
+293,Brayden McNabb,VGK,BS,2.5,2023-06-08
+294,Shea Theodore,VGK,SHO,2.0,2023-06-08
+295,Shea Theodore,VGK,HIT,0.5,2023-06-08
+296,Shea Theodore,VGK,FPTS,4.0,2023-06-08
+297,William Carrier,VGK,HIT,2.5,2023-06-08
+298,William Carrier,VGK,FPTS,5.0,2023-06-08
+299,Reilly Smith,VGK,SHO,2.0,2023-06-08
+300,Reilly Smith,VGK,FPTS,5.5,2023-06-08
+301,Matthew Tkachuk,FLO,SHO,3.5,2023-06-08
+302,Matthew Tkachuk,FLO,FPTS,8.0,2023-06-08
+303,Sergei Bobrovsky,FLO,SV,28.5,2023-06-08
+304,Sam Bennett,FLO,SHO,3.5,2023-06-08
+305,Sam Bennett,FLO,HIT,4.0,2023-06-08
+306,Sam Bennett,FLO,FPTS,9.0,2023-06-08
+307,Aaron Ekblad,FLO,SHO,2.0,2023-06-08
+308,Aaron Ekblad,FLO,HIT,1.5,2023-06-08
+309,Aaron Ekblad,FLO,BS,1.5,2023-06-08
+310,Aaron Ekblad,FLO,FPTS,5.5,2023-06-08
+311,Aleksander Barkov,FLO,SHO,2.5,2023-06-08
+312,Aleksander Barkov,FLO,FPTS,6.0,2023-06-08
+313,Anton Lundell,FLO,SHO,2.0,2023-06-08
+314,Radko Gudas,FLO,HIT,4.0,2023-06-08
+315,Radko Gudas,FLO,FPTS,6.5,2023-06-08
+316,Marc Staal,FLO,SHO,0.5,2023-06-08
+317,Marc Staal,FLO,HIT,0.5,2023-06-08
+318,Sam Reinhart,FLO,SHO,2.5,2023-06-08
+319,Sam Reinhart,FLO,FPTS,5.5,2023-06-08
+320,Carter Verhaeghe,FLO,SHO,3.0,2023-06-08
+321,Brandon Montour,FLO,SHO,3.0,2023-06-08
+322,Brandon Montour,FLO,FPTS,5.5,2023-06-08
+323,Anthony Duclair,FLO,SHO,2.0,2023-06-08
+324,Gustav Forsling,FLO,SHO,2.0,2023-06-08
+325,Gustav Forsling,FLO,BS,1.5,2023-06-08
+326,Gustav Forsling,FLO,FPTS,4.5,2023-06-08
+327,Nick Cousins,FLO,HIT,2.5,2023-06-08
+328,Drew Smyly,CHC,SO (K),4.5,2023-06-08
+329,Drew Smyly,CHC,H,5.5,2023-06-08
+330,Drew Smyly,CHC,PO,16.0,2023-06-08
+331,Nico Hoerner,CHC,SO,0.5,2023-06-08
+332,Nico Hoerner,CHC,FPTS,8.5,2023-06-08
+333,Dansby Swanson,CHC,FPTS,8.5,2023-06-08
+334,Yan Gomes,CHC,H+R+R,1.5,2023-06-08
+335,Seiya Suzuki,CHC,H+R+R,1.5,2023-06-08
+336,Patrick Wisdom,CHC,SO,1.5,2023-06-08
+337,Reid Detmers,LAA,SO (K),6.0,2023-06-08
+338,Reid Detmers,LAA,H,5.0,2023-06-08
+339,Reid Detmers,LAA,P,91.5,2023-06-08
+340,Mike Trout,LAA,R,0.5,2023-06-08
+341,Mike Trout,LAA,FPTS,10.0,2023-06-08
+342,Shohei Ohtani,LAA,R,0.5,2023-06-08
+343,Shohei Ohtani,LAA,FPTS,10.0,2023-06-08
+344,Anthony Rendon,LAA,R,0.5,2023-06-08
+345,Anthony Rendon,LAA,SO,0.5,2023-06-08
+346,Anthony Rendon,LAA,H+R+R,1.5,2023-06-08
+347,Taylor Ward,LAA,H+R+R,1.5,2023-06-08
+348,Zach Neto,LAA,SO,0.5,2023-06-08

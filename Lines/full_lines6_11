@@ -1,0 +1,842 @@
+,Player,Team,Line,Stat,League,Date
+0,Bijan Robinson,2023 ATL,1075.5,Rush Yards,163,2023-09-07
+1,Rory McIlroy,Oakdale Golf & Country Club RD 4,69.0,Strokes,1,2023-06-11
+2,Nikola Jokic,MIA,52.5,PTS+TRB+AST,7,2023-06-12
+3,Christian Walker,DET,1.5,Total Bases,2,2023-06-11
+4,Nikola Jokic,MIA 1st Half,26.5,PTS+TRB+AST,84,2023-06-12
+5,Nikola Jokic,MIA,10.0,AST,7,2023-06-12
+6,Nikola Jokic,MIA,12.5,TRB,7,2023-06-12
+7,Brock Wilken,Alabama,2.5,Total Bases,189,2023-06-11
+8,Breanna Stewart,DAL,21.5,PTS,3,2023-06-11
+9,Jimmy Butler,DEN,26.5,PTS,7,2023-06-12
+10,Jimmy Butler,DEN 1st Half,12.5,PTS,84,2023-06-12
+11,Corey Conners,RD4,9.5,Fairways Hit,1,2023-06-11
+12,Casper Ruud,N. Djokovic (French Open),5.0,Aces,5,2023-06-11
+13,Novak Djokovic,C. Ruud (French Open),7.0,Aces,5,2023-06-11
+14,Novak Djokovic,C. Ruud (French Open),5.0,Break Points Won,5,2023-06-11
+15,Novak Djokovic,C. Ruud (French Open),37.5,Total Games,5,2023-06-11
+16,Emmanuel Rivera,DET,0.5,Hitter Strikeouts,2,2023-06-11
+17,Zac Gallen,DET,6.5,Pitcher Strikeouts,2,2023-06-11
+18,Novak Djokovic,C. Ruud (French Open),9.5,3rd Set - Total Games,244,2023-06-11
+19,M0nkey M00n,Vitality,2.5,MAPS 1-4 Goals,161,2023-06-11
+20,Ketel Marte,DET,8.5,Hitter Fantasy Score,2,2023-06-11
+21,Evan Longoria,DET,1.5,Hits+Runs+RBIS,2,2023-06-11
+22,Rory McIlroy,RD4,12.5,Greens In Regulation,1,2023-06-11
+23,Novak Djokovic,C. Ruud (French Open),9.5,1st Set - Total Games,244,2023-06-11
+24,Rory McIlroy,Oakdale Golf & Country Club RD 4,5.0,Birdies Or Better,1,2023-06-11
+25,Novak Djokovic,C. Ruud (French Open),9.5,2nd Set - Total Games,244,2023-06-11
+26,Aaron Rodgers,2023 NYJ,4050.5,Pass Yards,163,2023-09-07
+27,Nikola Jokic,MIA,22.5,TRB+AST,7,2023-06-12
+28,Christian Walker,DET,0.5,Runs,2,2023-06-11
+29,Nikola Jokic,MIA,39.5,PTS+AST,7,2023-06-12
+30,Nikola Jokic,MIA,42.5,PTS+TRB,7,2023-06-12
+31,Nikola Jokic,MIA,3.5,TOV,7,2023-06-12
+32,Breanna Stewart,DAL 1st Half,10.5,PTS,193,2023-06-11
+33,Cameron Young,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+34,Matt Fitzpatrick,Shane Lowry,0.0,Birdies or Better Matchup,1,2023-06-11
+35,Matt Fitzpatrick,RD4,12.5,Greens In Regulation,1,2023-06-11
+36,Jimmy Butler,DEN,12.5,TRB+AST,7,2023-06-12
+37,Patrick Mahomes,2023 KC,4800.5,Pass Yards,163,2023-09-07
+38,Nikola Jokic,MIA 1st Half,14.5,PTS,84,2023-06-12
+39,zen,Team BDS,3.0,MAPS 1-4 Goals,161,2023-06-11
+40,Jimmy Butler,DEN,32.5,PTS+AST,7,2023-06-12
+41,Nikola Jokic,MIA,29.5,PTS,7,2023-06-12
+42,Jimmy Butler,DEN,32.5,PTS+TRB,7,2023-06-12
+43,Bam Adebayo,DEN,2.5,TOV,7,2023-06-12
+44,Gabriel Moreno,DET,0.5,Hitter Strikeouts,2,2023-06-11
+45,Sam Bennett,RD4,9.5,Fairways Hit,1,2023-06-11
+46,Jimmy Butler,DEN,39.5,PTS+TRB+AST,7,2023-06-12
+47,Joey Wentz,ARI,4.0,Pitcher Strikeouts,2,2023-06-11
+48,Corbin Carroll,DET,8.5,Hitter Fantasy Score,2,2023-06-11
+49,Jimmy Butler,DEN 1st Half,19.5,PTS+TRB+AST,84,2023-06-12
+50,Jake Marisnick,ARI,0.5,Total Bases,2,2023-06-11
+51,Gabriel Moreno,DET,1.5,Hits+Runs+RBIS,2,2023-06-11
+52,Jimmy Butler,DEN,6.5,AST,7,2023-06-12
+53,Cameron Young,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+54,Andrew Pinckney,Wake Forest,1.5,Total Bases,189,2023-06-11
+55,Jimmy Butler,DEN,6.5,TRB,7,2023-06-12
+56,Corbin Carroll,DET,0.5,Runs,2,2023-06-11
+57,Tommy Fleetwood,Oakdale Golf & Country Club RD 4,70.0,Strokes,1,2023-06-11
+58,Sabrina Ionescu,DAL,16.5,PTS,3,2023-06-11
+59,Jake McCarthy,DET,1.5,Hits+Runs+RBIS,2,2023-06-11
+60,Nick Kurtz,Alabama,2.5,Total Bases,189,2023-06-11
+61,Aaron Rai,RD4,9.0,Fairways Hit,1,2023-06-11
+62,Corey Conners,RD4,12.5,Greens In Regulation,1,2023-06-11
+63,Josh Allen,2023 BUF,4375.5,Pass Yards,163,2023-09-07
+64,Cameron Young,Sahith Theegala,0.0,Birdies or Better Matchup,1,2023-06-11
+65,Tommy Fleetwood,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+66,ExoTiik,Hogan Mode,3.5,MAPS 1-4 Goals,161,2023-06-11
+67,Lourdes Gurriel Jr.,DET,0.5,Hitter Strikeouts,2,2023-06-11
+68,Ketel Marte,DET,0.5,Runs,2,2023-06-11
+69,Bam Adebayo,DEN,20.5,PTS,7,2023-06-12
+70,Bam Adebayo,DEN 1st Half,10.5,PTS,84,2023-06-12
+71,Jamal Murray,MIA,5.5,TRB,7,2023-06-12
+72,Jamal Murray,MIA,8.5,AST,7,2023-06-12
+73,Jamal Murray,MIA 1st Half,19.5,PTS+TRB+AST,84,2023-06-12
+74,Jamal Murray,MIA,39.5,PTS+TRB+AST,7,2023-06-12
+75,Jamal Murray,MIA,2.5,TOV,7,2023-06-12
+76,Jamal Murray,MIA,33.5,PTS+AST,7,2023-06-12
+77,Jamal Murray,MIA,30.5,PTS+TRB,7,2023-06-12
+78,Ketel Marte,DET,1.5,Total Bases,2,2023-06-11
+79,Jamal Murray,MIA,1.5,BLK+STL,7,2023-06-12
+80,Sabrina Ionescu,DAL 1st Half,8.5,PTS,193,2023-06-11
+81,Mark Thompson,Birmingham,73.5,Rush Yards,191,2023-06-11
+82,Drew Williamson,Wake Forest,1.5,Total Bases,189,2023-06-11
+83,Matt Fitzpatrick,RD4,8.5,Fairways Hit,1,2023-06-11
+84,Lourdes Gurriel Jr.,DET,1.5,Total Bases,2,2023-06-11
+85,Miguel Cabrera,ARI,0.5,Hitter Strikeouts,2,2023-06-11
+86,Bam Adebayo,DEN,34.5,PTS+TRB+AST,7,2023-06-12
+87,Matt Fitzpatrick,Oakdale Golf & Country Club RD 4,70.0,Strokes,1,2023-06-11
+88,Adam Hadwin,RD4,12.5,Greens In Regulation,1,2023-06-11
+89,Joe Burrow,2023 CIN,4500.5,Pass Yards,163,2023-09-07
+90,Growlii,Karmine Corp,2.5,MAPS 1-4 Goals,161,2023-06-11
+91,Bam Adebayo,DEN,10.5,TRB,7,2023-06-12
+92,Bam Adebayo,DEN,30.5,PTS+TRB,7,2023-06-12
+93,Bam Adebayo,DEN 1st Half,17.5,PTS+TRB+AST,84,2023-06-12
+94,Bam Adebayo,DEN,14.5,TRB+AST,7,2023-06-12
+95,Tommy Fleetwood,Justin Rose,0.0,Birdies or Better Matchup,1,2023-06-11
+96,Jamal Murray,MIA 1st Half,12.5,PTS,84,2023-06-12
+97,Javier Baez,ARI,1.5,Hits+Runs+RBIS,2,2023-06-11
+98,Jamal Murray,MIA,25.5,PTS,7,2023-06-12
+99,Kyle Lowry,DEN,1.5,TOV,7,2023-06-12
+100,Bam Adebayo,DEN,23.5,PTS+AST,7,2023-06-12
+101,Satou Sabally,NYL 1st Half,11.5,PTS,193,2023-06-11
+102,Matt Fitzpatrick,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+103,Satou Sabally,NYL,22.5,PTS,3,2023-06-11
+104,Davion Davis,Houston,52.5,Receiving Yards,191,2023-06-11
+105,Lourdes Gurriel Jr.,DET,0.5,Runs,2,2023-06-11
+106,Bam Adebayo,DEN,3.5,AST,7,2023-06-12
+107,Alex McGough,Houston,235.5,Pass Yards,191,2023-06-11
+108,Aaron Gordon,MIA 1st Half,11.5,PTS+TRB+AST,84,2023-06-12
+109,Aaron Gordon,MIA,23.5,PTS+TRB+AST,7,2023-06-12
+110,Nick Maton,ARI,0.5,Total Bases,2,2023-06-11
+111,Tyrrell Hatton,Corey Conners,0.0,Birdies or Better Matchup,1,2023-06-11
+112,Justin Herbert,2023 LAC,4675.5,Pass Yards,163,2023-09-07
+113,Nick Ahmed,DET,0.5,Hitter Strikeouts,2,2023-06-11
+114,Tyrrell Hatton,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+115,Spencer Torkelson,ARI,1.5,Hits+Runs+RBIS,2,2023-06-11
+116,Courtney Vandersloot,DAL 1st Half,5.5,PTS,193,2023-06-11
+117,Jay Beshears,Virginia,2.5,Total Bases,189,2023-06-11
+118,Aaron Gordon,MIA,16.5,PTS+AST,7,2023-06-12
+119,Aaron Gordon,MIA,19.5,PTS+TRB,7,2023-06-12
+120,M0nkey M00n,Vitality,9.0,MAPS 1-4 Saves,161,2023-06-11
+121,Ludvig Aberg,RD4,8.5,Fairways Hit,1,2023-06-11
+122,Courtney Vandersloot,DAL,10.5,PTS,3,2023-06-11
+123,Justin Hall,Birmingham,48.5,Receiving Yards,191,2023-06-11
+124,CJ Marable,Houston,48.5,Rush Yards,191,2023-06-11
+125,Tommy Fleetwood,RD4,12.0,Greens In Regulation,1,2023-06-11
+126,Aaron Gordon,MIA,13.5,PTS,7,2023-06-12
+127,Aaron Gordon,MIA 1st Half,6.5,PTS,84,2023-06-12
+128,Tyrrell Hatton,Oakdale Golf & Country Club RD 4,69.5,Strokes,1,2023-06-11
+129,Aaron Gordon,MIA,6.5,TRB,7,2023-06-12
+130,Darius Victor,Philadelphia,51.5,Rush Yards,191,2023-06-11
+131,Case Cookus,New Jersey,226.5,Pass Yards,191,2023-06-11
+132,Corey Coleman,New Jersey,62.5,Receiving Yards,191,2023-06-11
+133,Zack Short,ARI,0.5,Total Bases,2,2023-06-11
+134,Justin Rose,RD4,12.0,Greens In Regulation,1,2023-06-11
+135,Kevin Love,DEN,4.5,TRB,7,2023-06-12
+136,C.T. Pan,Oakdale Golf & Country Club RD 4,71.0,Strokes,1,2023-06-11
+137,Akshay Bhatia,RD4,8.5,Fairways Hit,1,2023-06-11
+138,Zach McKinstry,ARI,1.5,Hits+Runs+RBIS,2,2023-06-11
+139,C.T. Pan,Andrew Novak,0.0,Birdies or Better Matchup,1,2023-06-11
+140,Trevor Lawrence,2023 JAX,4175.5,Pass Yards,163,2023-09-07
+141,Kyle Teel,Duke,2.5,Total Bases,189,2023-06-11
+142,Kevin Love,DEN,6.5,PTS,7,2023-06-12
+143,Kevin Love,DEN 1st Half,3.5,PTS,84,2023-06-12
+144,Rinky Hijikata,R. Berankis (Hertogenbosch-Q),23.0,Total Games,5,2023-06-11
+145,zen,Team BDS,7.5,MAPS 1-4 Saves,161,2023-06-11
+146,Kevin Love,DEN,1.5,3P,7,2023-06-12
+147,Natasha Howard,NYL 1st Half,7.5,PTS,193,2023-06-11
+148,Kevin Love,DEN,10.5,PTS+TRB,7,2023-06-12
+149,Kyle Lowry,DEN 1st Half,8.5,PTS+TRB+AST,84,2023-06-12
+150,Kevin Love,DEN,0.5,BLK+STL,7,2023-06-12
+151,Kyle Lowry,DEN,16.5,PTS+TRB+AST,7,2023-06-12
+152,Natasha Howard,NYL,15.5,PTS,3,2023-06-11
+153,Michael Porter Jr.,MIA,16.5,PTS+TRB,7,2023-06-12
+154,Jalen Hurts,2023 PHI,3675.5,Pass Yards,163,2023-09-07
+155,Alex Stone,Virginia,1.5,Total Bases,189,2023-06-11
+156,Shane Lowry,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+157,Sam Bennett,RD4,12.0,Greens In Regulation,1,2023-06-11
+158,Shane Lowry,Matt Kuchar,0.0,Birdies or Better Matchup,1,2023-06-11
+159,Michael Porter Jr.,MIA 1st Half,8.5,PTS+TRB+AST,84,2023-06-12
+160,ExoTiik,Hogan Mode,6.0,MAPS 1-4 Saves,161,2023-06-11
+161,Michael Porter Jr.,MIA,11.5,PTS+AST,7,2023-06-12
+162,Michael Porter Jr.,MIA,16.5,PTS+TRB+AST,7,2023-06-12
+163,Michael Porter Jr.,MIA,10.5,PTS,7,2023-06-12
+164,Michael Porter Jr.,MIA,5.5,TRB,7,2023-06-12
+165,Shane Lowry,Oakdale Golf & Country Club RD 4,70.0,Strokes,1,2023-06-11
+166,Michael Porter Jr.,MIA 1st Half,5.5,PTS,84,2023-06-12
+167,Michael Porter Jr.,MIA,0.5,AST,7,2023-06-12
+168,Nick Taylor,RD4,8.5,Fairways Hit,1,2023-06-11
+169,Jonquel Jones,DAL,9.5,PTS,3,2023-06-11
+170,Gabe Vincent,DEN 1st Half,4.5,PTS,84,2023-06-12
+171,Sahith Theegala,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+172,Sahith Theegala,Callum Tarren,0.0,Birdies or Better Matchup,1,2023-06-11
+173,Sahith Theegala,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+174,Growlii,Karmine Corp,6.5,MAPS 1-4 Saves,161,2023-06-11
+175,Gabe Vincent,DEN 1st Half,6.5,PTS+TRB+AST,84,2023-06-12
+176,Gabe Vincent,DEN,13.5,PTS+TRB+AST,7,2023-06-12
+177,Gabe Vincent,DEN,9.5,PTS,7,2023-06-12
+178,Jake Gelof,Duke,2.5,Total Bases,189,2023-06-11
+179,Lamar Jackson,2023 BAL,3625.5,Pass Yards,163,2023-09-07
+180,Gabe Vincent,DEN,12.5,PTS+AST,7,2023-06-12
+181,Bruce Brown,MIA,17.5,PTS+TRB+AST,7,2023-06-12
+182,Bruce Brown,MIA 1st Half,8.5,PTS+TRB+AST,84,2023-06-12
+183,Gabe Vincent,DEN,11.5,PTS+TRB,7,2023-06-12
+184,Rory McIlroy,RD4,8.0,Fairways Hit,1,2023-06-11
+185,Nick Taylor,RD4,12.0,Greens In Regulation,1,2023-06-11
+186,Kentavious Caldwell-Pope,MIA,7.5,PTS,7,2023-06-12
+187,Betnijah Laney,DAL,6.5,PTS,3,2023-06-11
+188,M0nkey M00n,Vitality,3.5,MAPS 1-4 Demos,161,2023-06-11
+189,Corey Conners,Oakdale Golf & Country Club RD 4,70.0,Strokes,1,2023-06-11
+190,Corey Conners,Aaron Rai,0.0,Birdies or Better Matchup,1,2023-06-11
+191,Bryce Young,2023 CAR,3500.5,Pass Yards,163,2023-09-07
+192,Tommy Fleetwood,RD4,8.0,Fairways Hit,1,2023-06-11
+193,Kentavious Caldwell-Pope,MIA 1st Half,3.5,PTS,84,2023-06-12
+194,Cameron Young,RD4,11.5,Greens In Regulation,1,2023-06-11
+195,Dylan Crews,Kentucky,2.5,Total Bases,189,2023-06-11
+196,Kentavious Caldwell-Pope,MIA,1.5,BLK+STL,7,2023-06-12
+197,Kentavious Caldwell-Pope,MIA,10.5,PTS+TRB,7,2023-06-12
+198,Corey Conners,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+199,Max Strus,DEN,2.5,TRB,7,2023-06-12
+200,Max Strus,DEN 1st Half,3.5,PTS,84,2023-06-12
+201,Max Strus,DEN,7.5,PTS,7,2023-06-12
+202,Max Strus,DEN,1.5,3P,7,2023-06-12
+203,zen,Team BDS,4.5,MAPS 1-4 Demos,161,2023-06-11
+204,C.T. Pan,RD4,8.0,Fairways Hit,1,2023-06-11
+205,Mark Hubbard,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+206,Jackson Gray,LSU,1.5,Total Bases,189,2023-06-11
+207,Tyrrell Hatton,RD4,11.5,Greens In Regulation,1,2023-06-11
+208,Kyle Lowry,DEN,12.5,PTS+TRB,7,2023-06-12
+209,Mark Hubbard,Harry Higgs,0.0,Birdies or Better Matchup,1,2023-06-11
+210,Mark Hubbard,Oakdale Golf & Country Club RD 4,71.0,Strokes,1,2023-06-11
+211,C.J. Stroud,2023 HOU,3425.5,Pass Yards,163,2023-09-07
+212,Bruce Brown,MIA 1st Half,5.5,PTS,84,2023-06-12
+213,Matt Kuchar,RD4,8.0,Fairways Hit,1,2023-06-11
+214,Matt Kuchar,Eric Cole,0.0,Birdies or Better Matchup,1,2023-06-11
+215,Anthony Richardson,2023 IND,2599.5,Pass Yards,163,2023-09-07
+216,Bruce Brown,MIA,13.5,PTS+AST,7,2023-06-12
+217,Shane Lowry,RD4,11.5,Greens In Regulation,1,2023-06-11
+218,Bruce Brown,MIA,4.0,TRB,7,2023-06-12
+219,Bruce Brown,MIA,1.5,BLK+STL,7,2023-06-12
+220,Bruce Brown,MIA,11.5,PTS,7,2023-06-12
+221,Matt Kuchar,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+222,Tommy White,Kentucky,2.5,Total Bases,189,2023-06-11
+223,Bruce Brown,MIA,15.5,PTS+TRB,7,2023-06-12
+224,Andy Murray,J. Rodionov (Surbiton),22.5,Total Games,5,2023-06-11
+225,ExoTiik,Hogan Mode,4.0,MAPS 1-4 Demos,161,2023-06-11
+226,Kyle Lowry,DEN,7.5,TRB+AST,7,2023-06-12
+227,Kyle Lowry,DEN,13.5,PTS+AST,7,2023-06-12
+228,Kyle Lowry,DEN,4.5,AST,7,2023-06-12
+229,Dak Prescott,2023 DAL,4175.5,Pass Yards,163,2023-09-07
+230,Justin Rose,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+231,Kyle Lowry,DEN,9.5,PTS,7,2023-06-12
+232,Kyle Lowry,DEN 1st Half,4.5,PTS,84,2023-06-12
+233,Caleb Martin,DEN,14.5,PTS+TRB,7,2023-06-12
+234,Justin Rose,Tyrrell Hatton,0.0,Birdies or Better Matchup,1,2023-06-11
+235,Aaron Rai,RD4,11.5,Greens In Regulation,1,2023-06-11
+236,Justin Rose,Oakdale Golf & Country Club RD 4,69.5,Strokes,1,2023-06-11
+237,Justin Quinn,Oregon,2.5,Total Bases,189,2023-06-11
+238,Matteo Arnaldi,F. Diaz Acosta (Heilbronn),22.0,Total Games,5,2023-06-11
+239,Justin Rose,RD4,8.5,Fairways Hit,1,2023-06-11
+240,Growlii,Karmine Corp,5.5,MAPS 1-4 Demos,161,2023-06-11
+241,Caleb Martin,DEN,4.5,TRB,7,2023-06-12
+242,Caleb Martin,DEN,16.0,PTS+TRB+AST,7,2023-06-12
+243,Caleb Martin,DEN 1st Half,8.0,PTS+TRB+AST,84,2023-06-12
+244,Sabin Ceballos,Oral Roberts,2.5,Total Bases,189,2023-06-11
+245,Deshaun Watson,2023 CLE,3625.5,Pass Yards,163,2023-09-07
+246,Caleb Martin,DEN 1st Half,5.5,PTS,84,2023-06-12
+247,Caleb Martin,DEN,10.5,PTS,7,2023-06-12
+248,Caleb Martin,DEN,11.5,PTS+AST,7,2023-06-12
+249,Sahith Theegala,RD4,11.0,Greens In Regulation,1,2023-06-11
+250,Ludvig Aberg,Justin Lower,0.0,Birdies or Better Matchup,1,2023-06-11
+251,Ludvig Aberg,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+252,Ludvig Aberg,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+253,Adam Hadwin,RD4,8.0,Fairways Hit,1,2023-06-11
+254,Tyrrell Hatton,RD4,7.5,Fairways Hit,1,2023-06-11
+255,Tua Tagovailoa,2023 MIA,3999.5,Pass Yards,163,2023-09-07
+256,Mark Hubbard,RD4,11.0,Greens In Regulation,1,2023-06-11
+257,Akshay Bhatia,Oakdale Golf & Country Club RD 4,71.0,Strokes,1,2023-06-11
+258,Akshay Bhatia,Chez Reavie,0.0,Birdies or Better Matchup,1,2023-06-11
+259,Jonah Cox,Oregon,2.5,Total Bases,189,2023-06-11
+260,Matt Kuchar,RD4,11.5,Greens In Regulation,1,2023-06-11
+261,Sam Bennett,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+262,Sam Bennett,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+263,Drew Cowley,Oral Roberts,2.5,Total Bases,189,2023-06-11
+264,Sam Bennett,Ludvig Aberg,0.0,Birdies or Better Matchup,1,2023-06-11
+265,Shane Lowry,RD4,7.5,Fairways Hit,1,2023-06-11
+266,Russell Wilson,2023 DEN,3875.5,Pass Yards,163,2023-09-07
+267,Garret Guillemette,Stanford,2.5,Total Bases,189,2023-06-11
+268,Derek Carr,2023 NO,3875.5,Pass Yards,163,2023-09-07
+269,Adam Hadwin,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+270,Adam Hadwin,Will Gordon,0.0,Birdies or Better Matchup,1,2023-06-11
+271,Mark Hubbard,RD4,7.5,Fairways Hit,1,2023-06-11
+272,Ludvig Aberg,RD4,11.0,Greens In Regulation,1,2023-06-11
+273,Adam Hadwin,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+274,Aaron Rai,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+275,Tommy Troy,Texas,2.5,Total Bases,189,2023-06-11
+276,Kirk Cousins,2023 MIN,4275.5,Pass Yards,163,2023-09-07
+277,watson,9P (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-06-11
+278,Akshay Bhatia,RD4,11.0,Greens In Regulation,1,2023-06-11
+279,Aaron Rai,Nick Taylor,0.0,Birdies or Better Matchup,1,2023-06-11
+280,Aaron Rai,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+281,Harry Higgs,RD4,7.0,Fairways Hit,1,2023-06-11
+282,Nick Taylor,Oakdale Golf & Country Club RD 4,70.5,Strokes,1,2023-06-11
+283,Stormstormer,9P (MAPS 1-2 Kills),10.0,MAPS 1-2 Kills,174,2023-06-11
+284,C.T. Pan,RD4,10.5,Greens In Regulation,1,2023-06-11
+285,Sahith Theegala,RD4,7.0,Fairways Hit,1,2023-06-11
+286,Peyton Powell,Stanford,2.5,Total Bases,189,2023-06-11
+287,Nick Taylor,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+288,Geno Smith,2023 SEA,3899.5,Pass Yards,163,2023-09-07
+289,Nick Taylor,Taylor Pendrith,0.0,Birdies or Better Matchup,1,2023-06-11
+290,Justin Fields,2023 CHI,2930.5,Pass Yards,163,2023-09-07
+291,Harry Higgs,Brandon Wu,0.0,Birdies or Better Matchup,1,2023-06-11
+292,Alberto Rios,Texas,2.5,Total Bases,189,2023-06-11
+293,Harry Higgs,RD4,10.5,Greens In Regulation,1,2023-06-11
+294,Harry Higgs,Oakdale Golf & Country Club RD 4,4.5,Birdies Or Better,1,2023-06-11
+295,Harry Higgs,Oakdale Golf & Country Club RD 4,71.0,Strokes,1,2023-06-11
+296,RAMZES666,Entity (MAPS 1-2 Kills),13.5,MAPS 1-2 Kills,174,2023-06-11
+297,Denny Hamlin,1 - Toyota Save Mart 350,24.5,Laps Led,4,2023-06-11
+298,Mac Jones,2023 NE,3399.5,Pass Yards,163,2023-09-07
+299,Tyler Reddick,2 - Toyota Save Mart 350,34.5,Laps Led,4,2023-06-11
+300,kiyotaka,Entity (MAPS 1-2 Kills),19.0,MAPS 1-2 Kills,174,2023-06-11
+301,Shane Bieber,HOU,5.0,Pitcher Strikeouts,2,2023-06-11
+302,Kyle Larson,16 - Toyota Save Mart 350,15.5,Fastest Laps,4,2023-06-11
+303,Jose Altuve,CLE,7.0,Hitter Fantasy Score,2,2023-06-11
+304,Brock Wilken,Alabama,2.5,Hits+Runs+RBIS,189,2023-06-11
+305,Daniel Jones,2023 NYG,3275.5,Pass Yards,163,2023-09-07
+306,Andres Gimenez,HOU,0.5,Hitter Strikeouts,2,2023-06-11
+307,Nightfall,Aster (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-06-11
+308,Amed Rosario,HOU,0.5,Runs,2,2023-06-11
+309,Andres Gimenez,HOU,1.5,Hits+Runs+RBIS,2,2023-06-11
+310,Mike Zunino,HOU,0.5,Total Bases,2,2023-06-11
+311,Jordan Love,2023 GB,3375.5,Pass Yards,163,2023-09-07
+312,Brandon Bielak,CLE,3.0,Pitcher Strikeouts,2,2023-06-11
+313,Kyle Tucker,CLE,0.5,Hitter Strikeouts,2,2023-06-11
+314,gpk,Aster (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+315,Andrew Pinckney,Wake Forest,1.5,Hits+Runs+RBIS,189,2023-06-11
+316,Tyler Reddick,2 - Toyota Save Mart 350,20.5,Fastest Laps,4,2023-06-11
+317,Jose Ramirez,HOU,8.5,Hitter Fantasy Score,2,2023-06-11
+318,Jose Abreu,CLE,1.5,Hits+Runs+RBIS,2,2023-06-11
+319,Jose Ramirez,HOU,0.5,Runs,2,2023-06-11
+320,Josh Bell,HOU,1.5,Hits+Runs+RBIS,2,2023-06-11
+321,Alex Bregman,CLE,7.0,Hitter Fantasy Score,2,2023-06-11
+322,Kyle Larson,16 - Toyota Save Mart 350,12.5,Cars Passed (Net),4,2023-06-11
+323,Kenny Pickett,2023 PIT,3300.5,Pass Yards,163,2023-09-07
+324,Mauricio Dubon,CLE,0.5,Hitter Strikeouts,2,2023-06-11
+325,Jay Beshears,Virginia,2.5,Hits+Runs+RBIS,189,2023-06-11
+326,Monet,BB (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+327,Steven Kwan,HOU,7.5,Hitter Fantasy Score,2,2023-06-11
+328,Desmond Ridder,2023 ATL,2575.5,Pass Yards,163,2023-09-07
+329,Kyle Teel,Duke,2.5,Hits+Runs+RBIS,189,2023-06-11
+330,Chase Elliott,10 - Toyota Save Mart 350,5.5,Cars Passed (Net),4,2023-06-11
+331,Martin Maldonado,CLE,0.5,Hits+Runs+RBIS,2,2023-06-11
+332,SumaiL,BB (MAPS 1-2 Kills),16.5,MAPS 1-2 Kills,174,2023-06-11
+333,Myles Straw,HOU,0.5,Hitter Strikeouts,2,2023-06-11
+334,dyrachyo,SR (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-06-11
+335,Will Brennan,HOU,0.5,Hitter Strikeouts,2,2023-06-11
+336,Will Brennan,HOU,1.5,Hits+Runs+RBIS,2,2023-06-11
+337,Kyle Busch,12 - Toyota Save Mart 350,3.5,Cars Passed (Net),4,2023-06-11
+338,Dylan Crews,Kentucky,3.5,Hits+Runs+RBIS,189,2023-06-11
+339,William Byron,26 - Toyota Save Mart 350,14.5,Cars Passed (Net),4,2023-06-11
+340,Jackson Gray,LSU,1.5,Hits+Runs+RBIS,189,2023-06-11
+341,Quinn,SR (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-06-11
+342,Arteezy,GG (MAPS 1-2 Kills),10.0,MAPS 1-2 Kills,174,2023-06-11
+343,Ross Chastain,15 - Toyota Save Mart 350,5.5,Cars Passed (Net),4,2023-06-11
+344,Justin Quinn,Oregon,2.5,Hits+Runs+RBIS,189,2023-06-11
+345,Sabin Ceballos,Oral Roberts,2.5,Hits+Runs+RBIS,189,2023-06-11
+346,Kevin Harvick,21 - Toyota Save Mart 350,7.5,Cars Passed (Net),4,2023-06-11
+347,Tommy Troy,Texas,2.5,Hits+Runs+RBIS,189,2023-06-11
+348,Yuragi,bc (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-06-11
+349,Martin Truex Jr.,8 - Toyota Save Mart 350,2.5,Cars Passed (Net),4,2023-06-11
+350,Joey Logano,17 - Toyota Save Mart 350,5.5,Cars Passed (Net),4,2023-06-11
+351,bzm,bc (MAPS 1-2 Kills),17.5,MAPS 1-2 Kills,174,2023-06-11
+352,Garret Guillemette,Stanford,2.5,Hits+Runs+RBIS,189,2023-06-11
+353,Parker,OG (MAPS 1-2 Kills),15.0,MAPS 1-2 Kills,174,2023-06-11
+354,Brock Wilken,Alabama,0.5,RBIs,189,2023-06-11
+355,DarkMago,OG (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-06-11
+356,Jay Beshears,Virginia,0.5,RBIs,189,2023-06-11
+357,Yatoro,PSG.LGD (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-06-11
+358,Everaldo,Athletico Paranaense,1.5,Shots,82,2023-06-11
+359,Mateus Pasinato,Athletico Paranaense,3.0,Goalie Saves,82,2023-06-11
+360,Felipe Azevedo,Athletico Paranaense,1.0,Shots Assisted,82,2023-06-11
+361,Everaldo,Athletico Paranaense,2.5,Crosses,82,2023-06-11
+362,Khellven,America Mineiro,34.5,Passes Attempted,82,2023-06-11
+363,Bento + Mateus Pasinato,America Mineiro/Athletico Paranaense,6.0,Goalie Saves,82,2023-06-11
+364,Marlon Lopes,Athletico Paranaense,30.5,Passes Attempted,82,2023-06-11
+365,Pedro Henrique,America Mineiro,0.5,Shots,82,2023-06-11
+366,Augustin Canobbio,America Mineiro,2.0,Shots,82,2023-06-11
+367,Vitor Roque,America Mineiro,2.0,Shots,82,2023-06-11
+368,Bento,America Mineiro,3.0,Goalie Saves,82,2023-06-11
+369,Aloisio,Athletico Paranaense,3.0,Shots,82,2023-06-11
+370,Pedro Henrique,America Mineiro,58.5,Passes Attempted,82,2023-06-11
+371,Juninho,Athletico Paranaense,0.5,Shots,82,2023-06-11
+372,Tomas Cuello,America Mineiro,1.5,Shots,82,2023-06-11
+373,Ze Ivaldo,America Mineiro,3.0,Clearances,82,2023-06-11
+374,Vitor Bueno,America Mineiro,2.5,Shots Assisted,82,2023-06-11
+375,Juninho,Athletico Paranaense,27.5,Passes Attempted,82,2023-06-11
+376,Khellven,America Mineiro,1.0,Tackles,82,2023-06-11
+377,Tomas Cuello,America Mineiro,4.5,Crosses,82,2023-06-11
+378,Vitor Bueno,America Mineiro,1.5,Shots,82,2023-06-11
+379,Erick,America Mineiro,1.5,Shots,82,2023-06-11
+380,Erick,America Mineiro,2.0,Tackles,82,2023-06-11
+381,Bento + Mateus Pasinato,America Mineiro/Athletico Paranaense,0.5,Goals Allowed in First 30 Minutes,82,2023-06-11
+382,Ale,Athletico Paranaense,2.0,Tackles,82,2023-06-11
+383,Marlon Lopes,Athletico Paranaense,2.0,Tackles,82,2023-06-11
+384,Christian,America Mineiro,0.5,Clearances,82,2023-06-11
+385,Vitor Roque,America Mineiro,0.5,Shots On Target,82,2023-06-11
+386,Ricardo Silva,Athletico Paranaense,3.5,Clearances,82,2023-06-11
+387,Larl,PSG.LGD (MAPS 1-2 Kills),13.5,MAPS 1-2 Kills,174,2023-06-11
+388,Kyle Teel,Duke,0.5,RBIs,189,2023-06-11
+389,Gaston Brugman,Saint Louis City,1.5,Shots,82,2023-06-11
+390,Nicholas Gioacchini,LA Galaxy,0.5,Clearances,82,2023-06-11
+391,Jalen Neal,Saint Louis City,3.5,Clearances,82,2023-06-11
+392,Sabin Ceballos,Oral Roberts,0.5,RBIs,189,2023-06-11
+393,Jakob Nerwinski,LA Galaxy,1.5,Clearances,82,2023-06-11
+394,Jared Stroud,LA Galaxy,1.5,Shots,82,2023-06-11
+395,Mark Delgado,Saint Louis City,0.5,Clearances,82,2023-06-11
+396,Jared Stroud,LA Galaxy,2.5,Crosses,82,2023-06-11
+397,shiro,TSpirit (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+398,Eduard Lowen,LA Galaxy,3.0,Shots,82,2023-06-11
+399,Dejan Joveljic,Saint Louis City,2.0,Shots,82,2023-06-11
+400,Roman Burki + Jonathan Bond,LA Galaxy/Saint Louis City,0.5,Goals Allowed in First 30 Minutes,82,2023-06-11
+401,Roman Burki,LA Galaxy,2.5,Goalie Saves,82,2023-06-11
+402,Riqui Puig,Saint Louis City,2.5,Shots,82,2023-06-11
+403,David Bingham + Maarten Paes,Dallas/Portland,0.5,Goals Allowed in First 30 Minutes,82,2023-06-11
+404,Roman Burki + Jonathan Bond,LA Galaxy/Saint Louis City,6.0,Goalie Saves,82,2023-06-11
+405,Tim Parker,LA Galaxy,5.5,Clearances,82,2023-06-11
+406,Calegari,Saint Louis City,0.5,Shots,82,2023-06-11
+407,Eduard Lowen,LA Galaxy,5.5,Crosses,82,2023-06-11
+408,Indiana Vassilev,LA Galaxy,4.0,Crosses,82,2023-06-11
+409,Jared Stroud,LA Galaxy,0.5,Shots On Target,82,2023-06-11
+410,Tyler Boyd,Saint Louis City,1.5,Shots,82,2023-06-11
+411,Jared Stroud,LA Galaxy,2.5,Tackles,82,2023-06-11
+412,Rasmus Alm,LA Galaxy,0.5,Shots On Target,82,2023-06-11
+413,Calegari,Saint Louis City,1.5,Crosses,82,2023-06-11
+414,Jonathan Bond,Saint Louis City,3.0,Goalie Saves,82,2023-06-11
+415,Martin Caceres,Saint Louis City,2.5,Clearances,82,2023-06-11
+416,Nicholas Gioacchini,LA Galaxy,0.5,Shots On Target,82,2023-06-11
+417,Justin Quinn,Oregon,0.5,RBIs,189,2023-06-11
+418,NothingToSay,TSpirit (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-06-11
+419,Tommaso Baldanzi,Uruguay U20,35.5,Passes Attempted,82,2023-06-11
+420,Sebastian Boselli,Italy U20,4.5,Clearances,82,2023-06-11
+421,Mattia Zanotti,Uruguay U20,2.5,Crosses,82,2023-06-11
+422,Franco Gonzalez,Italy U20,2.0,Crosses,82,2023-06-11
+423,Matteo Prati,Uruguay U20,3.0,Tackles,82,2023-06-11
+424,Gabriele Guarino,Uruguay U20,3.5,Clearances,82,2023-06-11
+425,Cesare Casadei,Uruguay U20,1.5,Shots Assisted,82,2023-06-11
+426,Riccardo Turicchia,Uruguay U20,0.5,Shots,82,2023-06-11
+427,Franco Gonzalez,Italy U20,1.5,Shots,82,2023-06-11
+428,Cesare Casadei,Uruguay U20,2.5,Shots,82,2023-06-11
+429,Franco Gonzalez,Italy U20,0.5,Shots On Target,82,2023-06-11
+430,Riccardo Turicchia,Uruguay U20,1.5,Clearances,82,2023-06-11
+431,Francesco Pio Esposito,Uruguay U20,1.5,Shots,82,2023-06-11
+432,Alan Matturro,Italy U20,27.5,Passes Attempted,82,2023-06-11
+433,Tommaso Baldanzi,Uruguay U20,3.0,Shots,82,2023-06-11
+434,Daniele Ghilardi,Uruguay U20,64.5,Passes Attempted,82,2023-06-11
+435,Sebastian Boselli,Italy U20,38.5,Passes Attempted,82,2023-06-11
+436,Randall Rodriguez,Italy U20,3.0,Goalie Saves,82,2023-06-11
+437,Sebastiano Desplanches,Uruguay U20,2.5,Goalie Saves,82,2023-06-11
+438,Anderson Duarte,Italy U20,2.0,Shots,82,2023-06-11
+439,Giuseppe Ambrosino,Uruguay U20,2.0,Shots,82,2023-06-11
+440,Matteo Prati,Uruguay U20,1.5,Shots,82,2023-06-11
+441,Facundo Gonzalez,Italy U20,3.0,Clearances,82,2023-06-11
+442,Mateo Ponte,Italy U20,2.5,Tackles,82,2023-06-11
+443,Fabricio Diaz,Italy U20,2.5,Shots Assisted,82,2023-06-11
+444,Fabricio Diaz,Italy U20,1.5,Tackles,82,2023-06-11
+445,Mattia Zanotti,Uruguay U20,4.0,Tackles,82,2023-06-11
+446,Pakazs,Liquid (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+447,Dylan Crews,Kentucky,1.5,Hits,189,2023-06-11
+448,Chris Luck,Liquid (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+449,miCKe,EG (MAPS 1-2 Kills),15.0,MAPS 1-2 Kills,174,2023-06-11
+450,Nisha,EG (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-06-11
+451,Timado,Secret (MAPS 1-2 Kills),10.5,MAPS 1-2 Kills,174,2023-06-11
+452,Adley Rutschman,KC,6.5,Hitter Fantasy Score,2,2023-06-11
+453,Bobby Witt Jr.,BAL,7.5,Hitter Fantasy Score,2,2023-06-11
+454,Bryle,Secret (MAPS 1-2 Kills),13.5,MAPS 1-2 Kills,174,2023-06-11
+455,Crystallis,TSM (MAPS 1-2 Kills),13.5,MAPS 1-2 Kills,174,2023-06-11
+456,Armel,TSM (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-06-11
+457,23savage,Tundra (MAPS 1-2 Kills),9.5,MAPS 1-2 Kills,174,2023-06-11
+458,Mikoto,Tundra (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-06-11
+459,skiter,Talon (MAPS 1-2 Kills),14.5,MAPS 1-2 Kills,174,2023-06-11
+460,dyrachyo,9P (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+461,Quinn,9P (MAPS 1-2 Kills),16.5,MAPS 1-2 Kills,174,2023-06-11
+462,A'ja Wilson,CHI 1st Half,9.5,PTS,193,2023-06-11
+463,A'ja Wilson,CHI,19.5,PTS,3,2023-06-11
+464,Kahleah Copper,LVA 1st Half,8.5,PTS,193,2023-06-11
+465,RAMZES666,GG (MAPS 1-2 Kills),9.0,MAPS 1-2 Kills,174,2023-06-11
+466,Kahleah Copper,LVA,17.0,PTS,3,2023-06-11
+467,Candace Parker,CHI 1st Half,4.0,PTS,193,2023-06-11
+468,kiyotaka,GG (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-06-11
+469,Candace Parker,CHI,7.5,PTS,3,2023-06-11
+470,Parker,Entity (MAPS 1-2 Kills),15.0,MAPS 1-2 Kills,174,2023-06-11
+471,Marina Mabrey,LVA 1st Half,8.5,PTS,193,2023-06-11
+472,Marina Mabrey,LVA,16.5,PTS,3,2023-06-11
+473,Kelsey Plum,CHI 1st Half,7.5,PTS,193,2023-06-11
+474,Kelsey Plum,CHI,15.5,PTS,3,2023-06-11
+475,DarkMago,Entity (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-06-11
+476,watson,bc (MAPS 1-2 Kills),17.5,MAPS 1-2 Kills,174,2023-06-11
+477,Courtney Williams,LVA,8.5,PTS,3,2023-06-11
+478,Courtney Williams,LVA 1st Half,4.0,PTS,193,2023-06-11
+479,Stormstormer,bc (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-06-11
+480,Chelsea Gray,CHI 1st Half,6.5,PTS,193,2023-06-11
+481,Chelsea Gray,CHI,13.5,PTS,3,2023-06-11
+482,Yuragi,Aster (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-06-11
+483,Elizabeth Williams,LVA 1st Half,4.0,PTS,193,2023-06-11
+484,Elizabeth Williams,LVA,8.0,PTS,3,2023-06-11
+485,Jackie Young,CHI,19.5,PTS,3,2023-06-11
+486,bzm,Aster (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-06-11
+487,Jackie Young,CHI 1st Half,9.5,PTS,193,2023-06-11
+488,Monet,OG (MAPS 1-2 Kills),12.5,MAPS 1-2 Kills,174,2023-06-11
+489,Alanna Smith,LVA,10.5,PTS,3,2023-06-11
+490,Alanna Smith,LVA 1st Half,5.5,PTS,193,2023-06-11
+491,SumaiL,OG (MAPS 1-2 Kills),17.5,MAPS 1-2 Kills,174,2023-06-11
+492,Freddie Freeman,PHI,9.0,Hitter Fantasy Score,2,2023-06-11
+493,Austin Riley,WSH,1.5,Total Bases,2,2023-06-11
+494,Trevor Williams,ATL,3.5,Pitcher Strikeouts,2,2023-06-11
+495,Arteezy,BB (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-06-11
+496,Bryce Elder,WSH,4.0,Pitcher Strikeouts,2,2023-06-11
+497,Joey Meneses,ATL,1.5,Total Bases,2,2023-06-11
+498,Bryce Harper,LAD,7.5,Hitter Fantasy Score,2,2023-06-11
+499,Nightfall,SR (MAPS 1-2 Kills),11.5,MAPS 1-2 Kills,174,2023-06-11
+500,Eddie Rosario,WSH,1.5,Total Bases,2,2023-06-11
+501,Mookie Betts,PHI,8.5,Hitter Fantasy Score,2,2023-06-11
+502,Trea Turner,LAD,7.5,Hitter Fantasy Score,2,2023-06-11
+503,gpk,SR (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-11
+504,Wayward,WBG (MAP 3 Kills),2.0,MAP 3 Kills,121,2023-06-11
+505,Ronald Acuna Jr.,WSH,9.0,Hitter Fantasy Score,2,2023-06-11
+506,Carlos Carrasco,PIT,4.0,Pitcher Strikeouts,2,2023-06-11
+507,Bryan Reynolds,NYM,1.5,Total Bases,2,2023-06-11
+508,Mitch Keller,NYM,5.5,Pitcher Strikeouts,2,2023-06-11
+509,Austin Hedges,NYM,0.5,Total Bases,2,2023-06-11
+510,Matt Olson,WSH,7.0,Hitter Fantasy Score,2,2023-06-11
+511,Tian,WBG (MAP 3 Kills),2.5,MAP 3 Kills,121,2023-06-11
+512,Rookie,WBG (MAP 3 Kills),3.5,MAP 3 Kills,121,2023-06-11
+513,JackeyLove,WBG (MAP 3 Kills),4.0,MAP 3 Kills,121,2023-06-11
+514,TheShy,TES (MAP 3 Kills),2.0,MAP 3 Kills,121,2023-06-11
+515,Weiwei,TES (MAP 3 Kills),2.5,MAP 3 Kills,121,2023-06-11
+516,Xiaohu,TES (MAP 3 Kills),3.0,MAP 3 Kills,121,2023-06-11
+517,Light,TES (MAP 3 Kills),3.5,MAP 3 Kills,121,2023-06-11
+518,TaNa,CGA (MAP 3 Kills),3.5,MAP 3 Kills,121,2023-06-11
+519,hachamecha,CGA (MAP 3 Kills),2.5,MAP 3 Kills,121,2023-06-11
+520,Justin Jefferson,2023 MIN,1399.5,Receiving Yards,163,2023-09-07
+521,Recap,CGA (MAP 3 Kills),3.0,MAP 3 Kills,121,2023-06-11
+522,Derrick Henry,2023 TEN,1199.5,Rush Yards,163,2023-09-07
+523,Bryan Reynolds,NYM,7.5,Hitter Fantasy Score,2,2023-06-11
+524,Francisco Lindor,PIT,7.0,Hitter Fantasy Score,2,2023-06-11
+525,Jonathan Taylor,2023 IND,1175.5,Rush Yards,163,2023-09-07
+526,Tyreek Hill,2023 MIA,1299.5,Receiving Yards,163,2023-09-07
+527,Ssol,CGA (MAP 3 Kills),4.5,MAP 3 Kills,121,2023-06-11
+528,Nick Chubb,2023 CLE,1275.5,Rush Yards,163,2023-09-07
+529,Andrew McCutchen,NYM,7.0,Hitter Fantasy Score,2,2023-06-11
+530,Ja'Marr Chase,2023 CIN,1325.5,Receiving Yards,163,2023-09-07
+531,Travis Kelce,2023 KC,1150.5,Receiving Yards,163,2023-09-07
+532,Travis Etienne Jr.,2023 JAX,1025.5,Rush Yards,163,2023-09-07
+533,Nap,FL (MAP 3 Kills),1.5,MAP 3 Kills,121,2023-06-11
+534,Stefon Diggs,2023 BUF,1199.5,Receiving Yards,163,2023-09-07
+535,Kenneth Walker III,2023 SEA,950.5,Rush Yards,163,2023-09-07
+536,CeeDee Lamb,2023 DAL,1125.5,Receiving Yards,163,2023-09-07
+537,Najee Harris,2023 PIT,1050.5,Rush Yards,163,2023-09-07
+538,Josh Allen,2023 BUF,575.5,Rush Yards,163,2023-09-07
+539,Davante Adams,2023 LV,1250.5,Receiving Yards,163,2023-09-07
+540,Cassin,FL (MAP 3 Kills),2.0,MAP 3 Kills,121,2023-06-11
+541,Amon-Ra St. Brown	,2023 DET,1050.5,Receiving Yards,163,2023-09-07
+542,Jalen Hurts,2023 PHI,725.5,Rush Yards,163,2023-09-07
+543,Eugeo,FL (MAP 3 Kills),2.0,MAP 3 Kills,121,2023-06-11
+544,DK Metcalf,2023 SEA,999.5,Receiving Yards,163,2023-09-07
+545,Lamar Jackson,2023 BAL,750.5,Rush Yards,163,2023-09-07
+546,AJ Brown,2023 PHI,1099.5,Receiving Yards,163,2023-09-07
+547,Honey,FL (MAP 3 Kills),3.0,MAP 3 Kills,121,2023-06-11
+548,Devonta Smith,2023 PHI,1100.5,Receiving Yards,163,2023-09-07
+549,Garrett Wilson,2023 NYJ,1149.5,Receiving Yards,163,2023-09-07
+550,Bo Bichette,MIN,8.0,Hitter Fantasy Score,2,2023-06-11
+551,George Springer,MIN,7.5,Hitter Fantasy Score,2,2023-06-11
+552,ardiis,Natus Vincere (Maps 1-2 First Blood),9.0,Maps 1-2 First Blood,159,2023-06-11
+553,ardiis,Natus Vincere (MAP 3 Kills),16.5,MAP 3 Kills,159,2023-06-12
+554,ardiis,Natus Vincere (MAPS 1-2 Kills),34.5,MAPS 1-2 Kills,159,2023-06-11
+555,s0m,Natus Vincere (MAP 3 Kills),16.5,MAP 3 Kills,159,2023-06-12
+556,Jahmyr Gibbs,2023 DET,599.5,Rush Yards,163,2023-09-07
+557,Jaxon Smith-Njigba,2023 SEA,725.5,Receiving Yards,163,2023-09-07
+558,s0m,Natus Vincere (MAPS 1-2 Kills),33.0,MAPS 1-2 Kills,159,2023-06-11
+559,Victor,Natus Vincere (MAPS 1-2 Kills),32.0,MAPS 1-2 Kills,159,2023-06-11
+560,Quentin Johnston ,2023 LAC,555.5,Receiving Yards,163,2023-09-07
+561,D'Andre Swift,2023 PHI,599.5,Rush Yards,163,2023-09-07
+562,Victor,Natus Vincere (Maps 1-2 First Blood),5.5,Maps 1-2 First Blood,159,2023-06-11
+563,Victor,Natus Vincere (MAP 3 Kills),16.0,MAP 3 Kills,159,2023-06-12
+564,crashies,Natus Vincere (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-06-11
+565,crashies,Natus Vincere (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-06-12
+566,Zay Flowers,2023 BAL,625.5,Receiving Yards,163,2023-09-07
+567,cNed,NRG (MAPS 1-2 Kills),35.5,MAPS 1-2 Kills,159,2023-06-11
+568,Jordan Addison,2023 MIN,825.5,Receiving Yards,163,2023-09-07
+569,cNed,NRG (MAP 3 Kills),17.5,MAP 3 Kills,159,2023-06-12
+570,cNed,NRG (Maps 1-2 First Blood),7.0,Maps 1-2 First Blood,159,2023-06-11
+571,SUYGETSU,NRG (MAPS 1-2 Kills),33.0,MAPS 1-2 Kills,159,2023-06-11
+572,SUYGETSU,NRG (MAP 3 Kills),16.5,MAP 3 Kills,159,2023-06-12
+573,Zyppan,NRG (MAPS 1-2 Kills),30.5,MAPS 1-2 Kills,159,2023-06-11
+574,Zyppan,NRG (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-06-12
+575,ANGE1,NRG (Maps 1-2 First Blood),5.5,Maps 1-2 First Blood,159,2023-06-11
+576,ANGE1,NRG (MAP 3 Kills),13.5,MAP 3 Kills,159,2023-06-12
+577,ANGE1,NRG (MAPS 1-2 Kills),26.5,MAPS 1-2 Kills,159,2023-06-11
+578,Corey Seager,TB,7.0,Hitter Fantasy Score,2,2023-06-11
+579,Mitch Garver,TB,0.5,Total Bases,2,2023-06-11
+580,Martin Perez,TB,3.5,Pitcher Strikeouts,2,2023-06-11
+581,Shane McClanahan,TEX,7.0,Pitcher Strikeouts,2,2023-06-11
+582,Yandy Diaz,TEX,1.5,Total Bases,2,2023-06-11
+583,Wander Franco,TEX,7.5,Hitter Fantasy Score,2,2023-06-11
+584,Marcus Semien,TB,7.0,Hitter Fantasy Score,2,2023-06-11
+585,Leody Taveras,TB,0.5,Total Bases,2,2023-06-11
+586,Yandy Diaz,TEX,7.0,Hitter Fantasy Score,2,2023-06-11
+587,Bobby Hunt,Clint Parham/Jimmy McGuffin,5.0,Bags On,132,2023-06-11
+588,Bobby Hunt,Clint Parham/Jimmy McGuffin,1.5,Four Baggers,132,2023-06-11
+589,Bobby Hunt,Clint Parham/Jimmy McGuffin,14.5,Bags In,132,2023-06-11
+590,Caleb Franklin,Tyler Poythress/Nico Mireles,5.0,Bags On,132,2023-06-11
+591,David Searle,Rob Vojinov/Kevin Allen,5.0,Bags On,132,2023-06-11
+592,Dean Norton,Felix Vargas/Blake Karnick,4.5,Bags On,132,2023-06-11
+593,Duncan Clemmer,Philip Lopez Jr/Jordan Kimbrell,4.5,Bags On,132,2023-06-11
+594,Hunter Yaklin,Clint Parham/Jimmy McGuffin,5.0,Bags On,132,2023-06-11
+595,Isabella Surprenant,Mark Richards/Timmy Jonas,5.0,Bags On,132,2023-06-11
+596,Hunter Yaklin,Clint Parham/Jimmy McGuffin,14.5,Bags In,132,2023-06-11
+597,Kamryn Belvin,Felix Vargas/Blake Karnick,5.0,Bags On,132,2023-06-11
+598,Ken Smith Jr,Brandon Sehlmeyer/Daniela Luna,5.0,Bags On,132,2023-06-11
+599,Mark Lopez,Brandon Sehlmeyer/Daniela Luna,5.0,Bags On,132,2023-06-11
+600,Mark Lopez,Brandon Sehlmeyer/Daniela Luna,14.0,Bags In,132,2023-06-11
+601,Noah Wooten,Tyler Poythress/Nico Mireles,5.0,Bags On,132,2023-06-11
+602,Ryan Smith,Mark Richards/Timmy Jonas,1.5,Four Baggers,132,2023-06-11
+603,Ryan Smith,Mark Richards/Timmy Jonas,5.0,Bags On,132,2023-06-11
+604,Terry Mathis,Philip Lopez Jr/Jordan Kimbrell,4.5,Bags On,132,2023-06-11
+605,Clint Frazier,MIA,0.5,Total Bases,2,2023-06-11
+606,Luis Arraez,CWS,7.5,Hitter Fantasy Score,2,2023-06-11
+607,Ryan Smith,Mark Richards/Timmy Jonas,14.5,Bags In,132,2023-06-11
+608,Braxton Garrett,CWS,4.5,Pitcher Strikeouts,2,2023-06-11
+609,Terry Mathis,Philip Lopez Jr/Jordan Kimbrell,1.5,Four Baggers,132,2023-06-11
+610,Travis Graven,Rob Vojinov/Kevin Allen,5.0,Bags On,132,2023-06-11
+611,Lucas Giolito,MIA,5.0,Pitcher Strikeouts,2,2023-06-11
+612,Jonathan Davis,CWS,0.5,Total Bases,2,2023-06-11
+613,Bryan De La Cruz,CWS,7.0,Hitter Fantasy Score,2,2023-06-11
+614,Terry Mathis,Philip Lopez Jr/Jordan Kimbrell,14.0,Bags In,132,2023-06-11
+615,Blake Karnick,Kamryn Belvin/Dean Norton,5.0,Bags On,132,2023-06-11
+616,Blake Karnick,Kamryn Belvin/Dean Norton,14.0,Bags In,132,2023-06-11
+617,Brandon Sehlmeyer,Mark Lopez/Ken Smith Jr,5.0,Bags On,132,2023-06-11
+618,Clint Parham,Bobby Hunt/Hunter Yaklin,5.0,Bags On,132,2023-06-11
+619,Daniela Luna,Mark Lopez/Ken Smith Jr,5.5,Bags On,132,2023-06-11
+620,Felix Vargas III,Kamryn Belvin/Dean Norton,5.0,Bags On,132,2023-06-11
+621,Jimmy McGuffin,Bobby Hunt/Hunter Yaklin,4.5,Bags On,132,2023-06-11
+622,Jordan Kimbrell,Duncan Clemmer/Terry Mathis,5.0,Bags On,132,2023-06-11
+623,Jimmy McGuffin,Bobby Hunt/Hunter Yaklin,14.5,Bags In,132,2023-06-11
+624,Kevin Allen,Travis Graven/David Searle,5.5,Bags On,132,2023-06-11
+625,Mark Richards,Ryan Smith/Wendy Sehlmeyer,4.5,Bags On,132,2023-06-11
+626,Mark Richards,Ryan Smith/Wendy Sehlmeyer,1.5,Four Baggers,132,2023-06-11
+627,Nico Mireles,Noah Wooten/Caleb Franklin,4.5,Bags On,132,2023-06-11
+628,Mark Richards,Ryan Smith/Wendy Sehlmeyer,14.5,Bags In,132,2023-06-11
+629,Nico Mireles,Noah Wooten/Caleb Franklin,15.0,Bags In,132,2023-06-11
+630,Philip Lopez Jr.,Duncan Clemmer/Terry Mathis,5.0,Bags On,132,2023-06-11
+631,Rob Vojinov,Travis Graven/David Searle,5.0,Bags On,132,2023-06-11
+632,Timmy Jonas,Ryan Smith/Wendy Sehlmeyer,5.0,Bags On,132,2023-06-11
+633,Tyler Poythress,Noah Wooten/Caleb Franklin,4.5,Bags On,132,2023-06-11
+634,Tyler Poythress,Noah Wooten/Caleb Franklin,1.5,Four Baggers,132,2023-06-11
+635,Tyler Poythress,Noah Wooten/Caleb Franklin,14.5,Bags In,132,2023-06-11
+636,JP Sears,MIL,6.0,Pitcher Strikeouts,2,2023-06-11
+637,Christian Yelich,OAK,7.5,Hitter Fantasy Score,2,2023-06-11
+638,Aledmys Diaz,MIL,0.5,Total Bases,2,2023-06-11
+639,Freddy Peralta,OAK,7.5,Pitcher Strikeouts,2,2023-06-11
+640,Brian Anderson,OAK,0.5,Total Bases,2,2023-06-11
+641,Brent Rooker,MIL,0.5,Total Bases,2,2023-06-11
+642,Luis Urias,OAK,0.5,Total Bases,2,2023-06-11
+643,Jace Peterson,MIL,0.5,Total Bases,2,2023-06-11
+644,Jonah Bride,MIL,0.5,Total Bases,2,2023-06-11
+645,Ramon Laureano,MIL,0.5,Total Bases,2,2023-06-11
+646,Ryan Noda,MIL,0.5,Total Bases,2,2023-06-11
+647,Odell Beckham Jr.,2023 BAL,575.5,Receiving Yards,163,2023-09-07
+648,Brionna Jones,ATL,14.0,PTS,3,2023-06-11
+649,Brionna Jones,ATL 1st Half,7.0,PTS,193,2023-06-11
+650,Nolan Arenado,CIN,7.5,Hitter Fantasy Score,2,2023-06-11
+651,Hunter Greene,STL,6.0,Pitcher Strikeouts,2,2023-06-11
+652,Dylan Carlson,CIN,0.5,Total Bases,2,2023-06-11
+653,Rhyne Howard,CON,17.5,PTS,3,2023-06-11
+654,Rhyne Howard,CON 1st Half,8.5,PTS,193,2023-06-11
+655,DeWanna Bonner,ATL,19.5,PTS,3,2023-06-11
+656,Adam Wainwright,CIN,4.0,Pitcher Strikeouts,2,2023-06-11
+657,Luke Maile,STL,0.5,Total Bases,2,2023-06-11
+658,DeWanna Bonner,ATL 1st Half,9.5,PTS,193,2023-06-11
+659,Paul Goldschmidt,CIN,7.0,Hitter Fantasy Score,2,2023-06-11
+660,Allisha Gray,CON 1st Half,8.5,PTS,193,2023-06-11
+661,Nolan Gorman,CIN,0.5,Total Bases,2,2023-06-11
+662,Allisha Gray,CON,16.5,PTS,3,2023-06-11
+663,Alyssa Thomas,ATL 1st Half,7.0,PTS,193,2023-06-11
+664,Jonathan India,STL,6.5,Hitter Fantasy Score,2,2023-06-11
+665,Paul DeJong,CIN,0.5,Total Bases,2,2023-06-11
+666,Alyssa Thomas,ATL,14.0,PTS,3,2023-06-11
+667,Cheyenne Parker,CON,17.5,PTS,3,2023-06-11
+668,Cheyenne Parker,CON 1st Half,8.5,PTS,193,2023-06-11
+669,Tiffany Hayes,ATL 1st Half,6.0,PTS,193,2023-06-11
+670,Tiffany Hayes,ATL,12.0,PTS,3,2023-06-11
+671,Natisha Hiedeman,ATL 1st Half,5.0,PTS,193,2023-06-11
+672,Natisha Hiedeman,ATL,9.5,PTS,3,2023-06-11
+673,Juan Soto,COL,9.0,Hitter Fantasy Score,2,2023-06-11
+674,Juan Soto,COL,1.5,Total Bases,2,2023-06-11
+675,Blake Snell,COL,5.5,Pitcher Strikeouts,2,2023-06-11
+676,Randal Grichuk,SD,1.5,Total Bases,2,2023-06-11
+677,Dinelson Lamet,SD,4.0,Pitcher Strikeouts,2,2023-06-11
+678,Charlie Blackmon,SD,7.0,Hitter Fantasy Score,2,2023-06-11
+679,Manny Machado,COL,1.5,Total Bases,2,2023-06-11
+680,Xander Bogaerts,COL,8.5,Hitter Fantasy Score,2,2023-06-11
+681,Ryan McMahon,SD,7.0,Hitter Fantasy Score,2,2023-06-11
+682,Nico Hoerner,SF,7.0,Hitter Fantasy Score,2,2023-06-11
+683,LaMonte Wade Jr.,CHC,7.0,Hitter Fantasy Score,2,2023-06-11
+684,Aliyah Boston,PHO,14.5,PTS,3,2023-06-11
+685,Aliyah Boston,PHO 1st Half,7.5,PTS,193,2023-06-11
+686,Brittney Griner,IND 1st Half,11.0,PTS,193,2023-06-11
+687,Brittney Griner,IND,22.0,PTS,3,2023-06-11
+688,NaLyssa Smith,PHO 1st Half,6.5,PTS,193,2023-06-11
+689,NaLyssa Smith,PHO,13.0,PTS,3,2023-06-11
+690,Diana Taurasi,IND,18.0,PTS,3,2023-06-11
+691,Diana Taurasi,IND 1st Half,9.0,PTS,193,2023-06-11
+692,Kelsey Mitchell,PHO,17.5,PTS,3,2023-06-11
+693,Kelsey Mitchell,PHO 1st Half,8.5,PTS,193,2023-06-11
+694,Sophie Cunningham,IND 1st Half,7.5,PTS,193,2023-06-11
+695,Sophie Cunningham,IND,15.0,PTS,3,2023-06-11
+696,Erica Wheeler,PHO 1st Half,4.5,PTS,193,2023-06-11
+697,Erica Wheeler,PHO,9.5,PTS,3,2023-06-11
+698,Kolten Wong,LAA,0.5,Total Bases,2,2023-06-11
+699,Shohei Ohtani,SEA,8.0,Hitter Fantasy Score,2,2023-06-11
+700,Logan Gilbert,LAA,5.5,Pitcher Strikeouts,2,2023-06-11
+701,Julio Rodriguez,LAA,8.0,Hitter Fantasy Score,2,2023-06-11
+702,Mike Ford,LAA,0.5,Total Bases,2,2023-06-11
+703,Griffin Canning,SEA,6.0,Pitcher Strikeouts,2,2023-06-11
+704,Mike Trout,SEA,7.5,Hitter Fantasy Score,2,2023-06-11
+705,Eugenio Suarez,LAA,0.5,Total Bases,2,2023-06-11
+706,Rafael Devers,NYY,8.0,Hitter Fantasy Score,2,2023-06-11
+707,Brayan Bello,NYY,5.0,Pitcher Strikeouts,2,2023-06-11
+708,Giancarlo Stanton,BOS,6.0,Hitter Fantasy Score,2,2023-06-11
+709,Clarke Schmidt,BOS,5.0,Pitcher Strikeouts,2,2023-06-11
+710,Masataka Yoshida,NYY,7.0,Hitter Fantasy Score,2,2023-06-11
+711,Anthony Rizzo,BOS,6.5,Hitter Fantasy Score,2,2023-06-11
+712,Justin Turner,NYY,6.5,Hitter Fantasy Score,2,2023-06-11
+713,Gleyber Torres,BOS,6.5,Hitter Fantasy Score,2,2023-06-11
+714,Nneka Ogwumike,MIN 1st Half,9.5,PTS,193,2023-06-11
+715,Nneka Ogwumike,MIN,19.5,PTS,3,2023-06-11
+716,Napheesa Collier,LAS,19.5,PTS,3,2023-06-11
+717,Napheesa Collier,LAS 1st Half,9.5,PTS,193,2023-06-11
+718,FL1T,9z,19.0,MAP 3 Kills,124,2023-06-11
+719,fame,9z,17.0,MAP 3 Kills,124,2023-06-11
+720,Jame,9z,17.5,MAP 3 Kills,124,2023-06-11
+721,try,Virtus.Pro,19.0,MAP 3 Kills,124,2023-06-11
+722,dgt,Virtus.Pro,18.5,MAP 3 Kills,124,2023-06-11
+723,dav1deuS,Virtus.Pro,18.0,MAP 3 Kills,124,2023-06-11
+724,FL1T,9z,9.0,MAP 3 Headshots,124,2023-06-11
+725,fame,9z,10.0,MAP 3 Headshots,124,2023-06-11
+726,Jame,9z,4.5,MAP 3 Headshots,124,2023-06-11
+727,try,Virtus.Pro,6.5,MAP 3 Headshots,124,2023-06-11
+728,dgt,Virtus.Pro,8.5,MAP 3 Headshots,124,2023-06-11
+729,dav1deuS,Virtus.Pro,9.0,MAP 3 Headshots,124,2023-06-11
+730,slaxz-,EPIC DUDES,37.5,MAPS 1-2 Kills,124,2023-06-11
+731,slaxz-,EPIC DUDES,18.5,MAP 3 Kills,124,2023-06-11
+732,Spiidi,EPIC DUDES,17.5,MAP 3 Kills,124,2023-06-11
+733,Spiidi,EPIC DUDES,35.0,MAPS 1-2 Kills,124,2023-06-11
+734,FreeZe,EPIC DUDES,32.5,MAPS 1-2 Kills,124,2023-06-11
+735,FreeZe,EPIC DUDES,16.0,MAP 3 Kills,124,2023-06-11
+736,HadeZ,ALTERNATE aTTaX,16.5,MAP 3 Kills,124,2023-06-11
+737,HadeZ,ALTERNATE aTTaX,33.0,MAPS 1-2 Kills,124,2023-06-11
+738,rapala,ALTERNATE aTTaX,30.5,MAPS 1-2 Kills,124,2023-06-11
+739,rapala,ALTERNATE aTTaX,15.0,MAP 3 Kills,124,2023-06-11
+740,DreaM,ALTERNATE aTTaX,32.5,MAPS 1-2 Kills,124,2023-06-11
+741,DreaM,ALTERNATE aTTaX,16.0,MAP 3 Kills,124,2023-06-11
+742,slaxz-,EPIC DUDES,5.0,MAP 3 Headshots,124,2023-06-11
+743,slaxz-,EPIC DUDES,10.0,MAPS 1-2 Headshots,124,2023-06-11
+744,Spiidi,EPIC DUDES,7.5,MAP 3 Headshots,124,2023-06-11
+745,Spiidi,EPIC DUDES,15.0,MAPS 1-2 Headshots,124,2023-06-11
+746,FreeZe,EPIC DUDES,15.0,MAPS 1-2 Headshots,124,2023-06-11
+747,FreeZe,EPIC DUDES,7.5,MAP 3 Headshots,124,2023-06-11
+748,HadeZ,ALTERNATE aTTaX,14.5,MAPS 1-2 Headshots,124,2023-06-11
+749,HadeZ,ALTERNATE aTTaX,7.0,MAP 3 Headshots,124,2023-06-11
+750,rapala,ALTERNATE aTTaX,7.0,MAP 3 Headshots,124,2023-06-11
+751,rapala,ALTERNATE aTTaX,14.5,MAPS 1-2 Headshots,124,2023-06-11
+752,DreaM,ALTERNATE aTTaX,16.0,MAPS 1-2 Headshots,124,2023-06-11
+753,DreaM,ALTERNATE aTTaX,8.0,MAP 3 Headshots,124,2023-06-11
+754,REDSTAR,SAW,36.5,MAPS 1-2 Kills,124,2023-06-11
+755,REDSTAR,SAW,18.0,MAP 3 Kills,124,2023-06-11
+756,Rainwaker,SAW,37.0,MAPS 1-2 Kills,124,2023-06-11
+757,Rainwaker,SAW,18.0,MAP 3 Kills,124,2023-06-11
+758,dennyslaw,SAW,17.0,MAP 3 Kills,124,2023-06-11
+759,dennyslaw,SAW,34.5,MAPS 1-2 Kills,124,2023-06-11
+760,story,500,39.0,MAPS 1-2 Kills,124,2023-06-11
+761,story,500,19.5,MAP 3 Kills,124,2023-06-11
+762,roman,500,33.0,MAPS 1-2 Kills,124,2023-06-11
+763,roman,500,16.5,MAP 3 Kills,124,2023-06-11
+764,MUTiRiS,500,34.5,MAPS 1-2 Kills,124,2023-06-11
+765,MUTiRiS,500,17.0,MAP 3 Kills,124,2023-06-11
+766,REDSTAR,SAW,9.5,MAP 3 Headshots,124,2023-06-11
+767,REDSTAR,SAW,19.0,MAPS 1-2 Headshots,124,2023-06-11
+768,Rainwaker,SAW,13.5,MAPS 1-2 Headshots,124,2023-06-11
+769,Rainwaker,SAW,6.5,MAP 3 Headshots,124,2023-06-11
+770,dennyslaw,SAW,5.5,MAP 3 Headshots,124,2023-06-11
+771,dennyslaw,SAW,11.5,MAPS 1-2 Headshots,124,2023-06-11
+772,story,500,10.5,MAPS 1-2 Headshots,124,2023-06-11
+773,story,500,5.0,MAP 3 Headshots,124,2023-06-11
+774,roman,500,8.5,MAP 3 Headshots,124,2023-06-11
+775,roman,500,17.0,MAPS 1-2 Headshots,124,2023-06-11
+776,MUTiRiS,500,8.0,MAP 3 Headshots,124,2023-06-11
+777,MUTiRiS,500,16.5,MAPS 1-2 Headshots,124,2023-06-11
+778,Nertz,FORZE,19.5,MAP 3 Kills,124,2023-06-11
+779,Nertz,FORZE,39.0,MAPS 1-2 Kills,124,2023-06-11
+780,SunPayus,FORZE,38.0,MAPS 1-2 Kills,124,2023-06-11
+781,SunPayus,FORZE,19.0,MAP 3 Kills,124,2023-06-11
+782,Snappi,FORZE,16.0,MAP 3 Kills,124,2023-06-11
+783,Snappi,FORZE,32.5,MAPS 1-2 Kills,124,2023-06-11
+784,zorte,ENCE,36.5,MAPS 1-2 Kills,124,2023-06-11
+785,zorte,ENCE,18.0,MAP 3 Kills,124,2023-06-11
+786,Jerry,ENCE,16.5,MAP 3 Kills,124,2023-06-11
+787,Jerry,ENCE,33.0,MAPS 1-2 Kills,124,2023-06-11
+788,Krad,ENCE,17.0,MAP 3 Kills,124,2023-06-11
+789,Krad,ENCE,34.0,MAPS 1-2 Kills,124,2023-06-11
+790,Nertz,FORZE,18.5,MAPS 1-2 Headshots,124,2023-06-11
+791,Nertz,FORZE,9.0,MAP 3 Headshots,124,2023-06-11
+792,SunPayus,FORZE,4.5,MAP 3 Headshots,124,2023-06-11
+793,SunPayus,FORZE,9.5,MAPS 1-2 Headshots,124,2023-06-11
+794,Snappi,FORZE,7.5,MAP 3 Headshots,124,2023-06-11
+795,Snappi,FORZE,15.5,MAPS 1-2 Headshots,124,2023-06-11
+796,zorte,ENCE,6.5,MAP 3 Headshots,124,2023-06-11
+797,zorte,ENCE,13.0,MAPS 1-2 Headshots,124,2023-06-11
+798,Jerry,ENCE,15.0,MAPS 1-2 Headshots,124,2023-06-11
+799,Jerry,ENCE,7.5,MAP 3 Headshots,124,2023-06-11
+800,Krad,ENCE,8.0,MAP 3 Headshots,124,2023-06-11
+801,Krad,ENCE,16.5,MAPS 1-2 Headshots,124,2023-06-11
+802,stavn,Vitality,40.0,MAPS 1-2 Kills,124,2023-06-11
+803,stavn,Vitality,20.0,MAP 3 Kills,124,2023-06-11
+804,jabbi,Vitality,18.5,MAP 3 Kills,124,2023-06-11
+805,jabbi,Vitality,37.0,MAPS 1-2 Kills,124,2023-06-11
+806,sjuush,Vitality,17.5,MAP 3 Kills,124,2023-06-11
+807,sjuush,Vitality,35.5,MAPS 1-2 Kills,124,2023-06-11
+808,TeSeS,Vitality,34.5,MAPS 1-2 Kills,124,2023-06-11
+809,TeSeS,Vitality,17.0,MAP 3 Kills,124,2023-06-11
+810,cadiaN,Vitality,18.0,MAP 3 Kills,124,2023-06-11
+811,cadiaN,Vitality,36.0,MAPS 1-2 Kills,124,2023-06-11
+812,ZywOo,Heroic,45.0,MAPS 1-2 Kills,124,2023-06-11
+813,ZywOo,Heroic,22.5,MAP 3 Kills,124,2023-06-11
+814,Spinx,Heroic,39.0,MAPS 1-2 Kills,124,2023-06-11
+815,Spinx,Heroic,19.5,MAP 3 Kills,124,2023-06-11
+816,Magisk,Heroic,37.0,MAPS 1-2 Kills,124,2023-06-11
+817,Magisk,Heroic,18.5,MAP 3 Kills,124,2023-06-11
+818,dupreeh,Heroic,16.5,MAP 3 Kills,124,2023-06-11
+819,dupreeh,Heroic,33.5,MAPS 1-2 Kills,124,2023-06-11
+820,apEX,Heroic,31.5,MAPS 1-2 Kills,124,2023-06-11
+821,apEX,Heroic,15.5,MAP 3 Kills,124,2023-06-11
+822,stavn,Vitality,17.5,MAPS 1-2 Headshots,124,2023-06-11
+823,stavn,Vitality,8.5,MAP 3 Headshots,124,2023-06-11
+824,jabbi,Vitality,20.5,MAPS 1-2 Headshots,124,2023-06-11
+825,jabbi,Vitality,10.0,MAP 3 Headshots,124,2023-06-11
+826,sjuush,Vitality,8.0,MAP 3 Headshots,124,2023-06-11
+827,sjuush,Vitality,16.5,MAPS 1-2 Headshots,124,2023-06-11
+828,TeSeS,Vitality,18.0,MAPS 1-2 Headshots,124,2023-06-11
+829,TeSeS,Vitality,9.0,MAP 3 Headshots,124,2023-06-11
+830,cadiaN,Vitality,10.5,MAPS 1-2 Headshots,124,2023-06-11
+831,cadiaN,Vitality,5.0,MAP 3 Headshots,124,2023-06-11
+832,ZywOo,Heroic,8.0,MAP 3 Headshots,124,2023-06-11
+833,ZywOo,Heroic,16.0,MAPS 1-2 Headshots,124,2023-06-11
+834,Spinx,Heroic,10.5,MAP 3 Headshots,124,2023-06-11
+835,Spinx,Heroic,21.0,MAPS 1-2 Headshots,124,2023-06-11
+836,Magisk,Heroic,18.5,MAPS 1-2 Headshots,124,2023-06-11
+837,Magisk,Heroic,9.0,MAP 3 Headshots,124,2023-06-11
+838,dupreeh,Heroic,16.0,MAPS 1-2 Headshots,124,2023-06-11
+839,dupreeh,Heroic,8.0,MAP 3 Headshots,124,2023-06-11
+840,apEX,Heroic,6.5,MAP 3 Headshots,124,2023-06-11

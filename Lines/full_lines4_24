@@ -1,0 +1,777 @@
+,Player,Team,Line,Stat,League,Date
+0,Teun Koopmeiners,Roma,1.5,Shots,82,2023-04-24T14:45:00-04:00
+1,Giorgio Scalvini,Roma,0.5,Shots,82,2023-04-24T14:45:00-04:00
+2,Leonardo Spinazzola,Atalanta,0.5,Shots,82,2023-04-24T14:45:00-04:00
+3,Joakim Mæhle,Roma,1.0,Tackles,82,2023-04-24T14:45:00-04:00
+4,Nemanja Matić,Atalanta,2.0,Tackles,82,2023-04-24T14:45:00-04:00
+5,Tammy Abraham,Atalanta,2.0,Shots,82,2023-04-24T14:45:00-04:00
+6,Jimmy Butler,MIL,48.5,Fantasy Score,7,2023-04-24T19:40:00-04:00
+7,Jimmy Butler,MIL,12.5,Rebs+Asts,7,2023-04-24T19:40:00-04:00
+8,Teun Koopmeiners,Roma,1.5,Tackles,82,2023-04-24T14:45:00-04:00
+9,Jimmy Butler,MIL,9.0,Points,192,2023-04-24T19:40:00-04:00
+10,Jimmy Butler,MIL,40.5,Pts+Rebs+Asts,7,2023-04-24T19:40:00-04:00
+11,Jimmy Butler,MIL,6.0,Rebounds,7,2023-04-24T19:40:00-04:00
+12,José Ramírez,COL,8.5,Hitter Fantasy Score,2,2023-04-24T18:10:00-04:00
+13,Jimmy Butler,MIL,7.0,Free Throws Made,7,2023-04-24T19:40:00-04:00
+14,Jimmy Butler,MIL,34.5,Pts+Rebs,7,2023-04-24T19:40:00-04:00
+15,Jimmy Butler,MIL,34.5,Pts+Asts,7,2023-04-24T19:40:00-04:00
+16,Jimmy Butler,MIL,6.0,Assists,7,2023-04-24T19:40:00-04:00
+17,Jimmy Butler,MIL 1st Half,20.5,Pts+Rebs+Asts,84,2023-04-24T19:40:00-04:00
+18,Jimmy Butler,MIL,28.5,Points,7,2023-04-24T19:40:00-04:00
+19,Jimmy Butler,MIL 1st Half,13.5,Points,84,2023-04-24T19:40:00-04:00
+20,Rafael Tolói,Roma,3.0,Clearances,82,2023-04-24T14:45:00-04:00
+21,Roger Ibañez,Atalanta,3.5,Clearances,82,2023-04-24T14:45:00-04:00
+22,Jimmy Butler,MIL 1st Half,24.5,Fantasy Score,84,2023-04-24T19:40:00-04:00
+23,Marten de Roon,Roma,59.5,Passes Attempted,82,2023-04-24T14:45:00-04:00
+24,Duván Zapata,Roma,2.5,Shots,82,2023-04-24T14:45:00-04:00
+25,Giorgio Scalvini,Roma,1.5,Tackles,82,2023-04-24T14:45:00-04:00
+26,Paulo Dybala,Atalanta,2.0,Shots Assisted,82,2023-04-24T14:45:00-04:00
+27,Gianluca Mancini,Atalanta,2.5,Clearances,82,2023-04-24T14:45:00-04:00
+28,Juan Musso,Roma,2.5,Goalie Saves,82,2023-04-24T14:45:00-04:00
+29,Rasmus Winther Hojlund,Roma,2.0,Shots,82,2023-04-24T14:45:00-04:00
+30,Giorgio Scalvini,Roma,2.5,Clearances,82,2023-04-24T14:45:00-04:00
+31,Marten de Roon,Roma,0.5,Shots Assisted,82,2023-04-24T14:45:00-04:00
+32,Berat Djimsiti,Roma,3.5,Clearances,82,2023-04-24T14:45:00-04:00
+33,Paulo Dybala,Atalanta,29.5,Passes Attempted,82,2023-04-24T14:45:00-04:00
+34,Roger Ibañez,Atalanta,0.5,Shots,82,2023-04-24T14:45:00-04:00
+35,Marten de Roon,Roma,0.5,Shots,82,2023-04-24T14:45:00-04:00
+36,Bryan Cristante,Atalanta,45.5,Passes Attempted,82,2023-04-24T14:45:00-04:00
+37,Giorgio Scalvini,Roma,50.5,Passes Attempted,82,2023-04-24T14:45:00-04:00
+38,Gianluca Mancini,Atalanta,1.0,Tackles,82,2023-04-24T14:45:00-04:00
+39,Rui Patrício,Atalanta,3.0,Goalie Saves,82,2023-04-24T14:45:00-04:00
+40,Leonardo Spinazzola,Atalanta,1.0,Shots Assisted,82,2023-04-24T14:45:00-04:00
+41,Bryan Cristante,Atalanta,1.0,Shots,82,2023-04-24T14:45:00-04:00
+42,Lorenzo Pellegrini,Atalanta,2.0,Shots,82,2023-04-24T14:45:00-04:00
+43,Lorenzo Pellegrini,Atalanta,1.5,Tackles,82,2023-04-24T14:45:00-04:00
+44,Rafael Tolói,Roma,2.0,Tackles,82,2023-04-24T14:45:00-04:00
+45,Bryan Cristante,Atalanta,3.0,Tackles,82,2023-04-24T14:45:00-04:00
+46,Joakim Mæhle,Roma,1.0,Shots Assisted,82,2023-04-24T14:45:00-04:00
+47,Nicola Zalewski,Atalanta,1.5,Tackles,82,2023-04-24T14:45:00-04:00
+48,Paulo Dybala,Atalanta,2.0,Shots,82,2023-04-24T14:45:00-04:00
+49,Teun Koopmeiners,Roma,1.5,Shots Assisted,82,2023-04-24T14:45:00-04:00
+50,Gianluca Mancini,Atalanta,0.5,Shots,82,2023-04-24T14:45:00-04:00
+51,Rafael Tolói,Roma,0.5,Shots,82,2023-04-24T14:45:00-04:00
+52,Joakim Mæhle,Roma,1.5,Shots,82,2023-04-24T14:45:00-04:00
+53,Ederson,Roma,1.5,Shots,82,2023-04-24T14:45:00-04:00
+54,Marten de Roon,Roma,2.0,Tackles,82,2023-04-24T14:45:00-04:00
+55,Lorenzo Pellegrini,Atalanta,2.0,Shots Assisted,82,2023-04-24T14:45:00-04:00
+56,Davide Zappacosta,Roma,1.5,Tackles,82,2023-04-24T14:45:00-04:00
+57,Nicola Zalewski,Atalanta,0.5,Shots,82,2023-04-24T14:45:00-04:00
+58,David Warner,Sunrisers Hyderabad,26.5,Runs,162,2023-04-24T10:00:00-04:00
+59,Ederson,Roma,2.5,Tackles,82,2023-04-24T14:45:00-04:00
+60,Berat Djimsiti,Roma,2.0,Tackles,82,2023-04-24T14:45:00-04:00
+61,Roger Ibañez,Atalanta,2.0,Tackles,82,2023-04-24T14:45:00-04:00
+62,Chuba Akpom,Luton Town,2.5,Shots,82,2023-04-24T15:00:00-04:00
+63,Alfie Doughty,Middlesbrough,2.0,Tackles,82,2023-04-24T15:00:00-04:00
+64,Alfie Doughty,Middlesbrough,30.5,Passes Attempted,82,2023-04-24T15:00:00-04:00
+65,Cameron Archer,Luton Town,1.5,Shots Assisted,82,2023-04-24T15:00:00-04:00
+66,Allan Campbell,Middlesbrough,1.5,Tackles,82,2023-04-24T15:00:00-04:00
+67,Carlton Morris,Middlesbrough,1.0,Shots Assisted,82,2023-04-24T15:00:00-04:00
+68,Tom Lockyer,Middlesbrough,40.5,Passes Attempted,82,2023-04-24T15:00:00-04:00
+69,Sonny Bradley,Middlesbrough,4.5,Clearances,82,2023-04-24T15:00:00-04:00
+70,Tom Lockyer,Middlesbrough,4.5,Clearances,82,2023-04-24T15:00:00-04:00
+71,Darragh Lenihan,Luton Town,3.5,Clearances,82,2023-04-24T15:00:00-04:00
+72,Ryan John Giles,Luton Town,1.5,Shots Assisted,82,2023-04-24T15:00:00-04:00
+73,Hayden Hackney,Luton Town,1.5,Tackles,82,2023-04-24T15:00:00-04:00
+74,Jonathan Howson,Luton Town,63.5,Passes Attempted,82,2023-04-24T15:00:00-04:00
+75,Darragh Lenihan,Luton Town,75.5,Passes Attempted,82,2023-04-24T15:00:00-04:00
+76,Alfie Doughty,Middlesbrough,1.5,Shots Assisted,82,2023-04-24T15:00:00-04:00
+77,Darragh Lenihan,Luton Town,0.5,Shots,82,2023-04-24T15:00:00-04:00
+78,Zack Steffen,Luton Town,3.0,Goalie Saves,82,2023-04-24T15:00:00-04:00
+79,Jonathan Howson,Luton Town,1.5,Tackles,82,2023-04-24T15:00:00-04:00
+80,Paddy McNair,Luton Town,1.5,Tackles,82,2023-04-24T15:00:00-04:00
+81,Pelly Ruddock Mpanzu,Middlesbrough,1.5,Tackles,82,2023-04-24T15:00:00-04:00
+82,Amari Bell,Middlesbrough,2.0,Tackles,82,2023-04-24T15:00:00-04:00
+83,Mike Moustakas,CLE,0.5,Total Bases,2,2023-04-24T18:10:00-04:00
+84,Harry Brook,Delhi Capitals,22.5,Runs,162,2023-04-24T10:00:00-04:00
+85,Jrue Holiday,MIA 1st Half,19.5,Fantasy Score,84,2023-04-24T19:40:00-04:00
+86,Jrue Holiday,MIA,37.5,Fantasy Score,7,2023-04-24T19:40:00-04:00
+87,Jrue Holiday,MIA 1st Half,9.5,Points,84,2023-04-24T19:40:00-04:00
+88,Jrue Holiday,MIA,18.5,Points,7,2023-04-24T19:40:00-04:00
+89,Jrue Holiday,MIA,31.5,Pts+Rebs+Asts,7,2023-04-24T19:40:00-04:00
+90,Jrue Holiday,MIA,5.0,Rebounds,7,2023-04-24T19:40:00-04:00
+91,Jrue Holiday,MIA,8.0,Assists,7,2023-04-24T19:40:00-04:00
+92,Jrue Holiday,MIA,23.5,Pts+Rebs,7,2023-04-24T19:40:00-04:00
+93,Jrue Holiday,MIA,13.5,Rebs+Asts,7,2023-04-24T19:40:00-04:00
+94,Jrue Holiday,MIA,1.5,Free Throws Made,7,2023-04-24T19:40:00-04:00
+95,Jrue Holiday,MIA 1st Half,0.5,Free Throws Made,84,2023-04-24T19:40:00-04:00
+96,Jrue Holiday,MIA,26.5,Pts+Asts,7,2023-04-24T19:40:00-04:00
+97,Kris Bryant,CLE,7.0,Hitter Fantasy Score,2,2023-04-24T18:10:00-04:00
+98,Allan Campbell,Middlesbrough,0.5,Shots,82,2023-04-24T15:00:00-04:00
+99,Cameron Archer,Luton Town,2.0,Shots,82,2023-04-24T15:00:00-04:00
+100,Pelly Ruddock Mpanzu,Middlesbrough,0.5,Shots,82,2023-04-24T15:00:00-04:00
+101,Elijah Adebayo,Middlesbrough,2.0,Shots,82,2023-04-24T15:00:00-04:00
+102,Jrue Holiday,MIA,5.0,Points,192,2023-04-24T19:40:00-04:00
+103,Hayden Hackney,Luton Town,1.0,Shots,82,2023-04-24T15:00:00-04:00
+104,Carlton Morris,Middlesbrough,2.5,Shots,82,2023-04-24T15:00:00-04:00
+105,Alfie Doughty,Middlesbrough,1.0,Shots,82,2023-04-24T15:00:00-04:00
+106,Marcus Forss,Luton Town,1.5,Shots,82,2023-04-24T15:00:00-04:00
+107,Tom Lockyer,Middlesbrough,0.5,Shots,82,2023-04-24T15:00:00-04:00
+108,Paddy McNair,Luton Town,0.5,Shots,82,2023-04-24T15:00:00-04:00
+109,Ethan Horvath,Middlesbrough,3.0,Goalie Saves,82,2023-04-24T15:00:00-04:00
+110,Jrue Holiday,MIA 1st Half,15.5,Pts+Rebs+Asts,84,2023-04-24T19:40:00-04:00
+111,Bam Adebayo,MIL,4.5,Points,192,2023-04-24T19:40:00-04:00
+112,Bam Adebayo,MIL 1st Half,19.5,Fantasy Score,84,2023-04-24T19:40:00-04:00
+113,Bam Adebayo,MIL 1st Half,1.5,Free Throws Made,84,2023-04-24T19:40:00-04:00
+114,Bam Adebayo,MIL,3.5,Free Throws Made,7,2023-04-24T19:40:00-04:00
+115,Mitchell Marsh,Sunrisers Hyderabad,22.5,Runs,162,2023-04-24T10:00:00-04:00
+116,Bam Adebayo,MIL,23.5,Pts+Asts,7,2023-04-24T19:40:00-04:00
+117,Bam Adebayo,MIL,12.5,Rebs+Asts,7,2023-04-24T19:40:00-04:00
+118,Bam Adebayo,MIL,29.0,Pts+Rebs,7,2023-04-24T19:40:00-04:00
+119,Bam Adebayo,MIL,39.5,Fantasy Score,7,2023-04-24T19:40:00-04:00
+120,Bam Adebayo,MIL,32.5,Pts+Rebs+Asts,7,2023-04-24T19:40:00-04:00
+121,Bam Adebayo,MIL,9.5,Rebounds,7,2023-04-24T19:40:00-04:00
+122,Bam Adebayo,MIL 1st Half,16.5,Pts+Rebs+Asts,84,2023-04-24T19:40:00-04:00
+123,Bam Adebayo,MIL,3.5,Assists,7,2023-04-24T19:40:00-04:00
+124,Bam Adebayo,MIL,19.5,Points,7,2023-04-24T19:40:00-04:00
+125,Steven Kwan,COL,7.5,Hitter Fantasy Score,2,2023-04-24T18:10:00-04:00
+126,Mike Zunino,COL,0.5,Total Bases,2,2023-04-24T18:10:00-04:00
+127,Bam Adebayo,MIL 1st Half,9.5,Points,84,2023-04-24T19:40:00-04:00
+128,Khris Middleton,MIA 1st Half,15.5,Pts+Rebs+Asts,84,2023-04-24T19:40:00-04:00
+129,Khris Middleton,MIA,6.0,Assists,7,2023-04-24T19:40:00-04:00
+130,Khris Middleton,MIA,5.0,Points,192,2023-04-24T19:40:00-04:00
+131,Khris Middleton,MIA,31.5,Pts+Rebs+Asts,7,2023-04-24T19:40:00-04:00
+132,Khris Middleton,MIA,3.5,Free Throws Made,7,2023-04-24T19:40:00-04:00
+133,Khris Middleton,MIA 1st Half,1.5,Free Throws Made,84,2023-04-24T19:40:00-04:00
+134,Khris Middleton,MIA,5.5,Rebounds,7,2023-04-24T19:40:00-04:00
+135,Khris Middleton,MIA 1st Half,18.0,Fantasy Score,84,2023-04-24T19:40:00-04:00
+136,Khris Middleton,MIA,25.5,Pts+Rebs,7,2023-04-24T19:40:00-04:00
+137,Khris Middleton,MIA,11.5,Rebs+Asts,7,2023-04-24T19:40:00-04:00
+138,Khris Middleton,MIA,26.5,Pts+Asts,7,2023-04-24T19:40:00-04:00
+139,Khris Middleton,MIA,2.5,Turnovers,7,2023-04-24T19:40:00-04:00
+140,Charlie Blackmon,CLE,6.5,Hitter Fantasy Score,2,2023-04-24T18:10:00-04:00
+141,Khris Middleton,MIA,19.5,Points,7,2023-04-24T19:40:00-04:00
+142,Khris Middleton,MIA,35.5,Fantasy Score,7,2023-04-24T19:40:00-04:00
+143,Khris Middleton,MIA 1st Half,9.5,Points,84,2023-04-24T19:40:00-04:00
+144,Aiden Markram,Delhi Capitals,22.5,Runs,162,2023-04-24T10:00:00-04:00
+145,Max Strus,MIL,16.5,Pts+Rebs,7,2023-04-24T19:40:00-04:00
+146,Max Strus,MIL,21.5,Fantasy Score,7,2023-04-24T19:40:00-04:00
+147,Max Strus,MIL 1st Half,10.5,Fantasy Score,84,2023-04-24T19:40:00-04:00
+148,Max Strus,MIL,12.5,Points,7,2023-04-24T19:40:00-04:00
+149,Max Strus,MIL 1st Half,6.5,Points,84,2023-04-24T19:40:00-04:00
+150,Max Strus,MIL 1st Half,9.5,Pts+Rebs+Asts,84,2023-04-24T19:40:00-04:00
+151,Max Strus,MIL,3.5,Rebounds,7,2023-04-24T19:40:00-04:00
+152,Max Strus,MIL,18.5,Pts+Rebs+Asts,7,2023-04-24T19:40:00-04:00
+153,Max Strus,MIL,4.0,Points,192,2023-04-24T19:40:00-04:00
+154,Max Strus,MIL,0.5,Turnovers,7,2023-04-24T19:40:00-04:00
+155,Max Strus,MIL,0.5,Steals,7,2023-04-24T19:40:00-04:00
+156,Max Strus,MIL,14.5,Pts+Asts,7,2023-04-24T19:40:00-04:00
+157,Prithvi Shaw,Sunrisers Hyderabad,18.5,Runs,162,2023-04-24T10:00:00-04:00
+158,Amed Rosario,COL,7.5,Hitter Fantasy Score,2,2023-04-24T18:10:00-04:00
+159,Brook Lopez,MIA,4.0,Points,192,2023-04-24T19:40:00-04:00
+160,C.J. Cron,CLE,6.5,Hitter Fantasy Score,2,2023-04-24T18:10:00-04:00
+161,Bobby Portis,MIA,0.5,Free Throws Made,7,2023-04-24T19:40:00-04:00
+162,Rahul Tripathi,Delhi Capitals,19.5,Runs,162,2023-04-24T10:00:00-04:00
+163,Brook Lopez,MIA,5.5,Rebounds,7,2023-04-24T19:40:00-04:00
+164,Brook Lopez,MIA,16.5,Pts+Asts,7,2023-04-24T19:40:00-04:00
+165,Brook Lopez,MIA,14.5,Points,7,2023-04-24T19:40:00-04:00
+166,Brook Lopez,MIA 1st Half,7.5,Points,84,2023-04-24T19:40:00-04:00
+167,Brook Lopez,MIA,22.0,Pts+Rebs+Asts,7,2023-04-24T19:40:00-04:00
+168,Brook Lopez,MIA,20.5,Pts+Rebs,7,2023-04-24T19:40:00-04:00
+169,Brook Lopez,MIA 1st Half,10.5,Pts+Rebs+Asts,84,2023-04-24T19:40:00-04:00
+170,Brook Lopez,MIA 1st Half,15.5,Fantasy Score,84,2023-04-24T19:40:00-04:00
+171,Phil Salt,Sunrisers Hyderabad,17.5,Runs,162,2023-04-24T10:00:00-04:00
+172,Caleb Martin,MIL,1.5,Free Throws Made,7,2023-04-24T19:40:00-04:00
+173,Abhishek Sharma,Delhi Capitals,17.5,Runs,162,2023-04-24T10:00:00-04:00
+174,Kevin Love,MIL,0.5,Free Throws Made,7,2023-04-24T19:40:00-04:00
+175,Manish Pandey,Sunrisers Hyderabad,16.5,Runs,162,2023-04-24T10:00:00-04:00
+176,Shubman Gill,Mumbai Indians,28.5,Runs,162,2023-04-25T10:00:00-04:00
+177,Zsombor Piros,P. Andujar (Madrid-Q),21.5,Total Games,5,2023-04-24T11:15:00-04:00
+178,Rafael Devers,BAL,8.5,Hitter Fantasy Score,2,2023-04-24T18:35:00-04:00
+179,Chris Sale + Dean Kremer,BAL/BOS,1.5,1st Inning Hits Allowed,2,2023-04-24T18:35:00-04:00
+180,Zsombor Piros,P. Andujar (Madrid-Q),21.0,Fantasy Score,5,2023-04-24T11:15:00-04:00
+181,SuryaKumar Yadav,Gujarat Titans,24.5,Runs,162,2023-04-25T10:00:00-04:00
+182,Matteo Arnaldi,F. Misolic (Madrid-Q),22.0,Total Games,5,2023-04-24T11:15:00-04:00
+183,Adley Rutschman,BOS,7.5,Hitter Fantasy Score,2,2023-04-24T18:35:00-04:00
+184,Matteo Arnaldi,F. Misolic (Madrid-Q),18.0,Fantasy Score,5,2023-04-24T11:15:00-04:00
+185,Gunnar Henderson,BOS,0.5,Total Bases,2,2023-04-24T18:35:00-04:00
+186,Rafael Devers,BAL,1.5,Total Bases,2,2023-04-24T18:35:00-04:00
+187,Alexander Shevchenko,A. Bellier (Madrid-Q),20.5,Fantasy Score,5,2023-04-24T11:15:00-04:00
+188,Hardik Pandya,Mumbai Indians,23.5,Runs,162,2023-04-25T10:00:00-04:00
+189,Masataka Yoshida,BAL,7.0,Hitter Fantasy Score,2,2023-04-24T18:35:00-04:00
+190,Alexander Shevchenko,A. Bellier (Madrid-Q),21.5,Total Games,5,2023-04-24T11:15:00-04:00
+191,Rohit Sharma,Gujarat Titans,23.5,Runs,162,2023-04-25T10:00:00-04:00
+192,Juan Manuel Cerundolo,C.H. Tseng (Madrid-Q),20.5,Fantasy Score,5,2023-04-24T11:15:00-04:00
+193,Juan Manuel Cerundolo,C.H. Tseng (Madrid-Q),21.5,Total Games,5,2023-04-24T11:15:00-04:00
+194,Wriddhiman Saha,Mumbai Indians,18.5,Runs,162,2023-04-25T10:00:00-04:00
+195,Justin Turner,BAL,7.0,Hitter Fantasy Score,2,2023-04-24T18:35:00-04:00
+196,Ishan Kishan,Gujarat Titans,22.5,Runs,162,2023-04-25T10:00:00-04:00
+197,Anthony Santander,BOS,6.5,Hitter Fantasy Score,2,2023-04-24T18:35:00-04:00
+198,Vijay Shankar,Mumbai Indians,16.5,Runs,162,2023-04-25T10:00:00-04:00
+199,Tilak Varma,Gujarat Titans,19.5,Runs,162,2023-04-25T10:00:00-04:00
+200,Abhinav Manohar,Mumbai Indians,15.5,Runs,162,2023-04-25T10:00:00-04:00
+201,Cameron Green,Gujarat Titans,16.5,Runs,162,2023-04-25T10:00:00-04:00
+202,José Urquidy + Taj Bradley,TB/HOU,1.5,1st Inning Hits Allowed,2,2023-04-24T18:40:00-04:00
+203,Yordan Alvarez,TB,8.5,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+204,Virat Kohli,Kolkata Knight Riders,32.5,Runs,162,2023-04-26T10:00:00-04:00
+205,Venkatesh Iyer,RC Bangalore,23.5,Runs,162,2023-04-26T10:00:00-04:00
+206,Randy Arozarena,HOU,7.5,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+207,Faf du Plessis,Kolkata Knight Riders,27.5,Runs,162,2023-04-26T10:00:00-04:00
+208,Alex Bregman,TB,7.0,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+209,Nitish Rana,RC Bangalore,22.5,Runs,162,2023-04-26T10:00:00-04:00
+210,Wander Franco,HOU,7.0,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+211,Aliona Bolsova Zadoinov,D. Parry (Madrid-Q),16.5,Fantasy Score,5,2023-04-24T11:15:00-04:00
+212,Glenn Maxwell,Kolkata Knight Riders,22.5,Runs,162,2023-04-26T10:00:00-04:00
+213,Kyle Tucker,TB,7.0,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+214,Aliona Bolsova Zadoinov,D. Parry (Madrid-Q),21.0,Total Games,5,2023-04-24T11:15:00-04:00
+215,Jason Roy,RC Bangalore,21.5,Runs,162,2023-04-26T10:00:00-04:00
+216,Yandy Díaz,HOU,7.0,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+217,Magdalena Frech,O. Danilovic (Madrid-Q),13.5,Fantasy Score,5,2023-04-24T11:15:00-04:00
+218,Magdalena Frech,O. Danilovic (Madrid-Q),21.0,Total Games,5,2023-04-24T11:15:00-04:00
+219,Taylor Townsend,A. Lazaro Garcia (Madrid-Q),19.0,Total Games,5,2023-04-24T11:15:00-04:00
+220,Mahipal Lomror,Kolkata Knight Riders,15.5,Runs,162,2023-04-26T10:00:00-04:00
+221,Taylor Townsend,A. Lazaro Garcia (Madrid-Q),21.0,Fantasy Score,5,2023-04-24T11:15:00-04:00
+222,Narayan Jagadeesan,RC Bangalore,19.5,Runs,162,2023-04-26T10:00:00-04:00
+223,Marketa Vondrousova,M. Bjorklund (Madrid-Q),22.0,Fantasy Score,5,2023-04-24T11:15:00-04:00
+224,Marketa Vondrousova,M. Bjorklund (Madrid-Q),18.5,Total Games,5,2023-04-24T11:15:00-04:00
+225,Shahbaz Ahmed,Kolkata Knight Riders,14.5,Runs,162,2023-04-26T10:00:00-04:00
+226,Rinku Singh,RC Bangalore,18.5,Runs,162,2023-04-26T10:00:00-04:00
+227,LeBron James	,MEM,43.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+228,LeBron James	,MEM,5.5,Assists,7,2023-04-24T22:10:00-04:00
+229,LeBron James	,MEM,50.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+230,LeBron James	,MEM,2.5,3-PT Made,7,2023-04-24T22:10:00-04:00
+231,LeBron James	,MEM,4.0,Free Throws Made,7,2023-04-24T22:10:00-04:00
+232,LeBron James,MEM 1st Half,1.5,Free Throws Made,84,2023-04-24T22:10:00-04:00
+233,LeBron James,MEM 1st Half,13.5,Points,84,2023-04-24T22:10:00-04:00
+234,LeBron James	,MEM,33.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+235,LeBron James	,MEM,37.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+236,LeBron James,MEM 1st Half,21.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+237,LeBron James ,MEM,6.0,Points,192,2023-04-24T22:10:00-04:00
+238,LeBron James	,MEM,15.5,Rebs+Asts,7,2023-04-24T22:10:00-04:00
+239,LeBron James	,MEM,3.5,Turnovers,7,2023-04-24T22:10:00-04:00
+240,LeBron James	,MEM,27.5,Points,7,2023-04-24T22:10:00-04:00
+241,LeBron James,MEM 1st Half,25.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+242,LeBron James	,MEM,9.5,Rebounds,7,2023-04-24T22:10:00-04:00
+243,Ja Morant,LAL 1st Half,21.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+244,Ja Morant,LAL,36.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+245,Ja Morant,LAL,1.5,Blks+Stls,7,2023-04-24T22:10:00-04:00
+246,Ja Morant,LAL,3.5,Turnovers,7,2023-04-24T22:10:00-04:00
+247,Ja Morant,LAL 1st Half,2.5,Free Throws Made,84,2023-04-24T22:10:00-04:00
+248,Ja Morant,LAL,6.0,Free Throws Made,7,2023-04-24T22:10:00-04:00
+249,Ja Morant,LAL,7.0,Rebounds,7,2023-04-24T22:10:00-04:00
+250,Ja Morant,LAL 1st Half,24.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+251,Ja Morant,LAL,28.5,Points,7,2023-04-24T22:10:00-04:00
+252,Ja Morant,LAL,15.5,Rebs+Asts,7,2023-04-24T22:10:00-04:00
+253,Ja Morant,LAL,35.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+254,Ja Morant,LAL,43.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+255,Ja Morant,LAL,8.0,Assists,7,2023-04-24T22:10:00-04:00
+256,Ja Morant,LAL,49.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+257,Ja Morant,LAL 1st Half,14.5,Points,84,2023-04-24T22:10:00-04:00
+258,Ja Morant,LAL,7.5,Points,192,2023-04-24T22:10:00-04:00
+259,Anthony Davis,MEM,23.5,Points,7,2023-04-24T22:10:00-04:00
+260,Anthony Davis,MEM,37.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+261,Anthony Davis,MEM,40.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+262,Anthony Davis,MEM 1st Half,20.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+263,Anthony Davis,MEM 1st Half,27.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+264,Anthony Davis,MEM,54.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+265,Anthony Davis,MEM,5.5,Free Throws Made,7,2023-04-24T22:10:00-04:00
+266,Anthony Davis,MEM,2.5,Turnovers,7,2023-04-24T22:10:00-04:00
+267,Anthony Davis,MEM,4.5,Blks+Stls,7,2023-04-24T22:10:00-04:00
+268,Anthony Davis,MEM,26.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+269,Anthony Davis,MEM,16.5,Rebs+Asts,7,2023-04-24T22:10:00-04:00
+270,Anthony Davis,MEM,7.0,Points,192,2023-04-24T22:10:00-04:00
+271,Anthony Davis,MEM 1st Half,11.5,Points,84,2023-04-24T22:10:00-04:00
+272,Anthony Davis,MEM,13.5,Rebounds,7,2023-04-24T22:10:00-04:00
+273,Anthony Davis,MEM,2.5,Assists,7,2023-04-24T22:10:00-04:00
+274,Jaren Jackson Jr.,LAL,20.5,Points,7,2023-04-24T22:10:00-04:00
+275,Jaren Jackson Jr.,LAL,7.0,Rebounds,7,2023-04-24T22:10:00-04:00
+276,Jaren Jackson Jr.,LAL,1.5,3-PT Made,7,2023-04-24T22:10:00-04:00
+277,Jaren Jackson Jr.,LAL,27.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+278,Jaren Jackson Jr.,LAL 1st Half,14.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+279,Jaren Jackson Jr.,LAL,29.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+280,Jaren Jackson Jr.,LAL,8.5,Rebs+Asts,7,2023-04-24T22:10:00-04:00
+281,Jaren Jackson Jr.,LAL,21.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+282,Jaren Jackson Jr.,LAL,4.5,Free Throws Made,7,2023-04-24T22:10:00-04:00
+283,Jaren Jackson Jr.,LAL 1st Half,19.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+284,Jaren Jackson Jr.,LAL,5.0,Points,192,2023-04-24T22:10:00-04:00
+285,Jaren Jackson Jr.,LAL,39.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+286,Jaren Jackson Jr.,LAL 1st Half,10.5,Points,84,2023-04-24T22:10:00-04:00
+287,Austin Reaves,MEM,14.5,Points,7,2023-04-24T22:10:00-04:00
+288,Austin Reaves,MEM,26.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+289,Austin Reaves,MEM 1st Half,11.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+290,Austin Reaves,MEM,22.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+291,Austin Reaves,MEM,18.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+292,Austin Reaves,MEM,0.5,Steals,7,2023-04-24T22:10:00-04:00
+293,Austin Reaves ,MEM,3.5,Points,192,2023-04-24T22:10:00-04:00
+294,Austin Reaves,MEM,1.5,Turnovers,7,2023-04-24T22:10:00-04:00
+295,Austin Reaves,MEM,18.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+296,Austin Reaves,MEM 1st Half,0.5,Free Throws Made,84,2023-04-24T22:10:00-04:00
+297,Austin Reaves,MEM 1st Half,13.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+298,Austin Reaves,MEM 1st Half,7.5,Points,84,2023-04-24T22:10:00-04:00
+299,Austin Reaves,MEM,4.0,Rebounds,7,2023-04-24T22:10:00-04:00
+300,Austin Reaves,MEM,4.0,Assists,7,2023-04-24T22:10:00-04:00
+301,Desmond Bane,LAL 1st Half,0.5,Free Throws Made,84,2023-04-24T22:10:00-04:00
+302,Desmond Bane,LAL,26.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+303,Desmond Bane,LAL,30.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+304,Desmond Bane,LAL,5.0,Rebounds,7,2023-04-24T22:10:00-04:00
+305,Desmond Bane,LAL,20.5,Points,7,2023-04-24T22:10:00-04:00
+306,Desmond Bane,LAL,5.0,Points,192,2023-04-24T22:10:00-04:00
+307,Desmond Bane,LAL,24.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+308,Desmond Bane,LAL,34.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+309,Desmond Bane,LAL 1st Half,17.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+310,Desmond Bane,LAL 1st Half,10.5,Points,84,2023-04-24T22:10:00-04:00
+311,D'Angelo Russell,MEM,28.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+312,D'Angelo Russell,MEM 1st Half,14.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+313,D'Angelo Russell,MEM 1st Half,0.5,Free Throws Made,84,2023-04-24T22:10:00-04:00
+314,D'Angelo Russell,MEM,1.5,Free Throws Made,7,2023-04-24T22:10:00-04:00
+315,D'Angelo Russell,MEM,8.5,Rebs+Asts,7,2023-04-24T22:10:00-04:00
+316,D'Angelo Russell,MEM,21.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+317,D'Angelo Russell,MEM,4.5,Points,192,2023-04-24T22:10:00-04:00
+318,D'Angelo Russell,MEM,19.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+319,D'Angelo Russell,MEM,24.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+320,D'Angelo Russell,MEM 1st Half,12.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+321,D'Angelo Russell,MEM,5.5,Assists,7,2023-04-24T22:10:00-04:00
+322,D'Angelo Russell,MEM,2.5,3-PT Made,7,2023-04-24T22:10:00-04:00
+323,D'Angelo Russell,MEM 1st Half,8.5,Points,84,2023-04-24T22:10:00-04:00
+324,D'Angelo Russell,MEM,16.5,Points,7,2023-04-24T22:10:00-04:00
+325,Xavier Tillman,LAL,11.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+326,Xavier Tillman,LAL 1st Half,4.5,Points,84,2023-04-24T22:10:00-04:00
+327,Xavier Tillman,LAL,19.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+328,Xavier Tillman,LAL,9.5,Points,7,2023-04-24T22:10:00-04:00
+329,Xavier Tillman,LAL,10.5,Rebs+Asts,7,2023-04-24T22:10:00-04:00
+330,Xavier Tillman,LAL,26.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+331,Xavier Tillman,LAL,0.5,Blocked Shots,7,2023-04-24T22:10:00-04:00
+332,Xavier Tillman,LAL,8.0,Rebounds,7,2023-04-24T22:10:00-04:00
+333,Xavier Tillman,LAL 1st Half,9.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+334,Xavier Tillman,LAL,0.5,Free Throws Made,7,2023-04-24T22:10:00-04:00
+335,Xavier Tillman,LAL 1st Half,13.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+336,Xavier Tillman,LAL,17.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+337,Jarred Vanderbilt,MEM,0.5,Turnovers,7,2023-04-24T22:10:00-04:00
+338,Jarred Vanderbilt,MEM,10.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+339,Jarred Vanderbilt,MEM,5.0,Points,7,2023-04-24T22:10:00-04:00
+340,Jarred Vanderbilt,MEM 1st Half,5.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+341,Rui Hachimura,MEM,22.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+342,Jarred Vanderbilt,MEM,5.0,Rebounds,7,2023-04-24T22:10:00-04:00
+343,Rui Hachimura,MEM 1st Half,11.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+344,Jarred Vanderbilt,MEM 1st Half,2.5,Points,84,2023-04-24T22:10:00-04:00
+345,Jarred Vanderbilt,MEM,11.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+346,Dillon Brooks,LAL 1st Half,9.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+347,Dillon Brooks,LAL,13.5,Points,7,2023-04-24T22:10:00-04:00
+348,Dillon Brooks,LAL 1st Half,11.5,Fantasy Score,84,2023-04-24T22:10:00-04:00
+349,Dillon Brooks,LAL 1st Half,6.5,Points,84,2023-04-24T22:10:00-04:00
+350,Dillon Brooks,LAL,23.5,Fantasy Score,7,2023-04-24T22:10:00-04:00
+351,Dillon Brooks,LAL,15.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+352,Dillon Brooks,LAL,0.5,Free Throws Made,7,2023-04-24T22:10:00-04:00
+353,Dillon Brooks,LAL,3.5,Rebounds,7,2023-04-24T22:10:00-04:00
+354,Dillon Brooks,LAL,4.0,Points,192,2023-04-24T22:10:00-04:00
+355,Dillon Brooks,LAL,16.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+356,Dillon Brooks,LAL,19.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+357,Rui Hachimura,MEM,18.5,Pts+Rebs,7,2023-04-24T22:10:00-04:00
+358,Rui Hachimura,MEM,5.0,Rebounds,7,2023-04-24T22:10:00-04:00
+359,Rui Hachimura,MEM 1st Half,6.5,Points,84,2023-04-24T22:10:00-04:00
+360,Rui Hachimura,MEM,14.5,Pts+Asts,7,2023-04-24T22:10:00-04:00
+361,Rui Hachimura,MEM 1st Half,10.5,Pts+Rebs+Asts,84,2023-04-24T22:10:00-04:00
+362,Rui Hachimura,MEM,19.5,Pts+Rebs+Asts,7,2023-04-24T22:10:00-04:00
+363,Bubba Thompson,CIN,0.5,Total Bases,2,2023-04-24T18:40:00-04:00
+364,Rui Hachimura,MEM 1st Half,0.5,Free Throws Made,84,2023-04-24T22:10:00-04:00
+365,Nick Lodolo + Nathan Eovaldi,TEX/CIN,1.5,1st Inning Hits Allowed,2,2023-04-24T18:40:00-04:00
+366,Rui Hachimura,MEM,13.5,Points,7,2023-04-24T22:10:00-04:00
+367,Jonathan India,TEX,7.5,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+368,Jos Buttler,Chennai Super Kings,27.5,Runs,162,2023-04-27T10:00:00-04:00
+369,Ruturaj Gaikwad,Rajasthan Royals,25.5,Runs,162,2023-04-27T10:00:00-04:00
+370,Marcus Semien,CIN,8.5,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+371,Ezequiel Duran,CIN,0.5,Total Bases,2,2023-04-24T18:40:00-04:00
+372,Leody Taveras,CIN,0.5,Total Bases,2,2023-04-24T18:40:00-04:00
+373,Tyler Stephenson,TEX,5.5,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+374,Yashasvi Jaiswal,Chennai Super Kings,19.5,Runs,162,2023-04-27T10:00:00-04:00
+375,Devon Conway,Rajasthan Royals,24.5,Runs,162,2023-04-27T10:00:00-04:00
+376,Adolis García,CIN,6.5,Hitter Fantasy Score,2,2023-04-24T18:40:00-04:00
+377,Wil Myers,TEX,0.5,Total Bases,2,2023-04-24T18:40:00-04:00
+378,Sanju Samson,Chennai Super Kings,19.5,Runs,162,2023-04-27T10:00:00-04:00
+379,Ajinkya Rahane,Rajasthan Royals,20.5,Runs,162,2023-04-27T10:00:00-04:00
+380,Devdutt Padikkal,Chennai Super Kings,18.5,Runs,162,2023-04-27T10:00:00-04:00
+381,Shivam Dube,Rajasthan Royals,17.5,Runs,162,2023-04-27T10:00:00-04:00
+382,Shimron Hetmyer,Chennai Super Kings,16.5,Runs,162,2023-04-27T10:00:00-04:00
+383,Moeen Ali,Rajasthan Royals,14.5,Runs,162,2023-04-27T10:00:00-04:00
+384,KL Rahul,Punjab Kings,30.5,Runs,162,2023-04-28T10:00:00-04:00
+385,Brandon Belt,CWS,0.5,Total Bases,2,2023-04-24T19:07:00-04:00
+386,Vladimir Guerrero Jr.,CWS,8.5,Hitter Fantasy Score,2,2023-04-24T19:07:00-04:00
+387,Luis Robert,TOR,7.5,Hitter Fantasy Score,2,2023-04-24T19:07:00-04:00
+388,Liam Livingstone,Lucknow Super Giants,21.5,Runs,162,2023-04-28T10:00:00-04:00
+389,George Springer,CWS,8.0,Hitter Fantasy Score,2,2023-04-24T19:07:00-04:00
+390,Marcus Stoinis,Punjab Kings,21.5,Runs,162,2023-04-28T10:00:00-04:00
+391,Matt Short,Lucknow Super Giants,19.5,Runs,162,2023-04-28T10:00:00-04:00
+392,Andrew Benintendi,TOR,6.5,Hitter Fantasy Score,2,2023-04-24T19:07:00-04:00
+393,Bo Bichette,CWS,8.0,Hitter Fantasy Score,2,2023-04-24T19:07:00-04:00
+394,Kyle Mayers,Punjab Kings,20.5,Runs,162,2023-04-28T10:00:00-04:00
+395,Prabhsimran Singh,Lucknow Super Giants,17.5,Runs,162,2023-04-28T10:00:00-04:00
+396,Deepak Hooda,Punjab Kings,19.5,Runs,162,2023-04-28T10:00:00-04:00
+397,Atharva Taide,Lucknow Super Giants,16.5,Runs,162,2023-04-28T10:00:00-04:00
+398,Nicholas Pooran,Punjab Kings,17.5,Runs,162,2023-04-28T10:00:00-04:00
+399,Harpreet Singh,Lucknow Super Giants,15.5,Runs,162,2023-04-28T10:00:00-04:00
+400,Patrick Mahomes,2023 KC,4825.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+401,Justin Jefferson,2023 MIN,1450.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+402,Derrick Henry,2023 TEN,1275.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+403,Ronald Acuña Jr.,MIA,9.5,Hitter Fantasy Score,2,2023-04-24T19:20:00-04:00
+404,Avisaíl García,ATL,0.5,Total Bases,2,2023-04-24T19:20:00-04:00
+405,Tyreek Hill,2023 MIA,1299.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+406,Josh Allen,2023 BUF,4375.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+407,Luis Arraez,ATL,5.5,Hitter Fantasy Score,2,2023-04-24T19:20:00-04:00
+408,Jonathan Taylor,2023 IND,1300.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+409,Joe Burrow,2023 CIN,4500.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+410,Austin Riley,MIA,8.0,Hitter Fantasy Score,2,2023-04-24T19:20:00-04:00
+411,Nick Chubb,2023 CLE,1250.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+412,Jon Berti,ATL,0.5,Total Bases,2,2023-04-24T19:20:00-04:00
+413,Ja'Marr Chase,2023 CIN,1275.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+414,Travis Kelce,2023 KC,1125.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+415,Garrett Cooper,ATL,5.0,Hitter Fantasy Score,2,2023-04-24T19:20:00-04:00
+416,Justin Herbert,2023 LAC,4725.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+417,Travis Etienne Jr.,2023 JAX,1150.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+418,Jorge Soler,ATL,0.5,Total Bases,2,2023-04-24T19:20:00-04:00
+419,kiNgg,100 Thieves (MAPS 1-2 Kills),33.0,MAPS 1-2 Kills,159,2023-04-24T15:00:00-04:00
+420,kiNgg,100 Thieves (MAP 3 Kills),16.0,MAP 3 Kills,159,2023-04-24T17:00:00-04:00
+421,Kevin Pillar,MIA,0.5,Total Bases,2,2023-04-24T19:20:00-04:00
+422,Trevor Lawrence,2023 JAX,4125.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+423,Kenneth Walker III,2023 SEA,1100.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+424,Matt Olson,MIA,7.0,Hitter Fantasy Score,2,2023-04-24T19:20:00-04:00
+425,Mazino,100 Thieves (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-04-24T17:00:00-04:00
+426,Stefon Diggs,2023 BUF,1225.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+427,Mazino,100 Thieves (MAPS 1-2 Kills),31.0,MAPS 1-2 Kills,159,2023-04-24T15:00:00-04:00
+428,Jalen Hurts,2023 PHI,3675.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+429,Najee Harris,2023 PIT,1050.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+430,Asuna,Leviatán (MAPS 1-2 Kills),30.5,MAPS 1-2 Kills,159,2023-04-24T15:00:00-04:00
+431,Asuna,Leviatán (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-04-24T17:00:00-04:00
+432,CeeDee Lamb,2023 DAL,1225.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+433,Josh Allen,2023 BUF,600.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+434,Kirk Cousins,2023 MIN,4250.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+435,bang,Leviatán (MAPS 1-2 Kills),30.0,MAPS 1-2 Kills,159,2023-04-24T15:00:00-04:00
+436,Davante Adams,2023 LV,1250.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+437,bang,Leviatán (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-04-24T17:00:00-04:00
+438,Amon-Ra St. Brown	,2023 DET,1100.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+439,C0M,LOUD (MAPS 1-2 Kills),27.5,MAPS 1-2 Kills,159,2023-04-24T18:00:00-04:00
+440,Jalen Hurts,2023 PHI,725.5,Rush Yards,163,2023-09-07T20:15:00-04:00
+441,Dak Prescott,2023 DAL,4325.5,Pass Yards,163,2023-09-07T20:15:00-04:00
+442,C0M,LOUD (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-04-24T20:00:00-04:00
+443,Boostio,LOUD (MAPS 1-2 Kills),31.0,MAPS 1-2 Kills,159,2023-04-24T18:00:00-04:00
+444,DK Metcalf,2023 SEA,999.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+445,Boostio,LOUD (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-04-24T20:00:00-04:00
+446,aspas,Evil Geniuses (MAP 3 Kills),18.0,MAP 3 Kills,159,2023-04-24T20:00:00-04:00
+447,AJ Brown,2023 PHI,1150.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+448,aspas,Evil Geniuses (MAPS 1-2 Kills),36.5,MAPS 1-2 Kills,159,2023-04-24T18:00:00-04:00
+449,Less,Evil Geniuses (MAP 3 Kills),16.5,MAP 3 Kills,159,2023-04-24T20:00:00-04:00
+450,Less,Evil Geniuses (MAPS 1-2 Kills),33.5,MAPS 1-2 Kills,159,2023-04-24T18:00:00-04:00
+451,Devonta Smith,2023 PHI,1100.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+452,Garrett Wilson,2023 NYJ,1149.5,Receiving Yards,163,2023-09-07T20:15:00-04:00
+453,leaf,FURIA Esports (MAPS 1-2 Kills),35.0,MAPS 1-2 Kills,159,2023-04-25T15:00:00-04:00
+454,leaf,FURIA Esports (MAP 3 Kills),17.5,MAP 3 Kills,159,2023-04-25T17:00:00-04:00
+455,Xeppaa,FURIA Esports (MAP 3 Kills),17.0,MAP 3 Kills,159,2023-04-25T17:00:00-04:00
+456,Xeppaa,FURIA Esports (MAPS 1-2 Kills),34.0,MAPS 1-2 Kills,159,2023-04-25T15:00:00-04:00
+457,dgzin,Cloud9 (MAP 3 Kills),17.0,MAP 3 Kills,159,2023-04-25T17:00:00-04:00
+458,dgzin,Cloud9 (MAPS 1-2 Kills),34.0,MAPS 1-2 Kills,159,2023-04-25T15:00:00-04:00
+459,Khalil,Cloud9 (MAPS 1-2 Kills),29.5,MAPS 1-2 Kills,159,2023-04-25T15:00:00-04:00
+460,Khalil,Cloud9 (MAP 3 Kills),14.5,MAP 3 Kills,159,2023-04-25T17:00:00-04:00
+461,s0m,KRÜ Esports (MAPS 1-2 Kills),32.5,MAPS 1-2 Kills,159,2023-04-25T18:00:00-04:00
+462,s0m,KRÜ Esports (MAP 3 Kills),16.0,MAP 3 Kills,159,2023-04-25T20:00:00-04:00
+463,crashies,KRÜ Esports (MAPS 1-2 Kills),30.0,MAPS 1-2 Kills,159,2023-04-25T18:00:00-04:00
+464,crashies,KRÜ Esports (MAP 3 Kills),15.0,MAP 3 Kills,159,2023-04-25T20:00:00-04:00
+465,keznit,NRG (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-04-25T18:00:00-04:00
+466,keznit,NRG (MAP 3 Kills),15.5,MAP 3 Kills,159,2023-04-25T20:00:00-04:00
+467,Daveeys,NRG (MAPS 1-2 Kills),26.0,MAPS 1-2 Kills,159,2023-04-25T18:00:00-04:00
+468,Daveeys,NRG (MAP 3 Kills),13.5,MAP 3 Kills,159,2023-04-25T20:00:00-04:00
+469,Christian Yelich,DET,7.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+470,Colin Rea + Matthew Boyd,DET/MIL,1.5,1st Inning Hits Allowed,2,2023-04-24T19:40:00-04:00
+471,Riley Greene,MIL,6.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+472,Willy Adames,DET,7.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+473,Aaron Judge,MIN,8.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+474,Jhony Brito + Sonny Gray,MIN/NYY,1.5,1st Inning Hits Allowed,2,2023-04-24T19:40:00-04:00
+475,Franchy Cordero,MIN,0.5,Total Bases,2,2023-04-24T19:40:00-04:00
+476,Byron Buxton,NYY,7.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+477,Oswald Peraza,MIN,0.5,Total Bases,2,2023-04-24T19:40:00-04:00
+478,Anthony Rizzo,MIN,6.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+479,Trevor Larnach,NYY,0.5,Total Bases,2,2023-04-24T19:40:00-04:00
+480,Carlos Correa,NYY,7.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+481,Anthony Volpe,MIN,6.5,Hitter Fantasy Score,2,2023-04-24T19:40:00-04:00
+482,Mike Trout,OAK,8.5,Hitter Fantasy Score,2,2023-04-24T21:38:00-04:00
+483,Chad Wallach,OAK,0.5,Total Bases,2,2023-04-24T21:38:00-04:00
+484,Shohei Ohtani,OAK,8.5,Hitter Fantasy Score,2,2023-04-24T21:38:00-04:00
+485,Tony Kemp,LAA,0.5,Total Bases,2,2023-04-24T21:38:00-04:00
+486,Tyler Wade,LAA,0.5,Total Bases,2,2023-04-24T21:38:00-04:00
+487,Bobby Witt Jr.,ARI,7.5,Hitter Fantasy Score,2,2023-04-24T21:40:00-04:00
+488,Ketel Marte,KC,7.0,Hitter Fantasy Score,2,2023-04-24T21:40:00-04:00
+489,Geraldo Perdomo,KC,0.5,Total Bases,2,2023-04-24T21:40:00-04:00
+490,Salvador Perez,ARI,6.5,Hitter Fantasy Score,2,2023-04-24T21:40:00-04:00
+491,Bobby Witt Jr.,ARI,1.5,Total Bases,2,2023-04-24T21:40:00-04:00
+492,Corbin Carroll,KC,7.0,Hitter Fantasy Score,2,2023-04-24T21:40:00-04:00
+493,Salvador Perez,ARI,1.5,Total Bases,2,2023-04-24T21:40:00-04:00
+494,Devin Booker,LAC 1st Half,15.5,Points,84,2023-04-25T22:10:00-04:00
+495,Devin Booker,LAC,36.5,Pts+Asts,7,2023-04-25T22:10:00-04:00
+496,Devin Booker,LAC,36.5,Pts+Rebs,7,2023-04-25T22:10:00-04:00
+497,Devin Booker,LAC,11.0,Rebs+Asts,7,2023-04-25T22:10:00-04:00
+498,Paul Goldschmidt,SF,7.5,Hitter Fantasy Score,2,2023-04-24T21:45:00-04:00
+499,Devin Booker,LAC,30.5,Points,7,2023-04-25T22:10:00-04:00
+500,Devin Booker,LAC 1st Half,20.5,Pts+Rebs+Asts,84,2023-04-25T22:10:00-04:00
+501,Devin Booker,LAC,2.5,3-PT Made,7,2023-04-25T22:10:00-04:00
+502,Devin Booker,LAC,41.5,Pts+Rebs+Asts,7,2023-04-25T22:10:00-04:00
+503,Devin Booker,LAC,5.0,Rebounds,7,2023-04-25T22:10:00-04:00
+504,Devin Booker,LAC,1.5,Steals,7,2023-04-25T22:10:00-04:00
+505,Devin Booker,LAC,5.5,Assists,7,2023-04-25T22:10:00-04:00
+506,Thairo Estrada,STL,6.5,Hitter Fantasy Score,2,2023-04-24T21:45:00-04:00
+507,Kevin Durant,LAC,33.5,Pts+Asts,7,2023-04-25T22:10:00-04:00
+508,Kevin Durant,LAC,35.5,Pts+Rebs,7,2023-04-25T22:10:00-04:00
+509,Kevin Durant,LAC,13.0,Rebs+Asts,7,2023-04-25T22:10:00-04:00
+510,Kevin Durant,LAC,7.5,Rebounds,7,2023-04-25T22:10:00-04:00
+511,Kevin Durant,LAC,41.5,Pts+Rebs+Asts,7,2023-04-25T22:10:00-04:00
+512,Kevin Durant,LAC 1st Half,20.5,Pts+Rebs+Asts,84,2023-04-25T22:10:00-04:00
+513,Nolan Arenado,SF,7.5,Hitter Fantasy Score,2,2023-04-24T21:45:00-04:00
+514,Kevin Durant,LAC 1st Half,14.5,Points,84,2023-04-25T22:10:00-04:00
+515,Kevin Durant,LAC,28.5,Points,7,2023-04-25T22:10:00-04:00
+516,Kevin Durant,LAC,5.0,Assists,7,2023-04-25T22:10:00-04:00
+517,Deandre Ayton,LAC,26.5,Pts+Rebs,7,2023-04-25T22:10:00-04:00
+518,Deandre Ayton,LAC 1st Half,13.5,Pts+Rebs+Asts,84,2023-04-25T22:10:00-04:00
+519,Deandre Ayton,LAC 1st Half,8.0,Points,84,2023-04-25T22:10:00-04:00
+520,Deandre Ayton,LAC,15.5,Points,7,2023-04-25T22:10:00-04:00
+521,Deandre Ayton,LAC,11.0,Rebounds,7,2023-04-25T22:10:00-04:00
+522,Deandre Ayton,LAC,0.5,Steals,7,2023-04-25T22:10:00-04:00
+523,Deandre Ayton,LAC,27.5,Pts+Rebs+Asts,7,2023-04-25T22:10:00-04:00
+524,Deandre Ayton,LAC,12.0,Rebs+Asts,7,2023-04-25T22:10:00-04:00
+525,Deandre Ayton,LAC,16.5,Pts+Asts,7,2023-04-25T22:10:00-04:00
+526,Chris Paul,LAC,9.0,Assists,7,2023-04-25T22:10:00-04:00
+527,Chris Paul,LAC,23.5,Pts+Asts,7,2023-04-25T22:10:00-04:00
+528,Chris Paul,LAC,14.0,Rebs+Asts,7,2023-04-25T22:10:00-04:00
+529,Chris Paul,LAC 1st Half,14.5,Pts+Rebs+Asts,84,2023-04-25T22:10:00-04:00
+530,Chris Paul,LAC,28.5,Pts+Rebs+Asts,7,2023-04-25T22:10:00-04:00
+531,Chris Paul,LAC 1st Half,7.5,Points,84,2023-04-25T22:10:00-04:00
+532,Chris Paul,LAC,5.0,Rebounds,7,2023-04-25T22:10:00-04:00
+533,Chris Paul,LAC,1.5,3-PT Made,7,2023-04-25T22:10:00-04:00
+534,Chris Paul,LAC,19.5,Pts+Rebs,7,2023-04-25T22:10:00-04:00
+535,Chris Paul,LAC,14.5,Points,7,2023-04-25T22:10:00-04:00
+536,De'Aaron Fox,GSW,11.5,Rebs+Asts,7,2023-04-26T22:10:00-04:00
+537,De'Aaron Fox,GSW,28.5,Points,7,2023-04-26T22:10:00-04:00
+538,De'Aaron Fox,GSW,6.5,Assists,7,2023-04-26T22:10:00-04:00
+539,De'Aaron Fox,GSW,1.5,Steals,7,2023-04-26T22:10:00-04:00
+540,De'Aaron Fox,GSW,33.5,Pts+Rebs,7,2023-04-26T22:10:00-04:00
+541,De'Aaron Fox,GSW 1st Half,20.5,Pts+Rebs+Asts,84,2023-04-26T22:10:00-04:00
+542,De'Aaron Fox,GSW,34.5,Pts+Asts,7,2023-04-26T22:10:00-04:00
+543,De'Aaron Fox,GSW,2.5,3-PT Made,7,2023-04-26T22:10:00-04:00
+544,De'Aaron Fox,GSW 1st Half,13.5,Points,84,2023-04-26T22:10:00-04:00
+545,De'Aaron Fox,GSW,40.5,Pts+Rebs+Asts,7,2023-04-26T22:10:00-04:00
+546,De'Aaron Fox,GSW,5.0,Rebounds,7,2023-04-26T22:10:00-04:00
+547,Stephen Curry,SAC,11.5,Rebs+Asts,7,2023-04-26T22:10:00-04:00
+548,Stephen Curry,SAC,38.5,Pts+Rebs,7,2023-04-26T22:10:00-04:00
+549,Stephen Curry,SAC 1st Half,21.5,Pts+Rebs+Asts,84,2023-04-26T22:10:00-04:00
+550,Stephen Curry,SAC,37.5,Pts+Asts,7,2023-04-26T22:10:00-04:00
+551,Stephen Curry,SAC,43.5,Pts+Rebs+Asts,7,2023-04-26T22:10:00-04:00
+552,Stephen Curry,SAC,32.5,Points,7,2023-04-26T22:10:00-04:00
+553,Stephen Curry,SAC,5.5,Assists,7,2023-04-26T22:10:00-04:00
+554,Stephen Curry,SAC,6.0,Rebounds,7,2023-04-26T22:10:00-04:00
+555,Stephen Curry,SAC 1st Half,16.5,Points,84,2023-04-26T22:10:00-04:00
+556,Sapec,HAVU,18.0,MAP 3 Kills,124,2023-04-24T10:15:00-04:00
+557,Peppzor,HAVU,18.5,MAP 3 Kills,124,2023-04-24T10:15:00-04:00
+558,JW,HAVU,18.0,MAP 3 Kills,124,2023-04-24T10:15:00-04:00
+559,ottoNd,EYEBALLERS,19.0,MAP 3 Kills,124,2023-04-24T10:15:00-04:00
+560,Aerial,EYEBALLERS,18.5,MAP 3 Kills,124,2023-04-24T10:15:00-04:00
+561,Banjo,EYEBALLERS,17.0,MAP 3 Kills,124,2023-04-24T10:15:00-04:00
+562,Sapec,HAVU,9.0,MAP 3 Headshots,124,2023-04-24T10:15:00-04:00
+563,Peppzor,HAVU,9.5,MAP 3 Headshots,124,2023-04-24T10:15:00-04:00
+564,JW,HAVU,6.0,MAP 3 Headshots,124,2023-04-24T10:15:00-04:00
+565,ottoNd,EYEBALLERS,5.0,MAP 3 Headshots,124,2023-04-24T10:15:00-04:00
+566,Aerial,EYEBALLERS,7.5,MAP 3 Headshots,124,2023-04-24T10:15:00-04:00
+567,Banjo,EYEBALLERS,8.5,MAP 3 Headshots,124,2023-04-24T10:15:00-04:00
+568,bnox,Sangal,17.5,MAP 3 Kills,124,2023-04-24T12:00:00-04:00
+569,morelz,Sangal,18.0,MAP 3 Kills,124,2023-04-24T12:00:00-04:00
+570,Demho,Sangal,18.0,MAP 3 Kills,124,2023-04-24T12:00:00-04:00
+571,PANIX,Illuminar,19.5,MAP 3 Kills,124,2023-04-24T12:00:00-04:00
+572,Soulfly,Illuminar,18.5,MAP 3 Kills,124,2023-04-24T12:00:00-04:00
+573,ScrunK,Illuminar,15.0,MAP 3 Kills,124,2023-04-24T12:00:00-04:00
+574,bnox,Sangal,9.0,MAP 3 Headshots,124,2023-04-24T12:00:00-04:00
+575,morelz,Sangal,8.0,MAP 3 Headshots,124,2023-04-24T12:00:00-04:00
+576,Demho,Sangal,8.0,MAP 3 Headshots,124,2023-04-24T12:00:00-04:00
+577,PANIX,Illuminar,5.5,MAP 3 Headshots,124,2023-04-24T12:00:00-04:00
+578,Soulfly,Illuminar,9.5,MAP 3 Headshots,124,2023-04-24T12:00:00-04:00
+579,ScrunK,Illuminar,6.0,MAP 3 Headshots,124,2023-04-24T12:00:00-04:00
+580,SpAwNns,Viperio,41.5,MAPS 1-2 Kills,124,2023-04-24T10:30:00-04:00
+581,SpAwNns,Viperio,20.5,MAP 3 Kills,124,2023-04-24T12:30:00-04:00
+582,D0cC,Viperio,21.5,MAP 3 Kills,124,2023-04-24T12:30:00-04:00
+583,D0cC,Viperio,43.0,MAPS 1-2 Kills,124,2023-04-24T10:30:00-04:00
+584,BLACKEAGLE,Viperio,32.5,MAPS 1-2 Kills,124,2023-04-24T10:30:00-04:00
+585,BLACKEAGLE,Viperio,16.0,MAP 3 Kills,124,2023-04-24T12:30:00-04:00
+586,arTisT,Twisted Minds,18.0,MAP 3 Kills,124,2023-04-24T12:30:00-04:00
+587,arTisT,Twisted Minds,36.0,MAPS 1-2 Kills,124,2023-04-24T10:30:00-04:00
+588,Extinct,Twisted Minds,17.5,MAP 3 Kills,124,2023-04-24T12:30:00-04:00
+589,Extinct,Twisted Minds,35.0,MAPS 1-2 Kills,124,2023-04-24T10:30:00-04:00
+590,Girafffe,Twisted Minds,19.0,MAP 3 Kills,124,2023-04-24T12:30:00-04:00
+591,Girafffe,Twisted Minds,38.0,MAPS 1-2 Kills,124,2023-04-24T10:30:00-04:00
+592,SpAwNns,Viperio,19.5,MAPS 1-2 Headshots,124,2023-04-24T10:30:00-04:00
+593,SpAwNns,Viperio,9.5,MAP 3 Headshots,124,2023-04-24T12:30:00-04:00
+594,D0cC,Viperio,18.5,MAPS 1-2 Headshots,124,2023-04-24T10:30:00-04:00
+595,D0cC,Viperio,9.0,MAP 3 Headshots,124,2023-04-24T12:30:00-04:00
+596,BLACKEAGLE,Viperio,8.0,MAP 3 Headshots,124,2023-04-24T12:30:00-04:00
+597,BLACKEAGLE,Viperio,16.0,MAPS 1-2 Headshots,124,2023-04-24T10:30:00-04:00
+598,arTisT,Twisted Minds,5.0,MAP 3 Headshots,124,2023-04-24T12:30:00-04:00
+599,arTisT,Twisted Minds,10.0,MAPS 1-2 Headshots,124,2023-04-24T10:30:00-04:00
+600,Extinct,Twisted Minds,17.0,MAPS 1-2 Headshots,124,2023-04-24T10:30:00-04:00
+601,Extinct,Twisted Minds,8.5,MAP 3 Headshots,124,2023-04-24T12:30:00-04:00
+602,Girafffe,Twisted Minds,18.5,MAPS 1-2 Headshots,124,2023-04-24T10:30:00-04:00
+603,Girafffe,Twisted Minds,9.0,MAP 3 Headshots,124,2023-04-24T12:30:00-04:00
+604,afro,Nexus,42.0,MAPS 1-2 Kills,124,2023-04-24T11:00:00-04:00
+605,afro,Nexus,21.0,MAP 3 Kills,124,2023-04-24T13:00:00-04:00
+606,Snobling,Nexus,18.0,MAP 3 Kills,124,2023-04-24T13:00:00-04:00
+607,Snobling,Nexus,36.5,MAPS 1-2 Kills,124,2023-04-24T11:00:00-04:00
+608,Brooxsy,Nexus,32.5,MAPS 1-2 Kills,124,2023-04-24T11:00:00-04:00
+609,Brooxsy,Nexus,16.0,MAP 3 Kills,124,2023-04-24T13:00:00-04:00
+610,adamS,LDLC,36.5,MAPS 1-2 Kills,124,2023-04-24T11:00:00-04:00
+611,adamS,LDLC,18.0,MAP 3 Kills,124,2023-04-24T13:00:00-04:00
+612,ragga,LDLC,18.5,MAP 3 Kills,124,2023-04-24T13:00:00-04:00
+613,ragga,LDLC,37.0,MAPS 1-2 Kills,124,2023-04-24T11:00:00-04:00
+614,BTN,LDLC,29.5,MAPS 1-2 Kills,124,2023-04-24T11:00:00-04:00
+615,BTN,LDLC,14.5,MAP 3 Kills,124,2023-04-24T13:00:00-04:00
+616,afro,Nexus,12.0,MAPS 1-2 Headshots,124,2023-04-24T11:00:00-04:00
+617,afro,Nexus,6.0,MAP 3 Headshots,124,2023-04-24T13:00:00-04:00
+618,Snobling,Nexus,20.0,MAPS 1-2 Headshots,124,2023-04-24T11:00:00-04:00
+619,Snobling,Nexus,10.0,MAP 3 Headshots,124,2023-04-24T13:00:00-04:00
+620,Brooxsy,Nexus,8.5,MAP 3 Headshots,124,2023-04-24T13:00:00-04:00
+621,Brooxsy,Nexus,17.0,MAPS 1-2 Headshots,124,2023-04-24T11:00:00-04:00
+622,adamS,LDLC,7.0,MAP 3 Headshots,124,2023-04-24T13:00:00-04:00
+623,adamS,LDLC,14.0,MAPS 1-2 Headshots,124,2023-04-24T11:00:00-04:00
+624,ragga,LDLC,9.5,MAP 3 Headshots,124,2023-04-24T13:00:00-04:00
+625,ragga,LDLC,19.0,MAPS 1-2 Headshots,124,2023-04-24T11:00:00-04:00
+626,BTN,LDLC,15.0,MAPS 1-2 Headshots,124,2023-04-24T11:00:00-04:00
+627,BTN,LDLC,7.5,MAP 3 Headshots,124,2023-04-24T13:00:00-04:00
+628,shyyne,SINNERS,18.5,MAP 3 Kills,124,2023-04-24T15:00:00-04:00
+629,shyyne,SINNERS,36.0,MAPS 1-2 Kills,124,2023-04-24T13:00:00-04:00
+630,AZUWU,SINNERS,37.5,MAPS 1-2 Kills,124,2023-04-24T13:00:00-04:00
+631,AZUWU,SINNERS,18.5,MAP 3 Kills,124,2023-04-24T15:00:00-04:00
+632,dox,SINNERS,31.5,MAPS 1-2 Kills,124,2023-04-24T13:00:00-04:00
+633,dox,SINNERS,15.5,MAP 3 Kills,124,2023-04-24T15:00:00-04:00
+634,oskar,Coalesce,41.5,MAPS 1-2 Kills,124,2023-04-24T13:00:00-04:00
+635,oskar,Coalesce,20.0,MAP 3 Kills,124,2023-04-24T15:00:00-04:00
+636,ZEDKO,Coalesce,18.5,MAP 3 Kills,124,2023-04-24T15:00:00-04:00
+637,ZEDKO,Coalesce,37.5,MAPS 1-2 Kills,124,2023-04-24T13:00:00-04:00
+638,beastik,Coalesce,17.0,MAP 3 Kills,124,2023-04-24T15:00:00-04:00
+639,beastik,Coalesce,34.0,MAPS 1-2 Kills,124,2023-04-24T13:00:00-04:00
+640,shyyne,SINNERS,6.0,MAP 3 Headshots,124,2023-04-24T15:00:00-04:00
+641,shyyne,SINNERS,12.0,MAPS 1-2 Headshots,124,2023-04-24T13:00:00-04:00
+642,AZUWU,SINNERS,21.0,MAPS 1-2 Headshots,124,2023-04-24T13:00:00-04:00
+643,AZUWU,SINNERS,10.5,MAP 3 Headshots,124,2023-04-24T15:00:00-04:00
+644,dox,SINNERS,7.0,MAP 3 Headshots,124,2023-04-24T15:00:00-04:00
+645,dox,SINNERS,14.0,MAPS 1-2 Headshots,124,2023-04-24T13:00:00-04:00
+646,oskar,Coalesce,11.5,MAPS 1-2 Headshots,124,2023-04-24T13:00:00-04:00
+647,oskar,Coalesce,5.5,MAP 3 Headshots,124,2023-04-24T15:00:00-04:00
+648,ZEDKO,Coalesce,10.5,MAP 3 Headshots,124,2023-04-24T15:00:00-04:00
+649,ZEDKO,Coalesce,22.0,MAPS 1-2 Headshots,124,2023-04-24T13:00:00-04:00
+650,beastik,Coalesce,19.0,MAPS 1-2 Headshots,124,2023-04-24T13:00:00-04:00
+651,beastik,Coalesce,9.5,MAP 3 Headshots,124,2023-04-24T15:00:00-04:00
+652,mhL,Iron Branch,21.0,MAP 3 Kills,124,2023-04-24T15:30:00-04:00
+653,mhL,Iron Branch,42.5,MAPS 1-2 Kills,124,2023-04-24T13:30:00-04:00
+654,Fessor,Iron Branch,19.5,MAP 3 Kills,124,2023-04-24T15:30:00-04:00
+655,Fessor,Iron Branch,39.5,MAPS 1-2 Kills,124,2023-04-24T13:30:00-04:00
+656,Surreal,Iron Branch,16.5,MAP 3 Kills,124,2023-04-24T15:30:00-04:00
+657,Surreal,Iron Branch,33.5,MAPS 1-2 Kills,124,2023-04-24T13:30:00-04:00
+658,Ganginho,Endpoint,19.0,MAP 3 Kills,124,2023-04-24T15:30:00-04:00
+659,Ganginho,Endpoint,38.5,MAPS 1-2 Kills,124,2023-04-24T13:30:00-04:00
+660,lollipop21k,Endpoint,39.5,MAPS 1-2 Kills,124,2023-04-24T13:30:00-04:00
+661,lollipop21k,Endpoint,19.5,MAP 3 Kills,124,2023-04-24T15:30:00-04:00
+662,sad,Endpoint,16.0,MAP 3 Kills,124,2023-04-24T15:30:00-04:00
+663,sad,Endpoint,32.0,MAPS 1-2 Kills,124,2023-04-24T13:30:00-04:00
+664,mhL,Iron Branch,15.5,MAPS 1-2 Headshots,124,2023-04-24T13:30:00-04:00
+665,mhL,Iron Branch,7.5,MAP 3 Headshots,124,2023-04-24T15:30:00-04:00
+666,Fessor,Iron Branch,22.5,MAPS 1-2 Headshots,124,2023-04-24T13:30:00-04:00
+667,Fessor,Iron Branch,11.0,MAP 3 Headshots,124,2023-04-24T15:30:00-04:00
+668,Surreal,Iron Branch,16.5,MAPS 1-2 Headshots,124,2023-04-24T13:30:00-04:00
+669,Surreal,Iron Branch,8.0,MAP 3 Headshots,124,2023-04-24T15:30:00-04:00
+670,Ganginho,Endpoint,5.5,MAP 3 Headshots,124,2023-04-24T15:30:00-04:00
+671,Ganginho,Endpoint,11.5,MAPS 1-2 Headshots,124,2023-04-24T13:30:00-04:00
+672,lollipop21k,Endpoint,19.5,MAPS 1-2 Headshots,124,2023-04-24T13:30:00-04:00
+673,lollipop21k,Endpoint,9.5,MAP 3 Headshots,124,2023-04-24T15:30:00-04:00
+674,sad,Endpoint,19.5,MAPS 1-2 Headshots,124,2023-04-24T13:30:00-04:00
+675,sad,Endpoint,9.5,MAP 3 Headshots,124,2023-04-24T15:30:00-04:00
+676,Alexis Lafreniere,NJ,1.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+677,Dougie Hamilton,NYR,3.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+678,Artemi Panarin,NJ,2.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+679,Erik Haula,NYR,2.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+680,Chris Kreider,NJ,2.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+681,Jack Hughes,NYR,4.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+682,Filip Chytil,NJ,2.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+683,Jacob Trouba,NJ,2.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+684,Jesper Bratt,NYR,2.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+685,Kaapo Kakko,NJ,1.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+686,Mika Zibanejad,NJ,3.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+687,Nico Hischier,NYR,2.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+688,Patrick Kane,NJ,2.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+689,Timo Meier,NYR,3.5,Shots On Goal,8,2023-04-24T19:08:00-04:00
+690,Vincent Trocheck,NJ,2.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+691,Vladimir Tarasenko,NJ,2.0,Shots On Goal,8,2023-04-24T19:08:00-04:00
+692,Alex Killorn,TOR,1.5,Shots On Goal,8,2023-04-24T19:38:00-04:00
+693,Auston Matthews,TB,4.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+694,Brandon Hagel,TOR,2.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+695,John Tavares,TB,3.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+696,Brayden Point,TOR,2.5,Shots On Goal,8,2023-04-24T19:38:00-04:00
+697,Mitch Marner,TB,2.5,Shots On Goal,8,2023-04-24T19:38:00-04:00
+698,Mikhail Sergachev,TOR,2.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+699,Morgan Rielly,TB,2.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+700,Nikita Kucherov,TOR,3.5,Shots On Goal,8,2023-04-24T19:38:00-04:00
+701,Ryan O'Reilly,TB,2.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+702,Steven Stamkos,TOR,3.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+703,William Nylander,TB,3.5,Shots On Goal,8,2023-04-24T19:38:00-04:00
+704,Ross Colton,TOR,2.0,Shots On Goal,8,2023-04-24T19:38:00-04:00
+705,Alex Pietrangelo,WPG,2.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+706,Kyle Connor,VGK,3.5,Shots On Goal,8,2023-04-24T21:38:00-04:00
+707,Jack Eichel,WPG,3.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+708,Mark Scheifele,VGK,2.5,Shots On Goal,8,2023-04-24T21:38:00-04:00
+709,Jonathan Marchessault,WPG,3.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+710,Nino Niederreiter,VGK,2.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+711,Mark Stone,WPG,2.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+712,Reilly Smith,WPG,2.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+713,Pierre-Luc Dubois,VGK,3.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+714,Shea Theodore,WPG,2.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+715,William Karlsson,WPG,2.0,Shots On Goal,8,2023-04-24T21:38:00-04:00
+716,Artturi Lehkonen,SEA,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+717,Daniel Sprong,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+718,Bowen Byram,SEA,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+719,Eeli Tolvanen,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+720,Cale Makar,SEA,3.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+721,Jaden Schwartz,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+722,Devon Toews,SEA,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+723,Jared McCann,COL,3.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+724,Evan Rodrigues,SEA,2.5,Shots On Goal,8,2023-04-24T22:08:00-04:00
+725,Jordan Eberle,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+726,J.T. Compher,SEA,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+727,Matty Beniers,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+728,Mikko Rantanen,SEA,3.5,Shots On Goal,8,2023-04-24T22:08:00-04:00
+729,Oliver Bjorkstrand,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+730,Nathan MacKinnon,SEA,5.5,Shots On Goal,8,2023-04-24T22:08:00-04:00
+731,Vince Dunn,COL,2.0,Shots On Goal,8,2023-04-24T22:08:00-04:00
+732,Jacob Trouba,NJ,4.0,Hits,8,2023-04-24T19:08:00-04:00
+733,Timo Meier,NYR,4.0,Hits,8,2023-04-24T19:08:00-04:00
+734,Barclay Goodrow,NJ,2.5,Hits,8,2023-04-24T19:08:00-04:00
+735,Jonas Siegenthaler,NYR,2.0,Hits,8,2023-04-24T19:08:00-04:00
+736,Mikhail Sergachev,TOR,2.5,Hits,8,2023-04-24T19:38:00-04:00
+737,Noel Acciari,TB,4.5,Hits,8,2023-04-24T19:38:00-04:00
+738,Patrick Maroon,TOR,2.5,Hits,8,2023-04-24T19:38:00-04:00
+739,Justin Holl,TB,3.0,Hits,8,2023-04-24T19:38:00-04:00
+740,Tanner Jeannot,TOR,4.5,Hits,8,2023-04-24T19:38:00-04:00
+741,Jake McCabe,TB,3.0,Hits,8,2023-04-24T19:38:00-04:00
+742,Neal Pionk,VGK,3.0,Hits,8,2023-04-24T21:38:00-04:00
+743,Keegan Kolesar,WPG,4.5,Hits,8,2023-04-24T21:38:00-04:00
+744,Adam Lowry,VGK,4.0,Hits,8,2023-04-24T21:38:00-04:00
+745,Brayden McNabb,WPG,3.5,Hits,8,2023-04-24T21:38:00-04:00
+746,Brenden Dillon,VGK,3.5,Hits,8,2023-04-24T21:38:00-04:00
+747,Nicolas Hague,WPG,3.0,Hits,8,2023-04-24T21:38:00-04:00
+748,Brandon Tanev,COL,4.0,Hits,8,2023-04-24T22:08:00-04:00
+749,Josh Manson,SEA,3.0,Hits,8,2023-04-24T22:08:00-04:00
+750,Jamie Oleksiak,COL,2.5,Hits,8,2023-04-24T22:08:00-04:00
+751,Devon Toews,SEA,1.5,Hits,8,2023-04-24T22:08:00-04:00
+752,Vince Dunn,COL,1.5,Hits,8,2023-04-24T22:08:00-04:00
+753,Erik Johnson,SEA,4.0,Hits,8,2023-04-24T22:08:00-04:00
+754,Nico Hischier,NYR,11.5,Faceoffs Won,8,2023-04-24T19:08:00-04:00
+755,Vincent Trocheck,NJ,6.5,Faceoffs Won,8,2023-04-24T19:08:00-04:00
+756,Michael McLeod,NYR,8.0,Faceoffs Won,8,2023-04-24T19:08:00-04:00
+757,Mika Zibanejad,NJ,10.5,Faceoffs Won,8,2023-04-24T19:08:00-04:00
+758,Erik Haula,NYR,7.5,Faceoffs Won,8,2023-04-24T19:08:00-04:00
+759,Filip Chytil,NJ,6.0,Faceoffs Won,8,2023-04-24T19:08:00-04:00
+760,Anthony Cirelli,TOR,8.5,Faceoffs Won,8,2023-04-24T19:38:00-04:00
+761,Ryan O'Reilly,TB,8.5,Faceoffs Won,8,2023-04-24T19:38:00-04:00
+762,Nicholas Paul,TOR,6.5,Faceoffs Won,8,2023-04-24T19:38:00-04:00
+763,Auston Matthews,TB,7.0,Faceoffs Won,8,2023-04-24T19:38:00-04:00
+764,Brayden Point,TOR,7.5,Faceoffs Won,8,2023-04-24T19:38:00-04:00
+765,Mark Scheifele,VGK,5.5,Faceoffs Won,8,2023-04-24T21:38:00-04:00
+766,Adam Lowry,VGK,7.5,Faceoffs Won,8,2023-04-24T21:38:00-04:00
+767,William Karlsson,WPG,8.5,Faceoffs Won,8,2023-04-24T21:38:00-04:00
+768,Pierre-Luc Dubois,VGK,8.0,Faceoffs Won,8,2023-04-24T21:38:00-04:00
+769,Chandler Stephenson,WPG,9.0,Faceoffs Won,8,2023-04-24T21:38:00-04:00
+770,Alexander Wennberg,COL,7.5,Faceoffs Won,8,2023-04-24T22:08:00-04:00
+771,Nathan MacKinnon,SEA,8.5,Faceoffs Won,8,2023-04-24T22:08:00-04:00
+772,Matty Beniers,COL,6.0,Faceoffs Won,8,2023-04-24T22:08:00-04:00
+773,J.T. Compher,SEA,7.5,Faceoffs Won,8,2023-04-24T22:08:00-04:00
+774,Yanni Gourde,COL,5.5,Faceoffs Won,8,2023-04-24T22:08:00-04:00
+775,Lars Eller,SEA,5.0,Faceoffs Won,8,2023-04-24T22:08:00-04:00

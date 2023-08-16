@@ -1,0 +1,295 @@
+,Player,Team,Line,Stat,League,Date
+0,Evan Longoria,MIA,1.5,Hits+Runs+RBIS,2,2023-04-14
+1,Garrett Cooper,ARI,0.5,Runs,2,2023-04-14
+2,Trevor Rogers,ARI,15.5,Pitching Outs,2,2023-04-14
+3,Connor Overton + Trevor Rogers,PHI/ARI,0.5,1st Inning Runs Allowed,2,2023-04-14
+4,Ketel Marte,MIA,1.5,Total Bases,2,2023-04-14
+5,Madison Bumgarner,MIA,4.0,Pitcher Strikeouts,2,2023-04-14
+6,Madison Bumgarner,MIA,22.5,Pitcher Fantasy Score,2,2023-04-14
+7,Trevor Rogers,ARI,5.0,Pitcher Strikeouts,2,2023-04-14
+8,Trevor Rogers,ARI,25.5,Pitcher Fantasy Score,2,2023-04-14
+9,Madison Bumgarner + Taijuan Walker,MIA/CIN,0.5,1st Inning Runs Allowed,2,2023-04-14
+10,Ketel Marte,MIA,6.5,Hitter Fantasy Score,2,2023-04-14
+11,Jorge Soler,ARI,1.5,Total Bases,2,2023-04-14
+12,Jorge Soler,ARI,7.5,Hitter Fantasy Score,2,2023-04-14
+13,Jean Segura,ARI,1.5,Hits+Runs+RBIS,2,2023-04-14
+14,J.T. Realmuto,CIN,0.5,Runs,2,2023-04-14
+15,Christian Walker,MIA,6.5,Hitter Fantasy Score,2,2023-04-14
+16,Bryson Stott,CIN,0.5,Runs,2,2023-04-14
+17,Matt Vierling,SF,0.5,Runs,2,2023-04-14
+18,Yuli Gurriel,ARI,1.5,Hits+Runs+RBIS,2,2023-04-14
+19,Thairo Estrada,DET,0.5,Runs,2,2023-04-14
+20,Garrett Cooper,ARI,7.5,Hitter Fantasy Score,2,2023-04-14
+21,Steven Kwan,WSH,0.5,Runs,2,2023-04-14
+22,Amed Rosario,WSH,0.5,Runs,2,2023-04-14
+23,Andrés Giménez,WSH,0.5,Runs,2,2023-04-14
+24,José Ramírez,WSH,0.5,Runs,2,2023-04-14
+25,Anthony Rizzo,MIN,0.5,Runs,2,2023-04-14
+26,Byron Buxton,NYY,0.5,Runs,2,2023-04-14
+27,Brandon Lowe,TOR,0.5,Runs,2,2023-04-14
+28,Yandy Díaz,TOR,0.5,Runs,2,2023-04-14
+29,Mike Trout,BOS,0.5,Runs,2,2023-04-14
+30,Shohei Ohtani,BOS,0.5,Runs,2,2023-04-14
+31,Taylor Ward,BOS,0.5,Runs,2,2023-04-14
+32,Anthony Santander,CWS,0.5,Runs,2,2023-04-14
+33,Luis Robert,BAL,0.5,Runs,2,2023-04-14
+34,Ryan Mountcastle,CWS,0.5,Runs,2,2023-04-14
+35,Kyle Schwarber,CIN,0.5,RBIs,2,2023-04-14
+36,Jose Barrero,PHI,0.5,Total Bases,2,2023-04-14
+37,Trea Turner,CIN,8.5,Hitter Fantasy Score,2,2023-04-14
+38,Connor Overton,PHI,4.0,Pitcher Strikeouts,2,2023-04-14
+39,Taijuan Walker,CIN,26.5,Pitcher Fantasy Score,2,2023-04-14
+40,Kyle Schwarber,CIN,2.5,Hits+Runs+RBIS,2,2023-04-14
+41,Taijuan Walker,CIN,16.5,Pitching Outs,2,2023-04-14
+42,Adley Rutschman,CWS,0.5,Runs,2,2023-04-14
+43,Cedric Mullins,CWS,0.5,Runs,2,2023-04-14
+44,Jake Cave,CIN,1.5,Hits+Runs+RBIS,2,2023-04-14
+45,Jonathan India,PHI,8.0,Hitter Fantasy Score,2,2023-04-14
+46,Taijuan Walker,CIN,5.0,Pitcher Strikeouts,2,2023-04-14
+47,Kyle Schwarber,CIN,8.0,Hitter Fantasy Score,2,2023-04-14
+48,Jonathan India,PHI,1.5,Hits+Runs+RBIS,2,2023-04-14
+49,Trea Turner,CIN,1.5,Total Bases,2,2023-04-14
+50,Matt Olson,KC,0.5,Runs,2,2023-04-14
+51,Kyle Tucker,TEX,0.5,Runs,2,2023-04-14
+52,TJ Friedl,PHI,1.5,Hits+Runs+RBIS,2,2023-04-14
+53,Tyler Stephenson,PHI,7.0,Hitter Fantasy Score,2,2023-04-14
+54,J.T. Realmuto,CIN,6.5,Hitter Fantasy Score,2,2023-04-14
+55,Tyler Stephenson,PHI,1.5,Hits+Runs+RBIS,2,2023-04-14
+56,Yordan Alvarez,TEX,0.5,Runs,2,2023-04-14
+57,Jake Fraley,PHI,1.5,Hits+Runs+RBIS,2,2023-04-14
+58,Chas McCormick,TEX,0.5,Runs,2,2023-04-14
+59,Bryson Stott,CIN,0.5,Hitter Strikeouts,2,2023-04-14
+60,Alex Bregman,TEX,0.5,Runs,2,2023-04-14
+61,Brendan Donovan,PIT,0.5,Runs,2,2023-04-14
+62,Bryan Reynolds,STL,0.5,Runs,2,2023-04-14
+63,Paul Goldschmidt,PIT,0.5,Runs,2,2023-04-14
+64,Brandon Nimmo,OAK,0.5,Runs,2,2023-04-14
+65,Starling Marte,OAK,0.5,Runs,2,2023-04-14
+66,Mookie Betts,CHC,0.5,Runs,2,2023-04-14
+67,Julio Rodríguez,COL,0.5,Runs,2,2023-04-14
+68,Teoscar Hernández,COL,0.5,Runs,2,2023-04-14
+69,Sean Manaea + Nestor Cortes,DET/MIN,11.5,Pitcher Strikeouts,2,2023-04-14
+70,Sean Manaea,DET,5.5,Pitcher Strikeouts,2,2023-04-14
+71,Matt Vierling,SF,1.5,Total Bases,2,2023-04-14
+72,Sean Manaea,DET,31.5,Pitcher Fantasy Score,2,2023-04-14
+73,J.D. Davis,DET,1.5,Hits+Runs+RBIS,2,2023-04-14
+74,Wilmer Flores,DET,6.5,Hitter Fantasy Score,2,2023-04-14
+75,Sean Manaea,DET,17.5,Pitching Outs,2,2023-04-14
+76,Sean Manaea + Joey Wentz,DET/SF,0.5,1st Inning Runs Allowed,2,2023-04-14
+77,Sean Manaea + Joey Wentz,DET/SF,1.5,1st Inning Hits Allowed,2,2023-04-14
+78,Joey Wentz,SF,4.5,Pitcher Strikeouts,2,2023-04-14
+79,Eric Haase,SF,1.5,Hits+Runs+RBIS,2,2023-04-14
+80,Riley Greene,SF,6.0,Hitter Fantasy Score,2,2023-04-14
+81,Miguel Cabrera,SF,1.5,Hits+Runs+RBIS,2,2023-04-14
+82,Riley Greene,SF,1.5,Hits+Runs+RBIS,2,2023-04-14
+83,Wilmer Flores,DET,0.5,Hitter Strikeouts,2,2023-04-14
+84,Alex Call,CLE,1.5,Hits+Runs+RBIS,2,2023-04-14
+85,Cal Quantrill,WSH,25.5,Pitcher Fantasy Score,2,2023-04-14
+86,Amed Rosario,WSH,1.5,Total Bases,2,2023-04-14
+87,Cal Quantrill + Austin Gomber,WSH/SEA,0.5,1st Inning Runs Allowed,2,2023-04-14
+88,Cal Quantrill,WSH,4.0,Pitcher Strikeouts,2,2023-04-14
+89,Trevor Williams,CLE,3.0,Pitcher Strikeouts,2,2023-04-14
+90,CJ Abrams,CLE,1.5,Hits+Runs+RBIS,2,2023-04-14
+91,José Ramírez,WSH,1.5,Total Bases,2,2023-04-14
+92,Dominic Smith,CLE,1.5,Hits+Runs+RBIS,2,2023-04-14
+93,Josh Naylor,WSH,1.5,Total Bases,2,2023-04-14
+94,Jeimer Candelario,CLE,1.5,Hits+Runs+RBIS,2,2023-04-14
+95,José Ramírez,WSH,8.5,Hitter Fantasy Score,2,2023-04-14
+96,Steven Kwan,WSH,1.5,Total Bases,2,2023-04-14
+97,Joey Meneses,CLE,6.5,Hitter Fantasy Score,2,2023-04-14
+98,Keibert Ruiz,CLE,1.5,Hits+Runs+RBIS,2,2023-04-14
+99,Luis García,CLE,1.5,Hits+Runs+RBIS,2,2023-04-14
+100,Steven Kwan,WSH,7.5,Hitter Fantasy Score,2,2023-04-14
+101,Josh Bell,WSH,0.5,Hitter Strikeouts,2,2023-04-14
+102,Jeimer Candelario,CLE,6.5,Hitter Fantasy Score,2,2023-04-14
+103,Luis García,CLE,0.5,Hitter Strikeouts,2,2023-04-14
+104,Amed Rosario,WSH,7.0,Hitter Fantasy Score,2,2023-04-14
+105,Will Brennan,WSH,0.5,Hitter Strikeouts,2,2023-04-14
+106,Charlie Morton + Nestor Cortes,KC/MIN,11.5,Pitcher Strikeouts,2,2023-04-14
+107,Nestor Cortes,MIN,5.5,Pitcher Strikeouts,2,2023-04-14
+108,Aaron Judge,MIN,1.5,Total Bases,2,2023-04-14
+109,Nestor Cortes + Louie Varland,MIN/NYY,0.5,1st Inning Runs Allowed,2,2023-04-14
+110,Nestor Cortes,MIN,31.5,Pitcher Fantasy Score,2,2023-04-14
+111,Jose Miranda,NYY,1.5,Hits+Runs+RBIS,2,2023-04-14
+112,Nestor Cortes,MIN,5.0,Hits Allowed,2,2023-04-14
+113,Nestor Cortes + Louie Varland,MIN/NYY,1.5,1st Inning Hits Allowed,2,2023-04-14
+114,Louie Varland,NYY,4.0,Pitcher Strikeouts,2,2023-04-14
+115,Aaron Judge,MIN,2.5,Hits+Runs+RBIS,2,2023-04-14
+116,Aaron Judge,MIN,8.5,Hitter Fantasy Score,2,2023-04-14
+117,Byron Buxton,NYY,1.5,Hits+Runs+RBIS,2,2023-04-14
+118,Carlos Correa,NYY,6.5,Hitter Fantasy Score,2,2023-04-14
+119,Carlos Correa,NYY,1.5,Hits+Runs+RBIS,2,2023-04-14
+120,Donovan Solano,NYY,1.5,Hits+Runs+RBIS,2,2023-04-14
+121,Anthony Rizzo,MIN,7.0,Hitter Fantasy Score,2,2023-04-14
+122,Byron Buxton,NYY,7.0,Hitter Fantasy Score,2,2023-04-14
+123,Jose Trevino,MIN,0.5,Hitter Strikeouts,2,2023-04-14
+124,José Berríos + Drew Rasmussen,TB/TOR,10.0,Pitcher Strikeouts,2,2023-04-14
+125,Drew Rasmussen,TOR,5.0,Hits Allowed,2,2023-04-14
+126,Bo Bichette,TB,1.5,Total Bases,2,2023-04-14
+127,Drew Rasmussen,TOR,4.5,Pitcher Strikeouts,2,2023-04-14
+128,Drew Rasmussen,TOR,28.5,Pitcher Fantasy Score,2,2023-04-14
+129,Brandon Belt,TB,0.5,Total Bases,2,2023-04-14
+130,Wander Franco,TOR,8.5,Hitter Fantasy Score,2,2023-04-14
+131,Isaac Paredes,TOR,1.5,Hits+Runs+RBIS,2,2023-04-14
+132,José Berríos,TB,5.0,Pitcher Strikeouts,2,2023-04-14
+133,Vladimir Guerrero Jr.,TB,8.5,Hitter Fantasy Score,2,2023-04-14
+134,Luke Raley,TOR,1.5,Hits+Runs+RBIS,2,2023-04-14
+135,Manuel Margot,TOR,1.5,Hits+Runs+RBIS,2,2023-04-14
+136,Randy Arozarena,TOR,8.5,Hitter Fantasy Score,2,2023-04-14
+137,George Springer,TB,7.5,Hitter Fantasy Score,2,2023-04-14
+138,Matt Chapman,TB,1.5,Hits+Runs+RBIS,2,2023-04-14
+139,Randy Arozarena,TOR,1.5,Hits+Runs+RBIS,2,2023-04-14
+140,Yandy Díaz,TOR,7.0,Hitter Fantasy Score,2,2023-04-14
+141,Vladimir Guerrero Jr.,TB,0.5,Hitter Strikeouts,2,2023-04-14
+142,Bo Bichette,TB,7.5,Hitter Fantasy Score,2,2023-04-14
+143,Patrick Sandoval + Tanner Houck,BOS/LAA,9.5,Pitcher Strikeouts,2,2023-04-14
+144,Patrick Sandoval,BOS,4.5,Pitcher Strikeouts,2,2023-04-14
+145,Shohei Ohtani,BOS,8.5,Hitter Fantasy Score,2,2023-04-14
+146,Shohei Ohtani,BOS,1.5,Total Bases,2,2023-04-14
+147,Patrick Sandoval,BOS,16.0,Pitching Outs,2,2023-04-14
+148,Hunter Renfroe,BOS,1.5,Hits+Runs+RBIS,2,2023-04-14
+149,Tanner Houck,LAA,4.5,Hits Allowed,2,2023-04-14
+150,Patrick Sandoval,BOS,25.5,Pitcher Fantasy Score,2,2023-04-14
+151,Rafael Devers,LAA,7.5,Hitter Fantasy Score,2,2023-04-14
+152,Tanner Houck,LAA,5.0,Pitcher Strikeouts,2,2023-04-14
+153,Alex Verdugo,LAA,1.5,Hits+Runs+RBIS,2,2023-04-14
+154,Alex Verdugo,LAA,0.5,Hitter Strikeouts,2,2023-04-14
+155,Mike Trout,BOS,8.5,Hitter Fantasy Score,2,2023-04-14
+156,Christian Arroyo,LAA,1.5,Hits+Runs+RBIS,2,2023-04-14
+157,Justin Turner,LAA,7.0,Hitter Fantasy Score,2,2023-04-14
+158,Taylor Ward,BOS,7.0,Hitter Fantasy Score,2,2023-04-14
+159,Kiké Hernández,LAA,1.5,Hits+Runs+RBIS,2,2023-04-14
+160,Alex Verdugo,LAA,7.0,Hitter Fantasy Score,2,2023-04-14
+161,Luis Rengifo,BOS,1.5,Hits+Runs+RBIS,2,2023-04-14
+162,Rafael Devers,LAA,1.5,Hits+Runs+RBIS,2,2023-04-14
+163,Luis Robert,BAL,8.0,Hitter Fantasy Score,2,2023-04-14
+164,Luis Robert,BAL,1.5,Total Bases,2,2023-04-14
+165,Mike Clevinger + Tyler Wells,BAL/CWS,0.5,1st Inning Runs Allowed,2,2023-04-14
+166,Mike Clevinger,BAL,22.5,Pitcher Fantasy Score,2,2023-04-14
+167,Austin Hays,CWS,1.5,Hits+Runs+RBIS,2,2023-04-14
+168,Mike Clevinger,BAL,4.5,Pitcher Strikeouts,2,2023-04-14
+169,Mike Clevinger,BAL,5.0,Hits Allowed,2,2023-04-14
+170,Mike Clevinger,BAL,15.5,Pitching Outs,2,2023-04-14
+171,Adley Rutschman,CWS,8.0,Hitter Fantasy Score,2,2023-04-14
+172,Tyler Wells,CWS,24.5,Pitcher Fantasy Score,2,2023-04-14
+173,Ryan Mountcastle,CWS,1.5,Total Bases,2,2023-04-14
+174,Tyler Wells,CWS,4.0,Pitcher Strikeouts,2,2023-04-14
+175,Andrew Vaughn,BAL,6.5,Hitter Fantasy Score,2,2023-04-14
+176,Jake Burger,BAL,1.5,Hits+Runs+RBIS,2,2023-04-14
+177,Cedric Mullins,CWS,8.5,Hitter Fantasy Score,2,2023-04-14
+178,Andrew Benintendi,BAL,6.5,Hitter Fantasy Score,2,2023-04-14
+179,Charlie Morton + Brady Singer,KC/ATL,10.5,Pitcher Strikeouts,2,2023-04-14
+180,Brady Singer,ATL,5.0,Pitcher Strikeouts,2,2023-04-14
+181,Eddie Rosario,KC,1.5,Hits+Runs+RBIS,2,2023-04-14
+182,Brady Singer,ATL,27.5,Pitcher Fantasy Score,2,2023-04-14
+183,Charlie Morton + Brady Singer,KC/ATL,1.5,1st Inning Hits Allowed,2,2023-04-14
+184,Charlie Morton,KC,17.5,Pitching Outs,2,2023-04-14
+185,Brady Singer,ATL,2.5,Earned Runs Allowed,2,2023-04-14
+186,Charlie Morton + Brady Singer,KC/ATL,0.5,1st Inning Runs Allowed,2,2023-04-14
+187,Ronald Acuña Jr.,KC,1.5,Total Bases,2,2023-04-14
+188,Sam Hilliard,KC,0.5,Total Bases,2,2023-04-14
+189,Ronald Acuña Jr.,KC,8.5,Hitter Fantasy Score,2,2023-04-14
+190,Charlie Morton,KC,5.5,Pitcher Strikeouts,2,2023-04-14
+191,Charlie Morton,KC,31.0,Pitcher Fantasy Score,2,2023-04-14
+192,Vinnie Pasquantino,ATL,7.0,Hitter Fantasy Score,2,2023-04-14
+193,Salvador Perez,ATL,1.5,Hits+Runs+RBIS,2,2023-04-14
+194,Austin Riley,KC,7.5,Hitter Fantasy Score,2,2023-04-14
+195,Vinnie Pasquantino,ATL,1.5,Hits+Runs+RBIS,2,2023-04-14
+196,Bobby Witt Jr.,ATL,7.0,Hitter Fantasy Score,2,2023-04-14
+197,Matt Olson,KC,7.5,Hitter Fantasy Score,2,2023-04-14
+198,Vinnie Pasquantino,ATL,0.5,Hitter Strikeouts,2,2023-04-14
+199,Salvador Perez,ATL,6.5,Hitter Fantasy Score,2,2023-04-14
+200,Vaughn Grissom,KC,0.5,Hitter Strikeouts,2,2023-04-14
+201,Kodai Senga + Luis Garcia,OAK/TEX,11.5,Pitcher Strikeouts,2,2023-04-14
+202,Jeremy Peña,TEX,1.5,Hits+Runs+RBIS,2,2023-04-14
+203,Luis Garcia + Martín Pérez,TEX/HOU,1.5,1st Inning Hits Allowed,2,2023-04-14
+204,Luis Garcia,TEX,5.0,Hits Allowed,2,2023-04-14
+205,Luis Garcia,TEX,30.5,Pitcher Fantasy Score,2,2023-04-14
+206,Martín Pérez,HOU,17.5,Pitching Outs,2,2023-04-14
+207,Luis Garcia,TEX,5.0,Pitcher Strikeouts,2,2023-04-14
+208,Luis Garcia + Martín Pérez,TEX/HOU,0.5,1st Inning Runs Allowed,2,2023-04-14
+209,Yordan Alvarez,TEX,8.5,Hitter Fantasy Score,2,2023-04-14
+210,Martín Pérez,HOU,4.0,Pitcher Strikeouts,2,2023-04-14
+211,Marcus Semien,HOU,1.5,Hits+Runs+RBIS,2,2023-04-14
+212,Martín Pérez,HOU,24.5,Pitcher Fantasy Score,2,2023-04-14
+213,Martín Maldonado,TEX,0.5,Total Bases,2,2023-04-14
+214,Marcus Semien,HOU,7.0,Hitter Fantasy Score,2,2023-04-14
+215,Alex Bregman,TEX,7.5,Hitter Fantasy Score,2,2023-04-14
+216,Nathaniel Lowe,HOU,1.5,Hits+Runs+RBIS,2,2023-04-14
+217,Nathaniel Lowe,HOU,6.5,Hitter Fantasy Score,2,2023-04-14
+218,Yordan Alvarez,TEX,1.5,Total Bases,2,2023-04-14
+219,Kyle Tucker,TEX,0.5,Hitter Strikeouts,2,2023-04-14
+220,Kyle Tucker,TEX,7.5,Hitter Fantasy Score,2,2023-04-14
+221,Yordan Alvarez,TEX,0.5,Hitter Strikeouts,2,2023-04-14
+222,Jake Woodford,PIT,3.5,Pitcher Strikeouts,2,2023-04-14
+223,Jake Woodford,PIT,2.5,Earned Runs Allowed,2,2023-04-14
+224,Johan Oviedo + Jake Woodford,STL/PIT,0.5,1st Inning Runs Allowed,2,2023-04-14
+225,Bryan Reynolds,STL,1.5,Total Bases,2,2023-04-14
+226,Ji Man Choi,STL,1.5,Hits+Runs+RBIS,2,2023-04-14
+227,Paul Goldschmidt,PIT,8.5,Hitter Fantasy Score,2,2023-04-14
+228,Johan Oviedo,STL,4.0,Pitcher Strikeouts,2,2023-04-14
+229,Johan Oviedo,STL,2.5,Earned Runs Allowed,2,2023-04-14
+230,Tommy Edman,PIT,1.5,Hits+Runs+RBIS,2,2023-04-14
+231,Bryan Reynolds,STL,7.5,Hitter Fantasy Score,2,2023-04-14
+232,Nolan Arenado,PIT,8.5,Hitter Fantasy Score,2,2023-04-14
+233,Brendan Donovan,PIT,0.5,Hitter Strikeouts,2,2023-04-14
+234,Andrew McCutchen,STL,6.5,Hitter Fantasy Score,2,2023-04-14
+235,Ke'Bryan Hayes,STL,0.5,Hitter Strikeouts,2,2023-04-14
+236,Nolan Arenado,PIT,0.5,Hitter Strikeouts,2,2023-04-14
+237,Brandon Nimmo,OAK,0.5,Hitter Strikeouts,2,2023-04-14
+238,James Kaprielian,NYM,5.5,Hits Allowed,2,2023-04-14
+239,Conner Capel,NYM,0.5,Total Bases,2,2023-04-14
+240,Kodai Senga,OAK,39.5,Pitcher Fantasy Score,2,2023-04-14
+241,Francisco Lindor,OAK,7.5,Hitter Fantasy Score,2,2023-04-14
+242,Kodai Senga,OAK,6.0,Pitcher Strikeouts,2,2023-04-14
+243,James Kaprielian,NYM,4.0,Pitcher Strikeouts,2,2023-04-14
+244,Brandon Nimmo,OAK,7.5,Hitter Fantasy Score,2,2023-04-14
+245,Pete Alonso,OAK,8.0,Hitter Fantasy Score,2,2023-04-14
+246,Shea Langeliers,NYM,0.5,Total Bases,2,2023-04-14
+247,Justin Steele + Michael Wacha,LAD/MIL,10.5,Pitcher Strikeouts,2,2023-04-14
+248,Michael Wacha,MIL,32.5,Pitcher Fantasy Score,2,2023-04-14
+249,Brandon Dixon,MIL,0.5,Total Bases,2,2023-04-14
+250,Michael Wacha + Eric Lauer,MIL/SD,0.5,1st Inning Runs Allowed,2,2023-04-14
+251,Willy Adames,SD,1.5,Hits+Runs+RBIS,2,2023-04-14
+252,Michael Wacha,MIL,5.0,Pitcher Strikeouts,2,2023-04-14
+253,Xander Bogaerts,MIL,1.5,Hits+Runs+RBIS,2,2023-04-14
+254,Joey Wiemer,SD,0.5,Total Bases,2,2023-04-14
+255,Juan Soto,MIL,8.0,Hitter Fantasy Score,2,2023-04-14
+256,Michael Wacha,MIL,17.5,Pitching Outs,2,2023-04-14
+257,Eric Lauer,SD,4.0,Pitcher Strikeouts,2,2023-04-14
+258,Juan Soto,MIL,1.5,Hits+Runs+RBIS,2,2023-04-14
+259,Christian Yelich,SD,6.5,Hitter Fantasy Score,2,2023-04-14
+260,Manny Machado,MIL,7.5,Hitter Fantasy Score,2,2023-04-14
+261,Willy Adames,SD,6.5,Hitter Fantasy Score,2,2023-04-14
+262,Xander Bogaerts,MIL,8.0,Hitter Fantasy Score,2,2023-04-14
+263,Justin Steele + Austin Gomber,LAD/SEA,0.5,1st Inning Runs Allowed,2,2023-04-14
+264,Justin Steele,LAD,5.0,Pitcher Strikeouts,2,2023-04-14
+265,Noah Syndergaard + Justin Steele,CHC/LAD,1.5,1st Inning Hits Allowed,2,2023-04-14
+266,Chris Taylor,CHC,0.5,Total Bases,2,2023-04-14
+267,J.D. Martinez,CHC,1.5,Hits+Runs+RBIS,2,2023-04-14
+268,Noah Syndergaard,CHC,5.0,Hits Allowed,2,2023-04-14
+269,Noah Syndergaard + Justin Steele,CHC/LAD,0.5,1st Inning Runs Allowed,2,2023-04-14
+270,Justin Steele,LAD,25.5,Pitcher Fantasy Score,2,2023-04-14
+271,Noah Syndergaard,CHC,27.5,Pitcher Fantasy Score,2,2023-04-14
+272,Noah Syndergaard,CHC,4.0,Pitcher Strikeouts,2,2023-04-14
+273,Dansby Swanson,LAD,1.5,Hits+Runs+RBIS,2,2023-04-14
+274,Freddie Freeman,CHC,7.5,Hitter Fantasy Score,2,2023-04-14
+275,Trayce Thompson,CHC,0.5,Total Bases,2,2023-04-14
+276,Dansby Swanson,LAD,7.5,Hitter Fantasy Score,2,2023-04-14
+277,Mookie Betts,CHC,8.0,Hitter Fantasy Score,2,2023-04-14
+278,Eric Hosmer,LAD,0.5,Hitter Strikeouts,2,2023-04-14
+279,Cody Bellinger,LAD,6.5,Hitter Fantasy Score,2,2023-04-14
+280,Yan Gomes,LAD,0.5,Hitter Strikeouts,2,2023-04-14
+281,Nico Hoerner,LAD,7.5,Hitter Fantasy Score,2,2023-04-14
+282,Eugenio Suárez,COL,1.5,Hits+Runs+RBIS,2,2023-04-14
+283,Julio Rodríguez,COL,8.0,Hitter Fantasy Score,2,2023-04-14
+284,Ty France,COL,1.5,Hits+Runs+RBIS,2,2023-04-14
+285,Kris Bryant,SEA,7.5,Hitter Fantasy Score,2,2023-04-14
+286,Yonathan Daza,SEA,1.5,Hits+Runs+RBIS,2,2023-04-14
+287,Ty France,COL,7.5,Hitter Fantasy Score,2,2023-04-14
+288,AJ Pollock,COL,1.5,Hits+Runs+RBIS,2,2023-04-14
+289,Charlie Blackmon,SEA,7.5,Hitter Fantasy Score,2,2023-04-14
+290,Charlie Blackmon,SEA,1.5,Hits+Runs+RBIS,2,2023-04-14
+291,C.J. Cron,SEA,1.5,Hits+Runs+RBIS,2,2023-04-14
+292,Jurickson Profar,SEA,1.5,Hits+Runs+RBIS,2,2023-04-14
+293,J.P. Crawford,COL,0.5,Hitter Strikeouts,2,2023-04-14

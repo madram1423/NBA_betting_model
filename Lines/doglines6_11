@@ -1,0 +1,963 @@
+,Line,Stat,Player,League,Team,Date
+0,72.15,Hitter Fantasy Score,Novak Djokovic,other,Novak Djokovic,
+1,4.0,Double Faults,Casper Ruud,other,Casper Ruud,
+2,71.0,Strokes,Young,ESPORTS,Disguised ,2023-06-11
+3,70.5,Strokes,Sahith Theegala,other,Sahith Theegala,
+4,70.5,Strokes,Matt Kuchar,other,Matt Kuchar,
+5,69.5,Strokes,Shane Lowry,other,Shane Lowry,
+6,69.5,Strokes,Matt Fitzpatrick,other,Matt Fitzpatrick,
+7,70.5,Strokes,Adam Hadwin,other,Adam Hadwin,
+8,69.5,Strokes,Tyrrell Hatton,other,Tyrrell Hatton,
+9,69.5,Strokes,Corey Conners,other,Corey Conners,
+10,69.5,Strokes,Justin Rose,other,Justin Rose,
+11,70.5,Strokes,Mark Hubbard,other,Mark Hubbard,
+12,68.5,Strokes,Rory McIlroy,other,Rory McIlroy,
+13,69.5,Strokes,Tommy Fleetwood,other,Tommy Fleetwood,
+14,70.5,Strokes,C.T. Pan,other,C.T. Pan,
+15,6.5,Pitcher Strikeouts,Zac Gallen,MLB,ARI,2023-06-11
+16,97.5,pitch_count,Zac Gallen,MLB,ARI,2023-06-11
+17,1.5,PTS,Evan Longoria,MLB,ARI,2023-06-11
+18,7.5,Hitter Fantasy Score,Evan Longoria,MLB,ARI,2023-06-11
+19,1.5,Total Bases,Corbin Carroll,MLB,ARI,2023-06-11
+20,1.5,Total Bases,Ketel Marte,MLB,ARI,2023-06-11
+21,0.5,Singles,Ketel Marte,MLB,ARI,2023-06-11
+22,1.5,Total Bases,Lourdes Gurriel Jr.,other,ARI,2023-06-11
+23,1.5,Total Bases,Emmanuel Rivera,MLB,ARI,2023-06-11
+24,0.5,Singles,Christian Walker,MLB,ARI,2023-06-11
+25,0.5,Singles,Jake McCarthy,MLB,ARI,2023-06-11
+26,4.0,Pitcher Strikeouts,Joey Wentz,MLB,DET,2023-06-11
+27,1.5,walks_allowed,Joey Wentz,MLB,DET,2023-06-11
+28,6.5,Hitter Fantasy Score,Kerry Carpenter,MLB,DET,2023-06-11
+29,1.5,PTS,Kerry Carpenter,MLB,DET,2023-06-11
+30,0.5,Singles,Miguel Cabrera,MLB,DET,2023-06-11
+31,0.5,Singles,Zach McKinstry,MLB,DET,2023-06-11
+32,0.5,Hits Allowed,Jake Marisnick,MLB,DET,2023-06-11
+33,0.5,Hits Allowed,Nick Maton,MLB,DET,2023-06-11
+34,3.0,Pitcher Strikeouts,Brandon Bielak,MLB,HOU,2023-06-11
+35,0.5,runs,Kyle Tucker,MLB,HOU,2023-06-11
+36,2.0,PTS,Kyle Tucker,MLB,HOU,2023-06-11
+37,8.0,Hitter Fantasy Score,Kyle Tucker,MLB,HOU,2023-06-11
+38,0.5,Singles,Jose Altuve,MLB,HOU,2023-06-11
+39,0.5,Singles,Alex Bregman,MLB,HOU,2023-06-11
+40,0.5,Singles,Jeremy Pena,MLB,Jeremy Pena,
+41,0.5,Hits Allowed,Martin Maldonado,MLB,Martin Maldonado,
+42,5.0,Pitcher Strikeouts,Shane Bieber,MLB,CLE,2023-06-11
+43,8.5,Hitter Fantasy Score,Jose Ramirez,MLB,Jose Ramirez,
+44,1.5,PTS,Jose Ramirez,MLB,Jose Ramirez,
+45,0.5,runs,Jose Ramirez,MLB,Jose Ramirez,
+46,0.5,Singles,Jose Ramirez,MLB,Jose Ramirez,
+47,1.5,Total Bases,Josh Naylor,MLB,CLE,2023-06-11
+48,0.5,Singles,Josh Naylor,MLB,CLE,2023-06-11
+49,0.5,Singles,Josh Bell,MLB,CLE,2023-06-11
+50,0.5,Singles,Andres Gimenez,MLB,Andres Gimenez,
+51,0.5,Singles,Myles Straw,MLB,CLE,2023-06-11
+52,0.5,Hits Allowed,Mike Zunino,MLB,CLE,2023-06-11
+53,6.5,Hitter Fantasy Score,MJ Melendez,MLB,KC,2023-06-11
+54,1.5,Total Bases,Bobby Witt Jr.,other,KC,2023-06-11
+55,1.5,Total Bases,Salvador Perez,MLB,KC,2023-06-11
+56,0.5,Singles,Nick Pratto,MLB,KC,2023-06-11
+57,0.5,Singles,Michael Massey,MLB,KC,2023-06-11
+58,0.5,Singles,Drew Waters,MLB,KC,2023-06-11
+59,0.5,Singles,Nicky Lopez,MLB,KC,2023-06-11
+60,4.5,Pitcher Strikeouts,Kyle Gibson,MLB,BAL,2023-06-11
+61,1.5,walks_allowed,Kyle Gibson,MLB,BAL,2023-06-11
+62,6.5,Hitter Fantasy Score,Adley Rutschman,MLB,BAL,2023-06-11
+63,0.5,runs,Adley Rutschman,MLB,BAL,2023-06-11
+64,0.5,Singles,Adley Rutschman,MLB,BAL,2023-06-11
+65,1.5,Total Bases,Anthony Santander,MLB,BAL,2023-06-11
+66,0.5,Walks Allowed,Gunnar Henderson,MLB,BAL,2023-06-11
+67,0.5,Walks Allowed,Aaron Hicks,MLB,BAL,2023-06-11
+68,4.0,Pitcher Strikeouts,Carlos Carrasco,MLB,NYM,2023-06-11
+69,7.5,Hitter Fantasy Score,Francisco Alvarez,MLB,Francisco Alvarez,
+70,0.5,Singles,Francisco Lindor,MLB,NYM,2023-06-11
+71,0.5,Singles,Mark Canha,MLB,NYM,2023-06-11
+72,0.5,Singles,Omar Narvaez,MLB,Omar Narvaez,
+73,5.0,Pitcher Strikeouts,Mitch Keller,MLB,PIT,2023-06-11
+74,1.5,walks_allowed,Mitch Keller,MLB,PIT,2023-06-11
+75,0.5,runs,Andrew McCutchen,MLB,PIT,2023-06-11
+76,7.5,Hitter Fantasy Score,Andrew McCutchen,MLB,PIT,2023-06-11
+77,2.0,PTS,Andrew McCutchen,MLB,PIT,2023-06-11
+78,1.5,Total Bases,Bryan Reynolds,MLB,PIT,2023-06-11
+79,0.5,Singles,Bryan Reynolds,MLB,PIT,2023-06-11
+80,0.5,Walks Allowed,Jack Suwinski,MLB,PIT,2023-06-11
+81,0.5,Hits Allowed,Austin Hedges,MLB,PIT,2023-06-11
+82,10.5,Hitter Fantasy Score,Freddie Freeman,MLB,LAD,2023-06-11
+83,7.5,Hitter Fantasy Score,Bryce Harper,MLB,PHI,2023-06-11
+84,3.5,Pitcher Strikeouts,Trevor Williams,MLB,WSH,2023-06-11
+85,5.5,Hitter Fantasy Score,Alex Call,MLB,WSH,2023-06-11
+86,1.5,Total Bases,Joey Meneses,MLB,WSH,2023-06-11
+87,1.5,Total Bases,Luis Garcia,MLB,Luis Garcia,
+88,0.5,Singles,Corey Dickerson,MLB,WSH,2023-06-11
+89,0.5,Singles,Dominic Smith,MLB,WSH,2023-06-11
+90,0.5,Singles,Keibert Ruiz,MLB,WSH,2023-06-11
+91,0.5,Singles,CJ Abrams,MLB,WSH,2023-06-11
+92,0.5,Singles,Jeimer Candelario,MLB,WSH,2023-06-11
+93,0.5,Singles,Lane Thomas,MLB,WSH,2023-06-11
+94,4.0,Pitcher Strikeouts,Bryce Elder,MLB,ATL,2023-06-11
+95,2.5,PTS,Matt Olson,MLB,ATL,2023-06-11
+96,0.5,Walks Allowed,Matt Olson,MLB,ATL,2023-06-11
+97,9.5,Hitter Fantasy Score,Matt Olson,MLB,ATL,2023-06-11
+98,2.0,Total Bases,Ronald Acuna,other,Ronald Acuna,
+99,0.5,Singles,Austin Riley,MLB,ATL,2023-06-11
+100,1.5,Total Bases,Austin Riley,MLB,ATL,2023-06-11
+101,0.5,Singles,Eddie Rosario,MLB,ATL,2023-06-11
+102,1.5,Total Bases,Eddie Rosario,MLB,ATL,2023-06-11
+103,0.5,Singles,Ozzie Albies,MLB,ATL,2023-06-11
+104,0.5,Singles,Sean Murphy,MLB,ATL,2023-06-11
+105,0.5,Singles,Michael Harris II,other,ATL,2023-06-11
+106,0.5,Singles,Orlando Arcia,MLB,ATL,2023-06-11
+107,4.0,Pitcher Strikeouts,Louie Varland,MLB,MIN,2023-06-11
+108,6.5,Hitter Fantasy Score,Carlos Correa,MLB,MIN,2023-06-11
+109,0.5,Singles,Royce Lewis,MLB,MIN,2023-06-11
+110,0.5,Singles,Christian Vazquez,MLB,Christian Vazquez,
+111,0.5,Singles,Santiago Espinal,MLB,TOR,2023-06-11
+112,0.5,Singles,Donovan Solano,MLB,MIN,2023-06-11
+113,0.5,Hits Allowed,Michael A. Taylor,other,MIN,2023-06-11
+114,0.5,Hits Allowed,Trevor Larnach,MLB,MIN,2023-06-11
+115,8.0,Pitcher Strikeouts,Kevin Gausman,MLB,TOR,2023-06-11
+116,1.5,walks_allowed,Kevin Gausman,MLB,TOR,2023-06-11
+117,8.5,Hitter Fantasy Score,Bo Bichette,MLB,TOR,2023-06-11
+118,0.5,runs,Bo Bichette,MLB,TOR,2023-06-11
+119,2.5,PTS,Bo Bichette,MLB,TOR,2023-06-11
+120,1.5,Total Bases,Vladimir Guerrero Jr.,other,TOR,2023-06-11
+121,1.5,Total Bases,George Springer,MLB,TOR,2023-06-11
+122,1.5,Total Bases,Matt Chapman,MLB,TOR,2023-06-11
+123,1.5,walks_allowed,Martin Perez,MLB,Martin Perez,
+124,3.5,Pitcher Strikeouts,Martin Perez,MLB,Martin Perez,
+125,7.5,Hitter Fantasy Score,Marcus Semien,MLB,TEX,2023-06-11
+126,1.5,PTS,Marcus Semien,MLB,TEX,2023-06-11
+127,0.5,Singles,Corey Seager,MLB,TEX,2023-06-11
+128,0.5,Hits Allowed,Leody Taveras,MLB,TEX,2023-06-11
+129,0.5,Hits Allowed,Mitch Garver,MLB,TEX,2023-06-11
+130,7.0,Pitcher Strikeouts,Shane McClanahan,MLB,TB,2023-06-11
+131,7.5,Hitter Fantasy Score,Wander Franco,MLB,TB,2023-06-11
+132,2.0,PTS,Wander Franco,MLB,TB,2023-06-11
+133,1.5,Total Bases,Yandy Diaz,MLB,Yandy Diaz,
+134,0.5,Singles,Randy Arozarena,MLB,TB,2023-06-11
+135,0.5,Singles,Manuel Margot,MLB,TB,2023-06-11
+136,4.5,Pitcher Strikeouts,Braxton Garrett,MLB,MIA,2023-06-11
+137,8.5,Hitter Fantasy Score,Luis Arraez,MLB,MIA,2023-06-11
+138,2.0,PTS,Luis Arraez,MLB,MIA,2023-06-11
+139,0.5,Singles,Bryan De La Cruz,other,MIA,2023-06-11
+140,0.5,Singles,Jean Segura,MLB,MIA,2023-06-11
+141,0.5,Singles,Joey Wendle,MLB,MIA,2023-06-11
+142,0.5,Hits Allowed,Jonathan Davis,MLB,MIA,2023-06-11
+143,5.5,Pitcher Strikeouts,Lucas Giolito,MLB,CWS,2023-06-11
+144,1.5,walks_allowed,Lucas Giolito,MLB,CWS,2023-06-11
+145,7.0,Hitter Fantasy Score,Luis Robert Jr.,other,CWS,2023-06-11
+146,0.5,Singles,Luis Robert Jr.,other,CWS,2023-06-11
+147,1.5,Total Bases,Tim Anderson,MLB,CWS,2023-06-11
+148,0.5,Singles,Andrew Vaughn,MLB,CWS,2023-06-11
+149,0.5,Singles,Yoan Moncada,MLB,Yoan Moncada,
+150,0.5,Hits Allowed,Clint Frazier,MLB,CWS,2023-06-11
+151,6.0,Pitcher Strikeouts,JP Sears,MLB,OAK,2023-06-11
+152,1.5,walks_allowed,JP Sears,MLB,OAK,2023-06-11
+153,5.5,Hitter Fantasy Score,Seth Brown,MLB,OAK,2023-06-11
+154,0.5,Singles,Esteury Ruiz,MLB,OAK,2023-06-11
+155,0.5,Hits Allowed,Jace Peterson,MLB,OAK,2023-06-11
+156,0.5,Hits Allowed,Jonah Bride,MLB,OAK,2023-06-11
+157,0.5,Hits Allowed,Ryan Noda,MLB,OAK,2023-06-11
+158,7.5,Pitcher Strikeouts,Freddy Peralta,MLB,MIL,2023-06-11
+159,7.5,Hitter Fantasy Score,William Contreras,MLB,MIL,2023-06-11
+160,1.5,PTS,William Contreras,MLB,MIL,2023-06-11
+161,0.5,Singles,Christian Yelich,MLB,MIL,2023-06-11
+162,0.5,Singles,Owen Miller,MLB,MIL,2023-06-11
+163,0.5,Hits Allowed,Luis Urias,MLB,Luis Urias,
+164,0.5,Hits Allowed,Brian Anderson,MLB,MIL,2023-06-11
+165,6.5,Pitcher Strikeouts,Hunter Greene,MLB,CIN,2023-06-11
+166,8.5,Hitter Fantasy Score,Elly De La Cruz,other,CIN,2023-06-11
+167,0.5,Singles,Elly De La Cruz,other,CIN,2023-06-11
+168,2.0,PTS,Elly De La Cruz,other,CIN,2023-06-11
+169,0.5,Singles,Matt McLain,MLB,CIN,2023-06-11
+170,0.5,Singles,Spencer Steer,MLB,CIN,2023-06-11
+171,0.5,Singles,TJ Friedl,MLB,CIN,2023-06-11
+172,0.5,Singles,Stuart Fairchild,MLB,CIN,2023-06-11
+173,4.0,Pitcher Strikeouts,Adam Wainwright,MLB,STL,2023-06-11
+174,1.5,walks_allowed,Adam Wainwright,MLB,STL,2023-06-11
+175,7.5,Hitter Fantasy Score,Paul Goldschmidt,MLB,STL,2023-06-11
+176,0.5,runs,Paul Goldschmidt,MLB,STL,2023-06-11
+177,1.5,PTS,Paul Goldschmidt,MLB,STL,2023-06-11
+178,0.5,Walks Allowed,Paul Goldschmidt,MLB,STL,2023-06-11
+179,0.5,Singles,Brendan Donovan,MLB,STL,2023-06-11
+180,0.5,Walks Allowed,Brendan Donovan,MLB,STL,2023-06-11
+181,0.5,Singles,Tommy Edman,MLB,STL,2023-06-11
+182,0.5,Hits Allowed,Nolan Gorman,MLB,STL,2023-06-11
+183,0.5,Hits Allowed,Dylan Carlson,MLB,STL,2023-06-11
+184,0.5,Hits Allowed,Paul DeJong,MLB,STL,2023-06-11
+185,5.5,Pitcher Strikeouts,Blake Snell,MLB,SD,2023-06-11
+186,12.5,Hitter Fantasy Score,Fernando Tatis Jr.,other,SD,2023-06-11
+187,0.5,runs,Xander Bogaerts,MLB,SD,2023-06-11
+188,9.5,Hitter Fantasy Score,Xander Bogaerts,MLB,SD,2023-06-11
+189,2.0,PTS,Xander Bogaerts,MLB,SD,2023-06-11
+190,2.0,Total Bases,Fernando Tatis Jr.,other,SD,2023-06-11
+191,1.5,Total Bases,Juan Soto,MLB,SD,2023-06-11
+192,0.5,Singles,Juan Soto,MLB,SD,2023-06-11
+193,1.5,Total Bases,Manny Machado,MLB,SD,2023-06-11
+194,0.5,Singles,Jake Cronenworth,MLB,SD,2023-06-11
+195,0.5,Singles,Ha-Seong Kim,MLB,SD,2023-06-11
+196,0.5,Walks Allowed,Matt Carpenter,MLB,SD,2023-06-11
+197,4.0,Pitcher Strikeouts,Dinelson Lamet,MLB,COL,2023-06-11
+198,8.0,Hitter Fantasy Score,Charlie Blackmon,MLB,COL,2023-06-11
+199,0.5,runs,Charlie Blackmon,MLB,COL,2023-06-11
+200,2.0,PTS,Charlie Blackmon,MLB,COL,2023-06-11
+201,0.5,Singles,Randal Grichuk,MLB,COL,2023-06-11
+202,1.5,Total Bases,Randal Grichuk,MLB,COL,2023-06-11
+203,0.5,Singles,Jurickson Profar,MLB,COL,2023-06-11
+204,0.5,Walks Allowed,Jurickson Profar,MLB,COL,2023-06-11
+205,0.5,Singles,Elias Diaz,MLB,Elias Diaz,
+206,0.5,Singles,Ezequiel Tovar,MLB,COL,2023-06-11
+207,0.5,Singles,Ryan McMahon,MLB,COL,2023-06-11
+208,4.0,Pitcher Strikeouts,Hayden Wesneski,MLB,CHC,2023-06-11
+209,6.5,Hitter Fantasy Score,Dansby Swanson,MLB,CHC,2023-06-11
+210,2.0,PTS,Dansby Swanson,MLB,CHC,2023-06-11
+211,0.5,Singles,Dansby Swanson,MLB,CHC,2023-06-11
+212,1.5,Total Bases,Nico Hoerner,MLB,CHC,2023-06-11
+213,0.5,Singles,Seiya Suzuki,MLB,CHC,2023-06-11
+214,0.5,Singles,Ian Happ,MLB,CHC,2023-06-11
+215,0.5,Singles,Mike Tauchman,MLB,CHC,2023-06-11
+216,0.5,Singles,Yan Gomes,MLB,CHC,2023-06-11
+217,0.5,Hits Allowed,Matt Mervis,MLB,CHC,2023-06-11
+218,7.5,Hitter Fantasy Score,Joc Pederson,MLB,SF,2023-06-11
+219,2.0,PTS,Joc Pederson,MLB,SF,2023-06-11
+220,0.5,Singles,LaMonte Wade Jr.,other,SF,2023-06-11
+221,0.5,Singles,J.D. Davis,MLB,SF,2023-06-11
+222,0.5,Singles,Michael Conforto,MLB,SF,2023-06-11
+223,5.5,Pitcher Strikeouts,Logan Gilbert,MLB,SEA,2023-06-11
+224,8.5,Hitter Fantasy Score,Julio Rodriguez,MLB,Julio Rodriguez,
+225,1.5,PTS,Julio Rodriguez,MLB,Julio Rodriguez,
+226,0.5,Singles,Julio Rodriguez,MLB,Julio Rodriguez,
+227,0.5,Singles,Ty France,MLB,SEA,2023-06-11
+228,0.5,Singles,J.P. Crawford,MLB,SEA,2023-06-11
+229,0.5,Hits Allowed,Kolten Wong,MLB,SEA,2023-06-11
+230,0.5,Hits Allowed,Mike Ford,MLB,SEA,2023-06-11
+231,5.5,Pitcher Strikeouts,Griffin Canning,MLB,LAA,2023-06-11
+232,9.5,Hitter Fantasy Score,Shohei Ohtani,MLB,LAA,2023-06-11
+233,0.5,Singles,Shohei Ohtani,MLB,LAA,2023-06-11
+234,0.5,runs,Shohei Ohtani,MLB,LAA,2023-06-11
+235,8.5,Hitter Fantasy Score,Mike Trout,MLB,LAA,2023-06-11
+236,1.5,PTS,Mike Trout,MLB,LAA,2023-06-11
+237,0.5,runs,Mike Trout,MLB,LAA,2023-06-11
+238,5.0,Pitcher Strikeouts,Brayan Bello,MLB,BOS,2023-06-11
+239,7.5,Hitter Fantasy Score,Rafael Devers,MLB,BOS,2023-06-11
+240,0.5,Singles,Rafael Devers,MLB,BOS,2023-06-11
+241,0.5,Singles,Justin Turner,MLB,BOS,2023-06-11
+242,0.5,Singles,Christian Arroyo,MLB,BOS,2023-06-11
+243,5.0,Pitcher Strikeouts,Clarke Schmidt,MLB,NYY,2023-06-11
+244,2.0,PTS,Gleyber Torres,MLB,NYY,2023-06-11
+245,0.5,runs,Gleyber Torres,MLB,NYY,2023-06-11
+246,7.5,Hitter Fantasy Score,Gleyber Torres,MLB,NYY,2023-06-11
+247,0.5,Singles,Giancarlo Stanton,MLB,NYY,2023-06-11
+248,0.5,Singles,Anthony Rizzo,MLB,NYY,2023-06-11
+249,0.5,Singles,Jose Trevino,MLB,NYY,2023-06-11
+250,39.5,PTS+TRB+AST,Jimmy Butler,NBA,MIA,2023-06-12
+251,26.5,PTS,Jimmy Butler,NBA,MIA,2023-06-12
+252,0.5,BLK,Jimmy Butler,NBA,MIA,2023-06-12
+253,6.5,AST,Jimmy Butler,NBA,MIA,2023-06-12
+254,12.5,TRB+AST,Jimmy Butler,NBA,MIA,2023-06-12
+255,33.0,PTS+TRB,Jimmy Butler,NBA,MIA,2023-06-12
+256,33.0,PTS+AST,Jimmy Butler,NBA,MIA,2023-06-12
+257,6.5,TRB,Jimmy Butler,NBA,MIA,2023-06-12
+258,34.5,PTS+TRB+AST,Bam Adebayo,NBA,MIA,2023-06-12
+259,14.5,TRB+AST,Bam Adebayo,NBA,MIA,2023-06-12
+260,10.5,TRB,Bam Adebayo,NBA,MIA,2023-06-12
+261,20.5,PTS,Bam Adebayo,NBA,MIA,2023-06-12
+262,3.5,AST,Bam Adebayo,NBA,MIA,2023-06-12
+263,2.5,TO,Bam Adebayo,NBA,MIA,2023-06-12
+264,30.5,PTS+TRB,Bam Adebayo,NBA,MIA,2023-06-12
+265,23.5,PTS+AST,Bam Adebayo,NBA,MIA,2023-06-12
+266,15.5,PTS+TRB+AST,Caleb Martin,NBA,MIA,2023-06-12
+267,10.5,PTS,Caleb Martin,NBA,MIA,2023-06-12
+268,4.5,TRB,Caleb Martin,NBA,MIA,2023-06-12
+269,11.5,PTS+AST,Caleb Martin,NBA,MIA,2023-06-12
+270,9.5,PTS,Kyle Lowry,NBA,MIA,2023-06-12
+271,4.5,AST,Kyle Lowry,NBA,MIA,2023-06-12
+272,1.5,TO,Kyle Lowry,NBA,MIA,2023-06-12
+273,16.5,PTS+TRB+AST,Kyle Lowry,NBA,MIA,2023-06-12
+274,7.5,TRB+AST,Kyle Lowry,NBA,MIA,2023-06-12
+275,12.5,PTS+TRB,Kyle Lowry,NBA,MIA,2023-06-12
+276,13.5,PTS+AST,Kyle Lowry,NBA,MIA,2023-06-12
+277,13.5,PTS+TRB+AST,Gabe Vincent,NBA,MIA,2023-06-12
+278,3.5,TRB+AST,Gabe Vincent,NBA,MIA,2023-06-12
+279,9.5,PTS,Gabe Vincent,NBA,MIA,2023-06-12
+280,11.5,PTS+TRB,Gabe Vincent,NBA,MIA,2023-06-12
+281,7.5,PTS,Max Strus,NBA,MIA,2023-06-12
+282,2.5,TRB,Max Strus,NBA,MIA,2023-06-12
+283,11.5,PTS+TRB+AST,Max Strus,NBA,MIA,2023-06-12
+284,1.5,3PM,Max Strus,NBA,MIA,2023-06-12
+285,11.5,PTS+TRB+AST,Kevin Love,NBA,MIA,2023-06-12
+286,0.5,BLK+STL,Kevin Love,NBA,MIA,2023-06-12
+287,5.5,TRB+AST,Kevin Love,NBA,MIA,2023-06-12
+288,6.5,PTS,Kevin Love,NBA,MIA,2023-06-12
+289,4.5,TRB,Kevin Love,NBA,MIA,2023-06-12
+290,1.5,3PM,Kevin Love,NBA,MIA,2023-06-12
+291,12.5,TRB,Nikola Jokic,NBA,DEN,2023-06-12
+292,29.5,PTS,Nikola Jokic,NBA,DEN,2023-06-12
+293,23.0,TRB+AST,Nikola Jokic,NBA,DEN,2023-06-12
+294,52.5,PTS+TRB+AST,Nikola Jokic,NBA,DEN,2023-06-12
+295,3.5,TO,Nikola Jokic,NBA,DEN,2023-06-12
+296,10.0,AST,Nikola Jokic,NBA,DEN,2023-06-12
+297,43.0,PTS+TRB,Nikola Jokic,NBA,DEN,2023-06-12
+298,39.5,PTS+AST,Nikola Jokic,NBA,DEN,2023-06-12
+299,8.5,AST,Jamal Murray,NBA,DEN,2023-06-12
+300,14.0,TRB+AST,Jamal Murray,NBA,DEN,2023-06-12
+301,39.5,PTS+TRB+AST,Jamal Murray,NBA,DEN,2023-06-12
+302,5.5,TRB,Jamal Murray,NBA,DEN,2023-06-12
+303,25.5,PTS,Jamal Murray,NBA,DEN,2023-06-12
+304,30.5,PTS+TRB,Jamal Murray,NBA,DEN,2023-06-12
+305,33.5,PTS+AST,Jamal Murray,NBA,DEN,2023-06-12
+306,6.5,TRB,Aaron Gordon,NBA,DEN,2023-06-12
+307,0.5,STL,Aaron Gordon,NBA,DEN,2023-06-12
+308,0.5,BLK,Aaron Gordon,NBA,DEN,2023-06-12
+309,23.5,PTS+TRB+AST,Aaron Gordon,NBA,DEN,2023-06-12
+310,13.5,PTS,Aaron Gordon,NBA,DEN,2023-06-12
+311,9.5,TRB+AST,Aaron Gordon,NBA,DEN,2023-06-12
+312,20.0,PTS+TRB,Aaron Gordon,NBA,DEN,2023-06-12
+313,16.5,PTS+AST,Aaron Gordon,NBA,DEN,2023-06-12
+314,4.0,TRB,Bruce Brown,NBA,DEN,2023-06-12
+315,17.5,PTS+TRB+AST,Bruce Brown,NBA,DEN,2023-06-12
+316,11.5,PTS,Bruce Brown,NBA,DEN,2023-06-12
+317,15.5,PTS+TRB,Bruce Brown,NBA,DEN,2023-06-12
+318,13.5,PTS+AST,Bruce Brown,NBA,DEN,2023-06-12
+319,5.5,TRB,Michael Porter,NBA,DEN,2023-06-12
+320,0.5,AST,Michael Porter,NBA,DEN,2023-06-12
+321,10.5,PTS,Michael Porter,NBA,DEN,2023-06-12
+322,16.5,PTS+TRB+AST,Michael Porter,NBA,DEN,2023-06-12
+323,11.5,PTS+AST,Michael Porter,NBA,DEN,2023-06-12
+324,7.5,PTS,Kentavious Caldwell-Pope,NBA,DEN,2023-06-12
+325,1.5,BLK+STL,Kentavious Caldwell-Pope,NBA,DEN,2023-06-12
+326,11.5,PTS+TRB+AST,Kentavious Caldwell-Pope,NBA,DEN,2023-06-12
+327,22.5,PTS,Satou Sabally,WNBA,DAL,2023-06-11
+328,15.5,PTS,Natasha Howard,WNBA,DAL,2023-06-11
+329,16.5,PTS,Sabrina Ionescu,WNBA,NY,2023-06-11
+330,10.5,PTS,Courtney Vandersloot,WNBA,NY,2023-06-11
+331,9.5,PTS,Jonquel Jones,WNBA,NY,2023-06-11
+332,6.5,PTS,Betnijah Laney,WNBA,NY,2023-06-11
+333,17.0,PTS,Kahleah Copper,WNBA,CHI,2023-06-11
+334,16.5,PTS,Marina Mabrey,WNBA,CHI,2023-06-11
+335,10.5,PTS,Alanna Smith,WNBA,CHI,2023-06-11
+336,8.5,PTS,Courtney Williams,WNBA,CHI,2023-06-11
+337,8.0,PTS,Elizabeth Williams,WNBA,CHI,2023-06-11
+338,19.5,PTS,A'ja Wilson,WNBA,LV,2023-06-11
+339,15.5,PTS,Kelsey Plum,WNBA,LV,2023-06-11
+340,19.5,PTS,Jackie Young,WNBA,LV,2023-06-11
+341,13.5,PTS,Chelsea Gray,WNBA,LV,2023-06-11
+342,7.5,PTS,Candace Parker,WNBA,LV,2023-06-11
+343,14.0,PTS,Alyssa Thomas,WNBA,CONN,2023-06-11
+344,19.5,PTS,DeWanna Bonner,WNBA,CONN,2023-06-11
+345,14.0,PTS,Brionna Jones,WNBA,CONN,2023-06-11
+346,12.0,PTS,Tiffany Hayes,WNBA,CONN,2023-06-11
+347,9.5,PTS,Natisha Hiedeman,WNBA,CONN,2023-06-11
+348,17.5,PTS,Rhyne Howard,WNBA,ATL,2023-06-11
+349,17.5,PTS,Cheyenne Parker,WNBA,ATL,2023-06-11
+350,16.5,PTS,Allisha Gray,WNBA,ATL,2023-06-11
+351,22.0,PTS,Brittney Griner,WNBA,PHX,2023-06-11
+352,18.0,PTS,Diana Taurasi,WNBA,PHX,2023-06-11
+353,15.0,PTS,Sophie Cunningham,WNBA,PHX,2023-06-11
+354,14.5,PTS,Aliyah Boston,WNBA,IND,2023-06-11
+355,17.5,PTS,Kelsey Mitchell,WNBA,IND,2023-06-11
+356,13.0,PTS,NaLyssa Smith,WNBA,IND,2023-06-11
+357,9.5,PTS,Erica Wheeler,WNBA,IND,2023-06-11
+358,19.5,PTS,Nneka Ogwumike,WNBA,MIN,2023-06-11
+359,19.5,PTS,Napheesa Collier,WNBA,LA,2023-06-11
+360,2.5,PTS,Brock Wilken,CWS,WAKE,2023-06-11
+361,2.5,Total Bases,Brock Wilken,CWS,WAKE,2023-06-11
+362,0.5,rbis,Brock Wilken,CWS,WAKE,2023-06-11
+363,2.5,Total Bases,Nick Kurtz,CWS,WAKE,2023-06-11
+364,1.5,PTS,Andrew Pinckney,CWS,BAMA,2023-06-11
+365,1.5,Total Bases,Andrew Pinckney,CWS,BAMA,2023-06-11
+366,1.5,Total Bases,Drew Williamson,CWS,BAMA,2023-06-11
+367,1.5,Total Bases,Tommy Seidl,CWS,BAMA,2023-06-11
+368,2.5,PTS,Jay Beshears,CWS,DUKE,2023-06-11
+369,0.5,rbis,Jay Beshears,CWS,DUKE,2023-06-11
+370,2.5,Total Bases,Jay Beshears,CWS,DUKE,2023-06-11
+371,1.5,Total Bases,MJ Metz,CWS,DUKE,2023-06-11
+372,1.5,Total Bases,Alex Stone,CWS,DUKE,2023-06-11
+373,2.5,PTS,Kyle Teel,CWS,UVA,2023-06-11
+374,0.5,rbis,Kyle Teel,CWS,UVA,2023-06-11
+375,2.5,Total Bases,Kyle Teel,CWS,UVA,2023-06-11
+376,2.5,Total Bases,Jake Gelof,CWS,UVA,2023-06-11
+377,3.0,Goalie Saves,Jonathan Bond,SOCCER,LA Galaxy,2023-06-11
+378,2.5,Shots,Riqui Puig,SOCCER,LA Galaxy,2023-06-11
+379,2.0,Shots,Dejan Joveljic,SOCCER,Dejan Joveljic,
+380,1.5,Shots,Tyler Boyd,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+381,1.5,Shots,Gaston Brugman,SOCCER,Gaston Brugman,
+382,0.5,Shots,Lucas Calegari,SOCCER,LA Galaxy,2023-06-11
+383,2.0,Goalie Saves,Roman Burki,SOCCER,Roman Burki,
+384,3.0,Shots,Eduard Lowen,SOCCER,Eduard Lowen,
+385,1.5,Shots,Jared Stroud ,other,St. Louis City,2023-06-11
+386,1.0,Shots,Rasmus Alm,SOCCER,St. Louis City,2023-06-11
+387,1.0,Shots,Indiana Vassilev,SOCCER,St. Louis City,2023-06-11
+388,0.5,Shots,Kyle Hiebert,SOCCER,St. Louis City,2023-06-11
+389,37.5,passing_tds,Patrick Mahomes,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+390,2725.5,Pass Yards,Anthony Richardson,NFLSZN,e787c025-78f9-4ec0-8c11-bca4a2788615,
+391,25.5,passing_tds,Tua Tagovailoa,NFLSZN,20f1a777-1454-49e2-b3b1-1bdc10822eb1,
+392,24.5,passing_tds,Russell Wilson,NFLSZN,0bdc1113-c37a-4680-a2c9-b8987bad715e,
+393,16.0,passing_tds,Anthony Richardson,NFLSZN,e787c025-78f9-4ec0-8c11-bca4a2788615,
+394,23.5,passing_tds,Derek Carr,NFLSZN,7db8dce8-d28f-4791-9a9c-99e0f52761a1,
+395,4350.5,Pass Yards,Kirk Cousins,NFLSZN,ba12e1d9-a4de-46ac-93ac-ceba2c2b4b30,
+396,4000.5,Pass Yards,Aaron Rodgers,NFLSZN,f724e194-ad47-4a64-a5bb-3d06897ec620,
+397,17.5,passing_tds,Daniel Jones,NFLSZN,c7306bc1-b77c-41db-9f00-580b5c59e54c,
+398,20.5,passing_tds,Justin Fields,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+399,3900.5,Pass Yards,Derek Carr,NFLSZN,7db8dce8-d28f-4791-9a9c-99e0f52761a1,
+400,4425.5,Pass Yards,Joe Burrow,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+401,33.5,passing_tds,Joe Burrow,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+402,19.5,passing_tds,Kenny Pickett,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+403,3446.5,Pass Yards,Bryce Young,NFLSZN,afcd027a-8fa5-4dde-b0e0-a4b73d747955,
+404,22.5,passing_tds,Bryce Young,NFLSZN,afcd027a-8fa5-4dde-b0e0-a4b73d747955,
+405,4300.5,Pass Yards,Josh Allen,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+406,26.5,passing_tds,Dak Prescott,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+407,28.5,passing_tds,Aaron Rodgers,NFLSZN,f724e194-ad47-4a64-a5bb-3d06897ec620,
+408,21.5,passing_tds,Jordan Love,NFLSZN,af655d7d-a259-4e30-8c73-8c8a8e539bce,
+409,4025.5,Pass Yards,Dak Prescott,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+410,3400.5,Pass Yards,C.J. Stroud,NFLSZN,21c6d595-a2c4-4eb0-a09f-92e8d3dcedd5,
+411,30.5,passing_tds,Justin Herbert,NFLSZN,9d706ea4-9eb9-4127-b2fc-d6210d305f0e,
+412,20.0,passing_tds,C.J. Stroud,NFLSZN,21c6d595-a2c4-4eb0-a09f-92e8d3dcedd5,
+413,26.5,passing_tds,Deshaun Watson,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+414,27.5,passing_tds,Geno Smith,NFLSZN,2feba11e-ac1b-43b9-8548-4edd4430b500,
+415,3250.5,Pass Yards,Daniel Jones,NFLSZN,c7306bc1-b77c-41db-9f00-580b5c59e54c,
+416,3500.5,Pass Yards,Lamar Jackson,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+417,15.5,passing_tds,Desmond Ridder,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+418,3800.5,Pass Yards,Geno Smith,NFLSZN,2feba11e-ac1b-43b9-8548-4edd4430b500,
+419,4000.5,Pass Yards,Jared Goff,NFLSZN,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+420,3625.5,Pass Yards,Deshaun Watson,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+421,3250.5,Pass Yards,Mac Jones,NFLSZN,484ff897-4514-44c5-8be1-a002da152037,
+422,2950.5,Pass Yards,Justin Fields,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+423,3250.5,Pass Yards,Kenny Pickett,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+424,2600.5,Pass Yards,Desmond Ridder,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+425,3550.5,Pass Yards,Jalen Hurts,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+426,16.5,passing_tds,Mac Jones,NFLSZN,484ff897-4514-44c5-8be1-a002da152037,
+427,3800.5,Pass Yards,Russell Wilson,NFLSZN,0bdc1113-c37a-4680-a2c9-b8987bad715e,
+428,29.5,passing_tds,Kirk Cousins,NFLSZN,ba12e1d9-a4de-46ac-93ac-ceba2c2b4b30,
+429,25.5,passing_tds,Jared Goff,NFLSZN,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+430,3800.5,Pass Yards,Tua Tagovailoa,NFLSZN,20f1a777-1454-49e2-b3b1-1bdc10822eb1,
+431,4350.5,Pass Yards,Justin Herbert,NFLSZN,9d706ea4-9eb9-4127-b2fc-d6210d305f0e,
+432,3215.5,Pass Yards,Jordan Love,NFLSZN,af655d7d-a259-4e30-8c73-8c8a8e539bce,
+433,3965.5,Pass Yards,Trevor Lawrence,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+434,4750.5,Pass Yards,Patrick Mahomes,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+435,26.5,passing_tds,Trevor Lawrence,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+436,6.5,rushing_tds,Justin Fields,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+437,6.5,rushing_tds,Lamar Jackson,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+438,525.5,Rush Yards,Raheem Mostert,NFLSZN,20f1a777-1454-49e2-b3b1-1bdc10822eb1,
+439,5.5,rushing_tds,Isiah Pacheco,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+440,1025.5,Rush Yards,Tony Pollard,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+441,6.5,rushing_tds,James Conner,NFLSZN,e0384e32-127d-4480-9f6f-46517ba7b2c4,
+442,775.5,Rush Yards,David Montgomery,NFLSZN,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+443,1075.5,Rush Yards,Josh Jacobs,NFLSZN,f2496522-5886-4cd1-ba9c-fc09480a275c,
+444,575.5,Rush Yards,D'Andre Swift,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+445,5.5,rushing_tds,Dameon Pierce,NFLSZN,21c6d595-a2c4-4eb0-a09f-92e8d3dcedd5,
+446,23.5,passing_tds,Lamar Jackson,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+447,32.5,passing_tds,Josh Allen,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+448,600.5,Rush Yards,James Cook,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+449,900.5,Rush Yards,Dameon Pierce,NFLSZN,21c6d595-a2c4-4eb0-a09f-92e8d3dcedd5,
+450,6.0,rushing_tds,Rhamondre Stevenson,NFLSZN,484ff897-4514-44c5-8be1-a002da152037,
+451,1200.5,Rush Yards,Jonathan Taylor,NFLSZN,e787c025-78f9-4ec0-8c11-bca4a2788615,
+452,950.5,Rush Yards,Travis Etienne,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+453,600.5,Rush Yards,Samaje Perine,NFLSZN,0bdc1113-c37a-4680-a2c9-b8987bad715e,
+454,7.5,rushing_tds,Saquon Barkley,NFLSZN,c7306bc1-b77c-41db-9f00-580b5c59e54c,
+455,875.5,Rush Yards,J.K. Dobbins,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+456,480.5,Rush Yards,Tyler Allgeier,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+457,775.5,Rush Yards,Brian Robinson,NFLSZN,504a67c6-7069-42e6-abaf-c882052bb46f,
+458,875.5,Rush Yards,Justin Fields,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+459,8.5,rushing_tds,Jonathan Taylor,NFLSZN,e787c025-78f9-4ec0-8c11-bca4a2788615,
+460,6.5,rushing_tds,David Montgomery,NFLSZN,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+461,8.5,rushing_tds,Bijan Robinson,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+462,550.5,Rush Yards,Damien Harris,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+463,800.5,Rush Yards,Joe Mixon,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+464,6.0,rushing_tds,Najee Harris,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+465,925.5,Rush Yards,Najee Harris,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+466,825.5,Rush Yards,Lamar Jackson,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+467,6.0,rushing_tds,Travis Etienne,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+468,685.5,Rush Yards,Rashaad Penny,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+469,6.5,rushing_tds,Josh Allen,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+470,850.5,Rush Yards,Christian McCaffrey,NFLSZN,8b2f999d-a8b2-4c2b-8297-6ca4d2c9daf1,
+471,925.5,Rush Yards,Rhamondre Stevenson,NFLSZN,484ff897-4514-44c5-8be1-a002da152037,
+472,925.5,Rush Yards,Miles Sanders,NFLSZN,afcd027a-8fa5-4dde-b0e0-a4b73d747955,
+473,600.5,Rush Yards,Khalil Herbert,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+474,625.5,Rush Yards,Josh Allen,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+475,9.0,rushing_tds,Josh Jacobs,NFLSZN,f2496522-5886-4cd1-ba9c-fc09480a275c,
+476,775.5,Rush Yards,Austin Ekeler,NFLSZN,9d706ea4-9eb9-4127-b2fc-d6210d305f0e,
+477,1200.5,Rush Yards,Nick Chubb,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+478,815.5,Rush Yards,Isiah Pacheco,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+479,700.5,Rush Yards,AJ Dillon,NFLSZN,af655d7d-a259-4e30-8c73-8c8a8e539bce,
+480,850.5,Rush Yards,Breece Hall,NFLSZN,f724e194-ad47-4a64-a5bb-3d06897ec620,
+481,550.5,Rush Yards,Jeff Wilson,NFLSZN,20f1a777-1454-49e2-b3b1-1bdc10822eb1,
+482,725.5,Rush Yards,Jalen Hurts,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+483,800.5,Rush Yards,Rachaad White,NFLSZN,aedea75b-d81e-4f17-826b-22c4b80d64df,
+484,875.5,Rush Yards,Aaron Jones,NFLSZN,af655d7d-a259-4e30-8c73-8c8a8e539bce,
+485,775.5,Rush Yards,James Conner,NFLSZN,e0384e32-127d-4480-9f6f-46517ba7b2c4,
+486,575.5,Rush Yards,Elijah Mitchell,NFLSZN,8b2f999d-a8b2-4c2b-8297-6ca4d2c9daf1,
+487,975.5,Rush Yards,Saquon Barkley,NFLSZN,c7306bc1-b77c-41db-9f00-580b5c59e54c,
+488,8.5,rushing_tds,Austin Ekeler,NFLSZN,9d706ea4-9eb9-4127-b2fc-d6210d305f0e,
+489,11.5,rushing_tds,Jalen Hurts,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+490,1225.5,Rush Yards,Derrick Henry,NFLSZN,10b7986a-1560-44e6-999d-a0bb1edc3545,
+491,6.0,rushing_tds,Miles Sanders,NFLSZN,afcd027a-8fa5-4dde-b0e0-a4b73d747955,
+492,460.5,Rush Yards,D'Onta Foreman,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+493,1000.5,Rush Yards,Kenneth Walker,NFLSZN,2feba11e-ac1b-43b9-8548-4edd4430b500,
+494,7.5,rushing_tds,Kenneth Walker,NFLSZN,2feba11e-ac1b-43b9-8548-4edd4430b500,
+495,4.5,rushing_tds,D'Andre Swift,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+496,6.5,rushing_tds,J.K. Dobbins,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+497,6.5,rushing_tds,Joe Mixon,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+498,6.0,rushing_tds,Breece Hall,NFLSZN,f724e194-ad47-4a64-a5bb-3d06897ec620,
+499,7.5,rushing_tds,Tony Pollard,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+500,6.5,rushing_tds,Christian McCaffrey,NFLSZN,8b2f999d-a8b2-4c2b-8297-6ca4d2c9daf1,
+501,8.5,rushing_tds,Nick Chubb,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+502,9.5,rushing_tds,Derrick Henry,NFLSZN,10b7986a-1560-44e6-999d-a0bb1edc3545,
+503,22.5,passing_tds,Jalen Hurts,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+504,580.5,Rush Yards,Jahmyr Gibbs,NFLSZN,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+505,1075.5,Rush Yards,Bijan Robinson,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+506,800.5,Receiving Yards,T.J. Hockenson,NFLSZN,ba12e1d9-a4de-46ac-93ac-ceba2c2b4b30,
+507,1300.5,Receiving Yards,Ja'Marr Chase,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+508,950.5,Receiving Yards,Terry McLaurin,NFLSZN,504a67c6-7069-42e6-abaf-c882052bb46f,
+509,575.5,Receiving Yards,Adam Thielen,NFLSZN,afcd027a-8fa5-4dde-b0e0-a4b73d747955,
+510,750.5,Receiving Yards,Darren Waller,NFLSZN,c7306bc1-b77c-41db-9f00-580b5c59e54c,
+511,700.5,Receiving Yards,DJ Chark,NFLSZN,afcd027a-8fa5-4dde-b0e0-a4b73d747955,
+512,550.5,Receiving Yards,Skyy Moore,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+513,775.5,Receiving Yards,Brandin Cooks,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+514,800.5,Receiving Yards,Jahan Dotson,NFLSZN,504a67c6-7069-42e6-abaf-c882052bb46f,
+515,900.5,Receiving Yards,Jerry Jeudy,NFLSZN,0bdc1113-c37a-4680-a2c9-b8987bad715e,
+516,875.5,Receiving Yards,Keenan Allen,NFLSZN,9d706ea4-9eb9-4127-b2fc-d6210d305f0e,
+517,615.5,Receiving Yards,Dallas Goedert,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+518,1325.5,Receiving Yards,Davante Adams,NFLSZN,f2496522-5886-4cd1-ba9c-fc09480a275c,
+519,900.5,Receiving Yards,Marquise Brown,NFLSZN,e0384e32-127d-4480-9f6f-46517ba7b2c4,
+520,775.5,Receiving Yards,George Pickens,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+521,550.5,Receiving Yards,Chase Claypool,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+522,625.5,Receiving Yards,Pat Freiermuth,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+523,735.5,Receiving Yards,Gabe Davis,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+524,500.5,Receiving Yards,Donovan Peoples-Jones,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+525,850.5,Receiving Yards,Christian Watson,NFLSZN,af655d7d-a259-4e30-8c73-8c8a8e539bce,
+526,475.5,Receiving Yards,Marvin Jones,NFLSZN,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+527,875.5,Receiving Yards,DJ Moore,NFLSZN,7a9ee33f-d055-47c4-b101-6051cb2d9b87,
+528,925.5,Receiving Yards,Chris Godwin,NFLSZN,aedea75b-d81e-4f17-826b-22c4b80d64df,
+529,425.5,Receiving Yards,Isaiah Hodgins,NFLSZN,c7306bc1-b77c-41db-9f00-580b5c59e54c,
+530,632.5,Receiving Yards,Nico Collins,NFLSZN,21c6d595-a2c4-4eb0-a09f-92e8d3dcedd5,
+531,825.5,Receiving Yards,Treylon Burks,NFLSZN,10b7986a-1560-44e6-999d-a0bb1edc3545,
+532,950.5,Receiving Yards,DK Metcalf,NFLSZN,2feba11e-ac1b-43b9-8548-4edd4430b500,
+533,825.5,Receiving Yards,Deebo Samuel,NFLSZN,8b2f999d-a8b2-4c2b-8297-6ca4d2c9daf1,
+534,875.5,Receiving Yards,Amari Cooper,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+535,800.5,Receiving Yards,Michael Pittman,NFLSZN,e787c025-78f9-4ec0-8c11-bca4a2788615,
+536,1100.5,Receiving Yards,Travis Kelce,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+537,825.5,Receiving Yards,Tyler Lockett,NFLSZN,2feba11e-ac1b-43b9-8548-4edd4430b500,
+538,1000.5,Receiving Yards,DeVonta Smith,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+539,475.5,Receiving Yards,Russell Gage,NFLSZN,aedea75b-d81e-4f17-826b-22c4b80d64df,
+540,700.5,Receiving Yards,George Kittle,NFLSZN,8b2f999d-a8b2-4c2b-8297-6ca4d2c9daf1,
+541,1200.5,Receiving Yards,Stefon Diggs,NFLSZN,e95b83b5-7d63-44ac-972e-835b29826aeb,
+542,850.5,Receiving Yards,Drake London,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+543,625.5,Receiving Yards,Tyler Boyd,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+544,550.5,Receiving Yards,Alec Pierce,NFLSZN,e787c025-78f9-4ec0-8c11-bca4a2788615,
+545,1150.5,Receiving Yards,CeeDee Lamb,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+546,500.5,Receiving Yards,Dalton Schultz,NFLSZN,21c6d595-a2c4-4eb0-a09f-92e8d3dcedd5,
+547,600.5,Receiving Yards,Rashod Bateman,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+548,575.5,Receiving Yards,Tim Patrick,NFLSZN,0bdc1113-c37a-4680-a2c9-b8987bad715e,
+549,950.5,Receiving Yards,Mike Evans,NFLSZN,aedea75b-d81e-4f17-826b-22c4b80d64df,
+550,800.5,Receiving Yards,Mark Andrews,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+551,725.5,Receiving Yards,JuJu Smith-Schuster,NFLSZN,484ff897-4514-44c5-8be1-a002da152037,
+552,575.5,Receiving Yards,Romeo Doubs,NFLSZN,af655d7d-a259-4e30-8c73-8c8a8e539bce,
+553,775.5,Receiving Yards,Brandon Aiyuk,NFLSZN,8b2f999d-a8b2-4c2b-8297-6ca4d2c9daf1,
+554,1025.5,Receiving Yards,Jaylen Waddle,NFLSZN,20f1a777-1454-49e2-b3b1-1bdc10822eb1,
+555,575.5,Receiving Yards,Odell Beckham,NFLSZN,7ffe82b5-d2f0-4bc5-bb96-4f564a0b3c63,
+556,875.5,Receiving Yards,Mike Williams,NFLSZN,9d706ea4-9eb9-4127-b2fc-d6210d305f0e,
+557,600.5,Receiving Yards,Allen Lazard,NFLSZN,f724e194-ad47-4a64-a5bb-3d06897ec620,
+558,725.5,Receiving Yards,Courtland Sutton,NFLSZN,0bdc1113-c37a-4680-a2c9-b8987bad715e,
+559,875.5,Receiving Yards,Diontae Johnson,NFLSZN,724dc9a9-bcc7-4c46-94b1-12064c595417,
+560,625.5,Receiving Yards,Evan Engram,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+561,600.5,Receiving Yards,Michael Gallup,NFLSZN,bf030465-b3f5-463a-9dd6-04cd48d1d4d8,
+562,625.5,Receiving Yards,Marquez Valdes-Scantling,NFLSZN,e416ee52-06e1-4c88-9c97-d6a71158404a,
+563,1325.5,Receiving Yards,Cooper Kupp,NFLSZN,e7115e85-6019-40d3-a1b3-5a443dd34245,
+564,1100.5,Receiving Yards,A.J. Brown,NFLSZN,f4b163e1-b66d-4515-913d-162a16e0c2b8,
+565,1000.5,Receiving Yards,Tee Higgins,NFLSZN,ed4eb88a-1840-4b04-9944-912c47275ca4,
+566,775.5,Receiving Yards,Kyle Pitts,NFLSZN,b0519b29-1196-4d4f-9622-ab8b8aceef59,
+567,1395.5,Receiving Yards,Justin Jefferson,NFLSZN,ba12e1d9-a4de-46ac-93ac-ceba2c2b4b30,
+568,1065.5,Receiving Yards,Chris Olave,NFLSZN,7db8dce8-d28f-4791-9a9c-99e0f52761a1,
+569,515.5,Receiving Yards,Elijah Moore,NFLSZN,a2a14e13-185c-44ca-b18b-0f35fd20fd9a,
+570,1010.5,Receiving Yards,Amon-Ra St. Brown,other,1becb982-efb8-4a22-9f99-dd629e4b25fe,
+571,790.5,Receiving Yards,Christian Kirk,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+572,1140.5,Receiving Yards,Garrett Wilson,NFLSZN,f724e194-ad47-4a64-a5bb-3d06897ec620,
+573,855.5,Receiving Yards,Calvin Ridley,NFLSZN,a7ad3d0e-481c-4c5a-a868-cc53ab30993c,
+574,1250.5,Receiving Yards,Tyreek Hill,NFLSZN,20f1a777-1454-49e2-b3b1-1bdc10822eb1,
+575,4.0,map_1_kills,GUIGO,ESPORTS,Vivo Keyd ,2023-06-11
+576,3.5,map_1_kills,Grell,ESPORTS,Vivo Keyd ,2023-06-11
+577,3.5,map_1_kills,Grevthar,ESPORTS,Vivo Keyd ,2023-06-11
+578,5.0,map_1_kills,Trigo,ESPORTS,Vivo Keyd ,2023-06-11
+579,0.5,map_1_kills,Damage,ESPORTS,Vivo Keyd ,2023-06-11
+580,3.0,map_1_kills,Lonely,ESPORTS, KaBuM!,2023-06-11
+581,3.5,map_1_kills,flawless,ESPORTS, KaBuM!,2023-06-11
+582,2.5,map_1_kills,Krastyel,ESPORTS, KaBuM!,2023-06-11
+583,3.0,map_1_kills,RAV3N,ESPORTS, KaBuM!,2023-06-11
+584,1.0,map_1_kills,RedBert,ESPORTS, KaBuM!,2023-06-11
+585,3.5,map_1_kills,Robo,ESPORTS,LOUD ,2023-06-11
+586,3.0,map_1_kills,Croc,ESPORTS,LOUD ,2023-06-11
+587,3.5,map_1_kills,Tinowns,ESPORTS,LOUD ,2023-06-11
+588,5.5,map_1_kills,Route,ESPORTS,LOUD ,2023-06-11
+589,0.5,map_1_kills,Ceos,ESPORTS,LOUD ,2023-06-11
+590,1.5,map_1_kills,tay,ESPORTS, Fluxo,2023-06-11
+591,2.0,map_1_kills,Disamis,ESPORTS, Fluxo,2023-06-11
+592,2.5,map_1_kills,Hauz,ESPORTS, Fluxo,2023-06-11
+593,2.5,map_1_kills,Brance,ESPORTS, Fluxo,2023-06-11
+594,0.5,map_1_kills,Jojo,ESPORTS, Fluxo,2023-06-11
+595,3.5,map_1_kills,fNb,ESPORTS, RED Canids,2023-06-11
+596,2.5,map_1_kills,Aegis,ESPORTS, RED Canids,2023-06-11
+597,4.0,map_1_kills,Envy,ESPORTS, RED Canids,2023-06-11
+598,5.5,map_1_kills,TitaN,ESPORTS, RED Canids,2023-06-11
+599,2.0,map_1_kills,Zzk,ESPORTS,INTZ ,2023-06-11
+600,2.0,map_1_kills,Yampi,ESPORTS,INTZ ,2023-06-11
+601,3.0,map_1_kills,Nosferus,ESPORTS,INTZ ,2023-06-11
+602,3.0,map_1_kills,NinjaKiwi,ESPORTS,INTZ ,2023-06-11
+603,0.5,map_1_kills,Nia,ESPORTS,INTZ ,2023-06-11
+604,3.5,map_1_kills,Wizer,ESPORTS, PaiN,2023-06-11
+605,2.5,map_1_kills,Cariok,ESPORTS, PaiN,2023-06-11
+606,4.0,map_1_kills,dyNquedo,ESPORTS, PaiN,2023-06-11
+607,5.5,map_1_kills,Bvoy,ESPORTS, PaiN,2023-06-11
+608,0.5,map_1_kills,prodelta,ESPORTS, PaiN,2023-06-11
+609,2.5,map_1_kills,betao,ESPORTS,FURIA ,2023-06-11
+610,2.0,map_1_kills,Goot,ESPORTS,FURIA ,2023-06-11
+611,2.5,map_1_kills,tutsz,ESPORTS,FURIA ,2023-06-11
+612,2.5,map_1_kills,ayu,ESPORTS,FURIA ,2023-06-11
+613,0.5,map_1_kills,zay,ESPORTS,FURIA ,2023-06-11
+614,3.0,map_1_kills,Boal,ESPORTS,Los Grandes ,2023-06-11
+615,3.5,map_1_kills,trick,ESPORTS,Los Grandes ,2023-06-11
+616,3.5,map_1_kills,Lava,ESPORTS,Los Grandes ,2023-06-11
+617,6.0,map_1_kills,Netuno,ESPORTS,Los Grandes ,2023-06-11
+618,1.0,map_1_kills,Ranger,ESPORTS,Los Grandes ,2023-06-11
+619,2.0,map_1_kills,Kiari,ESPORTS, Liberty,2023-06-11
+620,1.5,map_1_kills,Accez,ESPORTS, Liberty,2023-06-11
+621,2.0,map_1_kills,Avenger,ESPORTS, Liberty,2023-06-11
+622,2.5,map_1_kills,Juliera,ESPORTS, Liberty,2023-06-11
+623,0.5,map_1_kills,Wos,ESPORTS, Liberty,2023-06-11
+624,6.5,MAPS 1-2 Kills,Zamudo,ESPORTS,Wildcard Gaming ,2023-06-11
+625,6.5,MAPS 1-2 Kills,Keel,ESPORTS,Wildcard Gaming ,2023-06-11
+626,6.5,MAPS 1-2 Kills,Soligo,ESPORTS,Wildcard Gaming ,2023-06-11
+627,10.5,MAPS 1-2 Kills,Lens,ESPORTS,Wildcard Gaming ,2023-06-11
+628,2.0,MAPS 1-2 Kills,Duoking1,ESPORTS,Wildcard Gaming ,2023-06-11
+629,3.0,MAPS 1-2 Kills,S0ul,ESPORTS, Evil Geniuses Challengers,2023-06-11
+630,7.0,MAPS 1-2 Kills,Sheiden,ESPORTS, Evil Geniuses Challengers,2023-06-11
+631,8.5,MAPS 1-2 Kills,Ry0ma,ESPORTS, Evil Geniuses Challengers,2023-06-11
+632,7.0,MAPS 1-2 Kills,k1ng,ESPORTS, Evil Geniuses Challengers,2023-06-11
+633,2.0,MAPS 1-2 Kills,Smoothie,ESPORTS, Evil Geniuses Challengers,2023-06-11
+634,5.5,MAPS 1-2 Kills,FakeGod,ESPORTS,Disguised ,2023-06-11
+635,6.0,MAPS 1-2 Kills,Tomio,ESPORTS,Disguised ,2023-06-11
+636,9.0,MAPS 1-2 Kills,Young,ESPORTS,Disguised ,2023-06-11
+637,10.5,MAPS 1-2 Kills,Meech,ESPORTS,Disguised ,2023-06-11
+638,1.0,MAPS 1-2 Kills,Zeyzal,ESPORTS,Disguised ,2023-06-11
+639,5.0,MAPS 1-2 Kills,Faisal,ESPORTS, FlyQuest Challengers,2023-06-11
+640,4.0,MAPS 1-2 Kills,Yuuji,ESPORTS, FlyQuest Challengers,2023-06-11
+641,7.0,MAPS 1-2 Kills,Spirax,ESPORTS, FlyQuest Challengers,2023-06-11
+642,8.0,MAPS 1-2 Kills,Massu,ESPORTS, FlyQuest Challengers,2023-06-11
+643,2.0,MAPS 1-2 Kills,Winsome,ESPORTS, FlyQuest Challengers,2023-06-11
+644,8.5,MAPS 1-2 Kills,Concept,ESPORTS, AOE Esports,2023-06-11
+645,5.5,MAPS 1-2 Kills,Will,ESPORTS, AOE Esports,2023-06-11
+646,7.0,MAPS 1-2 Kills,DARKWINGS,ESPORTS, AOE Esports,2023-06-11
+647,10.5,MAPS 1-2 Kills,links,ESPORTS, AOE Esports,2023-06-11
+648,2.0,MAPS 1-2 Kills,Breezy,ESPORTS, AOE Esports,2023-06-11
+649,3.0,MAPS 1-2 Kills,qwacker,ESPORTS,Supernova ,2023-06-11
+650,5.5,MAPS 1-2 Kills,music,ESPORTS,Supernova ,2023-06-11
+651,6.5,MAPS 1-2 Kills,RobbyBob,ESPORTS,Supernova ,2023-06-11
+652,8.5,MAPS 1-2 Kills,Sketch,ESPORTS,Supernova ,2023-06-11
+653,1.0,MAPS 1-2 Kills,Trevor,ESPORTS,Supernova ,2023-06-11
+654,8.0,MAPS 1-2 Kills,Bradley,ESPORTS, Liquid Challengers,2023-06-11
+655,8.5,MAPS 1-2 Kills,Mir,ESPORTS, Liquid Challengers,2023-06-11
+656,9.5,MAPS 1-2 Kills,APA,ESPORTS, Liquid Challengers,2023-06-11
+657,13.0,MAPS 1-2 Kills,Arrow,ESPORTS, Liquid Challengers,2023-06-11
+658,1.5,MAPS 1-2 Kills,LoL: Kim,other,LoL: Kim,
+659,3.5,MAPS 1-2 Kills,niles,ESPORTS,Maryville University ,2023-06-11
+660,4.5,MAPS 1-2 Kills,oddorange,ESPORTS,Maryville University ,2023-06-11
+661,3.5,MAPS 1-2 Kills,getback,ESPORTS,Maryville University ,2023-06-11
+662,4.0,MAPS 1-2 Kills,scaryjerry,ESPORTS,Maryville University ,2023-06-11
+663,0.5,MAPS 1-2 Kills,zyko,ESPORTS,Maryville University ,2023-06-11
+664,8.5,MAPS 1-2 Kills,Perry,ESPORTS, Cincinnati Fear,2023-06-11
+665,10.0,MAPS 1-2 Kills,shochi,ESPORTS, Cincinnati Fear,2023-06-11
+666,10.5,MAPS 1-2 Kills,Minui,ESPORTS, Cincinnati Fear,2023-06-11
+667,4.0,MAPS 1-2 Kills,lunacia,ESPORTS,Team Fish Taco ,2023-06-11
+668,4.0,MAPS 1-2 Kills,Rosethorn,ESPORTS,Team Fish Taco ,2023-06-11
+669,2.5,MAPS 1-2 Kills,0nat,ESPORTS,Team Fish Taco ,2023-06-11
+670,4.5,MAPS 1-2 Kills,Spawn,ESPORTS,Team Fish Taco ,2023-06-11
+671,0.5,MAPS 1-2 Kills,Nxi,ESPORTS,Team Fish Taco ,2023-06-11
+672,31.0,MAPS 1-2 Kills,crashies,ESPORTS,NRG ,2023-06-11
+673,32.5,MAPS 1-2 Kills,ardiis,ESPORTS,NRG ,2023-06-11
+674,31.5,MAPS 1-2 Kills,Victor,ESPORTS,NRG ,2023-06-11
+675,24.0,MAPS 1-2 Kills,FiNESSE,ESPORTS,NRG ,2023-06-11
+676,32.0,MAPS 1-2 Kills,s0m,ESPORTS,NRG ,2023-06-11
+677,29.0,MAPS 1-2 Kills,Zyppan,ESPORTS, Navi,2023-06-11
+678,26.5,MAPS 1-2 Kills,ANGE1,ESPORTS, Navi,2023-06-11
+679,30.0,MAPS 1-2 Kills,Shao,ESPORTS, Navi,2023-06-11
+680,35.0,MAPS 1-2 Kills,cNed,ESPORTS, Navi,2023-06-11
+681,32.5,MAPS 1-2 Kills,SUYGETSU,ESPORTS, Navi,2023-06-11
+682,17.0,headshots_on_maps_1_2,awzek,ESPORTS,ALTERNATE aTTax ,2023-06-11
+683,37.5,MAPS 1-2 Kills,awzek,ESPORTS,ALTERNATE aTTax ,2023-06-11
+684,15.5,headshots_on_maps_1_2,FreeZe,ESPORTS,ALTERNATE aTTax ,2023-06-11
+685,34.5,MAPS 1-2 Kills,FreeZe,ESPORTS,ALTERNATE aTTax ,2023-06-11
+686,14.5,headshots_on_maps_1_2,Spiidi,ESPORTS,ALTERNATE aTTax ,2023-06-11
+687,36.0,MAPS 1-2 Kills,Spiidi,ESPORTS,ALTERNATE aTTax ,2023-06-11
+688,10.5,headshots_on_maps_1_2,slaxz-,ESPORTS,ALTERNATE aTTax ,2023-06-11
+689,39.0,MAPS 1-2 Kills,slaxz-,ESPORTS,ALTERNATE aTTax ,2023-06-11
+690,17.5,headshots_on_maps_1_2,PerX,ESPORTS,ALTERNATE aTTax ,2023-06-11
+691,35.5,MAPS 1-2 Kills,PerX,ESPORTS,ALTERNATE aTTax ,2023-06-11
+692,38.0,MAPS 1-2 Kills,Bonga,ESPORTS, EPIC DUDES,2023-06-11
+693,21.0,headshots_on_maps_1_2,Bonga,ESPORTS, EPIC DUDES,2023-06-11
+694,16.0,headshots_on_maps_1_2,rapala,ESPORTS, EPIC DUDES,2023-06-11
+695,32.5,MAPS 1-2 Kills,rapala,ESPORTS, EPIC DUDES,2023-06-11
+696,14.0,headshots_on_maps_1_2,HadeZ,ESPORTS, EPIC DUDES,2023-06-11
+697,31.5,MAPS 1-2 Kills,HadeZ,ESPORTS, EPIC DUDES,2023-06-11
+698,14.0,headshots_on_maps_1_2,Jansen,ESPORTS, EPIC DUDES,2023-06-11
+699,34.0,MAPS 1-2 Kills,Jansen,ESPORTS, EPIC DUDES,2023-06-11
+700,17.0,headshots_on_maps_1_2,DreaM,ESPORTS, EPIC DUDES,2023-06-11
+701,34.0,MAPS 1-2 Kills,DreaM,ESPORTS, EPIC DUDES,2023-06-11
+702,15.5,headshots_on_maps_1_2,Patrick,ESPORTS,500 ,2023-06-11
+703,32.0,MAPS 1-2 Kills,Patrick,ESPORTS,500 ,2023-06-11
+704,31.5,MAPS 1-2 Kills,niki1,ESPORTS,500 ,2023-06-11
+705,16.0,headshots_on_maps_1_2,niki1,ESPORTS,500 ,2023-06-11
+706,20.0,headshots_on_maps_1_2,REDSTAR,ESPORTS,500 ,2023-06-11
+707,38.5,MAPS 1-2 Kills,REDSTAR,ESPORTS,500 ,2023-06-11
+708,11.5,headshots_on_maps_1_2,dennyslaw,ESPORTS,500 ,2023-06-11
+709,37.5,MAPS 1-2 Kills,dennyslaw,ESPORTS,500 ,2023-06-11
+710,39.0,MAPS 1-2 Kills,Rainwaker,ESPORTS,500 ,2023-06-11
+711,15.0,headshots_on_maps_1_2,Rainwaker,ESPORTS,500 ,2023-06-11
+712,35.0,MAPS 1-2 Kills,MUTiRiS,ESPORTS, SAW,2023-06-11
+713,16.5,headshots_on_maps_1_2,MUTiRiS,ESPORTS, SAW,2023-06-11
+714,17.5,headshots_on_maps_1_2,roman,ESPORTS, SAW,2023-06-11
+715,34.0,MAPS 1-2 Kills,roman,ESPORTS, SAW,2023-06-11
+716,33.5,MAPS 1-2 Kills,arrozdoce,ESPORTS, SAW,2023-06-11
+717,18.5,headshots_on_maps_1_2,arrozdoce,ESPORTS, SAW,2023-06-11
+718,38.0,MAPS 1-2 Kills,story,ESPORTS, SAW,2023-06-11
+719,11.0,headshots_on_maps_1_2,story,ESPORTS, SAW,2023-06-11
+720,38.5,MAPS 1-2 Kills,ewjerkz,ESPORTS, SAW,2023-06-11
+721,19.5,headshots_on_maps_1_2,ewjerkz,ESPORTS, SAW,2023-06-11
+722,29.5,headshots_on_maps_1_2_3,Cjoffo,ESPORTS,Zero Tenacity ,2023-06-11
+723,52.0,kills_on_maps_1_2_3,Cjoffo,ESPORTS,Zero Tenacity ,2023-06-11
+724,56.0,kills_on_maps_1_2_3,nEMANHA,ESPORTS,Zero Tenacity ,2023-06-11
+725,30.5,headshots_on_maps_1_2_3,nEMANHA,ESPORTS,Zero Tenacity ,2023-06-11
+726,28.5,headshots_on_maps_1_2_3,aVN,ESPORTS,Zero Tenacity ,2023-06-11
+727,53.5,kills_on_maps_1_2_3,aVN,ESPORTS,Zero Tenacity ,2023-06-11
+728,35.0,headshots_on_maps_1_2_3,simke,ESPORTS,Zero Tenacity ,2023-06-11
+729,58.0,kills_on_maps_1_2_3,simke,ESPORTS,Zero Tenacity ,2023-06-11
+730,18.0,headshots_on_maps_1_2_3,brutmonster,ESPORTS,Zero Tenacity ,2023-06-11
+731,58.0,kills_on_maps_1_2_3,brutmonster,ESPORTS,Zero Tenacity ,2023-06-11
+732,61.0,kills_on_maps_1_2_3,c0llins,ESPORTS, Jake Bube,2023-06-11
+733,32.5,headshots_on_maps_1_2_3,c0llins,ESPORTS, Jake Bube,2023-06-11
+734,26.0,headshots_on_maps_1_2_3,DiMKE,ESPORTS, Jake Bube,2023-06-11
+735,54.0,kills_on_maps_1_2_3,DiMKE,ESPORTS, Jake Bube,2023-06-11
+736,53.0,kills_on_maps_1_2_3,andr1x,ESPORTS, Jake Bube,2023-06-11
+737,22.0,headshots_on_maps_1_2_3,andr1x,ESPORTS, Jake Bube,2023-06-11
+738,55.5,kills_on_maps_1_2_3,sarenii,ESPORTS, Jake Bube,2023-06-11
+739,22.5,headshots_on_maps_1_2_3,sarenii,ESPORTS, Jake Bube,2023-06-11
+740,38.0,MAPS 1-2 Kills,shalfey,ESPORTS,FORZE ,2023-06-11
+741,17.5,headshots_on_maps_1_2,shalfey,ESPORTS,FORZE ,2023-06-11
+742,16.5,headshots_on_maps_1_2,Krad,ESPORTS,FORZE ,2023-06-11
+743,33.0,MAPS 1-2 Kills,Krad,ESPORTS,FORZE ,2023-06-11
+744,32.5,MAPS 1-2 Kills,Jerry,ESPORTS,FORZE ,2023-06-11
+745,14.5,headshots_on_maps_1_2,Jerry,ESPORTS,FORZE ,2023-06-11
+746,38.5,MAPS 1-2 Kills,zorte,ESPORTS,FORZE ,2023-06-11
+747,13.0,headshots_on_maps_1_2,zorte,ESPORTS,FORZE ,2023-06-11
+748,20.5,headshots_on_maps_1_2,r3salt,ESPORTS,FORZE ,2023-06-11
+749,37.0,MAPS 1-2 Kills,r3salt,ESPORTS,FORZE ,2023-06-11
+750,17.5,headshots_on_maps_1_2,dycha,ESPORTS, ENCE,2023-06-11
+751,36.0,MAPS 1-2 Kills,dycha,ESPORTS, ENCE,2023-06-11
+752,15.0,headshots_on_maps_1_2,Snappi,ESPORTS, ENCE,2023-06-11
+753,32.5,MAPS 1-2 Kills,Snappi,ESPORTS, ENCE,2023-06-11
+754,34.0,MAPS 1-2 Kills,Maden,ESPORTS, ENCE,2023-06-11
+755,17.0,headshots_on_maps_1_2,Maden,ESPORTS, ENCE,2023-06-11
+756,20.0,headshots_on_maps_1_2,Nertz,ESPORTS, ENCE,2023-06-11
+757,40.5,MAPS 1-2 Kills,Nertz,ESPORTS, ENCE,2023-06-11
+758,10.5,headshots_on_maps_1_2,SunPayus,ESPORTS, ENCE,2023-06-11
+759,38.5,MAPS 1-2 Kills,SunPayus,ESPORTS, ENCE,2023-06-11
+760,39.5,MAPS 1-2 Kills,casey,ESPORTS,Ignis Serpens ,2023-06-11
+761,21.0,headshots_on_maps_1_2,casey,ESPORTS,Ignis Serpens ,2023-06-11
+762,17.5,headshots_on_maps_1_2,sNx,ESPORTS,Ignis Serpens ,2023-06-11
+763,32.5,MAPS 1-2 Kills,sNx,ESPORTS,Ignis Serpens ,2023-06-11
+764,39.5,MAPS 1-2 Kills,olimp,ESPORTS,Ignis Serpens ,2023-06-11
+765,20.0,headshots_on_maps_1_2,olimp,ESPORTS,Ignis Serpens ,2023-06-11
+766,28.5,MAPS 1-2 Kills,moonwalk,ESPORTS,Ignis Serpens ,2023-06-11
+767,16.5,headshots_on_maps_1_2,moonwalk,ESPORTS,Ignis Serpens ,2023-06-11
+768,17.0,headshots_on_maps_1_2,sjuush,ESPORTS, Vitality,2023-06-11
+769,36.0,MAPS 1-2 Kills,sjuush,ESPORTS, Vitality,2023-06-11
+770,16.5,headshots_on_maps_1_2,stavn,ESPORTS, Vitality,2023-06-11
+771,40.5,MAPS 1-2 Kills,stavn,ESPORTS, Vitality,2023-06-11
+772,17.5,headshots_on_maps_1_2,TeSeS,ESPORTS, Vitality,2023-06-11
+773,34.0,MAPS 1-2 Kills,TeSeS,ESPORTS, Vitality,2023-06-11
+774,38.0,MAPS 1-2 Kills,cadiaN,ESPORTS, Vitality,2023-06-11
+775,11.5,headshots_on_maps_1_2,cadiaN,ESPORTS, Vitality,2023-06-11
+776,20.0,headshots_on_maps_1_2,jabbi,ESPORTS, Vitality,2023-06-11
+777,35.5,MAPS 1-2 Kills,jabbi,ESPORTS, Vitality,2023-06-11
+778,16.0,headshots_on_maps_1_2,ZywOo,ESPORTS,Heroic ,2023-06-11
+779,44.5,MAPS 1-2 Kills,ZywOo,ESPORTS,Heroic ,2023-06-11
+780,13.0,headshots_on_maps_1_2,apEX,ESPORTS,Heroic ,2023-06-11
+781,30.0,MAPS 1-2 Kills,apEX,ESPORTS,Heroic ,2023-06-11
+782,18.0,headshots_on_maps_1_2,Magisk,ESPORTS,Heroic ,2023-06-11
+783,37.5,MAPS 1-2 Kills,Magisk,ESPORTS,Heroic ,2023-06-11
+784,15.5,headshots_on_maps_1_2,dupreeh,ESPORTS,Heroic ,2023-06-11
+785,33.0,MAPS 1-2 Kills,dupreeh,ESPORTS,Heroic ,2023-06-11
+786,40.5,MAPS 1-2 Kills,Spinx,ESPORTS,Heroic ,2023-06-11
+787,22.0,headshots_on_maps_1_2,Spinx,ESPORTS,Heroic ,2023-06-11
+788,15.0,MAPS 1-2 Kills,Yuragi,ESPORTS,OG ,2023-06-11
+789,16.0,MAPS 1-2 Kills,bzm,ESPORTS,OG ,2023-06-11
+790,7.5,MAPS 1-2 Kills,DM,ESPORTS,OG ,2023-06-11
+791,5.5,MAPS 1-2 Kills,Taiga,ESPORTS,OG ,2023-06-11
+792,6.0,MAPS 1-2 Kills,Ceb,ESPORTS,OG ,2023-06-11
+793,17.0,MAPS 1-2 Kills,Parker,ESPORTS,beastcoast ,2023-06-11
+794,13.5,MAPS 1-2 Kills,DarkMago,ESPORTS,beastcoast ,2023-06-11
+795,9.0,MAPS 1-2 Kills,Sacred,ESPORTS,beastcoast ,2023-06-11
+796,5.0,MAPS 1-2 Kills,Dota: Scofield,other,Dota: Scofield,
+797,4.5,MAPS 1-2 Kills,Stinger,ESPORTS,beastcoast ,2023-06-11
+798,10.0,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-06-11
+799,14.5,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-06-11
+800,8.0,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-06-11
+801,5.0,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-06-11
+802,5.0,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-06-11
+803,11.5,MAPS 1-2 Kills,Arteezy,ESPORTS, Shopify Rebellion,2023-06-11
+804,12.5,MAPS 1-2 Kills,Miracle,ESPORTS, Shopify Rebellion,2023-06-11
+805,7.0,MAPS 1-2 Kills,SabeRLight-,ESPORTS, Shopify Rebellion,2023-06-11
+806,6.5,MAPS 1-2 Kills,Cr1t-,ESPORTS, Shopify Rebellion,2023-06-11
+807,6.0,MAPS 1-2 Kills,Fly,ESPORTS, Shopify Rebellion,2023-06-11
+808,10.5,MAPS 1-2 Kills,Nightfall,ESPORTS,BetBoom ,2023-06-11
+809,12.5,MAPS 1-2 Kills,gpk,ESPORTS,BetBoom ,2023-06-11
+810,6.5,MAPS 1-2 Kills,Pure,ESPORTS,BetBoom ,2023-06-11
+811,7.5,MAPS 1-2 Kills,Save-,ESPORTS,BetBoom ,2023-06-11
+812,5.0,MAPS 1-2 Kills,TORONTOTOKYO,ESPORTS,BetBoom ,2023-06-11
+813,12.5,MAPS 1-2 Kills,Monet,ESPORTS, Aster,2023-06-11
+814,16.0,MAPS 1-2 Kills,SumaiL,ESPORTS, Aster,2023-06-11
+815,7.5,MAPS 1-2 Kills,Xxs,ESPORTS, Aster,2023-06-11
+816,5.5,MAPS 1-2 Kills,Dota: BoboKa,other,Dota: BoboKa,
+817,4.5,MAPS 1-2 Kills,Dota: Yu,other,Dota: Yu,
+818,13.5,MAPS 1-2 Kills,Watson,ESPORTS,Entity ,2023-06-11
+819,9.5,MAPS 1-2 Kills,Stormstormer,ESPORTS,Entity ,2023-06-11
+820,5.0,MAPS 1-2 Kills,Tobi,ESPORTS,Entity ,2023-06-11
+821,8.0,MAPS 1-2 Kills,Kataomi`,ESPORTS,Entity ,2023-06-11
+822,4.0,MAPS 1-2 Kills,Fishman,ESPORTS,Entity ,2023-06-11
+823,12.5,MAPS 1-2 Kills,RAMZES666,ESPORTS, 9 Pandas,2023-06-11
+824,19.0,MAPS 1-2 Kills,Kiyotaka,ESPORTS, 9 Pandas,2023-06-11
+825,6.5,MAPS 1-2 Kills,MieRo`,ESPORTS, 9 Pandas,2023-06-11
+826,7.0,MAPS 1-2 Kills,Antares,ESPORTS, 9 Pandas,2023-06-11
+827,3.5,MAPS 1-2 Kills,Solo,ESPORTS, 9 Pandas,2023-06-11
+828,12.0,MAPS 1-2 Kills,shiro,ESPORTS,PSG.LGD ,2023-06-11
+829,13.0,MAPS 1-2 Kills,NothingToSay,ESPORTS,PSG.LGD ,2023-06-11
+830,7.0,MAPS 1-2 Kills,niu,ESPORTS,PSG.LGD ,2023-06-11
+831,7.0,MAPS 1-2 Kills,planet,ESPORTS,PSG.LGD ,2023-06-11
+832,4.0,MAPS 1-2 Kills,Dota: y`,other,Dota: y`,
+833,12.5,MAPS 1-2 Kills,Yatoro,ESPORTS, Spirit,2023-06-11
+834,12.0,MAPS 1-2 Kills,Larl,ESPORTS, Spirit,2023-06-11
+835,8.0,MAPS 1-2 Kills,Collapse,ESPORTS, Spirit,2023-06-11
+836,6.5,MAPS 1-2 Kills,Mira,ESPORTS, Spirit,2023-06-11
+837,4.0,MAPS 1-2 Kills,Miposhka,ESPORTS, Spirit,2023-06-11
+838,15.5,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-06-11
+839,15.5,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-06-11
+840,8.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-06-11
+841,7.5,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-06-11
+842,6.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-06-11
+843,10.5,MAPS 1-2 Kills,Pakazs,ESPORTS, Evil Geniuses,2023-06-11
+844,11.5,MAPS 1-2 Kills,Dota: Chris,other,Dota: Chris,
+845,9.0,MAPS 1-2 Kills,Wisper,ESPORTS, Evil Geniuses,2023-06-11
+846,5.0,MAPS 1-2 Kills,Matthew,ESPORTS, Evil Geniuses,2023-06-11
+847,4.0,MAPS 1-2 Kills,Pandaboo,ESPORTS, Evil Geniuses,2023-06-11
+848,10.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-06-11
+849,13.0,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-06-11
+850,5.0,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-06-11
+851,6.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-06-11
+852,5.0,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-06-11
+853,13.5,MAPS 1-2 Kills,Crystallis,ESPORTS, Secret,2023-06-11
+854,14.5,MAPS 1-2 Kills,Armel,ESPORTS, Secret,2023-06-11
+855,6.5,MAPS 1-2 Kills,Fbz,ESPORTS, Secret,2023-06-11
+856,7.0,MAPS 1-2 Kills,yamich,ESPORTS, Secret,2023-06-11
+857,6.0,MAPS 1-2 Kills,Puppey,ESPORTS, Secret,2023-06-11
+858,11.0,MAPS 1-2 Kills,23savage,ESPORTS,Talon ,2023-06-11
+859,14.5,MAPS 1-2 Kills,Mikoto,ESPORTS,Talon ,2023-06-11
+860,7.0,MAPS 1-2 Kills,Jabz,ESPORTS,Talon ,2023-06-11
+861,9.0,MAPS 1-2 Kills,Q,ESPORTS,Talon ,2023-06-11
+862,4.5,MAPS 1-2 Kills,Oli~,ESPORTS,Talon ,2023-06-11
+863,15.5,MAPS 1-2 Kills,skiter,ESPORTS, Tundra,2023-06-11
+864,14.5,MAPS 1-2 Kills,Malr1ne,ESPORTS, Tundra,2023-06-11
+865,9.5,MAPS 1-2 Kills,33,ESPORTS, Tundra,2023-06-11
+866,6.0,MAPS 1-2 Kills,Saksa,ESPORTS, Tundra,2023-06-11
+867,7.0,MAPS 1-2 Kills,Immersion,ESPORTS, Tundra,2023-06-11
+868,17.5,MAPS 1-2 Kills,Parker,ESPORTS,beastcoast ,2023-06-11
+869,12.5,MAPS 1-2 Kills,Daxak,ESPORTS,Level UP ,2023-06-11
+870,14.5,MAPS 1-2 Kills,lorenof,ESPORTS,Level UP ,2023-06-11
+871,6.5,MAPS 1-2 Kills,OwnedMe,ESPORTS,Level UP ,2023-06-11
+872,7.5,MAPS 1-2 Kills,swedenstrong,ESPORTS,Level UP ,2023-06-11
+873,3.5,MAPS 1-2 Kills,MiLAN,ESPORTS,Level UP ,2023-06-11
+874,17.0,MAPS 1-2 Kills,Dota: lil,other,Dota: lil,
+875,14.0,MAPS 1-2 Kills,Mo13ei,ESPORTS, Ancient Tribe,2023-06-11
+876,6.0,MAPS 1-2 Kills,Wuiter,ESPORTS, Ancient Tribe,2023-06-11
+877,6.0,MAPS 1-2 Kills,Alex,ESPORTS, Ancient Tribe,2023-06-11
+878,5.5,MAPS 1-2 Kills,LeBronDota,ESPORTS, Ancient Tribe,2023-06-11
+879,18.0,MAPS 1-2 Kills,Yuma,ESPORTS,Nigma Galaxy ,2023-06-11
+880,19.5,MAPS 1-2 Kills,Dota: Mikey,other,Dota: Mikey,
+881,7.0,MAPS 1-2 Kills,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+882,4.5,MAPS 1-2 Kills,GH,ESPORTS,Nigma Galaxy ,2023-06-11
+883,4.0,MAPS 1-2 Kills,KuroKy,ESPORTS,Nigma Galaxy ,2023-06-11
+884,9.0,MAPS 1-2 Kills,Otaker,ESPORTS, IVY,2023-06-11
+885,10.5,MAPS 1-2 Kills,Moonlight,ESPORTS, IVY,2023-06-11
+886,7.5,MAPS 1-2 Kills,MiKsa`,ESPORTS, IVY,2023-06-11
+887,4.0,MAPS 1-2 Kills,rue,ESPORTS, IVY,2023-06-11
+888,3.0,MAPS 1-2 Kills,jmvincento,ESPORTS, IVY,2023-06-11
+889,14.0,MAPS 1-2 Kills,charlie,ESPORTS,Alliance ,2023-06-11
+890,12.5,MAPS 1-2 Kills,ChYuan,ESPORTS,Alliance ,2023-06-11
+891,6.0,MAPS 1-2 Kills,s4,ESPORTS,Alliance ,2023-06-11
+892,7.0,MAPS 1-2 Kills,ponlo,ESPORTS,Alliance ,2023-06-11
+893,6.5,MAPS 1-2 Kills,Handsken,ESPORTS,Alliance ,2023-06-11
+894,17.0,MAPS 1-2 Kills,Pio65,ESPORTS, ex-Monaspa,2023-06-11
+895,19.5,MAPS 1-2 Kills,W1sh-,ESPORTS, ex-Monaspa,2023-06-11
+896,9.5,MAPS 1-2 Kills,Skylark,ESPORTS, ex-Monaspa,2023-06-11
+897,8.5,MAPS 1-2 Kills,dEsire,ESPORTS, ex-Monaspa,2023-06-11
+898,6.0,MAPS 1-2 Kills,SsaSpartan,ESPORTS, ex-Monaspa,2023-06-11
+899,13.0,MAPS 1-2 Kills,Ferte,ESPORTS,Tiltedboys ,2023-06-11
+900,10.0,MAPS 1-2 Kills,ValOdbka,ESPORTS,Tiltedboys ,2023-06-11
+901,8.0,MAPS 1-2 Kills,usH,ESPORTS,Tiltedboys ,2023-06-11
+902,3.5,MAPS 1-2 Kills,Skyward,ESPORTS,Tiltedboys ,2023-06-11
+903,4.5,MAPS 1-2 Kills,door,ESPORTS,Tiltedboys ,2023-06-11
+904,13.0,MAPS 1-2 Kills,Dota: Sammyboy,other,Dota: Sammyboy,
+905,12.0,MAPS 1-2 Kills,RCY,ESPORTS,Wildcard Gaming ,2023-06-11
+906,7.5,MAPS 1-2 Kills,Monster,ESPORTS,Wildcard Gaming ,2023-06-11
+907,3.5,MAPS 1-2 Kills,FLee,ESPORTS,Wildcard Gaming ,2023-06-11
+908,6.5,MAPS 1-2 Kills,Sunlight,ESPORTS,Wildcard Gaming ,2023-06-11
+909,19.5,MAPS 1-2 Kills,Argius,ESPORTS,Ravens ,2023-06-11
+910,22.5,MAPS 1-2 Kills,RRL,ESPORTS,Ravens ,2023-06-11
+911,12.0,MAPS 1-2 Kills,Dota: Italiano,other,Dota: Italiano,
+912,10.5,MAPS 1-2 Kills,wakemeup,ESPORTS,Ravens ,2023-06-11
+913,4.5,MAPS 1-2 Kills,Cara,ESPORTS,Ravens ,2023-06-11
+914,11.0,MAPS 1-2 Kills,-SouL,ESPORTS, GRIN,2023-06-11
+915,12.5,MAPS 1-2 Kills,rohofireflu,ESPORTS, GRIN,2023-06-11
+916,4.0,MAPS 1-2 Kills,Moozy,ESPORTS, GRIN,2023-06-11
+917,8.5,MAPS 1-2 Kills,LGTK,ESPORTS, GRIN,2023-06-11
+918,5.0,MAPS 1-2 Kills,Dota: Salivating,other,Dota: Salivating,
+919,4.0,Birdies or Better,Young,ESPORTS,Disguised ,2023-06-11
+920,4.5,Birdies or Better,Sahith Theegala,other,Sahith Theegala,
+921,4.0,Birdies or Better,Matt Kuchar,other,Matt Kuchar,
+922,4.5,Birdies or Better,Matt Fitzpatrick,other,Matt Fitzpatrick,
+923,4.5,Birdies or Better,Adam Hadwin,other,Adam Hadwin,
+924,4.5,Birdies or Better,Corey Conners,other,Corey Conners,
+925,4.5,Birdies or Better,Justin Rose,other,Justin Rose,
+926,4.5,Birdies or Better,Mark Hubbard,other,Mark Hubbard,
+927,5.0,Birdies or Better,Rory McIlroy,other,Rory McIlroy,
+928,4.5,Birdies or Better,Tommy Fleetwood,other,Tommy Fleetwood,
+929,4.5,Birdies or Better,C.T. Pan,other,C.T. Pan,
+930,4.0,Double Faults,Novak Djokovic,other,Novak Djokovic,
+931,21.0,Games Won,Novak Djokovic,other,Novak Djokovic,
+932,2.5,Service Games Lost,Novak Djokovic,other,Novak Djokovic,
+933,17.0,Games Lost,Novak Djokovic,other,Novak Djokovic,
+934,7.0,Aces,Novak Djokovic,other,Novak Djokovic,
+935,5.5,Aces,Casper Ruud,other,Casper Ruud,
+936,4.5,position,Tyler Reddick,RACING,df276411-6219-461e-87a5-181740d92613,
+937,5.0,position,Kyle Larson,RACING,b0d9360d-6b0d-4dcd-97fc-80126b4b4140,
+938,5.5,position,Chase Elliott,RACING,d46b1b2a-8dea-4733-b1d9-0acf761add7f,
+939,10.5,position,Kyle Busch,RACING,4fbbee2d-3b38-4713-b929-df61d2331aa7,
+940,12.5,position,William Byron,RACING,b3ec612c-da86-4586-957a-69ef59ff3be5,
+941,12.5,position,Ross Chastain,RACING,91c174ea-6bd6-46d1-94dd-0d0a0d7d05bb,
+942,11.5,position,Daniel Suarez,RACING,5d927a11-3b03-451d-b669-48670c7673f9,
+943,7.5,position,Martin Truex Jr,other,00e0c7d2-df5e-4bb8-b23b-db6d691df710,
+944,6.5,position,AJ Allmendinger,RACING,b30fd5d8-e537-4cdd-a981-c9872b6fb379,
+945,12.5,position,Austin Cindric,RACING,b5c5a514-dea2-42d7-b348-f6beaf891ea7,
+946,7.5,position,Denny Hamlin,RACING,23543f4d-d305-42e3-861e-c9cc3941f8bf,
+947,8.5,position,Christopher Bell,RACING,21336e69-820d-40ee-a01f-678c633af187,
+948,9.5,position,Chris Buescher,RACING,0b29f869-ef32-4876-902c-43033c411a95,
+949,13.5,position,Ryan Blaney,RACING,99bfb686-6910-4652-b064-69d19d62d31b,
+950,14.5,position,Joey Logano,RACING,d3fd26b6-20d3-47c1-98ee-b67ea5870d43,
+951,14.5,position,Alex Bowman,RACING,01931c15-319d-4425-af04-209235a65c8d,
+952,13.5,position,Kevin Harvick,RACING,613c00bc-da7e-4b7b-8ed9-dc32c2eccd95,
+953,235.5,Pass Yards,Alex McGough,USFL,HOU,2023-06-11
+954,48.5,Rush Yards,CJ Marable,USFL,HOU,2023-06-11
+955,52.5,Receiving Yards,Davion Davis,USFL,HOU,2023-06-11
+956,73.5,Rush Yards,Mark Thompson,USFL,BHAM ,2023-06-11
+957,48.5,Receiving Yards,Justin Hall,USFL,BHAM ,2023-06-11
+958,226.5,Pass Yards,Case Cookus,USFL,PHI ,2023-06-11
+959,62.5,Receiving Yards,Corey Coleman,USFL,PHI ,2023-06-11
+960,51.5,Rush Yards,Darius Victor,USFL,NJ,2023-06-11
+961,4.5,Birdies or Better,Tyrrell Hatton,other,Tyrrell Hatton,

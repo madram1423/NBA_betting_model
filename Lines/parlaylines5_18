@@ -1,0 +1,165 @@
+,Player,Team,Stat,Line,Date
+0,Vladimir Guerrero Jr.,TOR,TB,1.5,2023-05-18
+1,Vladimir Guerrero Jr.,TOR,SO,0.5,2023-05-18
+2,José Berríos,TOR,SO (K),5.5,2023-05-18
+3,José Berríos,TOR,H,5.5,2023-05-18
+4,José Berríos,TOR,BB,1.5,2023-05-18
+5,José Berríos,TOR,P,96.5,2023-05-18
+6,Bo Bichette,TOR,R,0.5,2023-05-18
+7,Bo Bichette,TOR,TB,1.5,2023-05-18
+8,Bo Bichette,TOR,FPTS,8.5,2023-05-18
+9,George Springer,TOR,R,0.5,2023-05-18
+10,George Springer,TOR,FPTS,8.5,2023-05-18
+11,Anthony Rizzo,NYY,FPTS,8.5,2023-05-18
+12,Nestor Cortes,NYY,SO (K),4.5,2023-05-18
+13,Nestor Cortes,NYY,P,92.5,2023-05-18
+14,Aaron Judge,NYY,FPTS,11.5,2023-05-18
+15,Gleyber Torres,NYY,R,0.5,2023-05-18
+16,Julio Urías,LAD,SO (K),5.0,2023-05-18
+17,Julio Urías,LAD,P,92.5,2023-05-18
+18,Mookie Betts,LAD,FPTS,9.5,2023-05-18
+19,Freddie Freeman,LAD,TB,1.5,2023-05-18
+20,Freddie Freeman,LAD,FPTS,10.0,2023-05-18
+21,Will Smith,LAD,TB,1.5,2023-05-18
+22,Adam Wainwright,STL,SO (K),3.5,2023-05-18
+23,Nolan Arenado,STL,SO,0.5,2023-05-18
+24,Nolan Arenado,STL,FPTS,8.5,2023-05-18
+25,Willson Contreras,STL,H+R+R,1.5,2023-05-18
+26,Paul Goldschmidt,STL,FPTS,8.5,2023-05-18
+27,Brent Burns,CAR,SHO,3.5,2023-05-18
+28,Brent Burns,CAR,FPTS,6.5,2023-05-18
+29,Sebastian Aho,CAR,SHO,2.5,2023-05-18
+30,Sebastian Aho,CAR,HIT,1.5,2023-05-18
+31,Sebastian Aho,CAR,FPTS,6.0,2023-05-18
+32,Martin Necas,CAR,SHO,3.0,2023-05-18
+33,Jordan Martinook,CAR,SHO,2.0,2023-05-18
+34,Seth Jarvis,CAR,SHO,2.5,2023-05-18
+35,Seth Jarvis,CAR,FPTS,6.0,2023-05-18
+36,Brady Skjei,CAR,SHO,2.0,2023-05-18
+37,Brady Skjei,CAR,HIT,2.5,2023-05-18
+38,Frederik Andersen,CAR,SV,26.5,2023-05-18
+39,Frederik Andersen,CAR,FPTS,4.0,2023-05-18
+40,Jaccob Slavin,CAR,BS,1.5,2023-05-18
+41,Matthew Tkachuk,FLO,SHO,3.0,2023-05-18
+42,Matthew Tkachuk,FLO,HIT,3.5,2023-05-18
+43,Matthew Tkachuk,FLO,FPTS,8.5,2023-05-18
+44,Carter Verhaeghe,FLO,SHO,2.5,2023-05-18
+45,Brandon Montour,FLO,SHO,3.0,2023-05-18
+46,Brandon Montour,FLO,BS,1.5,2023-05-18
+47,Brandon Montour,FLO,FPTS,6.5,2023-05-18
+48,Sam Reinhart,FLO,SHO,2.0,2023-05-18
+49,Sam Reinhart,FLO,FPTS,5.5,2023-05-18
+50,Aaron Ekblad,FLO,SHO,2.0,2023-05-18
+51,Aaron Ekblad,FLO,FPTS,5.0,2023-05-18
+52,Sergei Bobrovsky,FLO,SV,31.5,2023-05-18
+53,Sergei Bobrovsky,FLO,FPTS,5.0,2023-05-18
+54,Aleksander Barkov,FLO,SHO,2.5,2023-05-18
+55,Aleksander Barkov,FLO,FPTS,5.0,2023-05-18
+56,Gustav Forsling,FLO,SHO,2.0,2023-05-18
+57,Gustav Forsling,FLO,FPTS,4.5,2023-05-18
+58,Radko Gudas,FLO,HIT,4.5,2023-05-18
+59,Radko Gudas,FLO,BS,1.5,2023-05-18
+60,Radko Gudas,FLO,FPTS,7.0,2023-05-18
+61,Sam Bennett,FLO,SHO,3.0,2023-05-18
+62,Sam Bennett,FLO,HIT,4.0,2023-05-18
+63,Sam Bennett,FLO,FPTS,9.0,2023-05-18
+64,Nikola Jokic,DEN,PTS,29.5,2023-05-18
+65,Nikola Jokic,DEN,REB,14.0,2023-05-18
+66,Nikola Jokic,DEN,AST,10.5,2023-05-18
+67,Nikola Jokic,DEN,PTS+TRB+AST,53.5,2023-05-18
+68,Nikola Jokic,DEN,PTS+TRB,43.5,2023-05-18
+69,Nikola Jokic,DEN,PTS+AST,39.5,2023-05-18
+70,Nikola Jokic,DEN,TRB+AST,24.5,2023-05-18
+71,Nikola Jokic,DEN,FPTS,55.5,2023-05-18
+72,Nikola Jokic,DEN,TO,3.5,2023-05-18
+73,Jamal Murray,DEN,PTS,25.5,2023-05-18
+74,Jamal Murray,DEN,REB,4.5,2023-05-18
+75,Jamal Murray,DEN,AST,6.0,2023-05-18
+76,Jamal Murray,DEN,PTS+TRB+AST,35.5,2023-05-18
+77,Jamal Murray,DEN,PTS+TRB,29.5,2023-05-18
+78,Jamal Murray,DEN,PTS+AST,31.5,2023-05-18
+79,Jamal Murray,DEN,TRB+AST,10.5,2023-05-18
+80,Jamal Murray,DEN,FPTS,39.5,2023-05-18
+81,Michael Porter Jr.,DEN,PTS,15.5,2023-05-18
+82,Michael Porter Jr.,DEN,REB,6.5,2023-05-18
+83,Michael Porter Jr.,DEN,PTS+TRB+AST,23.5,2023-05-18
+84,Michael Porter Jr.,DEN,PTS+TRB,22.0,2023-05-18
+85,Michael Porter Jr.,DEN,PTS+AST,17.0,2023-05-18
+86,Michael Porter Jr.,DEN,FPTS,25.5,2023-05-18
+87,Aaron Gordon,DEN,PTS,13.0,2023-05-18
+88,Aaron Gordon,DEN,REB,6.0,2023-05-18
+89,Aaron Gordon,DEN,PTS+TRB+AST,21.5,2023-05-18
+90,Aaron Gordon,DEN,PTS+TRB,19.0,2023-05-18
+91,Aaron Gordon,DEN,PTS+AST,15.5,2023-05-18
+92,Aaron Gordon,DEN,FPTS,22.5,2023-05-18
+93,Kentavious Caldwell-Pope,DEN,PTS,11.0,2023-05-18
+94,Kentavious Caldwell-Pope,DEN,PTS+TRB+AST,16.0,2023-05-18
+95,Kentavious Caldwell-Pope,DEN,PTS+TRB,13.5,2023-05-18
+96,Kentavious Caldwell-Pope,DEN,PTS+AST,13.5,2023-05-18
+97,Kentavious Caldwell-Pope,DEN,FPTS,18.0,2023-05-18
+98,Bruce Brown,DEN,PTS,11.5,2023-05-18
+99,Bruce Brown,DEN,REB,4.0,2023-05-18
+100,Bruce Brown,DEN,PTS+TRB+AST,17.5,2023-05-18
+101,Bruce Brown,DEN,PTS+TRB,15.5,2023-05-18
+102,Bruce Brown,DEN,PTS+AST,13.5,2023-05-18
+103,Bruce Brown,DEN,FTM,1.5,2023-05-18
+104,Bruce Brown,DEN,FPTS,19.0,2023-05-18
+105,LeBron James,LAL,PTS,26.5,2023-05-18
+106,LeBron James,LAL,REB,9.0,2023-05-18
+107,LeBron James,LAL,AST,7.0,2023-05-18
+108,LeBron James,LAL,PTS+TRB+AST,42.5,2023-05-18
+109,LeBron James,LAL,PTS+TRB,35.5,2023-05-18
+110,LeBron James,LAL,PTS+AST,33.5,2023-05-18
+111,LeBron James,LAL,TRB+AST,16.0,2023-05-18
+112,LeBron James,LAL,FPTS,44.5,2023-05-18
+113,Anthony Davis,LAL,PTS,25.5,2023-05-18
+114,Anthony Davis,LAL,REB,13.0,2023-05-18
+115,Anthony Davis,LAL,PTS+TRB+AST,40.5,2023-05-18
+116,Anthony Davis,LAL,PTS+TRB,37.5,2023-05-18
+117,Anthony Davis,LAL,PTS+AST,27.5,2023-05-18
+118,Anthony Davis,LAL,TRB+AST,15.5,2023-05-18
+119,Anthony Davis,LAL,FPTS,46.5,2023-05-18
+120,Austin Reaves,LAL,PTS,15.5,2023-05-18
+121,Austin Reaves,LAL,REB,4.0,2023-05-18
+122,Austin Reaves,LAL,AST,4.5,2023-05-18
+123,Austin Reaves,LAL,PTS+TRB+AST,24.0,2023-05-18
+124,Austin Reaves,LAL,PTS+TRB,19.5,2023-05-18
+125,Austin Reaves,LAL,PTS+AST,20.0,2023-05-18
+126,Austin Reaves,LAL,TRB+AST,8.5,2023-05-18
+127,Austin Reaves,LAL,FPTS,26.5,2023-05-18
+128,D'Angelo Russell,LAL,PTS,13.5,2023-05-18
+129,D'Angelo Russell,LAL,REB,2.5,2023-05-18
+130,D'Angelo Russell,LAL,AST,4.0,2023-05-18
+131,D'Angelo Russell,LAL,PTS+TRB+AST,20.0,2023-05-18
+132,D'Angelo Russell,LAL,PTS+TRB,16.0,2023-05-18
+133,D'Angelo Russell,LAL,PTS+AST,17.5,2023-05-18
+134,D'Angelo Russell,LAL,FPTS,21.0,2023-05-18
+135,Rui Hachimura,LAL,PTS,12.0,2023-05-18
+136,Rui Hachimura,LAL,REB,4.0,2023-05-18
+137,Rui Hachimura,LAL,PTS+TRB+AST,17.0,2023-05-18
+138,Rui Hachimura,LAL,PTS+TRB,16.0,2023-05-18
+139,Rui Hachimura,LAL,PTS+AST,13.0,2023-05-18
+140,Rui Hachimura,LAL,FPTS,18.0,2023-05-18
+141,Dennis Schröder,LAL,PTS,8.5,2023-05-18
+142,Dennis Schröder,LAL,PTS+TRB+AST,15.0,2023-05-18
+143,Dennis Schröder,LAL,PTS+TRB,11.5,2023-05-18
+144,Dennis Schröder,LAL,PTS+AST,12.5,2023-05-18
+145,Dennis Schröder,LAL,FPTS,15.5,2023-05-18
+146,hype,PROSPEC,Kills,41.5,2023-05-18
+147,spooke,PROSPEC,Kills,38.5,2023-05-18
+148,bobeksde,PROSPEC,Kills,37.5,2023-05-18
+149,xiELO,Forward,Kills,35.5,2023-05-18
+150,mou,Forward,Kills,35.5,2023-05-18
+151,ProbLeM,Forward,Kills,34.5,2023-05-18
+152,Nexius,MOUZNXT,Kills,38.5,2023-05-18
+153,Jimpphat,MOUZNXT,Kills,39.5,2023-05-18
+154,sl3nd,MOUZNXT,Kills,34.5,2023-05-18
+155,raalz,ex-Cope,Kills,35.5,2023-05-18
+156,Farlig,ex-Cope,Kills,37.5,2023-05-18
+157,birdfromsky,ex-Cope,Kills,31.5,2023-05-18
+158,Martinez,Movista,Kills,38.5,2023-05-18
+159,alex,Movista,Kills,38.5,2023-05-18
+160,sausol,Movista,Kills,36.5,2023-05-18
+161,r1nkle,B8,Kills,41.5,2023-05-18
+162,OWNER,B8,Kills,34.5,2023-05-18
+163,cptkurtka023,B8,Kills,34.5,2023-05-18

@@ -1,0 +1,159 @@
+,Player,Team,Stat,Line,Date
+0,slaxz-,ALTAttax,Kills,36.5,2023-06-11
+1,Spiidi,ALTAttax,Kills,34.5,2023-06-11
+2,FreeZe,ALTAttax,Kills,33.5,2023-06-11
+3,HadeZ,EPICDUDE,Kills,33.5,2023-06-11
+4,DreaM,EPICDUDE,Kills,33.5,2023-06-11
+5,rapala,EPICDUDE,Kills,31.5,2023-06-11
+6,Daxak,LEVEL UP,Kills,15.0,2023-06-11
+7,OwnedMe,LEVEL UP,Kills,8.5,2023-06-11
+8,LeBronDota,Ancient,Kills,3.5,2023-06-11
+9,Wuiter,Ancient,Kills,10.0,2023-06-11
+10,brutmonster,ZeroTena,Kills,59.5,2023-06-11
+11,Cjoffo,ZeroTena,Kills,53.5,2023-06-11
+12,aVN,ZeroTena,Kills,52.5,2023-06-11
+13,c0llins,JakeBube,Kills,59.5,2023-06-11
+14,sarenii,JakeBube,Kills,53.5,2023-06-11
+15,story,SAW,Kills,39.5,2023-06-11
+16,MUTiRiS,SAW,Kills,35.5,2023-06-11
+17,rmn,SAW,Kills,33.5,2023-06-11
+18,Rainwaker,500,Kills,36.5,2023-06-11
+19,REDSTAR,500,Kills,37.5,2023-06-11
+20,dennyslaw,500,Kills,35.5,2023-06-11
+21,Nertz,ENCE,Kills,38.5,2023-06-11
+22,SunPayus,ENCE,Kills,38.5,2023-06-11
+23,Snappi,ENCE,Kills,33.5,2023-06-11
+24,zorte,forZe,Kills,35.5,2023-06-11
+25,Krad,forZe,Kills,33.5,2023-06-11
+26,Jerry,forZe,Kills,33.5,2023-06-11
+27,alexiiik,Enterpr,Kills,52.5,2023-06-11
+28,Minny,Enterpr,Kills,43.5,2023-06-11
+29,baddyG,Acend,Kills,47.5,2023-06-11
+30,musashi,Acend,Kills,49.5,2023-06-11
+31,Zac Gallen,ARI,SO (K),6.5,2023-06-11
+32,Corbin Carroll,ARI,R,0.5,2023-06-11
+33,Corbin Carroll,ARI,FPTS,10.5,2023-06-11
+34,Christian Walker,ARI,R,0.5,2023-06-11
+35,Christian Walker,ARI,TB,1.5,2023-06-11
+36,Gabriel Moreno,ARI,SO,0.5,2023-06-11
+37,Gabriel Moreno,ARI,H+R+R,1.5,2023-06-11
+38,Ketel Marte,ARI,R,0.5,2023-06-11
+39,Ketel Marte,ARI,TB,1.5,2023-06-11
+40,Ketel Marte,ARI,FPTS,10.5,2023-06-11
+41,Lourdes Gurriel Jr.,ARI,R,0.5,2023-06-11
+42,Lourdes Gurriel Jr.,ARI,TB,1.5,2023-06-11
+43,Lourdes Gurriel Jr.,ARI,SO,0.5,2023-06-11
+44,Joey Wentz,DET,SO (K),4.0,2023-06-11
+45,Spencer Torkelson,DET,H+R+R,1.5,2023-06-11
+46,Zach McKinstry,DET,H+R+R,1.5,2023-06-11
+47,Javier Báez,DET,H+R+R,1.5,2023-06-11
+48,Miguel Cabrera,DET,SO,0.5,2023-06-11
+49,Yuri,KaBuM,Kills,4.0,2023-06-11
+50,Grevthar,Vivo Key,Kills,3.5,2023-06-11
+51,Sting,Vivo Key,Kills,2.5,2023-06-11
+52,Shane Bieber,CLE,SO (K),5.0,2023-06-11
+53,José Ramírez,CLE,R,0.5,2023-06-11
+54,José Ramírez,CLE,FPTS,10.5,2023-06-11
+55,Amed Rosario,CLE,R,0.5,2023-06-11
+56,Andrés Giménez,CLE,SO,0.5,2023-06-11
+57,Andrés Giménez,CLE,H+R+R,1.5,2023-06-11
+58,Will Brennan,CLE,SO,0.5,2023-06-11
+59,Will Brennan,CLE,H+R+R,1.5,2023-06-11
+60,Steven Kwan,CLE,FPTS,9.0,2023-06-11
+61,Josh Bell,CLE,H+R+R,1.5,2023-06-11
+62,Brandon Bielak,HOU,SO (K),3.0,2023-06-11
+63,José Abreu,HOU,H+R+R,1.5,2023-06-11
+64,Alex Bregman,HOU,FPTS,8.5,2023-06-11
+65,Kyle Tucker,HOU,SO,0.5,2023-06-11
+66,José Altuve,HOU,FPTS,8.5,2023-06-11
+67,Riqui Puig,LAG,SHO,2.5,2023-06-11
+68,Jonathan Bond,LAG,SV,3.0,2023-06-11
+69,Gastón Brugman,LAG,SHO,1.5,2023-06-11
+70,Tyler Boyd,LAG,SHO,1.5,2023-06-11
+71,Dejan Joveljić,LAG,SHO,2.0,2023-06-11
+72,Roman Bürki,STL,SV,2.5,2023-06-11
+73,Eduard Löwen,STL,SHO,3.0,2023-06-11
+74,Jared Stroud,STL,SHO,1.5,2023-06-11
+75,tinowns,LOUD,Kills,2.5,2023-06-11
+76,hauz,FLUXO,Kills,3.5,2023-06-11
+77,Bryce Elder,ATL,SO (K),4.0,2023-06-11
+78,Ronald Acuña Jr.,ATL,FPTS,11.5,2023-06-11
+79,Matt Olson,ATL,FPTS,8.5,2023-06-11
+80,Austin Riley,ATL,TB,1.5,2023-06-11
+81,Eddie Rosario,ATL,TB,1.5,2023-06-11
+82,Trevor Williams,WSH,SO (K),3.5,2023-06-11
+83,Joey Meneses,WSH,TB,1.5,2023-06-11
+84,Bobby Witt Jr.,KC,FPTS,9.0,2023-06-11
+85,Adley Rutschman,BAL,FPTS,8.5,2023-06-11
+86,Freddie Freeman,LAD,FPTS,11.5,2023-06-11
+87,Mookie Betts,LAD,FPTS,10.5,2023-06-11
+88,Bryce Harper,PHI,FPTS,9.0,2023-06-11
+89,Trea Turner,PHI,FPTS,9.0,2023-06-11
+90,Mitch Keller,PIT,SO (K),5.5,2023-06-11
+91,Andrew McCutchen,PIT,FPTS,8.5,2023-06-11
+92,Bryan Reynolds,PIT,FPTS,9.0,2023-06-11
+93,Carlos Carrasco,NYM,SO (K),4.0,2023-06-11
+94,Francisco Lindor,NYM,FPTS,8.5,2023-06-11
+95,Shane McClanahan,TB,SO (K),7.0,2023-06-11
+96,Wander Franco,TB,FPTS,9.0,2023-06-11
+97,Yandy Díaz,TB,FPTS,8.5,2023-06-11
+98,Martin Pérez,TEX,SO (K),3.5,2023-06-11
+99,Marcus Semien,TEX,FPTS,8.5,2023-06-11
+100,Corey Seager,TEX,FPTS,8.5,2023-06-11
+101,Envy,RED Kal,Kills,3.5,2023-06-11
+102,Aegis,RED Kal,Kills,3.0,2023-06-11
+103,NOsFerus,INTZ,Kills,3.0,2023-06-11
+104,Lucas Giolito,CHW,SO (K),5.0,2023-06-11
+105,Braxton Garrett,MIA,SO (K),4.5,2023-06-11
+106,Bryan De La Cruz,MIA,FPTS,8.5,2023-06-11
+107,Luis Arraez,MIA,FPTS,9.0,2023-06-11
+108,JP Sears,OAK,SO (K),6.0,2023-06-11
+109,Freddy Peralta,MIL,SO (K),7.5,2023-06-11
+110,Christian Yelich,MIL,FPTS,9.0,2023-06-11
+111,Hunter Greene,CIN,SO (K),6.0,2023-06-11
+112,Elly De La Cruz,CIN,FPTS,9.0,2023-06-11
+113,Jonathan India,CIN,FPTS,7.5,2023-06-11
+114,Adam Wainwright,STL,SO (K),4.0,2023-06-11
+115,Nolan Arenado,STL,FPTS,9.0,2023-06-11
+116,Paul Goldschmidt,STL,FPTS,8.5,2023-06-11
+117,stavn,Heroic,Kills,39.5,2023-06-11
+118,jabbi,Heroic,Kills,37.5,2023-06-11
+119,cadiaN,Heroic,Kills,36.5,2023-06-11
+120,sjuush,Heroic,Kills,34.5,2023-06-11
+121,TeSeS,Heroic,Kills,33.5,2023-06-11
+122,ZywOo,Vitalit,Kills,44.5,2023-06-11
+123,Spinx,Vitalit,Kills,39.5,2023-06-11
+124,Magisk,Vitalit,Kills,37.5,2023-06-11
+125,dupreeh,Vitalit,Kills,34.5,2023-06-11
+126,apEX,Vitalit,Kills,32.5,2023-06-11
+127,Wizer,paiN Ga,Kills,3.5,2023-06-11
+128,Dinelson Lamet,COL,SO (K),4.0,2023-06-11
+129,Ryan McMahon,COL,FPTS,8.5,2023-06-11
+130,Charlie Blackmon,COL,FPTS,8.5,2023-06-11
+131,Blake Snell,SD,SO (K),5.5,2023-06-11
+132,Xander Bogaerts,SD,FPTS,10.5,2023-06-11
+133,Juan Soto,SD,FPTS,11.5,2023-06-11
+134,Avenger,Liberty,Kills,3.0,2023-06-11
+135,Trick,Los Gran,Kills,3.0,2023-06-11
+136,Nico Hoerner,CHC,FPTS,8.5,2023-06-11
+137,LaMonte Wade Jr.,SF,FPTS,8.5,2023-06-11
+138,Logan Gilbert,SEA,SO (K),5.5,2023-06-11
+139,Julio Rodríguez,SEA,FPTS,10.0,2023-06-11
+140,Griffin Canning,LAA,SO (K),6.0,2023-06-11
+141,Mike Trout,LAA,FPTS,9.0,2023-06-11
+142,Brayan Bello,BOS,SO (K),5.0,2023-06-11
+143,Rafael Devers,BOS,FPTS,10.0,2023-06-11
+144,Masataka Yoshida,BOS,FPTS,8.5,2023-06-11
+145,Justin Turner,BOS,FPTS,7.5,2023-06-11
+146,Clarke Schmidt,NYY,SO (K),5.0,2023-06-11
+147,Gleyber Torres,NYY,FPTS,7.5,2023-06-11
+148,Anthony Rizzo,NYY,FPTS,7.5,2023-06-11
+149,Giancarlo Stanton,NYY,FPTS,7.5,2023-06-11
+150,s0m,NRG Esp,Kills,32.5,2023-06-11
+151,crashies,NRG Esp,Kills,30.5,2023-06-11
+152,Victor,NRG Esp,Kills,31.5,2023-06-11
+153,ardiis,NRG Esp,Kills,32.5,2023-06-11
+154,SUYGETSU,Natus V,Kills,33.5,2023-06-11
+155,cNed,Natus V,Kills,34.5,2023-06-11
+156,Zyppan,Natus V,Kills,29.5,2023-06-11
+157,ANGE1,Natus V,Kills,27.5,2023-06-11

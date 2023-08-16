@@ -1,0 +1,262 @@
+,Player,Team,Stat,Line,Date
+0,Shane Bieber,CLE,SO (K),5.0,2023-05-31
+1,Shane Bieber,CLE,H,6.0,2023-05-31
+2,Shane Bieber,CLE,P,100.5,2023-05-31
+3,José Ramírez,CLE,R,0.5,2023-05-31
+4,José Ramírez,CLE,FPTS,9.0,2023-05-31
+5,Steven Kwan,CLE,R,0.5,2023-05-31
+6,Steven Kwan,CLE,FPTS,8.5,2023-05-31
+7,Andrés Giménez,CLE,H+R+R,1.5,2023-05-31
+8,Adley Rutschman,BAL,FPTS,8.0,2023-05-31
+9,Gunnar Henderson,BAL,H+R+R,1.5,2023-05-31
+10,stavn,Heroic,Kills,41.5,2023-05-31
+11,jabbi,Heroic,Kills,36.5,2023-05-31
+12,TeSeS,Heroic,Kills,34.5,2023-05-31
+13,cadiaN,Heroic,Kills,36.5,2023-05-31
+14,sjuush,Heroic,Kills,34.5,2023-05-31
+15,m0NESY,G2,Kills,40.5,2023-05-31
+16,NiKo,G2,Kills,39.5,2023-05-31
+17,huNter-,G2,Kills,37.5,2023-05-31
+18,jks,G2,Kills,36.5,2023-05-31
+19,HooXi,G2,Kills,27.5,2023-05-31
+20,frozen,MOUZ,Kills,39.5,2023-05-31
+21,xertioN,MOUZ,Kills,38.5,2023-05-31
+22,dexter,MOUZ,Kills,31.5,2023-05-31
+23,torzsi,MOUZ,Kills,34.5,2023-05-31
+24,NEOFRAG,OG,Kills,32.5,2023-05-31
+25,flameZ,OG,Kills,36.5,2023-05-31
+26,F1KU,OG,Kills,32.5,2023-05-31
+27,niko,OG,Kills,30.5,2023-05-31
+28,regali,OG,Kills,40.5,2023-05-31
+29,James Kaprielian,OAK,SO (K),4.5,2023-05-31
+30,James Kaprielian,OAK,H,5.0,2023-05-31
+31,James Kaprielian,OAK,P,90.5,2023-05-31
+32,Jonah Bride,OAK,SO,0.5,2023-05-31
+33,Esteury Ruiz,OAK,R,0.5,2023-05-31
+34,Jared Shuster,ATL,SO (K),4.5,2023-05-31
+35,Jared Shuster,ATL,H,5.0,2023-05-31
+36,Ronald Acuña Jr.,ATL,FPTS,12.5,2023-05-31
+37,Austin Riley,ATL,FPTS,11.5,2023-05-31
+38,Matt Olson,ATL,FPTS,11.5,2023-05-31
+39,Ozzie Albies,ATL,SO,0.5,2023-05-31
+40,Travis d'Arnaud,ATL,H+R+R,1.5,2023-05-31
+41,Mitch Keller,PIT,SO (K),7.0,2023-05-31
+42,Mitch Keller,PIT,H,5.0,2023-05-31
+43,Mitch Keller,PIT,P,95.5,2023-05-31
+44,Bryan Reynolds,PIT,TB,1.5,2023-05-31
+45,Bryan Reynolds,PIT,FPTS,7.5,2023-05-31
+46,Andrew McCutchen,PIT,FPTS,7.5,2023-05-31
+47,Ke'Bryan Hayes,PIT,H+R+R,1.5,2023-05-31
+48,Ji-Hwan Bae,PIT,H+R+R,1.5,2023-05-31
+49,Alex Wood,SF,SO (K),5.0,2023-05-31
+50,Alex Wood,SF,H,5.0,2023-05-31
+51,J.D. Davis,SF,H+R+R,1.5,2023-05-31
+52,koalanoob,M80,Kills,35.5,2023-05-31
+53,NiSMO,M80,Kills,29.5,2023-05-31
+54,eeiu,M80,Kills,28.5,2023-05-31
+55,zander,M80,Kills,30.5,2023-05-31
+56,bdog,Shopify,Kills,34.5,2023-05-31
+57,v1c,Shopify,Kills,31.5,2023-05-31
+58,moose,Shopify,Kills,30.5,2023-05-31
+59,mada,Shopify,Kills,29.5,2023-05-31
+60,sw,ODDIK,Kills,22.0,2023-05-31
+61,fznnn,ODDIK,Kills,24.5,2023-05-31
+62,jacobin,ODDIK,Kills,25.5,2023-05-31
+63,bld,ODDIK,Kills,32.5,2023-05-31
+64,Noah Syndergaard,LAD,SO (K),3.5,2023-05-31
+65,Noah Syndergaard,LAD,H,6.0,2023-05-31
+66,Noah Syndergaard,LAD,P,89.5,2023-05-31
+67,Freddie Freeman,LAD,R,0.5,2023-05-31
+68,Freddie Freeman,LAD,SO,0.5,2023-05-31
+69,Freddie Freeman,LAD,FPTS,12.5,2023-05-31
+70,Mookie Betts,LAD,SO,0.5,2023-05-31
+71,Mookie Betts,LAD,FPTS,12.0,2023-05-31
+72,Max Muncy,LAD,H+R+R,1.5,2023-05-31
+73,Patrick Corbin,WSH,SO (K),4.0,2023-05-31
+74,Patrick Corbin,WSH,H,6.0,2023-05-31
+75,Patrick Corbin,WSH,P,93.5,2023-05-31
+76,Jeimer Candelario,WSH,H+R+R,1.5,2023-05-31
+77,Lane Thomas,WSH,H+R+R,1.5,2023-05-31
+78,Dominic Smith,WSH,SO,0.5,2023-05-31
+79,Dominic Smith,WSH,H+R+R,1.5,2023-05-31
+80,Luis García,WSH,SO,0.5,2023-05-31
+81,Braxton Garrett,MIA,SO (K),4.5,2023-05-31
+82,Braxton Garrett,MIA,H,5.0,2023-05-31
+83,Bryan De La Cruz,MIA,FPTS,8.0,2023-05-31
+84,Jorge Soler,MIA,R,0.5,2023-05-31
+85,Jorge Soler,MIA,FPTS,8.0,2023-05-31
+86,Yuli Gurriel,MIA,H+R+R,1.5,2023-05-31
+87,Luis Arraez,MIA,H+R+R,1.5,2023-05-31
+88,Jean Segura,MIA,SO,0.5,2023-05-31
+89,Jean Segura,MIA,H+R+R,1.5,2023-05-31
+90,Garrett Cooper,MIA,H+R+R,1.5,2023-05-31
+91,Blake Snell,SD,SO (K),5.5,2023-05-31
+92,Blake Snell,SD,H,5.0,2023-05-31
+93,Blake Snell,SD,P,98.5,2023-05-31
+94,Blake Snell,SD,ER,2.5,2023-05-31
+95,Fernando Tatis Jr.,SD,TB,1.5,2023-05-31
+96,Fernando Tatis Jr.,SD,FPTS,11.5,2023-05-31
+97,Juan Soto,SD,FPTS,10.0,2023-05-31
+98,Ha-Seong Kim,SD,H+R+R,1.5,2023-05-31
+99,Nelson Cruz,SD,H+R+R,1.5,2023-05-31
+100,Jose Azocar,SD,SO,0.5,2023-05-31
+101,Xander Bogaerts,SD,H+R+R,1.5,2023-05-31
+102,Carles Gil,NER,SHO,2.0,2023-05-31
+103,Đorđe Petrović,NER,SV,3.0,2023-05-31
+104,Bobby Wood,NER,SHO,1.5,2023-05-31
+105,Bobby Wood,NER,SOG,0.5,2023-05-31
+106,Noel Buck,NER,SHO,0.5,2023-05-31
+107,Thiago Almada,ATL,SHO,4.0,2023-05-31
+108,Thiago Almada,ATL,SOG,1.5,2023-05-31
+109,Brad Guzan,ATL,SV,2.5,2023-05-31
+110,Luiz Araújo,ATL,SHO,2.5,2023-05-31
+111,b4rtin,00Nation,Kills,28.5,2023-05-31
+112,bezn1,00Nation,Kills,29.5,2023-05-31
+113,artzin,00Nation,Kills,33.5,2023-05-31
+114,shion,00Nation,Kills,30.5,2023-05-31
+115,dycha,ENCE,Kills,37.5,2023-05-31
+116,Nertz,ENCE,Kills,38.5,2023-05-31
+117,SunPayus,ENCE,Kills,36.5,2023-05-31
+118,Snappi,ENCE,Kills,31.5,2023-05-31
+119,Maden,ENCE,Kills,33.5,2023-05-31
+120,blameF,Astrali,Kills,42.5,2023-05-31
+121,device,Astrali,Kills,42.5,2023-05-31
+122,Buzz,Astrali,Kills,33.5,2023-05-31
+123,Altekz,Astrali,Kills,34.5,2023-05-31
+124,gla1ve,Astrali,Kills,33.5,2023-05-31
+125,Alek Manoah,TOR,SO (K),5.0,2023-05-31
+126,Alek Manoah,TOR,H,5.0,2023-05-31
+127,Alek Manoah,TOR,P,92.5,2023-05-31
+128,Bo Bichette,TOR,R,0.5,2023-05-31
+129,Bo Bichette,TOR,SO,0.5,2023-05-31
+130,Bo Bichette,TOR,FPTS,11.0,2023-05-31
+131,George Springer,TOR,R,0.5,2023-05-31
+132,George Springer,TOR,TB,1.5,2023-05-31
+133,George Springer,TOR,FPTS,10.5,2023-05-31
+134,Brandon Belt,TOR,H+R+R,1.5,2023-05-31
+135,Vladimir Guerrero Jr.,TOR,R,0.5,2023-05-31
+136,Vladimir Guerrero Jr.,TOR,TB,1.5,2023-05-31
+137,Julio Teheran,MIL,SO (K),3.5,2023-05-31
+138,Julio Teheran,MIL,H,6.0,2023-05-31
+139,Julio Teheran,MIL,BB,1.5,2023-05-31
+140,Christian Yelich,MIL,R,0.5,2023-05-31
+141,Christian Yelich,MIL,FPTS,8.5,2023-05-31
+142,Tyrone Taylor,MIL,H+R+R,1.5,2023-05-31
+143,William Contreras,MIL,H+R+R,1.5,2023-05-31
+144,Luke Weaver,CIN,SO (K),4.0,2023-05-31
+145,Luke Weaver,CIN,H,6.0,2023-05-31
+146,Matt McLain,CIN,FPTS,8.5,2023-05-31
+147,Jonathan India,CIN,FPTS,8.0,2023-05-31
+148,James Paxton,BOS,SO (K),5.5,2023-05-31
+149,James Paxton,BOS,H,5.0,2023-05-31
+150,James Paxton,BOS,PO,16.0,2023-05-31
+151,Masataka Yoshida,BOS,FPTS,8.5,2023-05-31
+152,Rafael Devers,BOS,TB,1.5,2023-05-31
+153,Rafael Devers,BOS,FPTS,9.0,2023-05-31
+154,Justin Turner,BOS,TB,1.5,2023-05-31
+155,Alex Verdugo,BOS,TB,1.5,2023-05-31
+156,Aaron Nola,PHI,SO (K),5.0,2023-05-31
+157,Aaron Nola,PHI,H,5.5,2023-05-31
+158,Aaron Nola,PHI,BB,1.5,2023-05-31
+159,Bryce Harper,PHI,FPTS,9.5,2023-05-31
+160,Trea Turner,PHI,TB,1.5,2023-05-31
+161,Trea Turner,PHI,FPTS,9.0,2023-05-31
+162,J.T. Realmuto,PHI,H+R+R,1.5,2023-05-31
+163,Kyle Schwarber,PHI,H+R+R,1.5,2023-05-31
+164,Alec Bohm,PHI,H+R+R,1.5,2023-05-31
+165,Carlos Carrasco,NYM,SO (K),4.0,2023-05-31
+166,Carlos Carrasco,NYM,H,5.5,2023-05-31
+167,Pete Alonso,NYM,FPTS,8.0,2023-05-31
+168,Francisco Lindor,NYM,FPTS,8.0,2023-05-31
+169,Brandon Nimmo,NYM,H+R+R,1.5,2023-05-31
+170,Jeff McNeil,NYM,H+R+R,1.5,2023-05-31
+171,William Yarbrough,COL,SV,3.5,2023-05-31
+172,Jonathan Lewis,COL,SHO,2.0,2023-05-31
+173,Cucho Hernández,CLB,SHO,5.0,2023-05-31
+174,Patrick Schulte,CLB,SV,2.5,2023-05-31
+175,Lucas Zelarayán,CLB,SHO,3.0,2023-05-31
+176,Lucas Zelarayán,CLB,G + A,0.5,2023-05-31
+177,Yaw Yeboah,CLB,SHO,1.5,2023-05-31
+178,Christian Benteke,DCU,SHO,3.0,2023-05-31
+179,Mateusz Andrzej Klich,DCU,SHO,1.0,2023-05-31
+180,Chinonso Offor Nnamdi,MIM,SHO,1.5,2023-05-31
+181,Bryce Duke,MIM,SHO,1.0,2023-05-31
+182,Luquinhas,NYR,SHO,1.5,2023-05-31
+183,Carlos Coronel,NYR,SV,3.0,2023-05-31
+184,Cristian Cásseres,NYR,SHO,1.5,2023-05-31
+185,Dante Vanzeir,NYR,SHO,1.5,2023-05-31
+186,Drake Callender,MIA,SV,3.0,2023-05-31
+187,Leonardo Campana,MIA,SHO,2.5,2023-05-31
+188,Talles Magno,NYC,SHO,1.5,2023-05-31
+189,Luis Barraza,NYC,SV,2.5,2023-05-31
+190,Santiago Rodríguez,NYC,SHO,1.5,2023-05-31
+191,Gabriel Pereira,NYC,SHO,2.0,2023-05-31
+192,Brandon Vázquez,FCC,SHO,2.5,2023-05-31
+193,Roman Celentano,FCC,SV,3.0,2023-05-31
+194,Luciano Acosta,FCC,SHO,2.0,2023-05-31
+195,Dominique Badji,FCC,SHO,1.5,2023-05-31
+196,Júnior Moreno,FCC,SHO,0.5,2023-05-31
+197,Julián Carranza,PHI,SHO,3.0,2023-05-31
+198,Julián Carranza,PHI,G + A,0.5,2023-05-31
+199,Dániel Gazdag,PHI,SHO,2.0,2023-05-31
+200,Andre Blake,PHI,SV,2.0,2023-05-31
+201,Mikael Uhre,PHI,SHO,2.0,2023-05-31
+202,Karol Świderski,CLT,SHO,3.0,2023-05-31
+203,Kristijan Kahlina,CLT,SV,3.5,2023-05-31
+204,Kerwin Vargas,CLT,SHO,2.0,2023-05-31
+205,Bill Poni Tuiloma,CLT,SHO,0.5,2023-05-31
+206,Christopher Brady,CHI,SV,3.0,2023-05-31
+207,Maren Haile-Selassie,CHI,SHO,1.5,2023-05-31
+208,Lorenzo Insigne,TOR,SHO,2.5,2023-05-31
+209,Sean Johnson,TOR,SV,2.5,2023-05-31
+210,C.J. Sapong,TOR,SHO,1.5,2023-05-31
+211,Kosi Thompson,TOR,SHO,0.5,2023-05-31
+212,Louie Varland,MIN,SO (K),4.5,2023-05-31
+213,Louie Varland,MIN,H,5.5,2023-05-31
+214,Louie Varland,MIN,PO,17.5,2023-05-31
+215,Louie Varland,MIN,P,93.5,2023-05-31
+216,Louie Varland,MIN,ER,2.5,2023-05-31
+217,Byron Buxton,MIN,FPTS,9.0,2023-05-31
+218,Carlos Correa,MIN,FPTS,8.0,2023-05-31
+219,Hunter Brown,HOU,SO (K),7.0,2023-05-31
+220,Hunter Brown,HOU,H,4.5,2023-05-31
+221,Hunter Brown,HOU,PO,17.5,2023-05-31
+222,Hunter Brown,HOU,P,95.5,2023-05-31
+223,Yordan Alvarez,HOU,FPTS,9.0,2023-05-31
+224,José Altuve,HOU,FPTS,9.0,2023-05-31
+225,Alex Bregman,HOU,FPTS,8.5,2023-05-31
+226,Bongokuhle Hlongwane,MIN,SHO,2.5,2023-05-31
+227,Dayne St. Clair,MIN,SV,3.0,2023-05-31
+228,Luis Amarilla,MIN,SHO,2.0,2023-05-31
+229,Emiliano Rigoni,AUS,SHO,2.0,2023-05-31
+230,Brad Stuver,AUS,SV,2.5,2023-05-31
+231,Jesús Ferreira,DAL,SHO,2.0,2023-05-31
+232,Alan Velasco,DAL,SHO,2.0,2023-05-31
+233,Dániel Sallói,SKC,SHO,2.0,2023-05-31
+234,Alan Pulido,SKC,SHO,2.0,2023-05-31
+235,Riqui Puig,LAG,SHO,2.5,2023-05-31
+236,Jonathan Bond,LAG,SV,3.5,2023-05-31
+237,Memo Rodríguez,LAG,SHO,1.5,2023-05-31
+238,Dejan Joveljić,LAG,SHO,2.0,2023-05-31
+239,Marco Delgado,LAG,SHO,0.5,2023-05-31
+240,Tommy Henry,ARI,SO (K),4.0,2023-05-31
+241,Tommy Henry,ARI,H,5.0,2023-05-31
+242,Ketel Marte,ARI,FPTS,10.0,2023-05-31
+243,Corbin Carroll,ARI,FPTS,10.5,2023-05-31
+244,Josh Rojas,ARI,H+R+R,1.5,2023-05-31
+245,Jake McCarthy,ARI,H+R+R,1.5,2023-05-31
+246,Gabriel Moreno,ARI,H+R+R,1.5,2023-05-31
+247,Dinelson Lamet,COL,SO (K),4.5,2023-05-31
+248,Ryan McMahon,COL,FPTS,8.5,2023-05-31
+249,Kris Bryant,COL,R,0.5,2023-05-31
+250,George Kirby,SEA,SO (K),5.0,2023-05-31
+251,George Kirby,SEA,H,5.5,2023-05-31
+252,George Kirby,SEA,P,92.5,2023-05-31
+253,Julio Rodríguez,SEA,FPTS,10.0,2023-05-31
+254,Jarred Kelenic,SEA,FPTS,7.5,2023-05-31
+255,Clarke Schmidt,NYY,SO (K),6.0,2023-05-31
+256,Clarke Schmidt,NYY,H,4.5,2023-05-31
+257,Clarke Schmidt,NYY,P,89.5,2023-05-31
+258,Aaron Judge,NYY,TB,1.5,2023-05-31
+259,Aaron Judge,NYY,FPTS,12.0,2023-05-31
+260,Gleyber Torres,NYY,FPTS,8.5,2023-05-31

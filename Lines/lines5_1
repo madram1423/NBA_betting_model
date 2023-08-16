@@ -1,0 +1,282 @@
+,Player,Team,Line,Stat,League,Date
+9,Jayson Tatum,PHI,14.0,TRB+AST,7,2023-05-01
+13,Jayson Tatum,PHI,1.5,Dunks,7,2023-05-01
+20,Jayson Tatum,PHI,22.5,FGA,7,2023-05-01
+24,Jayson Tatum,PHI,42.5,PTS+TRB+AST,7,2023-05-01
+25,Jayson Tatum,PHI,9.0,TRB,7,2023-05-01
+26,Jayson Tatum,PHI,2.0,PF,7,2023-05-01
+28,Jayson Tatum,PHI,0.5,BLK,7,2023-05-01
+29,Jayson Tatum,PHI,4.5,AST,7,2023-05-01
+30,Jayson Tatum,PHI,38.5,PTS+TRB,7,2023-05-01
+32,Jayson Tatum,PHI,28.5,PTS,7,2023-05-01
+40,Jayson Tatum,PHI,33.5,PTS+AST,7,2023-05-01
+41,Jayson Tatum,PHI,9.5,3-PT Attempted,7,2023-05-01
+50,Jayson Tatum,PHI,10.0,FG Made,7,2023-05-01
+54,James Harden,BOS,31.5,PTS+AST,7,2023-05-01
+62,James Harden,BOS,3.5,TOV,7,2023-05-01
+63,James Harden,BOS,8.5,AST,7,2023-05-01
+65,James Harden,BOS,38.5,PTS+TRB+AST,7,2023-05-01
+67,James Harden,BOS,22.5,PTS,7,2023-05-01
+68,James Harden,BOS,6.5,TRB,7,2023-05-01
+69,James Harden,BOS,1.5,BLK+STL,7,2023-05-01
+72,James Harden,BOS,2.5,PF,7,2023-05-01
+75,James Harden,BOS,18.5,FGA,7,2023-05-01
+90,James Harden,BOS,8.0,FG Made,7,2023-05-01
+124,James Harden,BOS,7.5,3-PT Attempted,7,2023-05-01
+129,James Harden,BOS,15.5,TRB+AST,7,2023-05-01
+131,James Harden,BOS,29.5,PTS+TRB,7,2023-05-01
+132,Jaylen Brown,PHI,10.0,FG Made,7,2023-05-01
+137,Jaylen Brown,PHI,28.5,PTS+AST,7,2023-05-01
+138,Jaylen Brown,PHI,1.0,Dunks,7,2023-05-01
+139,Jaylen Brown,PHI,30.5,PTS+TRB,7,2023-05-01
+141,Jaylen Brown,PHI,21.5,FGA,7,2023-05-01
+145,Jaylen Brown,PHI,24.5,PTS,7,2023-05-01
+146,Jaylen Brown,PHI,3.0,PF,7,2023-05-01
+147,Jaylen Brown,PHI,33.5,PTS+TRB+AST,7,2023-05-01
+148,Jaylen Brown,PHI,6.0,TRB,7,2023-05-01
+151,Jaylen Brown,PHI,7.0,3-PT Attempted,7,2023-05-01
+166,Tyrese Maxey,BOS,18.5,FGA,7,2023-05-01
+177,Tyrese Maxey,BOS,8.0,TRB+AST,7,2023-05-01
+178,Tyrese Maxey,BOS,28.5,PTS+TRB,7,2023-05-01
+181,Tyrese Maxey,BOS,9.0,FG Made,7,2023-05-01
+183,Tyrese Maxey,BOS,4.0,TRB,7,2023-05-01
+185,Tyrese Maxey,BOS,24.5,PTS,7,2023-05-01
+186,Tyrese Maxey,BOS,7.0,3-PT Attempted,7,2023-05-01
+190,Tyrese Maxey,BOS,2.5,PF,7,2023-05-01
+191,Tyrese Maxey,BOS,1.5,TOV,7,2023-05-01
+192,Tyrese Maxey,BOS,31.5,PTS+TRB+AST,7,2023-05-01
+199,Tyrese Maxey,BOS,27.5,PTS+AST,7,2023-05-01
+210,Derrick White,PHI,5.0,3-PT Attempted,7,2023-05-01
+211,Derrick White,PHI,2.5,PF,7,2023-05-01
+215,Derrick White,PHI,11.5,FGA,7,2023-05-01
+217,Derrick White,PHI,5.5,FG Made,7,2023-05-01
+221,Derrick White,PHI,13.5,PTS,7,2023-05-01
+224,Derrick White,PHI,21.5,PTS+TRB+AST,7,2023-05-01
+225,Derrick White,PHI,4.0,TRB,7,2023-05-01
+226,Derrick White,PHI,1.5,BLK+STL,7,2023-05-01
+227,Derrick White,PHI,17.5,PTS+AST,7,2023-05-01
+228,Derrick White,PHI,7.5,TRB+AST,7,2023-05-01
+244,Derrick White,PHI,17.5,PTS+TRB,7,2023-05-01
+257,Tobias Harris,BOS,4.0,3-PT Attempted,7,2023-05-01
+258,Tobias Harris,BOS,24.5,PTS+TRB,7,2023-05-01
+259,Tobias Harris,BOS,7.0,FG Made,7,2023-05-01
+260,Tobias Harris,BOS,19.5,PTS+AST,7,2023-05-01
+261,Tobias Harris,BOS,1.0,Dunks,7,2023-05-01
+264,Tobias Harris,BOS,2.0,PF,7,2023-05-01
+265,Tobias Harris,BOS,9.5,TRB+AST,7,2023-05-01
+267,Tobias Harris,BOS,1.5,3P,7,2023-05-01
+268,Tobias Harris,BOS,26.5,PTS+TRB+AST,7,2023-05-01
+270,Tobias Harris,BOS,16.5,PTS,7,2023-05-01
+271,Tobias Harris,BOS,7.0,TRB,7,2023-05-01
+273,Tobias Harris,BOS,14.5,FGA,7,2023-05-01
+274,Marcus Smart,PHI,8.5,TRB+AST,7,2023-05-01
+276,Marcus Smart,PHI,14.5,PTS+TRB,7,2023-05-01
+279,Marcus Smart,PHI,16.5,PTS+AST,7,2023-05-01
+280,Marcus Smart,PHI,2.5,PF,7,2023-05-01
+282,Marcus Smart,PHI,5.5,3-PT Attempted,7,2023-05-01
+297,Marcus Smart,PHI,11.5,PTS,7,2023-05-01
+298,Marcus Smart,PHI,5.0,AST,7,2023-05-01
+308,Marcus Smart,PHI,12.0,FGA,7,2023-05-01
+310,Marcus Smart,PHI,19.5,PTS+TRB+AST,7,2023-05-01
+313,Marcus Smart,PHI,5.0,FG Made,7,2023-05-01
+319,Al Horford,PHI,2.5,PF,7,2023-05-01
+325,Al Horford,PHI,3.5,FG Made,7,2023-05-01
+326,Al Horford,PHI,4.0,3-PT Attempted,7,2023-05-01
+327,Al Horford,PHI,6.5,FGA,7,2023-05-01
+328,Al Horford,PHI,15.0,PTS+TRB,7,2023-05-01
+330,Malcolm Brogdon,PHI,5.0,FG Made,7,2023-05-01
+331,Al Horford,PHI,6.0,TRB,7,2023-05-01
+333,Al Horford,PHI,9.5,TRB+AST,7,2023-05-01
+334,Al Horford,PHI,11.5,PTS+AST,7,2023-05-01
+335,Malcolm Brogdon,PHI,10.5,FGA,7,2023-05-01
+337,Al Horford,PHI,8.5,PTS,7,2023-05-01
+339,Al Horford,PHI,0.5,STL,7,2023-05-01
+340,Robert Williams,PHI,5.0,FGA,7,2023-05-01
+342,Robert Williams,PHI,3.5,FG Made,7,2023-05-01
+343,Robert Williams,PHI,2.0,Dunks,7,2023-05-01
+344,Robert Williams,PHI,2.5,PF,7,2023-05-01
+345,Malcolm Brogdon,PHI,16.5,PTS+TRB,7,2023-05-01
+346,Malcolm Brogdon,PHI,19.5,PTS+TRB+AST,7,2023-05-01
+347,Malcolm Brogdon,PHI,13.0,PTS,7,2023-05-01
+348,Malcolm Brogdon,PHI,3.5,TRB,7,2023-05-01
+349,Malcolm Brogdon,PHI,16.5,PTS+AST,7,2023-05-01
+350,Malcolm Brogdon,PHI,0.5,STL,7,2023-05-01
+354,Robert Williams,PHI,9.5,TRB+AST,7,2023-05-01
+355,Robert Williams,PHI,8.0,TRB,7,2023-05-01
+356,Robert Williams,PHI,8.0,PTS,7,2023-05-01
+357,Robert Williams,PHI,15.5,PTS+TRB,7,2023-05-01
+368,Jayson Tatum,PHI,6.5,FT,7,2023-05-01
+372,James Harden,BOS,4.5,FT,7,2023-05-01
+373,Jaylen Brown,PHI,3.0,FT,7,2023-05-01
+379,Malcolm Brogdon,PHI,2.0,FT,7,2023-05-01
+381,Tobias Harris,BOS,1.5,FT,7,2023-05-01
+384,Derrick White,PHI,1.5,FT,7,2023-05-01
+387,Robert Williams,PHI,0.5,FT,7,2023-05-01
+423,Devin Booker,DEN,6.5,3-PT Attempted,7,2023-05-01
+424,Devin Booker,DEN,36.5,PTS+AST,7,2023-05-01
+425,Devin Booker,DEN,5.0,TRB,7,2023-05-01
+427,Devin Booker,DEN,1.5,STL,7,2023-05-01
+428,Devin Booker,DEN,11.5,TRB+AST,7,2023-05-01
+430,Devin Booker,DEN,3.0,PF,7,2023-05-01
+433,Devin Booker,DEN,29.5,PTS,7,2023-05-01
+434,Devin Booker,DEN,6.5,AST,7,2023-05-01
+435,Devin Booker,DEN,0.5,Dunks,7,2023-05-01
+436,Devin Booker,DEN,4.5,Points In First 6 Minutes,7,2023-05-01
+437,Devin Booker,DEN,41.5,PTS+TRB+AST,7,2023-05-01
+438,Devin Booker,DEN,11.5,FG Made,7,2023-05-01
+439,Devin Booker,DEN,22.5,FGA,7,2023-05-01
+440,Devin Booker,DEN,35.5,PTS+TRB,7,2023-05-01
+441,Nikola Jokic,PHX,39.0,PTS+TRB,7,2023-05-01
+442,Nikola Jokic,PHX,0.5,Dunks,7,2023-05-01
+443,Nikola Jokic,PHX,3.0,PF,7,2023-05-01
+445,Nikola Jokic,PHX,22.5,TRB+AST,7,2023-05-01
+446,Nikola Jokic,PHX,33.5,PTS+AST,7,2023-05-01
+447,Nikola Jokic,PHX,47.5,PTS+TRB+AST,7,2023-05-01
+448,Nikola Jokic,PHX,13.5,TRB,7,2023-05-01
+449,Nikola Jokic,PHX,8.5,AST,7,2023-05-01
+450,Nikola Jokic,PHX,25.5,PTS,7,2023-05-01
+451,Nikola Jokic,PHX,2.5,3-PT Attempted,7,2023-05-01
+453,Nikola Jokic,PHX,4.5,Points In First 6 Minutes,7,2023-05-01
+454,Nikola Jokic,PHX,10.0,FG Made,7,2023-05-01
+455,Nikola Jokic,PHX,18.0,FGA,7,2023-05-01
+459,Kevin Durant,DEN,8.0,TRB,7,2023-05-01
+460,Kevin Durant,DEN,37.0,PTS+TRB,7,2023-05-01
+461,Kevin Durant,DEN,28.5,PTS,7,2023-05-01
+462,Kevin Durant,DEN,4.0,Points In First 6 Minutes,7,2023-05-01
+464,Kevin Durant,DEN,0.5,Dunks,7,2023-05-01
+465,Kevin Durant,DEN,9.5,FG Made,7,2023-05-01
+466,Kevin Durant,DEN,41.5,PTS+TRB+AST,7,2023-05-01
+467,Kevin Durant,DEN,33.5,PTS+AST,7,2023-05-01
+469,Kevin Durant,DEN,12.5,TRB+AST,7,2023-05-01
+470,Kevin Durant,DEN,18.5,FGA,7,2023-05-01
+471,Kevin Durant,DEN,2.5,PF,7,2023-05-01
+472,Kevin Durant,DEN,4.5,AST,7,2023-05-01
+473,Kevin Durant,DEN,5.0,3-PT Attempted,7,2023-05-01
+474,Jamal Murray,PHX,4.5,TRB,7,2023-05-01
+475,Jamal Murray,PHX,21.5,FGA,7,2023-05-01
+476,Jamal Murray,PHX,4.0,Points In First 6 Minutes,7,2023-05-01
+477,Jamal Murray,PHX,8.5,3-PT Attempted,7,2023-05-01
+478,Jamal Murray,PHX,2.5,PF,7,2023-05-01
+479,Jamal Murray,PHX,9.5,FG Made,7,2023-05-01
+480,Jamal Murray,PHX,24.5,PTS,7,2023-05-01
+481,Jamal Murray,PHX,31.5,PTS+AST,7,2023-05-01
+482,Jamal Murray,PHX,6.5,AST,7,2023-05-01
+485,Jamal Murray,PHX,36.5,PTS+TRB+AST,7,2023-05-01
+486,Jamal Murray,PHX,11.5,TRB+AST,7,2023-05-01
+488,Jamal Murray,PHX,29.5,PTS+TRB,7,2023-05-01
+491,Deandre Ayton,DEN,25.5,PTS+TRB,7,2023-05-01
+492,Deandre Ayton,DEN,1.5,Dunks,7,2023-05-01
+494,Deandre Ayton,DEN,10.5,TRB+AST,7,2023-05-01
+495,Deandre Ayton,DEN,2.5,Points In First 6 Minutes,7,2023-05-01
+496,Deandre Ayton,DEN,7.0,FG Made,7,2023-05-01
+497,Deandre Ayton,DEN,9.5,TRB,7,2023-05-01
+498,Deandre Ayton,DEN,0.5,BLK,7,2023-05-01
+499,Deandre Ayton,DEN,16.5,PTS+AST,7,2023-05-01
+500,Deandre Ayton,DEN,15.5,PTS,7,2023-05-01
+501,Deandre Ayton,DEN,12.0,FGA,7,2023-05-01
+502,Deandre Ayton,DEN,3.5,PF,7,2023-05-01
+503,Deandre Ayton,DEN,26.5,PTS+TRB+AST,7,2023-05-01
+504,Deandre Ayton,DEN,0.5,STL,7,2023-05-01
+505,Michael Porter Jr.,PHX,23.5,PTS+TRB+AST,7,2023-05-01
+506,Michael Porter Jr.,PHX,6.5,3-PT Attempted,7,2023-05-01
+508,Michael Porter Jr.,PHX,0.5,Dunks,7,2023-05-01
+509,Michael Porter Jr.,PHX,16.0,PTS,7,2023-05-01
+510,Michael Porter Jr.,PHX,6.0,FG Made,7,2023-05-01
+511,Michael Porter Jr.,PHX,22.0,PTS+TRB,7,2023-05-01
+512,Michael Porter Jr.,PHX,18.0,PTS+AST,7,2023-05-01
+513,Michael Porter Jr.,PHX,2.5,3P,7,2023-05-01
+514,Michael Porter Jr.,PHX,5.5,TRB,7,2023-05-01
+516,Michael Porter Jr.,PHX,2.5,Points In First 6 Minutes,7,2023-05-01
+518,Michael Porter Jr.,PHX,13.0,FGA,7,2023-05-01
+519,Michael Porter Jr.,PHX,2.5,PF,7,2023-05-01
+520,Chris Paul,DEN,1.5,STL,7,2023-05-01
+522,Chris Paul,DEN,8.0,AST,7,2023-05-01
+524,Chris Paul,DEN,13.5,PTS,7,2023-05-01
+525,Chris Paul,DEN,26.5,PTS+TRB+AST,7,2023-05-01
+526,Chris Paul,DEN,4.0,TRB,7,2023-05-01
+527,Chris Paul,DEN,21.5,PTS+AST,7,2023-05-01
+528,Chris Paul,DEN,12.5,TRB+AST,7,2023-05-01
+530,Chris Paul,DEN,1.5,TOV,7,2023-05-01
+531,Chris Paul,DEN,18.5,PTS+TRB,7,2023-05-01
+532,Chris Paul,DEN,6.5,FG Made,7,2023-05-01
+533,Chris Paul,DEN,14.5,FGA,7,2023-05-01
+534,Chris Paul,DEN,4.5,3-PT Attempted,7,2023-05-01
+535,Chris Paul,DEN,2.0,Points In First 6 Minutes,7,2023-05-01
+536,Chris Paul,DEN,1.5,3P,7,2023-05-01
+537,Chris Paul,DEN,2.5,PF,7,2023-05-01
+538,Aaron Gordon,PHX,2.5,Points In First 6 Minutes,7,2023-05-01
+539,Aaron Gordon,PHX,17.5,PTS+AST,7,2023-05-01
+541,Aaron Gordon,PHX,0.5,BLK,7,2023-05-01
+543,Aaron Gordon,PHX,11.0,FGA,7,2023-05-01
+544,Aaron Gordon,PHX,2.0,Dunks,7,2023-05-01
+546,Aaron Gordon,PHX,23.5,PTS+TRB+AST,7,2023-05-01
+547,Aaron Gordon,PHX,6.5,TRB,7,2023-05-01
+548,Aaron Gordon,PHX,15.0,PTS,7,2023-05-01
+549,Aaron Gordon,PHX,2.0,3-PT Attempted,7,2023-05-01
+550,Aaron Gordon,PHX,3.0,PF,7,2023-05-01
+551,Aaron Gordon,PHX,6.0,FG Made,7,2023-05-01
+552,Aaron Gordon,PHX,8.5,TRB+AST,7,2023-05-01
+553,Aaron Gordon,PHX,21.5,PTS+TRB,7,2023-05-01
+557,Bruce Brown,PHX,11.5,PTS,7,2023-05-01
+558,Bruce Brown,PHX,0.5,3P,7,2023-05-01
+560,Bruce Brown,PHX,15.5,PTS+TRB,7,2023-05-01
+562,Bruce Brown,PHX,1.5,BLK+STL,7,2023-05-01
+563,Bruce Brown,PHX,4.0,TRB,7,2023-05-01
+571,Kentavious Caldwell-Pope,PHX,11.5,PTS+AST,7,2023-05-01
+574,Kentavious Caldwell-Pope,PHX,9.5,PTS,7,2023-05-01
+583,Devin Booker,DEN,6.5,FT,7,2023-05-01
+585,Nikola Jokic,PHX,5.0,FT,7,2023-05-01
+586,Kevin Durant,DEN,6.5,FT,7,2023-05-01
+588,Jamal Murray,PHX,2.5,FT,7,2023-05-01
+591,Deandre Ayton,DEN,1.5,FT,7,2023-05-01
+594,Aaron Gordon,PHX,2.5,FT,7,2023-05-01
+595,Chris Paul,DEN,0.5,FT,7,2023-05-01
+603,Bruce Brown,PHX,0.5,FT,7,2023-05-01
+613,Kentavious Caldwell-Pope,PHX,1.5,FT,7,2023-05-01
+723,LeBron James,GSW,42.5,PTS+TRB+AST,7,2023-05-02
+725,LeBron James,GSW,26.5,PTS,7,2023-05-02
+727,LeBron James,GSW,9.5,TRB,7,2023-05-02
+728,LeBron James,GSW,5.5,AST,7,2023-05-02
+729,LeBron James,GSW,36.5,PTS+TRB,7,2023-05-02
+730,LeBron James,GSW,32.5,PTS+AST,7,2023-05-02
+731,LeBron James,GSW,15.5,TRB+AST,7,2023-05-02
+733,Stephen Curry,LAL,11.5,TRB+AST,7,2023-05-02
+735,Stephen Curry,LAL,5.0,3P,7,2023-05-02
+737,Stephen Curry,LAL,31.5,PTS,7,2023-05-02
+738,Stephen Curry,LAL,43.5,PTS+TRB+AST,7,2023-05-02
+739,Stephen Curry,LAL,6.0,AST,7,2023-05-02
+741,Stephen Curry,LAL,38.5,PTS+AST,7,2023-05-02
+742,Stephen Curry,LAL,37.5,PTS+TRB,7,2023-05-02
+743,Stephen Curry,LAL,5.5,TRB,7,2023-05-02
+745,Anthony Davis,GSW,14.0,TRB,7,2023-05-02
+746,Anthony Davis,GSW,16.5,TRB+AST,7,2023-05-02
+748,Anthony Davis,GSW,27.5,PTS+AST,7,2023-05-02
+749,Anthony Davis,GSW,39.5,PTS+TRB,7,2023-05-02
+750,Anthony Davis,GSW,25.5,PTS,7,2023-05-02
+752,Anthony Davis,GSW,41.5,PTS+TRB+AST,7,2023-05-02
+753,Klay Thompson,LAL,4.0,TRB,7,2023-05-02
+754,Klay Thompson,LAL,29.0,PTS+TRB+AST,7,2023-05-02
+756,Klay Thompson,LAL,24.5,PTS+AST,7,2023-05-02
+757,Klay Thompson,LAL,26.5,PTS+TRB,7,2023-05-02
+760,Klay Thompson,LAL,22.5,PTS,7,2023-05-02
+762,D'Angelo Russell,GSW,24.5,PTS+TRB+AST,7,2023-05-02
+763,D'Angelo Russell,GSW,9.0,TRB+AST,7,2023-05-02
+764,D'Angelo Russell,GSW,21.5,PTS+AST,7,2023-05-02
+765,D'Angelo Russell,GSW,6.0,AST,7,2023-05-02
+766,D'Angelo Russell,GSW,18.5,PTS+TRB,7,2023-05-02
+767,D'Angelo Russell,GSW,15.5,PTS,7,2023-05-02
+768,D'Angelo Russell,GSW,2.5,3P,7,2023-05-02
+771,Andrew Wiggins,LAL,24.5,PTS+TRB,7,2023-05-02
+772,Andrew Wiggins,LAL,8.5,TRB+AST,7,2023-05-02
+774,Andrew Wiggins,LAL,20.5,PTS+AST,7,2023-05-02
+776,Andrew Wiggins,LAL,6.0,TRB,7,2023-05-02
+777,Andrew Wiggins,LAL,17.5,PTS,7,2023-05-02
+779,Andrew Wiggins,LAL,26.5,PTS+TRB+AST,7,2023-05-02
+780,Austin Reaves,GSW,16.5,PTS,7,2023-05-02
+782,Austin Reaves,GSW,4.0,TRB,7,2023-05-02
+783,Austin Reaves,GSW,20.5,PTS+AST,7,2023-05-02
+784,Austin Reaves,GSW,4.0,AST,7,2023-05-02
+786,Austin Reaves,GSW,1.5,3P,7,2023-05-02
+787,Austin Reaves,GSW,8.5,TRB+AST,7,2023-05-02
+788,Austin Reaves,GSW,20.5,PTS+TRB,7,2023-05-02
+790,Austin Reaves,GSW,24.5,PTS+TRB+AST,7,2023-05-02

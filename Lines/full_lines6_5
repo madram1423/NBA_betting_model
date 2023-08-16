@@ -1,0 +1,840 @@
+,Player,Team,Line,Stat,League,Date
+0,Bijan Robinson,2023 ATL,1075.5,Rush Yards,163,2023-09-07
+1,Rafael Devers,TB,6.5,Hitter Fantasy Score,2,2023-06-05
+2,Alex Rawls,Josh Holland/Frank Modlin,14.5,Bags In,132,2023-06-09
+3,Nikola Jokic,MIA,40.5,PTS+TRB,7,2023-06-07
+4,Nikola Jokic,MIA,12.0,TRB,7,2023-06-07
+5,Nikola Jokic,MIA,10.0,AST,7,2023-06-07
+6,Nikola Jokic,MIA,50.5,PTS+TRB+AST,7,2023-06-07
+7,Aaron Rodgers,2023 NYJ,4050.5,Pass Yards,163,2023-09-07
+8,Nikola Jokic,MIA,28.5,PTS,7,2023-06-07
+9,Alex Rawls,Josh Holland/Frank Modlin,5.0,Bags On,132,2023-06-09
+10,Nikola Jokic,MIA,22.5,TRB+AST,7,2023-06-07
+11,Shane McClanahan,BOS 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+12,Nikola Jokic,MIA,38.5,PTS+AST,7,2023-06-07
+13,Nikola Jokic,MIA 1st Half,14.5,PTS,84,2023-06-07
+14,TA2000,Liquid (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-06-05
+15,TA2000,Liquid (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-06-05
+16,Nikola Jokic,MIA 1st Half,25.5,PTS+TRB+AST,84,2023-06-07
+17,Alex Rawls,Josh Holland/Frank Modlin,1.5,Four Baggers,132,2023-06-09
+18,Wander Franco,BOS,8.5,Hitter Fantasy Score,2,2023-06-05
+19,Jimmy Butler,DEN,6.5,AST,7,2023-06-07
+20,Jimmy Butler,DEN 1st Half,18.5,PTS+TRB+AST,84,2023-06-07
+21,Blaine Rosier,Josh Holland/Frank Modlin,14.5,Bags In,132,2023-06-09
+22,Jimmy Butler,DEN,32.5,PTS+TRB,7,2023-06-07
+23,Jimmy Butler,DEN,25.5,PTS,7,2023-06-07
+24,Jimmy Butler,DEN,7.0,TRB,7,2023-06-07
+25,Jimmy Butler,DEN,13.5,TRB+AST,7,2023-06-07
+26,No!ob,Liquid (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-06-05
+27,No!ob,Liquid (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-06-05
+28,Jimmy Butler,DEN 1st Half,12.0,PTS,84,2023-06-07
+29,Jimmy Butler,DEN,38.5,PTS+TRB+AST,7,2023-06-07
+30,Blaine Rosier,Josh Holland/Frank Modlin,5.0,Bags On,132,2023-06-09
+31,Jimmy Butler,DEN,31.5,PTS+AST,7,2023-06-07
+32,Patrick Mahomes,2023 KC,4800.5,Pass Yards,163,2023-09-07
+33,Brayan Bello,TB 1st Inning,16.5,Pitches Thrown,231,2023-06-05
+34,Tomas Martin Etcheverry,Y. Nishioka (French Open),9.5,3rd Set - Total Games,244,2023-06-05
+35,Tomas Martin Etcheverry,Y. Nishioka (French Open),7.5,Aces,5,2023-06-05
+36,Jamal Murray,MIA,31.5,PTS+AST,7,2023-06-07
+37,Jamal Murray,MIA 1st Half,12.5,PTS,84,2023-06-07
+38,Yoshihito Nishioka,T. Etcheverry (French Open),1.5,Aces,5,2023-06-05
+39,Jamal Murray,MIA,37.5,PTS+TRB+AST,7,2023-06-07
+40,Cheyenne Bubenheim,Josh Hill/Tyler Parent,15.0,Bags In,132,2023-06-09
+41,Jamal Murray,MIA,5.0,TRB,7,2023-06-07
+42,Tomas Martin Etcheverry,Y. Nishioka (French Open),9.5,2nd Set - Total Games,244,2023-06-05
+43,Jamal Murray,MIA 1st Half,19.0,PTS+TRB+AST,84,2023-06-07
+44,Tomas Martin Etcheverry,Y. Nishioka (French Open),9.5,1st Set - Total Games,244,2023-06-05
+45,Jamal Murray,MIA,25.5,PTS,7,2023-06-07
+46,Cheyenne Bubenheim,Josh Hill/Tyler Parent,4.5,Bags On,132,2023-06-09
+47,Jamal Murray,MIA,6.5,AST,7,2023-06-07
+48,Jamal Murray,MIA,2.5,TOV,7,2023-06-07
+49,Jamal Murray,MIA,12.0,TRB+AST,7,2023-06-07
+50,Jamal Murray,MIA,30.5,PTS+TRB,7,2023-06-07
+51,Tomas Martin Etcheverry,Y. Nishioka (French Open),35.0,Total Games,5,2023-06-05
+52,Tomas Martin Etcheverry,Y. Nishioka (French Open),6.0,Break Points Won,5,2023-06-05
+53,miCKe,Quest (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-06-05
+54,Masataka Yoshida,TB,6.5,Hitter Fantasy Score,2,2023-06-05
+55,miCKe,Quest (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-06-05
+56,Jamal Murray,MIA,1.5,BLK+STL,7,2023-06-07
+57,Josh Allen,2023 BUF,4375.5,Pass Yards,163,2023-09-07
+58,Alexander Zverev,G. Dimitrov (French Open),9.0,Aces,5,2023-06-05
+59,Alexander Zverev,G. Dimitrov (French Open),9.5,2nd Set - Total Games,244,2023-06-05
+60,Bam Adebayo,DEN,32.5,PTS+TRB+AST,7,2023-06-07
+61,Bam Adebayo,DEN,2.5,TOV,7,2023-06-07
+62,Bam Adebayo,DEN,28.5,PTS+TRB,7,2023-06-07
+63,Bam Adebayo,DEN,13.5,TRB+AST,7,2023-06-07
+64,Bam Adebayo,DEN,9.5,TRB,7,2023-06-07
+65,Bam Adebayo,DEN,22.5,PTS+AST,7,2023-06-07
+66,Joe Burrow,2023 CIN,4500.5,Pass Yards,163,2023-09-07
+67,Bam Adebayo,DEN,18.5,PTS,7,2023-06-07
+68,Nisha,Quest (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-06-05
+69,Nisha,Quest (MAPS 1-2 Kills),14.5,MAPS 1-2 Kills,174,2023-06-05
+70,Yandy Diaz,BOS,7.5,Hitter Fantasy Score,2,2023-06-05
+71,Bam Adebayo,DEN 1st Half,9.5,PTS,84,2023-06-07
+72,Chris Kingsbury,Austin Schlobohm/Adam Hissner,4.5,Bags On,132,2023-06-09
+73,Bam Adebayo,DEN 1st Half,16.5,PTS+TRB+AST,84,2023-06-07
+74,Chris Kingsbury,Austin Schlobohm/Adam Hissner,1.5,Four Baggers,132,2023-06-09
+75,Alexander Zverev,G. Dimitrov (French Open),9.5,3rd Set - Total Games,244,2023-06-05
+76,Chris Kingsbury,Austin Schlobohm/Adam Hissner,14.5,Bags In,132,2023-06-09
+77,Alexander Zverev,G. Dimitrov (French Open),39.0,Total Games,5,2023-06-05
+78,Alexander Zverev,G. Dimitrov (French Open),4.0,Break Points Won,5,2023-06-05
+79,Alexander Zverev,G. Dimitrov (French Open),9.5,1st Set - Total Games,244,2023-06-05
+80,Grigor Dimitrov,A. Zverev (French Open),4.5,Aces,5,2023-06-05
+81,Michael Porter Jr.,MIA,22.5,PTS+TRB,7,2023-06-07
+82,Shad,Entity (MAPS 1-2 Kills),9.0,MAPS 1-2 Kills,174,2023-06-05
+83,Justin Herbert,2023 LAC,4675.5,Pass Yards,163,2023-09-07
+84,Clayton Robertson,Justin Doss/Byron Sisson,5.0,Bags On,132,2023-06-09
+85,Michael Porter Jr.,MIA 1st Half,7.5,PTS,84,2023-06-07
+86,Michael Porter Jr.,MIA 1st Half,12.0,PTS+TRB+AST,84,2023-06-07
+87,Michael Porter Jr.,MIA,14.5,PTS,7,2023-06-07
+88,Michael Porter Jr.,MIA,7.5,TRB,7,2023-06-07
+89,Michael Porter Jr.,MIA,23.5,PTS+TRB+AST,7,2023-06-07
+90,Shad,Entity (MAP 3 Kills),4.5,MAP 3 Kills,174,2023-06-05
+91,Michael Porter Jr.,MIA,2.5,3P,7,2023-06-07
+92,Michael Porter Jr.,MIA,8.5,TRB+AST,7,2023-06-07
+93,Michael Porter Jr.,MIA,16.5,PTS+AST,7,2023-06-07
+94,Gabe Vincent,DEN,19.5,PTS+TRB+AST,7,2023-06-07
+95,Trevor Lawrence,2023 JAX,4175.5,Pass Yards,163,2023-09-07
+96,Adzantick,Entity (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-06-05
+97,Cody Johnson,Vincent Frisch/Eric Anderson,14.0,Bags In,132,2023-06-09
+98,Gabe Vincent,DEN,13.5,PTS,7,2023-06-07
+99,Gabe Vincent,DEN,17.5,PTS+AST,7,2023-06-07
+100,Gabe Vincent,DEN,15.5,PTS+TRB,7,2023-06-07
+101,Cody Johnson,Vincent Frisch/Eric Anderson,5.0,Bags On,132,2023-06-09
+102,Gabe Vincent,DEN 1st Half,10.5,PTS+TRB+AST,84,2023-06-07
+103,Gabe Vincent,DEN 1st Half,7.5,PTS,84,2023-06-07
+104,Adzantick,Entity (MAPS 1-2 Kills),13.0,MAPS 1-2 Kills,174,2023-06-05
+105,Aaron Gordon,MIA,13.5,PTS,7,2023-06-07
+106,Aaron Gordon,MIA,19.5,PTS+TRB,7,2023-06-07
+107,Aaron Gordon,MIA,15.5,PTS+AST,7,2023-06-07
+108,watson,D1 H (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-06-05
+109,Coco Gauff,A. K. Schmiedlova (French Open),2.0,Aces,5,2023-06-05
+110,Aaron Gordon,MIA 1st Half,12.0,PTS+TRB+AST,84,2023-06-07
+111,Aaron Gordon,MIA,6.0,TRB,7,2023-06-07
+112,Aaron Gordon,MIA,0.5,3P,7,2023-06-07
+113,Aaron Gordon,MIA,8.5,TRB+AST,7,2023-06-07
+114,Coco Gauff,A. K. Schmiedlova (French Open),5.0,Break Points Won,5,2023-06-05
+115,Aaron Gordon,MIA,0.5,STL,7,2023-06-07
+116,Aaron Gordon,MIA,0.5,BLK,7,2023-06-07
+117,Aaron Gordon,MIA,21.5,PTS+TRB+AST,7,2023-06-07
+118,Coco Gauff,A. K. Schmiedlova (French Open),19.5,Total Games,5,2023-06-05
+119,Courtney Coy,Jason Frady/Curtis Haddox,5.0,Bags On,132,2023-06-09
+120,Aaron Gordon,MIA 1st Half,6.5,PTS,84,2023-06-07
+121,Anna Karolina Schmiedlova,C. Gauff (French Open),0.5,Aces,5,2023-06-05
+122,Jalen Hurts,2023 PHI,3675.5,Pass Yards,163,2023-09-07
+123,watson,D1 H (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-06-05
+124,Jeremy Frazier,Austin Schlobohm/Adam Hissner,15.0,Bags In,132,2023-06-09
+125,Max Strus,DEN,0.5,BLK+STL,7,2023-06-07
+126,Iga Swiatek,L. Tsurenko (French Open),1.0,Aces,5,2023-06-05
+127,Max Strus,DEN 1st Half,5.0,PTS,84,2023-06-07
+128,Stormstormer,D1 H (MAP 3 Kills),5.5,MAP 3 Kills,174,2023-06-05
+129,Jeremy Frazier,Austin Schlobohm/Adam Hissner,4.5,Bags On,132,2023-06-09
+130,Max Strus,DEN,11.5,PTS+AST,7,2023-06-07
+131,Stormstormer,D1 H (MAPS 1-2 Kills),11.0,MAPS 1-2 Kills,174,2023-06-05
+132,Max Strus,DEN,9.5,PTS,7,2023-06-07
+133,Iga Swiatek,L. Tsurenko (French Open),16.0,Total Games,5,2023-06-05
+134,Lamar Jackson,2023 BAL,3625.5,Pass Yards,163,2023-09-07
+135,Max Strus,DEN,12.5,PTS+TRB,7,2023-06-07
+136,Iga Swiatek,L. Tsurenko (French Open),5.5,Break Points Won,5,2023-06-05
+137,Lamar Ploppert,Justin Doss/Byron Sisson,5.0,Bags On,132,2023-06-09
+138,Bruce Brown,MIA 1st Half,8.5,PTS+TRB+AST,84,2023-06-07
+139,Lamar Ploppert,Justin Doss/Byron Sisson,14.0,Bags In,132,2023-06-09
+140,Bruce Brown,MIA,12.5,PTS+AST,7,2023-06-07
+141,Bruce Brown,MIA,10.5,PTS,7,2023-06-07
+142,Bruce Brown,MIA,16.5,PTS+TRB+AST,7,2023-06-07
+143,Bruce Brown,MIA,14.5,PTS+TRB,7,2023-06-07
+144,Bruce Brown,MIA 1st Half,5.5,PTS,84,2023-06-07
+145,Bryce Young,2023 CAR,3500.5,Pass Yards,163,2023-09-07
+146,Christopher O'Connell,D. Kudla (Surbiton),24.5,Total Games,5,2023-06-05
+147,DCMC,INF (MAP 3 Kills),6.5,MAP 3 Kills,174,2023-06-05
+148,Ryan Hart,Yetty Irwan/Matt Allen,14.5,Bags In,132,2023-06-09
+149,Ryan Hart,Yetty Irwan/Matt Allen,5.0,Bags On,132,2023-06-09
+150,DCMC,INF (MAPS 1-2 Kills),13.5,MAPS 1-2 Kills,174,2023-06-05
+151,Ryan Hart,Yetty Irwan/Matt Allen,1.5,Four Baggers,132,2023-06-09
+152,C.J. Stroud,2023 HOU,3425.5,Pass Yards,163,2023-09-07
+153,Sarah Cassidy,Josh Hill/Tyler Parent,4.5,Bags On,132,2023-06-09
+154,Kentavious Caldwell-Pope,MIA,12.5,PTS+TRB,7,2023-06-07
+155,Sarah Cassidy,Josh Hill/Tyler Parent,15.0,Bags In,132,2023-06-09
+156,Jason Kubler,G. Brouwer (Surbiton),22.5,Total Games,5,2023-06-05
+157,Kentavious Caldwell-Pope,MIA,11.5,PTS+AST,7,2023-06-07
+158,Sarah Cassidy,Josh Hill/Tyler Parent,1.5,Four Baggers,132,2023-06-09
+159,Kentavious Caldwell-Pope,MIA,9.5,PTS,7,2023-06-07
+160,Kentavious Caldwell-Pope,MIA 1st Half,5.0,PTS,84,2023-06-07
+161,Anthony Richardson,2023 IND,2599.5,Pass Yards,163,2023-09-07
+162,Kentavious Caldwell-Pope,MIA,1.5,3P,7,2023-06-07
+163,Jiri Vesely,R. Peniston (Surbiton),24.0,Total Games,5,2023-06-05
+164,Steve DeRycke,Vincent Frisch/Eric Anderson,15.0,Bags In,132,2023-06-09
+165,Steve DeRycke,Vincent Frisch/Eric Anderson,1.5,Four Baggers,132,2023-06-09
+166,Nengo,INF (MAPS 1-2 Kills),12.0,MAPS 1-2 Kills,174,2023-06-05
+167,Nengo,INF (MAP 3 Kills),6.0,MAP 3 Kills,174,2023-06-05
+168,Dak Prescott,2023 DAL,4175.5,Pass Yards,163,2023-09-07
+169,Steve DeRycke,Vincent Frisch/Eric Anderson,4.5,Bags On,132,2023-06-09
+170,Deshaun Watson,2023 CLE,3625.5,Pass Yards,163,2023-09-07
+171,Tony Hughes,Jason Frady/Curtis Haddox,14.0,Bags In,132,2023-06-09
+172,Tony Hughes,Jason Frady/Curtis Haddox,5.0,Bags On,132,2023-06-09
+173,Tua Tagovailoa,2023 MIA,3999.5,Pass Yards,163,2023-09-07
+174,Zachary Lewis,Yetty Irwan/Matt Allen,5.5,Bags On,132,2023-06-09
+175,mini,Balrogs (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-06-05
+176,mini,Balrogs (MAPS 1-2 Kills),14.0,MAPS 1-2 Kills,174,2023-06-05
+177,Zachary Lewis,Yetty Irwan/Matt Allen,11.0,Bags In,132,2023-06-09
+178,Adam Hissner,Chris Kingsbury/Jeremy Frazier,5.0,Bags On,132,2023-06-09
+179,Adam Hissner,Chris Kingsbury/Jeremy Frazier,1.5,Four Baggers,132,2023-06-09
+180,Russell Wilson,2023 DEN,3875.5,Pass Yards,163,2023-09-07
+181,Adam Hissner,Chris Kingsbury/Jeremy Frazier,14.5,Bags In,132,2023-06-09
+182,4dr,Balrogs (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-06-05
+183,Austin Schlobohm,Chris Kingsbury/Jeremy Frazier,14.5,Bags In,132,2023-06-09
+184,Austin Schlobohm,Chris Kingsbury/Jeremy Frazier,1.5,Four Baggers,132,2023-06-09
+185,Derek Carr,2023 NO,3875.5,Pass Yards,163,2023-09-07
+186,4dr,Balrogs (MAPS 1-2 Kills),15.0,MAPS 1-2 Kills,174,2023-06-05
+187,Austin Schlobohm,Chris Kingsbury/Jeremy Frazier,5.0,Bags On,132,2023-06-09
+188,Byron Sisson,Lamar Ploppert/Clayton Robertson,14.5,Bags In,132,2023-06-09
+189,Byron Sisson,Lamar Ploppert/Clayton Robertson,1.5,Four Baggers,132,2023-06-09
+190,Kirk Cousins,2023 MIN,4275.5,Pass Yards,163,2023-09-07
+191,Byron Sisson,Lamar Ploppert/Clayton Robertson,4.5,Bags On,132,2023-06-09
+192,Parker,EG (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-06-05
+193,Parker,EG (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-06-05
+194,Curtis Haddox,Tony Hughes/Courtney Coy,5.0,Bags On,132,2023-06-09
+195,Curtis Haddox,Tony Hughes/Courtney Coy,14.5,Bags In,132,2023-06-09
+196,Geno Smith,2023 SEA,3899.5,Pass Yards,163,2023-09-07
+197,Eric Anderson,Steve DeRycke/Cody Johnson,5.0,Bags On,132,2023-06-09
+198,Eric Anderson,Steve DeRycke/Cody Johnson,14.5,Bags In,132,2023-06-09
+199,Justin Fields,2023 CHI,2930.5,Pass Yards,163,2023-09-07
+200,Eric Anderson,Steve DeRycke/Cody Johnson,1.5,Four Baggers,132,2023-06-09
+201,Mac Jones,2023 NE,3399.5,Pass Yards,163,2023-09-07
+202,DarkMago,EG (MAP 3 Kills),7.0,MAP 3 Kills,174,2023-06-05
+203,DarkMago,EG (MAPS 1-2 Kills),14.5,MAPS 1-2 Kills,174,2023-06-05
+204,Frank Modlin,Blaine Rosier/Alex Rawls,4.5,Bags On,132,2023-06-09
+205,Frank Modlin,Blaine Rosier/Alex Rawls,14.5,Bags In,132,2023-06-09
+206,Frank Modlin,Blaine Rosier/Alex Rawls,1.5,Four Baggers,132,2023-06-09
+207,Jason Frady,Tony Hughes/Courtney Coy,14.0,Bags In,132,2023-06-09
+208,Aaron Nola,DET 1st Inning,14.5,Pitches Thrown,231,2023-06-05
+209,Bryce Harper,DET,8.5,Hitter Fantasy Score,2,2023-06-05
+210,Jason Frady,Tony Hughes/Courtney Coy,4.5,Bags On,132,2023-06-09
+211,Daniel Jones,2023 NYG,3275.5,Pass Yards,163,2023-09-07
+212,Jordan Love,2023 GB,3375.5,Pass Yards,163,2023-09-07
+213,Josh Hill,Cheyenne Bubenheim/Sarah Cassidy,14.0,Bags In,132,2023-06-09
+214,Josh Hill,Cheyenne Bubenheim/Sarah Cassidy,1.5,Four Baggers,132,2023-06-09
+215,Aaron Nola,DET,7.0,Pitcher Strikeouts,2,2023-06-05
+216,Pakazs,bc (MAPS 1-2 Kills),16.0,MAPS 1-2 Kills,174,2023-06-05
+217,Josh Hill,Cheyenne Bubenheim/Sarah Cassidy,5.0,Bags On,132,2023-06-09
+218,Joey Wentz,PHI 1st Inning,16.5,Pitches Thrown,231,2023-06-05
+219,Pakazs,bc (MAP 3 Kills),8.0,MAP 3 Kills,174,2023-06-05
+220,Javier Baez,PHI,5.5,Hitter Fantasy Score,2,2023-06-05
+221,Josh Holland,Blaine Rosier/Alex Rawls,14.5,Bags In,132,2023-06-09
+222,Josh Holland,Blaine Rosier/Alex Rawls,1.5,Four Baggers,132,2023-06-09
+223,Kenny Pickett,2023 PIT,3300.5,Pass Yards,163,2023-09-07
+224,Trea Turner,DET,7.5,Hitter Fantasy Score,2,2023-06-05
+225,Josh Holland,Blaine Rosier/Alex Rawls,4.5,Bags On,132,2023-06-09
+226,Jake Marisnick,PHI,0.5,Total Bases,2,2023-06-05
+227,Desmond Ridder,2023 ATL,2575.5,Pass Yards,163,2023-09-07
+228,Justin Doss,Lamar Ploppert/Clayton Robertson,14.5,Bags In,132,2023-06-09
+229,Nick Castellanos,DET,1.5,Total Bases,2,2023-06-05
+230,Chris Luck,bc (MAPS 1-2 Kills),15.5,MAPS 1-2 Kills,174,2023-06-05
+231,Justin Doss,Lamar Ploppert/Clayton Robertson,5.0,Bags On,132,2023-06-09
+232,Chris Luck,bc (MAP 3 Kills),7.5,MAP 3 Kills,174,2023-06-05
+233,Matt Allen,Zachary Lewis/Ryan Hart,1.5,Four Baggers,132,2023-06-09
+234,Matt Allen,Zachary Lewis/Ryan Hart,5.0,Bags On,132,2023-06-09
+235,Kyle Schwarber,DET,7.5,Hitter Fantasy Score,2,2023-06-05
+236,Nick Maton,PHI,0.5,Total Bases,2,2023-06-05
+237,Matt Allen,Zachary Lewis/Ryan Hart,14.5,Bags In,132,2023-06-09
+238,Tyler Parent,Cheyenne Bubenheim/Sarah Cassidy,5.0,Bags On,132,2023-06-09
+239,Trea Turner,DET,1.5,Total Bases,2,2023-06-05
+240,Tyler Parent,Cheyenne Bubenheim/Sarah Cassidy,14.0,Bags In,132,2023-06-09
+241,Vincent Frisch,Steve DeRycke/Cody Johnson,1.5,Four Baggers,132,2023-06-09
+242,Vincent Frisch,Steve DeRycke/Cody Johnson,5.0,Bags On,132,2023-06-09
+243,Vincent Frisch,Steve DeRycke/Cody Johnson,14.5,Bags In,132,2023-06-09
+244,Yetty Irwan,Zachary Lewis/Ryan Hart,1.5,Four Baggers,132,2023-06-09
+245,Yetty Irwan,Zachary Lewis/Ryan Hart,5.0,Bags On,132,2023-06-09
+246,Yetty Irwan,Zachary Lewis/Ryan Hart,14.5,Bags In,132,2023-06-09
+247,Adrian Brunson,Zachary Lewis/Ryan Hart,5.0,Bags On,132,2023-06-10
+248,Adrian Brunson,Zachary Lewis/Ryan Hart,14.0,Bags In,132,2023-06-10
+249,Connie Altice,Tony Hughes/Courtney Coy,1.5,Four Baggers,132,2023-06-10
+250,Connie Altice,Tony Hughes/Courtney Coy,14.5,Bags In,132,2023-06-10
+251,Connie Altice,Tony Hughes/Courtney Coy,5.0,Bags On,132,2023-06-10
+252,David Ryon,Lamar Ploppert/Clayton Robertson,5.0,Bags On,132,2023-06-10
+253,David Ryon,Lamar Ploppert/Clayton Robertson,1.5,Four Baggers,132,2023-06-10
+254,David Ryon,Lamar Ploppert/Clayton Robertson,14.0,Bags In,132,2023-06-10
+255,Devon Harbaugh,Alex Rawls/Blaine Rosier,4.0,Bags On,132,2023-06-10
+256,Devon Harbaugh,Alex Rawls/Blaine Rosier,15.0,Bags In,132,2023-06-10
+257,Elizabeth Tennyson,Tony Hughes/Courtney Coy,5.0,Bags On,132,2023-06-10
+258,Elizabeth Tennyson,Tony Hughes/Courtney Coy,14.0,Bags In,132,2023-06-10
+259,Gage Landis,Zachary Lewis/Ryan Hart,14.0,Bags In,132,2023-06-10
+260,Gage Landis,Zachary Lewis/Ryan Hart,1.5,Four Baggers,132,2023-06-10
+261,Gage Landis,Zachary Lewis/Ryan Hart,5.0,Bags On,132,2023-06-10
+262,Jacob Foreman,Cody Johnson/Steve DeRycke,5.0,Bags On,132,2023-06-10
+263,Jacob Foreman,Cody Johnson/Steve DeRycke,1.5,Four Baggers,132,2023-06-10
+264,Jacob Foreman,Cody Johnson/Steve DeRycke,14.5,Bags In,132,2023-06-10
+265,Justin Burton Jr,Alex Rawls/Blaine Rosier,1.5,Four Baggers,132,2023-06-10
+266,Justin Burton Jr,Alex Rawls/Blaine Rosier,14.5,Bags In,132,2023-06-10
+267,Justin Burton Jr,Alex Rawls/Blaine Rosier,4.5,Bags On,132,2023-06-10
+268,Kenzie Beach,Cheyenne Bubenheim/Sarah Cassidy,5.0,Bags On,132,2023-06-10
+269,Kenzie Beach,Cheyenne Bubenheim/Sarah Cassidy,14.0,Bags In,132,2023-06-10
+270,Matthew Creekkiller,Cody Johnson/Steve DeRycke,5.0,Bags On,132,2023-06-10
+271,Matthew Creekkiller,Cody Johnson/Steve DeRycke,14.5,Bags In,132,2023-06-10
+272,Matthew Creekkiller,Cody Johnson/Steve DeRycke,1.5,Four Baggers,132,2023-06-10
+273,Megan Maupin,Lamar Ploppert/Clayton Robertson,13.5,Bags In,132,2023-06-10
+274,Megan Maupin,Lamar Ploppert/Clayton Robertson,5.5,Bags On,132,2023-06-10
+275,Braxton Garrett,KC 1st Inning,15.0,Pitches Thrown,231,2023-06-05
+276,Nate Long,Cheyenne Bubenheim/Sarah Cassidy,14.0,Bags In,132,2023-06-10
+277,Nate Long,Cheyenne Bubenheim/Sarah Cassidy,5.0,Bags On,132,2023-06-10
+278,Bobby Witt Jr.,MIA,8.0,Hitter Fantasy Score,2,2023-06-05
+279,Trey Hunt,Chris Kingsbury/Jeremy Frazier,5.0,Bags On,132,2023-06-10
+280,Bryan De La Cruz,KC,7.5,Hitter Fantasy Score,2,2023-06-05
+281,Carlos Hernandez,MIA 1st Inning,16.5,Pitches Thrown,231,2023-06-05
+282,Trey Hunt,Chris Kingsbury/Jeremy Frazier,13.5,Bags In,132,2023-06-10
+283,Tubby Cobb,Chris Kingsbury/Jeremy Frazier,14.0,Bags In,132,2023-06-10
+284,Jonathan Davis,KC,0.5,Total Bases,2,2023-06-05
+285,Salvador Perez,MIA,6.5,Hitter Fantasy Score,2,2023-06-05
+286,Tubby Cobb,Chris Kingsbury/Jeremy Frazier,1.5,Four Baggers,132,2023-06-10
+287,Tubby Cobb,Chris Kingsbury/Jeremy Frazier,5.0,Bags On,132,2023-06-10
+288,Alex Rawls,Justin Burton Jr/Devon Harbaugh,5.0,Bags On,132,2023-06-10
+289,Luis Arraez,KC,1.5,Total Bases,2,2023-06-05
+290,Jorge Soler,KC,6.5,Hitter Fantasy Score,2,2023-06-05
+291,Alex Rawls,Justin Burton Jr/Devon Harbaugh,1.5,Four Baggers,132,2023-06-10
+292,Blaine Rosier,Justin Burton Jr/Devon Harbaugh,1.5,Four Baggers,132,2023-06-10
+293,Alex Rawls,Justin Burton Jr/Devon Harbaugh,14.5,Bags In,132,2023-06-10
+294,Blaine Rosier,Justin Burton Jr/Devon Harbaugh,5.0,Bags On,132,2023-06-10
+295,Cheyenne Bubenheim,Nate Long/Kenzie Beach,4.5,Bags On,132,2023-06-10
+296,Blaine Rosier,Justin Burton Jr/Devon Harbaugh,14.5,Bags In,132,2023-06-10
+297,Chris Kingsbury,Tubby Cobb/Trey Hunt,4.5,Bags On,132,2023-06-10
+298,Chris Kingsbury,Tubby Cobb/Trey Hunt,1.5,Four Baggers,132,2023-06-10
+299,Cheyenne Bubenheim,Nate Long/Kenzie Beach,15.0,Bags In,132,2023-06-10
+300,Chris Kingsbury,Tubby Cobb/Trey Hunt,14.5,Bags In,132,2023-06-10
+301,Clayton Robertson,Megan Maupin/David Ryon,5.0,Bags On,132,2023-06-10
+302,Cody Johnson,Jacob Foreman/Matthew Creekkiller,5.0,Bags On,132,2023-06-10
+303,Cody Johnson,Jacob Foreman/Matthew Creekkiller,14.0,Bags In,132,2023-06-10
+304,Courtney Coy,Elizabeth Tennyson/Connie Altice,5.0,Bags On,132,2023-06-10
+305,Jeremy Frazier,Tubby Cobb/Trey Hunt,4.5,Bags On,132,2023-06-10
+306,Jeremy Frazier,Tubby Cobb/Trey Hunt,15.0,Bags In,132,2023-06-10
+307,Lamar Ploppert,Megan Maupin/David Ryon,5.0,Bags On,132,2023-06-10
+308,Ryan Hart,Gage Landis/Adrian Brunson,1.5,Four Baggers,132,2023-06-10
+309,Lamar Ploppert,Megan Maupin/David Ryon,14.0,Bags In,132,2023-06-10
+310,Ryan Hart,Gage Landis/Adrian Brunson,5.0,Bags On,132,2023-06-10
+311,Ryan Hart,Gage Landis/Adrian Brunson,14.5,Bags In,132,2023-06-10
+312,Sarah Cassidy,Nate Long/Kenzie Beach,1.5,Four Baggers,132,2023-06-10
+313,Sarah Cassidy,Nate Long/Kenzie Beach,4.5,Bags On,132,2023-06-10
+314,Steve DeRycke,Jacob Foreman/Matthew Creekkiller,4.5,Bags On,132,2023-06-10
+315,Sarah Cassidy,Nate Long/Kenzie Beach,15.0,Bags In,132,2023-06-10
+316,Steve DeRycke,Jacob Foreman/Matthew Creekkiller,15.0,Bags In,132,2023-06-10
+317,Tony Hughes,Elizabeth Tennyson/Connie Altice,5.0,Bags On,132,2023-06-10
+318,Zachary Lewis,Gage Landis/Adrian Brunson,6.0,Bags On,132,2023-06-10
+319,Tony Hughes,Elizabeth Tennyson/Connie Altice,14.0,Bags In,132,2023-06-10
+320,Zachary Lewis,Gage Landis/Adrian Brunson,11.0,Bags In,132,2023-06-10
+321,Chris Day,Hunter Thorne/Koby Costanza,5.0,Bags On,132,2023-06-10
+322,Chris Day,Hunter Thorne/Koby Costanza,14.0,Bags In,132,2023-06-10
+323,Chuckie Love,Alan Rawls/Tyce Cobb,1.5,Four Baggers,132,2023-06-10
+324,Chuckie Love,Alan Rawls/Tyce Cobb,5.0,Bags On,132,2023-06-10
+325,Daniel Walker Jr,David Brown/Chris Seaton,5.5,Bags On,132,2023-06-10
+326,Chuckie Love,Alan Rawls/Tyce Cobb,14.5,Bags In,132,2023-06-10
+327,Andrew McCutchen,OAK,7.5,Hitter Fantasy Score,2,2023-06-05
+328,Johan Oviedo,OAK 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+329,Bryan Reynolds,OAK,7.5,Hitter Fantasy Score,2,2023-06-05
+330,Jacob Beamer,Alan Rawls/Tyce Cobb,4.5,Bags On,132,2023-06-10
+331,Daniel Walker Jr,David Brown/Chris Seaton,13.5,Bags In,132,2023-06-10
+332,JP Sears,PIT 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+333,Jaime Sanchez,Eric Zocklein/Jay Dotson,5.0,Bags On,132,2023-06-10
+334,Austin Hedges,OAK,0.5,Total Bases,2,2023-06-05
+335,Jacob Beamer,Alan Rawls/Tyce Cobb,14.5,Bags In,132,2023-06-10
+336,Jared Kuhfuss,Tanner Halbert/Cody Henderson,5.5,Bags On,132,2023-06-10
+337,Bryan Reynolds,OAK,1.5,Total Bases,2,2023-06-05
+338,Jaime Sanchez,Eric Zocklein/Jay Dotson,14.0,Bags In,132,2023-06-10
+339,Jared Kuhfuss,Tanner Halbert/Cody Henderson,11.0,Bags In,132,2023-06-10
+340,Jeremy Schermerhorn,Jeremiah Hector/Carter Bennett,5.0,Bags On,132,2023-06-10
+341,Jay Rubin,Hunter Thorne/Koby Costanza,14.5,Bags In,132,2023-06-10
+342,Jeremy Schermerhorn,Jeremiah Hector/Carter Bennett,1.5,Four Baggers,132,2023-06-10
+343,Joe Kniesteadt,Jeremiah Hector/Carter Bennett,4.5,Bags On,132,2023-06-10
+344,Jeremy Schermerhorn,Jeremiah Hector/Carter Bennett,14.5,Bags In,132,2023-06-10
+345,Joe Kniesteadt,Jeremiah Hector/Carter Bennett,15.0,Bags In,132,2023-06-10
+346,Jordan Power,Vanessa Fillingim/Trey Baker,4.5,Bags On,132,2023-06-10
+347,Jordan Power,Vanessa Fillingim/Trey Baker,1.5,Four Baggers,132,2023-06-10
+348,Kris Morrison,Eric Zocklein/Jay Dotson,5.0,Bags On,132,2023-06-10
+349,Jordan Power,Vanessa Fillingim/Trey Baker,14.5,Bags In,132,2023-06-10
+350,Mike Ferreira,Vanessa Fillingim/Trey Baker,5.0,Bags On,132,2023-06-10
+351,Kris Morrison,Eric Zocklein/Jay Dotson,14.0,Bags In,132,2023-06-10
+352,Mike Ferreira,Vanessa Fillingim/Trey Baker,1.5,Four Baggers,132,2023-06-10
+353,Mike Ferreira,Vanessa Fillingim/Trey Baker,14.5,Bags In,132,2023-06-10
+354,Tom Walter,David Brown/Chris Seaton,5.5,Bags On,132,2023-06-10
+355,Trevor Kuhfuss,Tanner Halbert/Cody Henderson,5.0,Bags On,132,2023-06-10
+356,Tom Walter,David Brown/Chris Seaton,13.5,Bags In,132,2023-06-10
+357,Trevor Kuhfuss,Tanner Halbert/Cody Henderson,14.0,Bags In,132,2023-06-10
+358,Alan Rawls,Jacob Beamer/Chuckie Love,1.5,Four Baggers,132,2023-06-10
+359,Alan Rawls,Jacob Beamer/Chuckie Love,4.5,Bags On,132,2023-06-10
+360,Alan Rawls,Jacob Beamer/Chuckie Love,14.5,Bags In,132,2023-06-10
+361,Carter Bennett,Joe Knieasteadt/Jeremy Schermerhorn,4.5,Bags On,132,2023-06-10
+362,Carter Bennett,Joe Knieasteadt/Jeremy Schermerhorn,1.5,Four Baggers,132,2023-06-10
+363,Chris Seaton,Tom Walter/Daniel Walker Jr,5.0,Bags On,132,2023-06-10
+364,Carter Bennett,Joe Knieasteadt/Jeremy Schermerhorn,14.5,Bags In,132,2023-06-10
+365,Chris Seaton,Tom Walter/Daniel Walker Jr,11.0,Bags In,132,2023-06-10
+366,Cody Henderson,Trevor Kuhfuss/Jared Kuhfuss,1.5,Four Baggers,132,2023-06-10
+367,Cody Henderson,Trevor Kuhfuss/Jared Kuhfuss,4.5,Bags On,132,2023-06-10
+368,Cody Henderson,Trevor Kuhfuss/Jared Kuhfuss,15.0,Bags In,132,2023-06-10
+369,David Brown,Tom Walter/Daniel Walker Jr,5.0,Bags On,132,2023-06-10
+370,David Brown,Tom Walter/Daniel Walker Jr,13.5,Bags In,132,2023-06-10
+371,Eric Zocklein,Jaime Sanchez/Kris Morrison,1.5,Four Baggers,132,2023-06-10
+372,Eric Zocklein,Jaime Sanchez/Kris Morrison,5.0,Bags On,132,2023-06-10
+373,Eric Zocklein,Jaime Sanchez/Kris Morrison,14.5,Bags In,132,2023-06-10
+374,Hunter Thorne,Jay Rubin/Chris Day,5.0,Bags On,132,2023-06-10
+375,Alek Manoah,HOU 1st Inning,16.5,Pitches Thrown,231,2023-06-05
+376,Hunter Thorne,Jay Rubin/Chris Day,14.0,Bags In,132,2023-06-10
+377,Alek Manoah,HOU,4.5,Pitcher Strikeouts,2,2023-06-05
+378,Jay Dotson,Jaime Sanchez/Kris Morrison,1.5,Four Baggers,132,2023-06-10
+379,Yordan Alvarez,TOR,7.5,Hitter Fantasy Score,2,2023-06-05
+380,Jay Dotson,Jaime Sanchez/Kris Morrison,4.5,Bags On,132,2023-06-10
+381,Jeremiah Hector,Joe Knieasteadt/Jeremy Schermerhorn,1.5,Four Baggers,132,2023-06-10
+382,Brandon Bielak,TOR 1st Inning,16.5,Pitches Thrown,231,2023-06-05
+383,Jay Dotson,Jaime Sanchez/Kris Morrison,15.0,Bags In,132,2023-06-10
+384,Vladimir Guerrero Jr.,HOU,7.5,Hitter Fantasy Score,2,2023-06-05
+385,Jeremiah Hector,Joe Knieasteadt/Jeremy Schermerhorn,4.5,Bags On,132,2023-06-10
+386,Brandon Bielak,TOR,3.0,Pitcher Strikeouts,2,2023-06-05
+387,Jeremiah Hector,Joe Knieasteadt/Jeremy Schermerhorn,15.0,Bags In,132,2023-06-10
+388,Bo Bichette,HOU,1.5,Total Bases,2,2023-06-05
+389,Koby Costanza,Jay Rubin/Chris Day,5.0,Bags On,132,2023-06-10
+390,Alex Bregman,TOR,7.0,Hitter Fantasy Score,2,2023-06-05
+391,Tanner Halbert,Trevor Kuhfuss/Jared Kuhfuss,4.5,Bags On,132,2023-06-10
+392,Tanner Halbert,Trevor Kuhfuss/Jared Kuhfuss,1.5,Four Baggers,132,2023-06-10
+393,Koby Costanza,Jay Rubin/Chris Day,14.0,Bags In,132,2023-06-10
+394,Bo Bichette,HOU,8.0,Hitter Fantasy Score,2,2023-06-05
+395,Kyle Tucker,TOR,7.0,Hitter Fantasy Score,2,2023-06-05
+396,Vladimir Guerrero Jr.,HOU,1.5,Total Bases,2,2023-06-05
+397,Trey Baker,Jordan Power/Mike Ferreira,5.5,Bags On,132,2023-06-10
+398,Tanner Halbert,Trevor Kuhfuss/Jared Kuhfuss,14.5,Bags In,132,2023-06-10
+399,Trey Baker,Jordan Power/Mike Ferreira,13.5,Bags In,132,2023-06-10
+400,George Springer,HOU,7.5,Hitter Fantasy Score,2,2023-06-05
+401,Tyce Cobb,Jacob Beamer/Chuckie Love,5.0,Bags On,132,2023-06-10
+402,Tyce Cobb,Jacob Beamer/Chuckie Love,14.0,Bags In,132,2023-06-10
+403,Vanessa Fillingim,Jordan Power/Mike Ferreira,5.0,Bags On,132,2023-06-10
+404,Vanessa Fillingim,Jordan Power/Mike Ferreira,14.0,Bags In,132,2023-06-10
+405,Alec Ryon,Ryan Windsor/Gavin Cano,5.0,Bags On,132,2023-06-10
+406,Alec Ryon,Ryan Windsor/Gavin Cano,1.5,Four Baggers,132,2023-06-10
+407,Alec Ryon,Ryan Windsor/Gavin Cano,14.5,Bags In,132,2023-06-10
+408,Bracey Blanton,Brandon Brown/Anthony Mayball,1.5,Four Baggers,132,2023-06-10
+409,Bracey Blanton,Brandon Brown/Anthony Mayball,5.0,Bags On,132,2023-06-10
+410,Corey Gilbert,Isidro Herrera/Jalen Jones,5.0,Bags On,132,2023-06-10
+411,Bracey Blanton,Brandon Brown/Anthony Mayball,14.0,Bags In,132,2023-06-10
+412,Corey Gilbert,Isidro Herrera/Jalen Jones,14.0,Bags In,132,2023-06-10
+413,Dalton Mcklem,Emily Downer/Cristian Rodriguez,5.5,Bags On,132,2023-06-10
+414,Dalton Mcklem,Emily Downer/Cristian Rodriguez,13.5,Bags In,132,2023-06-10
+415,James Cumberland,Matthew Troxell/Matthew Morton,5.0,Bags On,132,2023-06-10
+416,James Cumberland,Matthew Troxell/Matthew Morton,14.0,Bags In,132,2023-06-10
+417,Jay Corley,Austin Reynard/Ethan Walker,5.0,Bags On,132,2023-06-10
+418,Jay Corley,Austin Reynard/Ethan Walker,14.0,Bags In,132,2023-06-10
+419,Nick Williams,Steven Bernacet/John Fuentez,5.0,Bags On,132,2023-06-10
+420,Nick Williams,Steven Bernacet/John Fuentez,1.5,Four Baggers,132,2023-06-10
+421,Peter Zazueta Jr,Steven Bernacet/John Fuentez,4.5,Bags On,132,2023-06-10
+422,Peter Zazueta Jr,Steven Bernacet/John Fuentez,1.5,Four Baggers,132,2023-06-10
+423,Nick Williams,Steven Bernacet/John Fuentez,14.0,Bags In,132,2023-06-10
+424,Ricky Gonzales,Isidro Herrera/Jalen Jones,5.0,Bags On,132,2023-06-10
+425,Peter Zazueta Jr,Steven Bernacet/John Fuentez,15.0,Bags In,132,2023-06-10
+426,Ricky Gonzales,Isidro Herrera/Jalen Jones,1.5,Four Baggers,132,2023-06-10
+427,Ricky Gonzales,Isidro Herrera/Jalen Jones,14.5,Bags In,132,2023-06-10
+428,Rosie Streker,Emily Downer/Cristian Rodriguez,4.5,Bags On,132,2023-06-10
+429,Rosie Streker,Emily Downer/Cristian Rodriguez,15.0,Bags In,132,2023-06-10
+430,Ruben Medina,Matthew Troxell/Matthew Morton,5.0,Bags On,132,2023-06-10
+431,Ruben Medina,Matthew Troxell/Matthew Morton,1.5,Four Baggers,132,2023-06-10
+432,Ruben Medina,Matthew Troxell/Matthew Morton,14.0,Bags In,132,2023-06-10
+433,Tony Smith,Ryan Windsor/Gavin Cano,5.0,Bags On,132,2023-06-10
+434,Tony Smith,Ryan Windsor/Gavin Cano,1.5,Four Baggers,132,2023-06-10
+435,Jonathan Marchessault + Matthew Tkachuk,FLA/VGK,6.5,Shots On Goal,8,2023-06-05
+436,Jack Eichel + Aleksander Barkov,FLA/VGK,5.5,Shots On Goal,8,2023-06-05
+437,Tony Smith,Ryan Windsor/Gavin Cano,14.5,Bags In,132,2023-06-10
+438,Julio Teheran,CIN 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+439,Jonathan India,MIL,7.5,Hitter Fantasy Score,2,2023-06-05
+440,Derrick Henry,2023 TEN,1275.5,Rush Yards,163,2023-09-07
+441,Justin Jefferson,2023 MIN,1450.5,Receiving Yards,163,2023-09-07
+442,Travis Purser,Brandon Brown/Anthony Mayball,4.5,Bags On,132,2023-06-10
+443,Travis Purser,Brandon Brown/Anthony Mayball,1.5,Four Baggers,132,2023-06-10
+444,Alex Pietrangelo + Brandon Montour,FLA/VGK,5.0,Shots On Goal,8,2023-06-05
+445,Tyreek Hill,2023 MIA,1299.5,Receiving Yards,163,2023-09-07
+446,Christian Yelich,CIN,7.5,Hitter Fantasy Score,2,2023-06-05
+447,Jonathan Taylor,2023 IND,1300.5,Rush Yards,163,2023-09-07
+448,Zachary Engelken,Austin Reynard/Ethan Walker,1.5,Four Baggers,132,2023-06-10
+449,Zachary Engelken,Austin Reynard/Ethan Walker,5.0,Bags On,132,2023-06-10
+450,Travis Purser,Brandon Brown/Anthony Mayball,15.0,Bags In,132,2023-06-10
+451,Matt McLain,MIL,7.5,Hitter Fantasy Score,2,2023-06-05
+452,William Carrier + Nicolas Roy,FLA/VGK,3.5,Shots On Goal,8,2023-06-05
+453,Mike Brosseau,CIN,0.5,Total Bases,2,2023-06-05
+454,Nick Chubb,2023 CLE,1275.5,Rush Yards,163,2023-09-07
+455,Zachary Engelken,Austin Reynard/Ethan Walker,14.5,Bags In,132,2023-06-10
+456,Ja'Marr Chase,2023 CIN,1325.5,Receiving Yards,163,2023-09-07
+457,Anthony Mayball,Bracey Blanton/Travis Purser,1.5,Four Baggers,132,2023-06-10
+458,Mark Stone + Ivan Barbashev,FLA,3.5,Shots On Goal,8,2023-06-05
+459,Travis Etienne Jr.,2023 JAX,1125.5,Rush Yards,163,2023-09-07
+460,Anthony Mayball,Bracey Blanton/Travis Purser,4.5,Bags On,132,2023-06-10
+461,Travis Kelce,2023 KC,1150.5,Receiving Yards,163,2023-09-07
+462,Austin Reynard,Jay Corley/Zachary Engelken,5.0,Bags On,132,2023-06-10
+463,Stefon Diggs,2023 BUF,1225.5,Receiving Yards,163,2023-09-07
+464,Sam Bennett + Carter Verhaeghe,VGK,6.5,Shots On Goal,8,2023-06-05
+465,Anthony Mayball,Bracey Blanton/Travis Purser,14.5,Bags In,132,2023-06-10
+466,Najee Harris,2023 PIT,1050.5,Rush Yards,163,2023-09-07
+467,Austin Reynard,Jay Corley/Zachary Engelken,14.0,Bags In,132,2023-06-10
+468,Brandon Brown,Bracey Blanton/Travis Purser,5.0,Bags On,132,2023-06-10
+469,CeeDee Lamb,2023 DAL,1225.5,Receiving Yards,163,2023-09-07
+470,Jack Eichel + Sam Bennett,FLA/VGK,0.5,Goals,8,2023-06-05
+471,Davante Adams,2023 LV,1250.5,Receiving Yards,163,2023-09-07
+472,Brandon Brown,Bracey Blanton/Travis Purser,14.0,Bags In,132,2023-06-10
+473,Cristian Rodriguez,Dalton Mcklem/Rosie Streker,6.0,Bags On,132,2023-06-10
+474,Jonathan Marchessault + Aleksander Barkov,FLA/VGK,0.5,Goals,8,2023-06-05
+475,Josh Allen,2023 BUF,600.5,Rush Yards,163,2023-09-07
+476,William Karlsson + Matthew Tkachuk,FLA/VGK,0.5,Goals,8,2023-06-05
+477,Emily Downer,Dalton Mcklem/Rosie Streker,5.5,Bags On,132,2023-06-10
+478,Jalen Hurts,2023 PHI,725.5,Rush Yards,163,2023-09-07
+479,Cristian Rodriguez,Dalton Mcklem/Rosie Streker,11.0,Bags In,132,2023-06-10
+480,Amon-Ra St. Brown	,2023 DET,1150.5,Receiving Yards,163,2023-09-07
+481,Emily Downer,Dalton Mcklem/Rosie Streker,13.5,Bags In,132,2023-06-10
+482,Ethan Walker,Jay Corley/Zachary Engelken,5.5,Bags On,132,2023-06-10
+483,Mark Stone + Carter Verhaeghe,FLA/VGK,0.5,Goals,8,2023-06-05
+484,DK Metcalf,2023 SEA,999.5,Receiving Yards,163,2023-09-07
+485,Adin Hill + Sergei Bobrovsky,FLA/VGK,0.5,Goals Allowed in First 9 Minutes,8,2023-06-05
+486,Gavin Cano,Tony Smith/Alec Ryon,1.5,Four Baggers,132,2023-06-10
+487,AJ Brown,2023 PHI,1150.5,Receiving Yards,163,2023-09-07
+488,Ethan Walker,Jay Corley/Zachary Engelken,14.0,Bags In,132,2023-06-10
+489,Gavin Cano,Tony Smith/Alec Ryon,5.0,Bags On,132,2023-06-10
+490,Lamar Jackson,2023 BAL,850.5,Rush Yards,163,2023-09-07
+491,Isidro Herrera,Ricky Gonzales/Corey Gilbert,1.5,Four Baggers,132,2023-06-10
+492,Gavin Cano,Tony Smith/Alec Ryon,14.0,Bags In,132,2023-06-10
+493,Devonta Smith,2023 PHI,1100.5,Receiving Yards,163,2023-09-07
+494,Isidro Herrera,Ricky Gonzales/Corey Gilbert,5.0,Bags On,132,2023-06-10
+495,Garrett Wilson,2023 NYJ,1149.5,Receiving Yards,163,2023-09-07
+496,Isidro Herrera,Ricky Gonzales/Corey Gilbert,14.5,Bags In,132,2023-06-10
+497,Jalen Jones,Ricky Gonzales/Corey Gilbert,5.0,Bags On,132,2023-06-10
+498,John Fuentez,Nick Williams/Peter Zazueta,5.0,Bags On,132,2023-06-10
+499,Jalen Jones,Ricky Gonzales/Corey Gilbert,14.0,Bags In,132,2023-06-10
+500,Matthew Morton,Ruben Medina/James Cumberland Jr,6.0,Bags On,132,2023-06-10
+501,John Fuentez,Nick Williams/Peter Zazueta,14.0,Bags In,132,2023-06-10
+502,Matthew Troxell,Ruben Medina/James Cumberland Jr,1.5,Four Baggers,132,2023-06-10
+503,Matthew Troxell,Ruben Medina/James Cumberland Jr,5.0,Bags On,132,2023-06-10
+504,Matthew Morton,Ruben Medina/James Cumberland Jr,10.5,Bags In,132,2023-06-10
+505,Ryan Windsor,Tony Smith/Alec Ryon,4.5,Bags On,132,2023-06-10
+506,Matthew Troxell,Ruben Medina/James Cumberland Jr,14.0,Bags In,132,2023-06-10
+507,Ryan Windsor,Tony Smith/Alec Ryon,1.5,Four Baggers,132,2023-06-10
+508,Steven Bernacet,Nick Williams/Peter Zazueta,4.5,Bags On,132,2023-06-10
+509,Steven Bernacet,Nick Williams/Peter Zazueta,1.5,Four Baggers,132,2023-06-10
+510,Ryan Windsor,Tony Smith/Alec Ryon,15.0,Bags In,132,2023-06-10
+511,Steven Bernacet,Nick Williams/Peter Zazueta,14.5,Bags In,132,2023-06-10
+512,Bill Hadley,James Baldwin/Jamie Graham,1.5,Four Baggers,132,2023-06-10
+513,Bill Hadley,James Baldwin/Jamie Graham,4.5,Bags On,132,2023-06-10
+514,Bill Hadley,James Baldwin/Jamie Graham,14.5,Bags In,132,2023-06-10
+515,Branden Davis,Kaylee Hunter/Chad Hunt,5.0,Bags On,132,2023-06-10
+516,Corey Seager,STL,8.0,Hitter Fantasy Score,2,2023-06-05
+517,Brandon Jones,Erick Davis/Derrick King,5.5,Bags On,132,2023-06-10
+518,Branden Davis,Kaylee Hunter/Chad Hunt,14.5,Bags In,132,2023-06-10
+519,Martin Perez,STL,4.0,Pitcher Strikeouts,2,2023-06-05
+520,Adam Wainwright,TEX 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+521,Corey Seager,STL,1.5,Total Bases,2,2023-06-05
+522,Christian Brown,Kaylee Hunter/Chad Hunt,5.5,Bags On,132,2023-06-10
+523,Nolan Arenado,TEX,1.5,Total Bases,2,2023-06-05
+524,Brandon Jones,Erick Davis/Derrick King,13.5,Bags In,132,2023-06-10
+525,Martin Perez,STL 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+526,Nolan Arenado,TEX,7.5,Hitter Fantasy Score,2,2023-06-05
+527,Marcus Semien,STL,7.5,Hitter Fantasy Score,2,2023-06-05
+528,Marcus Semien,STL,1.5,Total Bases,2,2023-06-05
+529,Cody Morris,Berklee Pair/Kevin Whitaker,5.0,Bags On,132,2023-06-10
+530,Christian Brown,Kaylee Hunter/Chad Hunt,13.5,Bags In,132,2023-06-10
+531,Paul Goldschmidt,TEX,7.5,Hitter Fantasy Score,2,2023-06-05
+532,Cody Morris,Berklee Pair/Kevin Whitaker,14.0,Bags In,132,2023-06-10
+533,Corey Ballard,Nick Petuske/David Morse,5.0,Bags On,132,2023-06-10
+534,Jahmyr Gibbs,2023 DET,599.5,Rush Yards,163,2023-09-07
+535,Derek Holland,Erick Davis/Derrick King,4.5,Bags On,132,2023-06-10
+536,Jaxon Smith-Njigba,2023 SEA,799.5,Receiving Yards,163,2023-09-07
+537,Corey Ballard,Nick Petuske/David Morse,14.5,Bags In,132,2023-06-10
+538,Quentin Johnston ,2023 LAC,650.5,Receiving Yards,163,2023-09-07
+539,D'Andre Swift,2023 PHI,599.5,Rush Yards,163,2023-09-07
+540,Derek Holland,Erick Davis/Derrick King,15.0,Bags In,132,2023-06-10
+541,Doug Zafft,James Baldwin/Jamie Graham,1.5,Four Baggers,132,2023-06-10
+542,Doug Zafft,James Baldwin/Jamie Graham,5.0,Bags On,132,2023-06-10
+543,Zay Flowers,2023 BAL,625.5,Receiving Yards,163,2023-09-07
+544,Florentino Mendoza,Dayton Webber/Mike Harvey,5.0,Bags On,132,2023-06-10
+545,Doug Zafft,James Baldwin/Jamie Graham,14.5,Bags In,132,2023-06-10
+546,Jordan Addison,2023 MIN,825.5,Receiving Yards,163,2023-09-07
+547,Jeff Reynolds,Miranda Coy/Lori Dool,4.5,Bags On,132,2023-06-10
+548,Florentino Mendoza,Dayton Webber/Mike Harvey,14.0,Bags In,132,2023-06-10
+549,Jeff Reynolds,Miranda Coy/Lori Dool,1.5,Four Baggers,132,2023-06-10
+550,Moses Zazueta,Nick Petuske/David Morse,4.5,Bags On,132,2023-06-10
+551,Jeff Reynolds,Miranda Coy/Lori Dool,15.0,Bags In,132,2023-06-10
+552,Moses Zazueta,Nick Petuske/David Morse,15.0,Bags In,132,2023-06-10
+553,Ryan Tucker,Berklee Pair/Kevin Whitaker,5.0,Bags On,132,2023-06-10
+554,Steve Schroeder,Dayton Webber/Mike Harvey,4.5,Bags On,132,2023-06-10
+555,Ryan Tucker,Berklee Pair/Kevin Whitaker,14.0,Bags In,132,2023-06-10
+556,Steve Schroeder,Dayton Webber/Mike Harvey,1.5,Four Baggers,132,2023-06-10
+557,Ty Lopez,Miranda Coy/Lori Dool,5.0,Bags On,132,2023-06-10
+558,Steve Schroeder,Dayton Webber/Mike Harvey,15.0,Bags In,132,2023-06-10
+559,Ty Lopez,Miranda Coy/Lori Dool,1.5,Four Baggers,132,2023-06-10
+560,Ty Lopez,Miranda Coy/Lori Dool,14.5,Bags In,132,2023-06-10
+561,Berklee Pair,Cody Morris/Ryan Tucker,5.0,Bags On,132,2023-06-10
+562,Chad Hunt,Branden Davis/Christian Brown,5.5,Bags On,132,2023-06-10
+563,Berklee Pair,Cody Morris/Ryan Tucker,14.0,Bags In,132,2023-06-10
+564,Chad Hunt,Branden Davis/Christian Brown,14.0,Bags In,132,2023-06-10
+565,David Morse,Corey Ballard/Moses Zazueta,6.0,Bags On,132,2023-06-10
+566,Dayton Webber,Florentino Mendoza/Steve Schroeder,4.5,Bags On,132,2023-06-10
+567,David Morse,Corey Ballard/Moses Zazueta,11.0,Bags In,132,2023-06-10
+568,Dayton Webber,Florentino Mendoza/Steve Schroeder,14.0,Bags In,132,2023-06-10
+569,Derrick King,Derek Holland/Brandon Jones,4.5,Bags On,132,2023-06-10
+570,Derrick King,Derek Holland/Brandon Jones,1.5,Four Baggers,132,2023-06-10
+571,Erick Davis,Derek Holland/Brandon Jones,1.5,Four Baggers,132,2023-06-10
+572,Erick Davis,Derek Holland/Brandon Jones,5.0,Bags On,132,2023-06-10
+573,Derrick King,Derek Holland/Brandon Jones,14.5,Bags In,132,2023-06-10
+574,Erick Davis,Derek Holland/Brandon Jones,14.5,Bags In,132,2023-06-10
+575,James Baldwin,Doug Zafft/Bill Hadley,5.0,Bags On,132,2023-06-10
+576,Fernando Tatis Jr.,CHC,8.0,Hitter Fantasy Score,2,2023-06-05
+577,Blake Snell,CHC,7.0,Pitcher Strikeouts,2,2023-06-05
+578,Jamie Graham,Doug Zafft/Bill Hadley,1.5,Four Baggers,132,2023-06-10
+579,Blake Snell,CHC 1st Inning,15.5,Pitches Thrown,231,2023-06-05
+580,James Baldwin,Doug Zafft/Bill Hadley,14.0,Bags In,132,2023-06-10
+581,Jamie Graham,Doug Zafft/Bill Hadley,4.5,Bags On,132,2023-06-10
+582,Dansby Swanson,SD,7.0,Hitter Fantasy Score,2,2023-06-05
+583,Kaylee Hunter,Branden Davis/Christian Brown,5.0,Bags On,132,2023-06-10
+584,Kaylee Hunter,Branden Davis/Christian Brown,1.5,Four Baggers,132,2023-06-10
+585,Jamie Graham,Doug Zafft/Bill Hadley,14.5,Bags In,132,2023-06-10
+586,Kyle Hendricks,SD 1st Inning,16.0,Pitches Thrown,231,2023-06-05
+587,Kyle Hendricks,SD,3.5,Pitcher Strikeouts,2,2023-06-05
+588,Kevin Whitaker,Cody Morris/Ryan Tucker,1.5,Four Baggers,132,2023-06-10
+589,Juan Soto,CHC,7.0,Hitter Fantasy Score,2,2023-06-05
+590,Christopher Morel,SD,0.5,Total Bases,2,2023-06-05
+591,Kevin Whitaker,Cody Morris/Ryan Tucker,4.5,Bags On,132,2023-06-10
+592,Kaylee Hunter,Branden Davis/Christian Brown,14.5,Bags In,132,2023-06-10
+593,Fernando Tatis Jr.,CHC,1.5,Total Bases,2,2023-06-05
+594,Nico Hoerner,SD,7.0,Hitter Fantasy Score,2,2023-06-05
+595,Lori Dool,Jeff Reynolds/Ty Lopez,5.5,Bags On,132,2023-06-10
+596,Kevin Whitaker,Cody Morris/Ryan Tucker,14.5,Bags In,132,2023-06-10
+597,Mike Harvey,Florentino Mendoza/Steve Schroeder,5.0,Bags On,132,2023-06-10
+598,Lori Dool,Jeff Reynolds/Ty Lopez,14.0,Bags In,132,2023-06-10
+599,Mike Harvey,Florentino Mendoza/Steve Schroeder,1.5,Four Baggers,132,2023-06-10
+600,Mike Tauchman,SD,0.5,Total Bases,2,2023-06-05
+601,Mike Harvey,Florentino Mendoza/Steve Schroeder,14.5,Bags In,132,2023-06-10
+602,Miranda Coy,Jeff Reynolds/Ty Lopez,5.0,Bags On,132,2023-06-10
+603,Miranda Coy,Jeff Reynolds/Ty Lopez,1.5,Four Baggers,132,2023-06-10
+604,Trent Grisham,CHC,0.5,Total Bases,2,2023-06-05
+605,Miranda Coy,Jeff Reynolds/Ty Lopez,14.0,Bags In,132,2023-06-10
+606,Nick Petuske,Corey Ballard/Moses Zazueta,5.0,Bags On,132,2023-06-10
+607,Nick Petuske,Corey Ballard/Moses Zazueta,14.0,Bags In,132,2023-06-10
+608,Bobby Hunt,Clint Parham/Jimmy McGuffin,5.0,Bags On,132,2023-06-11
+609,Bobby Hunt,Clint Parham/Jimmy McGuffin,1.5,Four Baggers,132,2023-06-11
+610,Caleb Franklin,Tyler Poythress/Nico Mireles,5.0,Bags On,132,2023-06-11
+611,Caleb Franklin,Tyler Poythress/Nico Mireles,1.5,Four Baggers,132,2023-06-11
+612,Bobby Hunt,Clint Parham/Jimmy McGuffin,14.5,Bags In,132,2023-06-11
+613,David Searle,Rob Vojinov/Kevin Allen,5.0,Bags On,132,2023-06-11
+614,Caleb Franklin,Tyler Poythress/Nico Mireles,14.5,Bags In,132,2023-06-11
+615,David Searle,Rob Vojinov/Kevin Allen,14.0,Bags In,132,2023-06-11
+616,Dean Norton,Felix Vargas/Blake Karnick,4.5,Bags On,132,2023-06-11
+617,Dean Norton,Felix Vargas/Blake Karnick,1.5,Four Baggers,132,2023-06-11
+618,Duncan Clemmer,Philip Lopez Jr/Jordan Kimbrell,1.5,Four Baggers,132,2023-06-11
+619,Duncan Clemmer,Philip Lopez Jr/Jordan Kimbrell,4.5,Bags On,132,2023-06-11
+620,Dean Norton,Felix Vargas/Blake Karnick,14.5,Bags In,132,2023-06-11
+621,Hunter Yaklin,Clint Parham/Jimmy McGuffin,5.0,Bags On,132,2023-06-11
+622,Hunter Yaklin,Clint Parham/Jimmy McGuffin,1.5,Four Baggers,132,2023-06-11
+623,Duncan Clemmer,Philip Lopez Jr/Jordan Kimbrell,14.0,Bags In,132,2023-06-11
+624,Isabella Surprenant,Mark Richards/Timmy Jonas,5.0,Bags On,132,2023-06-11
+625,Hunter Yaklin,Clint Parham/Jimmy McGuffin,14.5,Bags In,132,2023-06-11
+626,Isabella Surprenant,Mark Richards/Timmy Jonas,14.5,Bags In,132,2023-06-11
+627,Kamryn Belvin,Felix Vargas/Blake Karnick,5.0,Bags On,132,2023-06-11
+628,Kamryn Belvin,Felix Vargas/Blake Karnick,1.5,Four Baggers,132,2023-06-11
+629,Kamryn Belvin,Felix Vargas/Blake Karnick,14.0,Bags In,132,2023-06-11
+630,Ken Smith Jr,Brandon Sehlmeyer/Daniela Luna,5.0,Bags On,132,2023-06-11
+631,Mark Lopez,Brandon Sehlmeyer/Daniela Luna,5.0,Bags On,132,2023-06-11
+632,Ken Smith Jr,Brandon Sehlmeyer/Daniela Luna,14.0,Bags In,132,2023-06-11
+633,Noah Wooten,Tyler Poythress/Nico Mireles,5.0,Bags On,132,2023-06-11
+634,Noah Wooten,Tyler Poythress/Nico Mireles,1.5,Four Baggers,132,2023-06-11
+635,Mark Lopez,Brandon Sehlmeyer/Daniela Luna,14.0,Bags In,132,2023-06-11
+636,Ryan Smith,Mark Richards/Timmy Jonas,1.5,Four Baggers,132,2023-06-11
+637,Ryan Smith,Mark Richards/Timmy Jonas,5.0,Bags On,132,2023-06-11
+638,Noah Wooten,Tyler Poythress/Nico Mireles,14.5,Bags In,132,2023-06-11
+639,Terry Mathis,Philip Lopez Jr/Jordan Kimbrell,4.5,Bags On,132,2023-06-11
+640,Terry Mathis,Philip Lopez Jr/Jordan Kimbrell,1.5,Four Baggers,132,2023-06-11
+641,Ryan Smith,Mark Richards/Timmy Jonas,14.5,Bags In,132,2023-06-11
+642,Travis Graven,Rob Vojinov/Kevin Allen,1.5,Four Baggers,132,2023-06-11
+643,Travis Graven,Rob Vojinov/Kevin Allen,5.0,Bags On,132,2023-06-11
+644,Terry Mathis,Philip Lopez Jr/Jordan Kimbrell,14.5,Bags In,132,2023-06-11
+645,Travis Graven,Rob Vojinov/Kevin Allen,14.0,Bags In,132,2023-06-11
+646,Blake Karnick,Kamryn Belvin/Dean Norton,5.0,Bags On,132,2023-06-11
+647,Blake Karnick,Kamryn Belvin/Dean Norton,1.5,Four Baggers,132,2023-06-11
+648,Brandon Sehlmeyer,Mark Lopez/Ken Smith Jr,5.0,Bags On,132,2023-06-11
+649,Brandon Sehlmeyer,Mark Lopez/Ken Smith Jr,1.5,Four Baggers,132,2023-06-11
+650,Blake Karnick,Kamryn Belvin/Dean Norton,14.5,Bags In,132,2023-06-11
+651,Clint Parham,Bobby Hunt/Hunter Yaklin,5.0,Bags On,132,2023-06-11
+652,Clint Parham,Bobby Hunt/Hunter Yaklin,1.5,Four Baggers,132,2023-06-11
+653,Brandon Sehlmeyer,Mark Lopez/Ken Smith Jr,14.5,Bags In,132,2023-06-11
+654,Clint Parham,Bobby Hunt/Hunter Yaklin,14.5,Bags In,132,2023-06-11
+655,Daniela Luna,Mark Lopez/Ken Smith Jr,5.5,Bags On,132,2023-06-11
+656,Daniela Luna,Mark Lopez/Ken Smith Jr,14.0,Bags In,132,2023-06-11
+657,Felix Vargas III,Kamryn Belvin/Dean Norton,5.0,Bags On,132,2023-06-11
+658,Felix Vargas III,Kamryn Belvin/Dean Norton,1.5,Four Baggers,132,2023-06-11
+659,Felix Vargas III,Kamryn Belvin/Dean Norton,14.0,Bags In,132,2023-06-11
+660,Jimmy McGuffin,Bobby Hunt/Hunter Yaklin,1.5,Four Baggers,132,2023-06-11
+661,Jimmy McGuffin,Bobby Hunt/Hunter Yaklin,4.5,Bags On,132,2023-06-11
+662,Jimmy McGuffin,Bobby Hunt/Hunter Yaklin,15.0,Bags In,132,2023-06-11
+663,Jordan Kimbrell,Duncan Clemmer/Terry Mathis,1.5,Four Baggers,132,2023-06-11
+664,Jordan Kimbrell,Duncan Clemmer/Terry Mathis,5.0,Bags On,132,2023-06-11
+665,Kevin Allen,Travis Graven/David Searle,5.5,Bags On,132,2023-06-11
+666,Jordan Kimbrell,Duncan Clemmer/Terry Mathis,14.5,Bags In,132,2023-06-11
+667,Mark Richards,Ryan Smith/Isabella Surprenant,1.5,Four Baggers,132,2023-06-11
+668,Mark Richards,Ryan Smith/Isabella Surprenant,4.5,Bags On,132,2023-06-11
+669,Kevin Allen,Travis Graven/David Searle,14.0,Bags In,132,2023-06-11
+670,Mark Richards,Ryan Smith/Isabella Surprenant,14.5,Bags In,132,2023-06-11
+671,Nico Mireles,Noah Wooten/Caleb Franklin,4.5,Bags On,132,2023-06-11
+672,Nico Mireles,Noah Wooten/Caleb Franklin,15.0,Bags In,132,2023-06-11
+673,Philip Lopez Jr.,Duncan Clemmer/Terry Mathis,1.5,Four Baggers,132,2023-06-11
+674,Philip Lopez Jr.,Duncan Clemmer/Terry Mathis,5.0,Bags On,132,2023-06-11
+675,Rob Vojinov,Travis Graven/David Searle,1.5,Four Baggers,132,2023-06-11
+676,Rob Vojinov,Travis Graven/David Searle,5.0,Bags On,132,2023-06-11
+677,Philip Lopez Jr.,Duncan Clemmer/Terry Mathis,14.5,Bags In,132,2023-06-11
+678,Rob Vojinov,Travis Graven/David Searle,14.0,Bags In,132,2023-06-11
+679,Timmy Jonas,Ryan Smith/Isabella Surprenant,1.5,Four Baggers,132,2023-06-11
+680,Timmy Jonas,Ryan Smith/Isabella Surprenant,5.0,Bags On,132,2023-06-11
+681,Tyler Poythress,Noah Wooten/Caleb Franklin,4.5,Bags On,132,2023-06-11
+682,Tyler Poythress,Noah Wooten/Caleb Franklin,1.5,Four Baggers,132,2023-06-11
+683,Timmy Jonas,Ryan Smith/Isabella Surprenant,14.5,Bags In,132,2023-06-11
+684,Tyler Poythress,Noah Wooten/Caleb Franklin,14.5,Bags In,132,2023-06-11
+685,Odell Beckham Jr.,2023 BAL,575.5,Receiving Yards,163,2023-09-07
+686,Rainwaker,MASONIC,20.0,MAP 3 Kills,124,2023-06-05
+687,REDSTAR,MASONIC,19.0,MAP 3 Kills,124,2023-06-05
+688,dennyslaw,MASONIC,18.5,MAP 3 Kills,124,2023-06-05
+689,J3nsyy,500,19.0,MAP 3 Kills,124,2023-06-05
+690,notaN,500,17.5,MAP 3 Kills,124,2023-06-05
+691,Tauson,500,17.0,MAP 3 Kills,124,2023-06-05
+692,Rainwaker,MASONIC,7.5,MAP 3 Headshots,124,2023-06-05
+693,REDSTAR,MASONIC,9.5,MAP 3 Headshots,124,2023-06-05
+694,dennyslaw,MASONIC,6.0,MAP 3 Headshots,124,2023-06-05
+695,J3nsyy,500,5.5,MAP 3 Headshots,124,2023-06-05
+696,notaN,500,9.0,MAP 3 Headshots,124,2023-06-05
+697,Tauson,500,8.5,MAP 3 Headshots,124,2023-06-05
+698,ragga,Let us cook,18.5,MAP 3 Kills,124,2023-06-05
+699,BTN,Let us cook,14.0,MAP 3 Kills,124,2023-06-05
+700,MoDo,Let us cook,19.5,MAP 3 Kills,124,2023-06-05
+701,mwlky,Nexus,19.5,MAP 3 Kills,124,2023-06-05
+702,s0und,Nexus,18.0,MAP 3 Kills,124,2023-06-05
+703,Snax,Nexus,17.5,MAP 3 Kills,124,2023-06-05
+704,ragga,Let us cook,9.5,MAP 3 Headshots,124,2023-06-05
+705,BTN,Let us cook,6.5,MAP 3 Headshots,124,2023-06-05
+706,MoDo,Let us cook,6.0,MAP 3 Headshots,124,2023-06-05
+707,mwlky,Nexus,5.5,MAP 3 Headshots,124,2023-06-05
+708,s0und,Nexus,11.0,MAP 3 Headshots,124,2023-06-05
+709,Snax,Nexus,7.5,MAP 3 Headshots,124,2023-06-05
+710,br0,Ignis Serpens,38.5,MAPS 1-2 Kills,124,2023-06-05
+711,br0,Ignis Serpens,18.0,MAP 3 Kills,124,2023-06-05
+712,Kristou,Ignis Serpens,33.5,MAPS 1-2 Kills,124,2023-06-05
+713,Kristou,Ignis Serpens,16.5,MAP 3 Kills,124,2023-06-05
+714,MistR,Ignis Serpens,37.0,MAPS 1-2 Kills,124,2023-06-05
+715,MistR,Ignis Serpens,18.5,MAP 3 Kills,124,2023-06-05
+716,casey,Astralis Talent,40.5,MAPS 1-2 Kills,124,2023-06-05
+717,casey,Astralis Talent,19.5,MAP 3 Kills,124,2023-06-05
+718,olimp,Astralis Talent,38.5,MAPS 1-2 Kills,124,2023-06-05
+719,olimp,Astralis Talent,18.0,MAP 3 Kills,124,2023-06-05
+720,sNx,Astralis Talent,15.5,MAP 3 Kills,124,2023-06-05
+721,sNx,Astralis Talent,33.5,MAPS 1-2 Kills,124,2023-06-05
+722,br0,Ignis Serpens,22.0,MAPS 1-2 Headshots,124,2023-06-05
+723,br0,Ignis Serpens,11.0,MAP 3 Headshots,124,2023-06-05
+724,Kristou,Ignis Serpens,12.5,MAPS 1-2 Headshots,124,2023-06-05
+725,Kristou,Ignis Serpens,6.0,MAP 3 Headshots,124,2023-06-05
+726,MistR,Ignis Serpens,8.0,MAP 3 Headshots,124,2023-06-05
+727,MistR,Ignis Serpens,16.0,MAPS 1-2 Headshots,124,2023-06-05
+728,casey,Astralis Talent,20.5,MAPS 1-2 Headshots,124,2023-06-05
+729,casey,Astralis Talent,10.0,MAP 3 Headshots,124,2023-06-05
+730,olimp,Astralis Talent,9.0,MAP 3 Headshots,124,2023-06-05
+731,olimp,Astralis Talent,18.0,MAPS 1-2 Headshots,124,2023-06-05
+732,sNx,Astralis Talent,8.5,MAP 3 Headshots,124,2023-06-05
+733,sNx,Astralis Talent,17.0,MAPS 1-2 Headshots,124,2023-06-05
+734,MATYS,Anonymo,22.0,MAP 3 Kills,124,2023-06-05
+735,MATYS,Anonymo,44.0,MAPS 1-2 Kills,124,2023-06-05
+736,sAvana1,Anonymo,17.5,MAP 3 Kills,124,2023-06-05
+737,sAvana1,Anonymo,35.0,MAPS 1-2 Kills,124,2023-06-05
+738,Blogg1s,Anonymo,39.5,MAPS 1-2 Kills,124,2023-06-05
+739,Blogg1s,Anonymo,19.5,MAP 3 Kills,124,2023-06-05
+740,reiko,Sampi,21.0,MAP 3 Kills,124,2023-06-05
+741,reiko,Sampi,42.5,MAPS 1-2 Kills,124,2023-06-05
+742,Sobol,Sampi,19.5,MAP 3 Kills,124,2023-06-05
+743,Sobol,Sampi,39.0,MAPS 1-2 Kills,124,2023-06-05
+744,SaMey,Sampi,18.5,MAP 3 Kills,124,2023-06-05
+745,SaMey,Sampi,37.5,MAPS 1-2 Kills,124,2023-06-05
+746,MATYS,Anonymo,26.5,MAPS 1-2 Headshots,124,2023-06-05
+747,MATYS,Anonymo,13.0,MAP 3 Headshots,124,2023-06-05
+748,sAvana1,Anonymo,19.5,MAPS 1-2 Headshots,124,2023-06-05
+749,sAvana1,Anonymo,9.5,MAP 3 Headshots,124,2023-06-05
+750,Blogg1s,Anonymo,12.0,MAPS 1-2 Headshots,124,2023-06-05
+751,Blogg1s,Anonymo,6.0,MAP 3 Headshots,124,2023-06-05
+752,reiko,Sampi,19.0,MAPS 1-2 Headshots,124,2023-06-05
+753,reiko,Sampi,9.5,MAP 3 Headshots,124,2023-06-05
+754,Sobol,Sampi,10.0,MAP 3 Headshots,124,2023-06-05
+755,Sobol,Sampi,20.0,MAPS 1-2 Headshots,124,2023-06-05
+756,SaMey,Sampi,12.0,MAPS 1-2 Headshots,124,2023-06-05
+757,SaMey,Sampi,6.5,MAP 3 Headshots,124,2023-06-05
+758,Soulfly,Young Ninjas,36.0,MAPS 1-2 Kills,124,2023-06-05
+759,Soulfly,Young Ninjas,18.5,MAP 3 Kills,124,2023-06-05
+760,kory,Young Ninjas,18.0,MAP 3 Kills,124,2023-06-05
+761,kory,Young Ninjas,36.5,MAPS 1-2 Kills,124,2023-06-05
+762,ScrunK,Young Ninjas,16.0,MAP 3 Kills,124,2023-06-05
+763,ScrunK,Young Ninjas,30.5,MAPS 1-2 Kills,124,2023-06-05
+764,nilo,Sangal,20.5,MAP 3 Kills,124,2023-06-05
+765,nilo,Sangal,41.0,MAPS 1-2 Kills,124,2023-06-05
+766,eraa,Sangal,35.5,MAPS 1-2 Kills,124,2023-06-05
+767,eraa,Sangal,17.5,MAP 3 Kills,124,2023-06-05
+768,LNZ,Sangal,34.5,MAPS 1-2 Kills,124,2023-06-05
+769,LNZ,Sangal,16.5,MAP 3 Kills,124,2023-06-05
+770,Soulfly,Young Ninjas,9.5,MAP 3 Headshots,124,2023-06-05
+771,Soulfly,Young Ninjas,19.5,MAPS 1-2 Headshots,124,2023-06-05
+772,kory,Young Ninjas,9.0,MAP 3 Headshots,124,2023-06-05
+773,kory,Young Ninjas,18.5,MAPS 1-2 Headshots,124,2023-06-05
+774,ScrunK,Young Ninjas,17.0,MAPS 1-2 Headshots,124,2023-06-05
+775,ScrunK,Young Ninjas,7.5,MAP 3 Headshots,124,2023-06-05
+776,nilo,Sangal,10.5,MAP 3 Headshots,124,2023-06-05
+777,nilo,Sangal,21.0,MAPS 1-2 Headshots,124,2023-06-05
+778,eraa,Sangal,12.5,MAPS 1-2 Headshots,124,2023-06-05
+779,eraa,Sangal,6.0,MAP 3 Headshots,124,2023-06-05
+780,LNZ,Sangal,8.5,MAP 3 Headshots,124,2023-06-05
+781,LNZ,Sangal,17.0,MAPS 1-2 Headshots,124,2023-06-05
+782,Aleksander Barkov,VGK,12.0,Faceoffs Won,8,2023-06-05
+783,William Karlsson,FLA,7.5,Faceoffs Won,8,2023-06-05
+784,Anton Lundell,VGK,5.0,Faceoffs Won,8,2023-06-05
+785,Chandler Stephenson,FLA,7.5,Faceoffs Won,8,2023-06-05
+786,Sam Bennett,VGK,5.5,Faceoffs Won,8,2023-06-05
+787,Jack Eichel,FLA,6.0,Faceoffs Won,8,2023-06-05
+788,Matthew Tkachuk,VGK (Regulation Only),20.5,Time On Ice,8,2023-06-05
+789,Jack Eichel,FLA (Regulation Only),19.5,Time On Ice,8,2023-06-05
+790,Aleksander Barkov,VGK (Regulation Only),21.75,Time On Ice,8,2023-06-05
+791,William Karlsson,FLA (Regulation Only),17.0,Time On Ice,8,2023-06-05
+792,Aaron Ekblad,VGK (Regulation Only),23.0,Time On Ice,8,2023-06-05
+793,Shea Theodore,FLA (Regulation Only),20.0,Time On Ice,8,2023-06-05
+794,Brandon Montour,VGK (Regulation Only),25.25,Time On Ice,8,2023-06-05
+795,Alex Pietrangelo,FLA (Regulation Only),22.75,Time On Ice,8,2023-06-05
+796,Keegan Kolesar,FLA,3.5,Hits,8,2023-06-05
+797,Radko Gudas,VGK,4.5,Hits,8,2023-06-05
+798,William Karlsson,FLA,0.5,Hits,8,2023-06-05
+799,Aaron Ekblad,VGK,1.5,Hits,8,2023-06-05
+800,Nicolas Roy,FLA,1.5,Hits,8,2023-06-05
+801,Nick Cousins,VGK,2.5,Hits,8,2023-06-05
+802,Ivan Barbashev,FLA,3.5,Hits,8,2023-06-05
+803,Shea Theodore,FLA,0.5,Hits,8,2023-06-05
+804,Ryan Lomberg,VGK,3.0,Hits,8,2023-06-05
+805,William Carrier,FLA,3.0,Hits,8,2023-06-05
+806,Eric Staal,VGK,0.5,Hits,8,2023-06-05
+807,Aaron Ekblad,VGK,1.5,BLK,8,2023-06-05
+808,Alec Martinez,FLA,2.5,BLK,8,2023-06-05
+809,Brandon Montour,VGK,1.5,BLK,8,2023-06-05
+810,Alex Pietrangelo,FLA,2.5,BLK,8,2023-06-05
+811,Gustav Forsling,VGK,1.5,BLK,8,2023-06-05
+812,Aaron Ekblad,VGK,2.0,Shots On Goal,8,2023-06-05
+813,Alex Pietrangelo,FLA,2.0,Shots On Goal,8,2023-06-05
+814,Aleksander Barkov,VGK,2.5,Shots On Goal,8,2023-06-05
+815,Ivan Barbashev,FLA,1.5,Shots On Goal,8,2023-06-05
+816,Anthony Duclair,VGK,2.0,Shots On Goal,8,2023-06-05
+817,Jack Eichel,FLA,3.0,Shots On Goal,8,2023-06-05
+818,Brandon Montour,VGK,3.0,Shots On Goal,8,2023-06-05
+819,Jonathan Marchessault,FLA,3.0,Shots On Goal,8,2023-06-05
+820,Carter Verhaeghe,VGK,3.0,Shots On Goal,8,2023-06-05
+821,Mark Stone,FLA,2.0,Shots On Goal,8,2023-06-05
+822,Gustav Forsling,VGK,2.0,Shots On Goal,8,2023-06-05
+823,Nicolas Roy,FLA,1.5,Shots On Goal,8,2023-06-05
+824,Matthew Tkachuk,VGK,3.5,Shots On Goal,8,2023-06-05
+825,Reilly Smith,FLA,2.0,Shots On Goal,8,2023-06-05
+826,Sam Bennett,VGK,3.0,Shots On Goal,8,2023-06-05
+827,Shea Theodore,FLA,2.0,Shots On Goal,8,2023-06-05
+828,Sam Reinhart,VGK,2.5,Shots On Goal,8,2023-06-05
+829,William Karlsson,FLA,2.0,Shots On Goal,8,2023-06-05
+830,Eric Staal,VGK,0.5,Shots On Goal,8,2023-06-05
+831,Keegan Kolesar,FLA,0.5,Shots On Goal,8,2023-06-05
+832,Aleksander Barkov,VGK,3.5,SOG + BS,8,2023-06-05
+833,Reilly Smith,FLA,2.5,SOG + BS,8,2023-06-05
+834,Brandon Montour,VGK,4.5,SOG + BS,8,2023-06-05
+835,Alex Pietrangelo,FLA,4.5,SOG + BS,8,2023-06-05
+836,Aaron Ekblad,VGK,3.5,SOG + BS,8,2023-06-05
+837,Alec Martinez,FLA,3.5,SOG + BS,8,2023-06-05
+838,Radko Gudas,VGK,2.5,SOG + BS,8,2023-06-05

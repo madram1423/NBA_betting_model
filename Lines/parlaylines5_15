@@ -1,0 +1,165 @@
+,Player,Team,Stat,Line,Date
+0,iM,GamerLe,Kills,40.5,2023-05-15
+1,siuhy,GamerLe,Kills,34.5,2023-05-15
+2,acoR,GamerLe,Kills,35.5,2023-05-15
+3,jL,Apeks,Kills,40.5,2023-05-15
+4,jkaem,Apeks,Kills,41.5,2023-05-15
+5,nawwk,Apeks,Kills,37.5,2023-05-15
+6,Daniel Iversen,LEI,SV,3.5,2023-05-15
+7,James Maddison,LEI,SHO,2.0,2023-05-15
+8,James Maddison,LEI,SOG,0.5,2023-05-15
+9,Harvey Barnes,LEI,SHO,2.0,2023-05-15
+10,Harvey Barnes,LEI,SOG,0.5,2023-05-15
+11,Jamie Vardy,LEI,SHO,1.5,2023-05-15
+12,Jamie Vardy,LEI,SOG,0.5,2023-05-15
+13,Patson Daka,LEI,SHO,1.5,2023-05-15
+14,Patson Daka,LEI,SOG,0.5,2023-05-15
+15,Mohamed Salah,LIV,SHO,3.5,2023-05-15
+16,Cody Gakpo,LIV,SHO,2.0,2023-05-15
+17,Alisson,LIV,SV,2.5,2023-05-15
+18,Diogo Jota,LIV,SHO,2.5,2023-05-15
+19,Luis Díaz,LIV,SHO,2.0,2023-05-15
+20,Trent Alexander-Arnold,LIV,SHO,1.0,2023-05-15
+21,Virgil van Dijk,LIV,SHO,0.5,2023-05-15
+22,Stole Dimitrievski,RAY,SV,3.0,2023-05-15
+23,Raúl de Tomás,RAY,SHO,2.0,2023-05-15
+24,Raúl de Tomás,RAY,SOG,0.5,2023-05-15
+25,Isi Palazón,RAY,SHO,2.0,2023-05-15
+26,Isi Palazón,RAY,SOG,0.5,2023-05-15
+27,Álvaro García,RAY,SHO,1.0,2023-05-15
+28,Santi Comesaña,RAY,SHO,0.5,2023-05-15
+29,Óscar Trejo,RAY,SHO,0.5,2023-05-15
+30,Rui Silva,BET,SV,2.5,2023-05-15
+31,Sergio Canales,BET,SHO,1.5,2023-05-15
+32,Ayoze Pérez,BET,SHO,1.5,2023-05-15
+33,Ayoze Pérez,BET,SOG,0.5,2023-05-15
+34,Willian José,BET,SHO,1.5,2023-05-15
+35,Willian José,BET,SOG,0.5,2023-05-15
+36,Luiz Henrique,BET,SHO,1.0,2023-05-15
+37,Guido Rodríguez,BET,SHO,0.5,2023-05-15
+38,Youssouf Sabaly,BET,SHO,0.5,2023-05-15
+39,David Peterson,NYM,SO (K),5.0,2023-05-15
+40,David Peterson,NYM,H,5.0,2023-05-15
+41,Francisco Lindor,NYM,TB,1.5,2023-05-15
+42,Francisco Lindor,NYM,FPTS,10.0,2023-05-15
+43,Brandon Nimmo,NYM,FPTS,10.0,2023-05-15
+44,Pete Alonso,NYM,TB,1.5,2023-05-15
+45,Pete Alonso,NYM,FPTS,10.0,2023-05-15
+46,Patrick Corbin,WSH,SO (K),4.0,2023-05-15
+47,Patrick Corbin,WSH,H,6.5,2023-05-15
+48,Patrick Corbin,WSH,BB,1.5,2023-05-15
+49,Alex Call,WSH,FPTS,7.5,2023-05-15
+50,Joey Meneses,WSH,FPTS,7.5,2023-05-15
+51,Keibert Ruiz,WSH,FPTS,7.0,2023-05-15
+52,Grayson Rodriguez,BAL,SO (K),5.5,2023-05-15
+53,Grayson Rodriguez,BAL,H,5.0,2023-05-15
+54,Adley Rutschman,BAL,FPTS,7.5,2023-05-15
+55,Ryan Mountcastle,BAL,FPTS,6.5,2023-05-15
+56,Shohei Ohtani,LAA,SO (K),7.0,2023-05-15
+57,Shohei Ohtani,LAA,H,4.5,2023-05-15
+58,Mike Trout,LAA,FPTS,10.0,2023-05-15
+59,Vladimir Guerrero Jr.,TOR,FPTS,10.5,2023-05-15
+60,Bo Bichette,TOR,FPTS,10.0,2023-05-15
+61,George Springer,TOR,FPTS,9.0,2023-05-15
+62,Aaron Judge,NYY,FPTS,10.5,2023-05-15
+63,Anthony Rizzo,NYY,FPTS,9.0,2023-05-15
+64,DJ LeMahieu,NYY,FPTS,7.5,2023-05-15
+65,George Kirby,SEA,SO (K),4.0,2023-05-15
+66,George Kirby,SEA,H,6.0,2023-05-15
+67,Ty France,SEA,FPTS,8.5,2023-05-15
+68,Julio Rodríguez,SEA,FPTS,9.0,2023-05-15
+69,Jarred Kelenic,SEA,FPTS,7.5,2023-05-15
+70,Tanner Houck,BOS,SO (K),5.0,2023-05-15
+71,Tanner Houck,BOS,H,5.0,2023-05-15
+72,Alex Verdugo,BOS,TB,1.5,2023-05-15
+73,Alex Verdugo,BOS,FPTS,7.5,2023-05-15
+74,Rafael Devers,BOS,TB,1.5,2023-05-15
+75,Rafael Devers,BOS,FPTS,9.0,2023-05-15
+76,Masataka Yoshida,BOS,FPTS,7.5,2023-05-15
+77,Nolan Arenado,STL,FPTS,7.5,2023-05-15
+78,Paul Goldschmidt,STL,FPTS,9.0,2023-05-15
+79,Freddy Peralta,MIL,SO (K),5.5,2023-05-15
+80,Christian Yelich,MIL,FPTS,9.0,2023-05-15
+81,Willy Adames,MIL,FPTS,7.5,2023-05-15
+82,Jason Robertson,DAL,SHO,3.0,2023-05-15
+83,Jason Robertson,DAL,FPTS,5.5,2023-05-15
+84,Jani Hakanpaa,DAL,HIT,4.5,2023-05-15
+85,Jani Hakanpaa,DAL,FPTS,8.0,2023-05-15
+86,Miro Heiskanen,DAL,SHO,2.0,2023-05-15
+87,Miro Heiskanen,DAL,BS,1.5,2023-05-15
+88,Miro Heiskanen,DAL,FPTS,5.0,2023-05-15
+89,Roope Hintz,DAL,SHO,3.0,2023-05-15
+90,Roope Hintz,DAL,BS,0.5,2023-05-15
+91,Roope Hintz,DAL,FPTS,6.0,2023-05-15
+92,Wyatt Johnston,DAL,HIT,0.5,2023-05-15
+93,Ty Dellandrea,DAL,HIT,2.0,2023-05-15
+94,Joel Kiviranta,DAL,HIT,2.0,2023-05-15
+95,Joe Pavelski,DAL,SHO,2.0,2023-05-15
+96,Joe Pavelski,DAL,FPTS,5.0,2023-05-15
+97,Tyler Seguin,DAL,SHO,2.0,2023-05-15
+98,Tyler Seguin,DAL,FPTS,4.0,2023-05-15
+99,Jamie Benn,DAL,SHO,2.0,2023-05-15
+100,Jamie Benn,DAL,HIT,2.0,2023-05-15
+101,Jamie Benn,DAL,FPTS,6.0,2023-05-15
+102,Ryan Suter,DAL,BS,2.0,2023-05-15
+103,Ryan Suter,DAL,FPTS,5.5,2023-05-15
+104,Eeli Tolvanen,SEA,SHO,2.0,2023-05-15
+105,Eeli Tolvanen,SEA,HIT,2.5,2023-05-15
+106,Eeli Tolvanen,SEA,FPTS,6.5,2023-05-15
+107,Jaden Schwartz,SEA,SHO,2.0,2023-05-15
+108,Vince Dunn,SEA,SHO,2.0,2023-05-15
+109,Vince Dunn,SEA,FPTS,5.5,2023-05-15
+110,Oliver Bjorkstrand,SEA,SHO,2.5,2023-05-15
+111,Oliver Bjorkstrand,SEA,FPTS,4.5,2023-05-15
+112,Brandon Tanev,SEA,HIT,3.0,2023-05-15
+113,Brandon Tanev,SEA,FPTS,6.0,2023-05-15
+114,Jared McCann,SEA,SHO,3.0,2023-05-15
+115,Jared McCann,SEA,FPTS,5.0,2023-05-15
+116,Jordan Eberle,SEA,SHO,2.0,2023-05-15
+117,Matty Beniers,SEA,SHO,1.5,2023-05-15
+118,Matty Beniers,SEA,FPTS,4.5,2023-05-15
+119,Adam Larsson,SEA,SHO,1.5,2023-05-15
+120,Adam Larsson,SEA,HIT,3.0,2023-05-15
+121,Adam Larsson,SEA,FPTS,7.0,2023-05-15
+122,Yanni Gourde,SEA,SHO,1.5,2023-05-15
+123,Yanni Gourde,SEA,HIT,3.5,2023-05-15
+124,Yanni Gourde,SEA,FPTS,6.5,2023-05-15
+125,Morgan Geekie,SEA,BS,0.5,2023-05-15
+126,Jamie Oleksiak,SEA,BS,2.5,2023-05-15
+127,Jamie Oleksiak,SEA,FPTS,8.0,2023-05-15
+128,William Borgen,SEA,BS,1.5,2023-05-15
+129,William Borgen,SEA,FPTS,4.5,2023-05-15
+130,Ronald Acuña Jr.,ATL,FPTS,12.0,2023-05-15
+131,Matt Olson,ATL,FPTS,9.0,2023-05-15
+132,Austin Riley,ATL,FPTS,8.5,2023-05-15
+133,Marcus Semien,TEX,FPTS,10.0,2023-05-15
+134,Adolis García,TEX,FPTS,7.5,2023-05-15
+135,Jameson Taillon,CHC,SO (K),4.5,2023-05-15
+136,Dansby Swanson,CHC,FPTS,7.5,2023-05-15
+137,Ian Happ,CHC,FPTS,6.5,2023-05-15
+138,Yordan Alvarez,HOU,FPTS,10.5,2023-05-15
+139,Alex Bregman,HOU,FPTS,7.0,2023-05-15
+140,Kyle Tucker,HOU,FPTS,9.0,2023-05-15
+141,Hunter Greene,CIN,SO (K),5.5,2023-05-15
+142,Hunter Greene,CIN,H,5.5,2023-05-15
+143,Tyler Stephenson,CIN,FPTS,9.0,2023-05-15
+144,Jonathan India,CIN,TB,1.5,2023-05-15
+145,Connor Seabold,COL,SO (K),3.0,2023-05-15
+146,Kris Bryant,COL,FPTS,9.0,2023-05-15
+147,Mike Moustakas,COL,TB,0.5,2023-05-15
+148,Charlie Blackmon,COL,FPTS,9.0,2023-05-15
+149,Bobby Witt Jr.,KC,FPTS,10.5,2023-05-15
+150,Michael Wacha,SD,SO (K),4.5,2023-05-15
+151,Fernando Tatis Jr.,SD,FPTS,10.5,2023-05-15
+152,Juan Soto,SD,FPTS,9.0,2023-05-15
+153,Manny Machado,SD,FPTS,8.5,2023-05-15
+154,Trea Turner,PHI,FPTS,10.5,2023-05-15
+155,Nick Castellanos,PHI,FPTS,7.5,2023-05-15
+156,Bryce Harper,PHI,FPTS,9.0,2023-05-15
+157,Thairo Estrada,SF,FPTS,9.0,2023-05-15
+158,Mitch Haniger,SF,FPTS,7.5,2023-05-15
+159,Noah Syndergaard,LAD,SO (K),4.0,2023-05-15
+160,Noah Syndergaard,LAD,H,5.0,2023-05-15
+161,Freddie Freeman,LAD,FPTS,10.0,2023-05-15
+162,Pablo López,MIN,SO (K),6.0,2023-05-15
+163,Carlos Correa,MIN,FPTS,7.5,2023-05-15

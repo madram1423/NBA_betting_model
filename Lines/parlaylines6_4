@@ -1,0 +1,267 @@
+,Player,Team,Stat,Line,Date
+0,mhL,Endpoint,Kills,41.5,2023-06-04
+1,HeavyGod,Endpoint,Kills,36.5,2023-06-04
+2,rallen,IntothBr,Kills,37.5,2023-06-04
+3,Thomas,IntothBr,Kills,34.5,2023-06-04
+4,Peppzor,EYEBALL,Kills,35.5,2023-06-04
+5,JW,EYEBALL,Kills,34.5,2023-06-04
+6,Sapec,EYEBALL,Kills,35.5,2023-06-04
+7,m4tthi,Illumina,Kills,37.5,2023-06-04
+8,bnox,Illumina,Kills,36.5,2023-06-04
+9,Demho,Illumina,Kills,35.5,2023-06-04
+10,MistR,AstralT,Kills,37.5,2023-06-04
+11,Patti,AstralT,Kills,36.5,2023-06-04
+12,Xyp9x,AstralT,Kills,32.5,2023-06-04
+13,arTisT,Viperio,Kills,34.5,2023-06-04
+14,Extinct,Viperio,Kills,34.5,2023-06-04
+15,Ping,Viperio,Kills,31.5,2023-06-04
+16,Maze,Ambush,Kills,34.5,2023-06-04
+17,suNny,Ambush,Kills,39.5,2023-06-04
+18,aNdu,sYnck,Kills,37.5,2023-06-04
+19,eku,sYnck,Kills,33.5,2023-06-04
+20,Masic,Digital,Kills,29.5,2023-06-04
+21,DeepMans,Digital,Kills,25.5,2023-06-04
+22,FIVESTAR,Galakti,Kills,29.5,2023-06-04
+23,ip0TT,Galakti,Kills,32.5,2023-06-04
+24,Rich Hill,PIT,SO (K),4.5,2023-06-04
+25,Bryan Reynolds,PIT,FPTS,7.5,2023-06-04
+26,Andrew McCutchen,PIT,FPTS,7.5,2023-06-04
+27,Nolan Arenado,STL,FPTS,10.0,2023-06-04
+28,Paul Goldschmidt,STL,FPTS,10.5,2023-06-04
+29,Robert Lewandowski,FCB,SHO,3.5,2023-06-04
+30,Marc-André ter Stegen,FCB,SV,3.0,2023-06-04
+31,Ousmane Dembélé,FCB,SHO,2.0,2023-06-04
+32,Ousmane Dembélé,FCB,SOG,0.5,2023-06-04
+33,Ansu Fati,FCB,SHO,2.0,2023-06-04
+34,Ansu Fati,FCB,SOG,0.5,2023-06-04
+35,Ferrán Torres,FCB,SHO,1.5,2023-06-04
+36,Ferrán Torres,FCB,SOG,0.5,2023-06-04
+37,Gavi,FCB,SHO,1.0,2023-06-04
+38,Jules Koundé,FCB,SHO,0.5,2023-06-04
+39,Frenkie de Jong,FCB,SHO,0.5,2023-06-04
+40,Andreas Christensen,FCB,SHO,0.5,2023-06-04
+41,Iván Villar,CEL,SV,3.0,2023-06-04
+42,Iago Aspas,CEL,SHO,2.0,2023-06-04
+43,Carles Pérez,CEL,SHO,2.0,2023-06-04
+44,Jørgen Larsen,CEL,SHO,1.5,2023-06-04
+45,Haris Seferović,CEL,SHO,1.5,2023-06-04
+46,Haris Seferović,CEL,SOG,0.5,2023-06-04
+47,Gabriel Veiga,CEL,SHO,1.5,2023-06-04
+48,Gabriel Veiga,CEL,SOG,0.5,2023-06-04
+49,Hugo Mallo,CEL,SHO,0.5,2023-06-04
+50,Luca Daniel de la Torre,CEL,SHO,0.5,2023-06-04
+51,Karim Benzema,RMA,SHO,3.0,2023-06-04
+52,Rodrygo,RMA,SHO,3.0,2023-06-04
+53,Thibaut Courtois,RMA,SV,3.0,2023-06-04
+54,Vinícius Júnior,RMA,SHO,2.5,2023-06-04
+55,Iñaki Williams,ATH,SHO,2.0,2023-06-04
+56,Iñaki Williams,ATH,SOG,0.5,2023-06-04
+57,Unai Simón,ATH,SV,3.5,2023-06-04
+58,Gorka Guruzeta,ATH,SHO,2.0,2023-06-04
+59,Gorka Guruzeta,ATH,SOG,0.5,2023-06-04
+60,Nico Williams,ATH,SHO,1.5,2023-06-04
+61,Oihan Sancet,ATH,SHO,1.5,2023-06-04
+62,Mikel Vesga Arruti,ATH,SHO,0.5,2023-06-04
+63,Yuri Berchiche Izeta,ATH,SHO,0.5,2023-06-04
+64,Marko Dmitrović,SEV,SV,3.5,2023-06-04
+65,Rafa Mir,SEV,SHO,2.0,2023-06-04
+66,Rafa Mir,SEV,SOG,0.5,2023-06-04
+67,Youssef En-Nesyri,SEV,SHO,2.0,2023-06-04
+68,Youssef En-Nesyri,SEV,SOG,0.5,2023-06-04
+69,Lucas Ocampos,SEV,SHO,1.5,2023-06-04
+70,Alejandro Gómez,SEV,SOG,0.5,2023-06-04
+71,Alejandro Remiro,RSO,SV,2.5,2023-06-04
+72,Alexander Sørloth,RSO,SHO,2.0,2023-06-04
+73,Takefusa Kubo,RSO,SHO,2.0,2023-06-04
+74,Brais Méndez,RSO,SHO,1.5,2023-06-04
+75,Brais Méndez,RSO,SOG,0.5,2023-06-04
+76,Mikel Merino,RSO,SHO,1.5,2023-06-04
+77,Antoine Griezmann,ATM,SHO,3.0,2023-06-04
+78,Ivo Grbić,ATM,SV,3.0,2023-06-04
+79,Álvaro Morata,ATM,SHO,2.0,2023-06-04
+80,Álvaro Morata,ATM,SOG,0.5,2023-06-04
+81,Ángel Correa,ATM,SHO,1.5,2023-06-04
+82,Ángel Correa,ATM,SOG,0.5,2023-06-04
+83,Gerard Moreno,VIL,SHO,3.0,2023-06-04
+84,Pepe Reina,VIL,SV,3.0,2023-06-04
+85,Nicolas Jackson,VIL,SHO,2.5,2023-06-04
+86,Alejandro Baena,VIL,SHO,2.0,2023-06-04
+87,Giovani Lo Celso,VIL,SHO,1.5,2023-06-04
+88,Giovani Lo Celso,VIL,SOG,0.5,2023-06-04
+89,Yeremi Pino,VIL,SHO,1.5,2023-06-04
+90,Yeremi Pino,VIL,SOG,0.5,2023-06-04
+91,Étienne Capoue,VIL,SHO,0.5,2023-06-04
+92,Dani Parejo,VIL,SHO,0.5,2023-06-04
+93,ivz,9z Acad,Kills,37.5,2023-06-04
+94,HUASOPEEK,9z Acad,Kills,41.5,2023-06-04
+95,beg0d,ex-Cori,Kills,35.5,2023-06-04
+96,bnc,ex-Cori,Kills,37.5,2023-06-04
+97,MerSa,Galatas,Kills,29.5,2023-06-04
+98,Docent,Galatas,Kills,25.5,2023-06-04
+99,russ,S2G Espo,Kills,34.5,2023-06-04
+100,pAura,S2G Espo,Kills,28.5,2023-06-04
+101,dycha,ENCE,Kills,35.5,2023-06-04
+102,Nertz,ENCE,Kills,37.5,2023-06-04
+103,SunPayus,ENCE,Kills,36.5,2023-06-04
+104,Maden,ENCE,Kills,33.5,2023-06-04
+105,Snappi,ENCE,Kills,33.5,2023-06-04
+106,frozen,MOUZ,Kills,38.5,2023-06-04
+107,xertioN,MOUZ,Kills,37.5,2023-06-04
+108,torzsi,MOUZ,Kills,32.5,2023-06-04
+109,JDC,MOUZ,Kills,33.5,2023-06-04
+110,dexter,MOUZ,Kills,33.5,2023-06-04
+111,Wander Franco,TB,FPTS,11.5,2023-06-04
+112,Yandy Díaz,TB,FPTS,10.0,2023-06-04
+113,Tanner Houck,BOS,SO (K),4.5,2023-06-04
+114,Masataka Yoshida,BOS,FPTS,9.0,2023-06-04
+115,Rafael Devers,BOS,FPTS,9.0,2023-06-04
+116,Bryce Harper,PHI,FPTS,10.0,2023-06-04
+117,Trea Turner,PHI,FPTS,9.0,2023-06-04
+118,Lane Thomas,WSH,FPTS,8.5,2023-06-04
+119,Ben Lively,CIN,SO (K),5.0,2023-06-04
+120,Matt McLain,CIN,FPTS,8.5,2023-06-04
+121,Jonathan India,CIN,FPTS,9.0,2023-06-04
+122,Adrian Houser,MIL,SO (K),3.5,2023-06-04
+123,Christian Yelich,MIL,FPTS,9.0,2023-06-04
+124,Bryan De La Cruz,MIA,FPTS,9.0,2023-06-04
+125,Jorge Soler,MIA,FPTS,7.5,2023-06-04
+126,Paul Blackburn,OAK,SO (K),3.5,2023-06-04
+127,Yusei Kikuchi,TOR,SO (K),5.0,2023-06-04
+128,Bo Bichette,TOR,FPTS,9.0,2023-06-04
+129,George Springer,TOR,FPTS,8.5,2023-06-04
+130,Kodai Senga,NYM,SO (K),6.0,2023-06-04
+131,Pete Alonso,NYM,FPTS,9.0,2023-06-04
+132,Francisco Lindor,NYM,FPTS,9.0,2023-06-04
+133,Mike Trout,LAA,FPTS,9.0,2023-06-04
+134,J.P. France,HOU,SO (K),5.5,2023-06-04
+135,Yordan Alvarez,HOU,FPTS,9.0,2023-06-04
+136,Alex Bregman,HOU,FPTS,9.0,2023-06-04
+137,Brady Singer,KC,SO (K),4.5,2023-06-04
+138,Bobby Witt Jr.,KC,FPTS,10.0,2023-06-04
+139,Salvador Perez,KC,FPTS,8.5,2023-06-04
+140,Ryan McMahon,COL,FPTS,10.0,2023-06-04
+141,Charlie Blackmon,COL,FPTS,10.0,2023-06-04
+142,Triston McKenzie,CLE,SO (K),5.5,2023-06-04
+143,José Ramírez,CLE,FPTS,8.5,2023-06-04
+144,Steven Kwan,CLE,FPTS,7.5,2023-06-04
+145,Joe Ryan,MIN,SO (K),5.5,2023-06-04
+146,Julio Rodríguez,SEA,FPTS,9.0,2023-06-04
+147,Jarred Kelenic,SEA,FPTS,7.5,2023-06-04
+148,Nathan Eovaldi,TEX,SO (K),6.0,2023-06-04
+149,Marcus Semien,TEX,FPTS,10.0,2023-06-04
+150,Corey Seager,TEX,FPTS,10.0,2023-06-04
+151,Ketel Marte,ARI,FPTS,8.5,2023-06-04
+152,Corbin Carroll,ARI,FPTS,9.0,2023-06-04
+153,Ronald Acuña Jr.,ATL,FPTS,9.0,2023-06-04
+154,Matt Olson,ATL,FPTS,7.5,2023-06-04
+155,Dansby Swanson,CHC,FPTS,7.5,2023-06-04
+156,Nico Hoerner,CHC,FPTS,9.0,2023-06-04
+157,Fernando Tatis Jr.,SD,FPTS,10.0,2023-06-04
+158,Juan Soto,SD,FPTS,8.5,2023-06-04
+159,Bobby Miller,LAD,SO (K),4.5,2023-06-04
+160,Freddie Freeman,LAD,FPTS,10.5,2023-06-04
+161,Mookie Betts,LAD,FPTS,10.0,2023-06-04
+162,Will Smith,LAD,FPTS,8.5,2023-06-04
+163,Aaron Judge,NYY,FPTS,10.5,2023-06-04
+164,Gleyber Torres,NYY,FPTS,9.0,2023-06-04
+165,Giancarlo Stanton,NYY,FPTS,8.5,2023-06-04
+166,Jimmy Butler,MIA,PTS,26.5,2023-06-04
+167,Jimmy Butler,MIA,AST,6.0,2023-06-04
+168,Jimmy Butler,MIA,PTS+TRB+AST,39.5,2023-06-04
+169,Jimmy Butler,MIA,PTS+TRB,33.5,2023-06-04
+170,Jimmy Butler,MIA,PTS+AST,32.5,2023-06-04
+171,Jimmy Butler,MIA,TRB+AST,13.5,2023-06-04
+172,Jimmy Butler,MIA,3PA,3.0,2023-06-04
+173,Jimmy Butler,MIA,FTM,7.5,2023-06-04
+174,Jimmy Butler,MIA,FGM,9.0,2023-06-04
+175,Jimmy Butler,MIA,FGA,19.5,2023-06-04
+176,Jimmy Butler,MIA,PF,2.0,2023-06-04
+177,Jimmy Butler,MIA,FPTS,42.5,2023-06-04
+178,Bam Adebayo,MIA,PTS,18.5,2023-06-04
+179,Bam Adebayo,MIA,REB,10.0,2023-06-04
+180,Bam Adebayo,MIA,PTS+TRB+AST,32.5,2023-06-04
+181,Bam Adebayo,MIA,PTS+TRB,28.5,2023-06-04
+182,Bam Adebayo,MIA,PTS+AST,22.5,2023-06-04
+183,Bam Adebayo,MIA,TRB+AST,14.0,2023-06-04
+184,Bam Adebayo,MIA,FTM,3.5,2023-06-04
+185,Bam Adebayo,MIA,FGM,7.5,2023-06-04
+186,Bam Adebayo,MIA,FGA,15.0,2023-06-04
+187,Bam Adebayo,MIA,FPTS,33.5,2023-06-04
+188,Gabe Vincent,MIA,PTS,13.5,2023-06-04
+189,Gabe Vincent,MIA,PTS+TRB+AST,19.0,2023-06-04
+190,Gabe Vincent,MIA,PTS+TRB,15.5,2023-06-04
+191,Gabe Vincent,MIA,PTS+AST,16.5,2023-06-04
+192,Gabe Vincent,MIA,FPTS,20.5,2023-06-04
+193,Max Strus,MIA,PTS,9.0,2023-06-04
+194,Max Strus,MIA,PTS+TRB+AST,13.5,2023-06-04
+195,Max Strus,MIA,PTS+TRB,12.0,2023-06-04
+196,Max Strus,MIA,PTS+AST,10.5,2023-06-04
+197,Max Strus,MIA,FPTS,14.0,2023-06-04
+198,Nikola Jokic,DEN,PTS,27.5,2023-06-04
+199,Nikola Jokic,DEN,REB,12.5,2023-06-04
+200,Nikola Jokic,DEN,AST,11.5,2023-06-04
+201,Nikola Jokic,DEN,PTS+TRB+AST,51.5,2023-06-04
+202,Nikola Jokic,DEN,PTS+TRB,40.5,2023-06-04
+203,Nikola Jokic,DEN,PTS+AST,38.5,2023-06-04
+204,Nikola Jokic,DEN,TRB+AST,24.0,2023-06-04
+205,Nikola Jokic,DEN,3PA,2.5,2023-06-04
+206,Nikola Jokic,DEN,FTM,5.5,2023-06-04
+207,Nikola Jokic,DEN,FGM,10.5,2023-06-04
+208,Nikola Jokic,DEN,FGA,19.5,2023-06-04
+209,Nikola Jokic,DEN,PF,3.0,2023-06-04
+210,Nikola Jokic,DEN,FPTS,53.5,2023-06-04
+211,Jamal Murray,DEN,PTS,26.5,2023-06-04
+212,Jamal Murray,DEN,REB,5.0,2023-06-04
+213,Jamal Murray,DEN,AST,6.5,2023-06-04
+214,Jamal Murray,DEN,PTS+TRB+AST,37.5,2023-06-04
+215,Jamal Murray,DEN,PTS+TRB,31.5,2023-06-04
+216,Jamal Murray,DEN,PTS+AST,32.5,2023-06-04
+217,Jamal Murray,DEN,TRB+AST,11.5,2023-06-04
+218,Jamal Murray,DEN,3PA,8.0,2023-06-04
+219,Jamal Murray,DEN,FTM,3.5,2023-06-04
+220,Jamal Murray,DEN,FGM,10.0,2023-06-04
+221,Jamal Murray,DEN,FGA,21.5,2023-06-04
+222,Jamal Murray,DEN,PF,2.5,2023-06-04
+223,Jamal Murray,DEN,TO,2.5,2023-06-04
+224,Jamal Murray,DEN,FPTS,41.5,2023-06-04
+225,Michael Porter Jr.,DEN,PTS,15.5,2023-06-04
+226,Michael Porter Jr.,DEN,REB,8.0,2023-06-04
+227,Michael Porter Jr.,DEN,PTS+TRB+AST,25.0,2023-06-04
+228,Michael Porter Jr.,DEN,PTS+TRB,23.5,2023-06-04
+229,Michael Porter Jr.,DEN,PTS+AST,16.5,2023-06-04
+230,Michael Porter Jr.,DEN,3PA,7.5,2023-06-04
+231,Michael Porter Jr.,DEN,FTM,1.5,2023-06-04
+232,Michael Porter Jr.,DEN,FGM,5.5,2023-06-04
+233,Michael Porter Jr.,DEN,FGA,13.5,2023-06-04
+234,Michael Porter Jr.,DEN,PF,2.5,2023-06-04
+235,Michael Porter Jr.,DEN,FPTS,26.5,2023-06-04
+236,Aaron Gordon,DEN,PTS,13.5,2023-06-04
+237,Aaron Gordon,DEN,REB,6.0,2023-06-04
+238,Aaron Gordon,DEN,3P,0.5,2023-06-04
+239,Aaron Gordon,DEN,PTS+TRB+AST,21.5,2023-06-04
+240,Aaron Gordon,DEN,PTS+TRB,19.0,2023-06-04
+241,Aaron Gordon,DEN,PTS+AST,15.5,2023-06-04
+242,Aaron Gordon,DEN,3PA,2.5,2023-06-04
+243,Aaron Gordon,DEN,FTM,2.5,2023-06-04
+244,Aaron Gordon,DEN,FGM,5.5,2023-06-04
+245,Aaron Gordon,DEN,FGA,10.5,2023-06-04
+246,Aaron Gordon,DEN,PF,2.5,2023-06-04
+247,Aaron Gordon,DEN,FPTS,22.5,2023-06-04
+248,Kentavious Caldwell-Pope,DEN,PTS,10.0,2023-06-04
+249,Kentavious Caldwell-Pope,DEN,PTS+TRB+AST,14.5,2023-06-04
+250,Kentavious Caldwell-Pope,DEN,PTS+TRB,13.5,2023-06-04
+251,Kentavious Caldwell-Pope,DEN,PTS+AST,11.5,2023-06-04
+252,Kentavious Caldwell-Pope,DEN,3PA,4.5,2023-06-04
+253,Kentavious Caldwell-Pope,DEN,FTM,0.5,2023-06-04
+254,Kentavious Caldwell-Pope,DEN,FGM,4.0,2023-06-04
+255,Kentavious Caldwell-Pope,DEN,FGA,8.5,2023-06-04
+256,Kentavious Caldwell-Pope,DEN,FPTS,16.5,2023-06-04
+257,Bruce Brown,DEN,PTS,10.0,2023-06-04
+258,Bruce Brown,DEN,REB,3.5,2023-06-04
+259,Bruce Brown,DEN,PTS+TRB+AST,16.0,2023-06-04
+260,Bruce Brown,DEN,PTS+TRB,13.5,2023-06-04
+261,Bruce Brown,DEN,PTS+AST,12.5,2023-06-04
+262,Bruce Brown,DEN,FTM,0.5,2023-06-04
+263,Bruce Brown,DEN,FGM,4.5,2023-06-04
+264,Bruce Brown,DEN,FGA,9.0,2023-06-04
+265,Bruce Brown,DEN,FPTS,17.5,2023-06-04

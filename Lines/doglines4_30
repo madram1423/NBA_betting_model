@@ -1,0 +1,651 @@
+,Line,Stat,Player,League,Team,Date
+0,35.5,PTS+AST,Jimmy Butler,NBA,MIA,2023-04-30
+1,12.5,TRB+AST,Jimmy Butler,NBA,MIA,2023-04-30
+2,6.5,TRB,Jimmy Butler,NBA,MIA,2023-04-30
+3,36.5,PTS+TRB,Jimmy Butler,NBA,MIA,2023-04-30
+4,42.5,PTS+TRB+AST,Jimmy Butler,NBA,MIA,2023-04-30
+6,7.5,FT,Jimmy Butler,NBA,MIA,2023-04-30
+7,6.0,AST,Jimmy Butler,NBA,MIA,2023-04-30
+8,29.5,PTS,Jimmy Butler,NBA,MIA,2023-04-30
+9,3.5,AST,Bam Adebayo,NBA,MIA,2023-04-30
+10,20.5,PTS+AST,Bam Adebayo,NBA,MIA,2023-04-30
+11,8.0,TRB,Bam Adebayo,NBA,MIA,2023-04-30
+12,25.5,PTS+TRB,Bam Adebayo,NBA,MIA,2023-04-30
+13,2.5,TO,Bam Adebayo,NBA,MIA,2023-04-30
+14,29.0,PTS+TRB+AST,Bam Adebayo,NBA,MIA,2023-04-30
+15,4.0,FT,Bam Adebayo,NBA,MIA,2023-04-30
+17,17.5,PTS,Bam Adebayo,NBA,MIA,2023-04-30
+18,11.5,TRB+AST,Bam Adebayo,NBA,MIA,2023-04-30
+19,13.5,PTS+TRB+AST,Max Strus,NBA,MIA,2023-04-30
+20,9.5,PTS,Max Strus,NBA,MIA,2023-04-30
+21,0.5,TO,Max Strus,NBA,MIA,2023-04-30
+22,12.5,PTS+TRB,Max Strus,NBA,MIA,2023-04-30
+23,0.5,STL+BLK,Max Strus,NBA,MIA,2023-04-30
+24,1.5,AST,Max Strus,NBA,MIA,2023-04-30
+25,3.5,AST,Gabe Vincent,NBA,MIA,2023-04-30
+26,15.5,PTS+AST,Gabe Vincent,NBA,MIA,2023-04-30
+27,13.5,PTS+TRB,Gabe Vincent,NBA,MIA,2023-04-30
+29,11.5,PTS,Gabe Vincent,NBA,MIA,2023-04-30
+30,17.5,PTS+TRB+AST,Gabe Vincent,NBA,MIA,2023-04-30
+31,6.0,TRB,Kevin Love,NBA,MIA,2023-04-30
+32,8.5,PTS,Kevin Love,NBA,MIA,2023-04-30
+33,16.5,PTS+TRB+AST,Kevin Love,NBA,MIA,2023-04-30
+34,15.5,PTS+TRB,Kevin Love,NBA,MIA,2023-04-30
+35,7.5,TRB+AST,Kevin Love,NBA,MIA,2023-04-30
+36,10.5,PTS+AST,Kevin Love,NBA,MIA,2023-04-30
+37,1.5,AST,Kevin Love,NBA,MIA,2023-04-30
+38,8.5,PTS,Kyle Lowry,NBA,MIA,2023-04-30
+39,12.5,PTS+AST,Kyle Lowry,NBA,MIA,2023-04-30
+40,0.5,STL,Kyle Lowry,NBA,MIA,2023-04-30
+41,12.0,PTS+TRB,Kyle Lowry,NBA,MIA,2023-04-30
+43,15.0,PTS+TRB+AST,Kyle Lowry,NBA,MIA,2023-04-30
+44,14.5,PTS+TRB+AST,Caleb Martin,NBA,MIA,2023-04-30
+45,4.0,TRB,Caleb Martin,NBA,MIA,2023-04-30
+46,0.5,STL,Caleb Martin,NBA,MIA,2023-04-30
+47,12.5,PTS+TRB,Caleb Martin,NBA,MIA,2023-04-30
+48,8.0,PTS,Caleb Martin,NBA,MIA,2023-04-30
+49,9.5,PTS+TRB+AST,Duncan Robinson,NBA,MIA,2023-04-30
+50,6.5,PTS,Duncan Robinson,NBA,MIA,2023-04-30
+51,4.0,TRB,Jalen Brunson,NBA,NYK,2023-04-30
+52,26.0,PTS,Jalen Brunson,NBA,NYK,2023-04-30
+53,6.0,AST,Jalen Brunson,NBA,NYK,2023-04-30
+54,31.5,PTS+AST,Jalen Brunson,NBA,NYK,2023-04-30
+55,30.5,PTS+TRB,Jalen Brunson,NBA,NYK,2023-04-30
+56,35.5,PTS+TRB+AST,Jalen Brunson,NBA,NYK,2023-04-30
+58,5.0,FT,Jalen Brunson,NBA,NYK,2023-04-30
+59,10.0,TRB+AST,Jalen Brunson,NBA,NYK,2023-04-30
+60,21.0,PTS,RJ Barrett,NBA,NYK,2023-04-30
+61,5.0,TRB,RJ Barrett,NBA,NYK,2023-04-30
+62,24.5,PTS+AST,RJ Barrett,NBA,NYK,2023-04-30
+63,26.5,PTS+TRB,RJ Barrett,NBA,NYK,2023-04-30
+64,29.5,PTS+TRB+AST,RJ Barrett,NBA,NYK,2023-04-30
+65,0.5,STL,RJ Barrett,NBA,NYK,2023-04-30
+66,8.5,TRB+AST,RJ Barrett,NBA,NYK,2023-04-30
+68,4.5,FT,RJ Barrett,NBA,NYK,2023-04-30
+69,7.5,PTS,Mitchell Robinson,NBA,NYK,2023-04-30
+70,19.5,PTS+TRB+AST,Mitchell Robinson,NBA,NYK,2023-04-30
+71,11.0,TRB,Mitchell Robinson,NBA,NYK,2023-04-30
+72,2.5,STL+BLK,Mitchell Robinson,NBA,NYK,2023-04-30
+73,1.5,BLK,Mitchell Robinson,NBA,NYK,2023-04-30
+74,14.5,PTS,Immanuel Quickley,NBA,NYK,2023-04-30
+75,3.5,TRB,Immanuel Quickley,NBA,NYK,2023-04-30
+76,21.5,PTS+TRB+AST,Immanuel Quickley,NBA,NYK,2023-04-30
+77,5.0,PTS,Isaiah Hartenstein,NBA,NYK,2023-04-30
+78,13.5,PTS+TRB+AST,Isaiah Hartenstein,NBA,NYK,2023-04-30
+79,23.5,PTS+TRB+AST,Josh Hart,NBA,NYK,2023-04-30
+80,8.5,TRB,Josh Hart,NBA,NYK,2023-04-30
+81,12.0,PTS,Josh Hart,NBA,NYK,2023-04-30
+82,11.5,TRB+AST,Josh Hart,NBA,NYK,2023-04-30
+83,3.5,AST,Josh Hart,NBA,NYK,2023-04-30
+84,4.0,TRB,Obi Toppin,NBA,NYK,2023-04-30
+85,18.5,PTS+TRB+AST,Obi Toppin,NBA,NYK,2023-04-30
+86,8.5,PTS,Quentin Grimes,NBA,NYK,2023-04-30
+87,13.5,PTS+TRB+AST,Quentin Grimes,NBA,NYK,2023-04-30
+88,1.5,AST,Quentin Grimes,NBA,NYK,2023-04-30
+89,1.5,AST,Obi Toppin,NBA,NYK,2023-04-30
+90,12.0,PTS,Obi Toppin,NBA,NYK,2023-04-30
+91,32.5,PTS,Stephen Curry,NBA,GSW,2023-04-30
+92,38.5,PTS+AST,Stephen Curry,NBA,GSW,2023-04-30
+93,44.5,PTS+TRB+AST,Stephen Curry,NBA,GSW,2023-04-30
+94,1.5,STL+BLK,Stephen Curry,NBA,GSW,2023-04-30
+95,6.0,AST,Stephen Curry,NBA,GSW,2023-04-30
+96,38.5,PTS+TRB,Stephen Curry,NBA,GSW,2023-04-30
+97,5.5,TRB,Stephen Curry,NBA,GSW,2023-04-30
+99,5.5,FT,Stephen Curry,NBA,GSW,2023-04-30
+100,11.5,TRB+AST,Stephen Curry,NBA,GSW,2023-04-30
+101,4.0,TRB,Klay Thompson,NBA,GSW,2023-04-30
+102,29.5,PTS+TRB+AST,Klay Thompson,NBA,GSW,2023-04-30
+103,6.5,TRB+AST,Klay Thompson,NBA,GSW,2023-04-30
+104,25.5,PTS+AST,Klay Thompson,NBA,GSW,2023-04-30
+106,22.0,PTS,Klay Thompson,NBA,GSW,2023-04-30
+107,7.0,AST,Draymond Green,NBA,GSW,2023-04-30
+108,15.5,PTS+TRB,Draymond Green,NBA,GSW,2023-04-30
+109,8.5,PTS,Draymond Green,NBA,GSW,2023-04-30
+110,2.5,TO,Draymond Green,NBA,GSW,2023-04-30
+111,16.0,PTS+AST,Draymond Green,NBA,GSW,2023-04-30
+112,23.0,PTS+TRB+AST,Draymond Green,NBA,GSW,2023-04-30
+114,7.0,TRB,Draymond Green,NBA,GSW,2023-04-30
+115,14.0,TRB+AST,Draymond Green,NBA,GSW,2023-04-30
+116,2.5,STL+BLK,Andrew Wiggins,NBA,GSW,2023-04-30
+117,6.0,TRB,Andrew Wiggins,NBA,GSW,2023-04-30
+118,26.5,PTS+TRB+AST,Andrew Wiggins,NBA,GSW,2023-04-30
+119,23.5,PTS+TRB,Andrew Wiggins,NBA,GSW,2023-04-30
+120,20.5,PTS+AST,Andrew Wiggins,NBA,GSW,2023-04-30
+122,18.5,PTS,Andrew Wiggins,NBA,GSW,2023-04-30
+123,8.0,TRB+AST,Andrew Wiggins,NBA,GSW,2023-04-30
+124,16.5,PTS+TRB,Jordan Poole,NBA,GSW,2023-04-30
+125,17.5,PTS+AST,Jordan Poole,NBA,GSW,2023-04-30
+126,5.5,TRB+AST,Jordan Poole,NBA,GSW,2023-04-30
+127,14.0,PTS,Jordan Poole,NBA,GSW,2023-04-30
+128,19.5,PTS+TRB+AST,Jordan Poole,NBA,GSW,2023-04-30
+130,3.5,FT,Jordan Poole,NBA,GSW,2023-04-30
+131,4.0,AST,Kevon Looney,NBA,GSW,2023-04-30
+132,23.5,PTS+TRB+AST,Kevon Looney,NBA,GSW,2023-04-30
+133,16.5,TRB+AST,Kevon Looney,NBA,GSW,2023-04-30
+134,7.0,PTS,Kevon Looney,NBA,GSW,2023-04-30
+135,19.5,PTS+TRB,Kevon Looney,NBA,GSW,2023-04-30
+136,1.5,STL+BLK,Kevon Looney,NBA,GSW,2023-04-30
+137,12.5,TRB,Kevon Looney,NBA,GSW,2023-04-30
+139,2.5,TRB,Donte DiVincenzo,NBA,GSW,2023-04-30
+140,10.5,PTS+TRB+AST,Donte DiVincenzo,NBA,GSW,2023-04-30
+141,5.5,PTS,Donte DiVincenzo,NBA,GSW,2023-04-30
+142,3.5,TRB,Gary Payton II,other,GSW,2023-04-30
+143,9.0,PTS+TRB+AST,Gary Payton II,other,GSW,2023-04-30
+144,4.5,PTS,Gary Payton II,other,GSW,2023-04-30
+145,1.5,STL,De'Aaron Fox,NBA,SAC,2023-04-30
+146,5.0,TRB,De'Aaron Fox,NBA,SAC,2023-04-30
+147,40.5,PTS+TRB+AST,De'Aaron Fox,NBA,SAC,2023-04-30
+148,35.5,PTS+AST,De'Aaron Fox,NBA,SAC,2023-04-30
+149,33.5,PTS+TRB,De'Aaron Fox,NBA,SAC,2023-04-30
+150,12.5,TRB+AST,De'Aaron Fox,NBA,SAC,2023-04-30
+151,7.0,AST,De'Aaron Fox,NBA,SAC,2023-04-30
+153,4.5,FT,De'Aaron Fox,NBA,SAC,2023-04-30
+154,27.5,PTS,De'Aaron Fox,NBA,SAC,2023-04-30
+155,12.5,TRB,Domantas Sabonis,NBA,SAC,2023-04-30
+156,18.5,PTS,Domantas Sabonis,NBA,SAC,2023-04-30
+157,24.5,PTS+AST,Domantas Sabonis,NBA,SAC,2023-04-30
+158,1.5,STL+BLK,Domantas Sabonis,NBA,SAC,2023-04-30
+159,30.5,PTS+TRB,Domantas Sabonis,NBA,SAC,2023-04-30
+160,18.5,TRB+AST,Domantas Sabonis,NBA,SAC,2023-04-30
+161,36.5,PTS+TRB+AST,Domantas Sabonis,NBA,SAC,2023-04-30
+163,3.5,FT,Domantas Sabonis,NBA,SAC,2023-04-30
+164,6.0,AST,Domantas Sabonis,NBA,SAC,2023-04-30
+165,0.5,STL,Harrison Barnes,NBA,SAC,2023-04-30
+166,16.5,PTS+TRB+AST,Harrison Barnes,NBA,SAC,2023-04-30
+167,4.0,TRB,Harrison Barnes,NBA,SAC,2023-04-30
+168,15.5,PTS+TRB,Harrison Barnes,NBA,SAC,2023-04-30
+169,11.0,PTS,Harrison Barnes,NBA,SAC,2023-04-30
+170,15.5,PTS+TRB,Kevin Huerter,NBA,SAC,2023-04-30
+171,17.5,PTS+TRB+AST,Kevin Huerter,NBA,SAC,2023-04-30
+172,11.5,PTS,Kevin Huerter,NBA,SAC,2023-04-30
+173,13.5,PTS+AST,Kevin Huerter,NBA,SAC,2023-04-30
+174,17.5,PTS,Malik Monk,NBA,SAC,2023-04-30
+175,7.5,TRB+AST,Malik Monk,NBA,SAC,2023-04-30
+176,3.5,AST,Malik Monk,NBA,SAC,2023-04-30
+177,25.5,PTS+TRB+AST,Malik Monk,NBA,SAC,2023-04-30
+178,21.5,PTS+AST,Malik Monk,NBA,SAC,2023-04-30
+179,21.5,PTS+TRB,Malik Monk,NBA,SAC,2023-04-30
+180,4.0,TRB,Malik Monk,NBA,SAC,2023-04-30
+182,12.5,PTS,Keegan Murray,NBA,SAC,2023-04-30
+183,7.5,TRB+AST,Keegan Murray,NBA,SAC,2023-04-30
+184,19.5,PTS+TRB+AST,Keegan Murray,NBA,SAC,2023-04-30
+185,0.5,TO,Keegan Murray,NBA,SAC,2023-04-30
+186,18.5,PTS+TRB,Keegan Murray,NBA,SAC,2023-04-30
+187,6.0,TRB,Keegan Murray,NBA,SAC,2023-04-30
+188,2.5,3PM,Keegan Murray,NBA,SAC,2023-04-30
+189,6.0,PTS,Davion Mitchell,NBA,SAC,2023-04-30
+190,9.5,PTS+TRB+AST,Davion Mitchell,NBA,SAC,2023-04-30
+191,6.5,PTS,Trey Lyles,NBA,SAC,2023-04-30
+192,4.5,TRB,Trey Lyles,NBA,SAC,2023-04-30
+193,12.5,PTS+TRB+AST,Trey Lyles,NBA,SAC,2023-04-30
+194,22.5,PTS,James Harden,NBA,PHI,2023-05-01
+195,8.5,AST,James Harden,NBA,PHI,2023-05-01
+196,29.5,PTS+TRB,James Harden,NBA,PHI,2023-05-01
+197,38.5,PTS+TRB+AST,James Harden,NBA,PHI,2023-05-01
+198,6.5,TRB,James Harden,NBA,PHI,2023-05-01
+199,31.5,PTS+AST,James Harden,NBA,PHI,2023-05-01
+200,3.5,TO,James Harden,NBA,PHI,2023-05-01
+201,15.5,TRB+AST,James Harden,NBA,PHI,2023-05-01
+202,1.5,TO,Tyrese Maxey,NBA,PHI,2023-05-01
+203,24.5,PTS,Tyrese Maxey,NBA,PHI,2023-05-01
+204,4.0,TRB,Tyrese Maxey,NBA,PHI,2023-05-01
+205,28.5,PTS+TRB,Tyrese Maxey,NBA,PHI,2023-05-01
+206,27.5,PTS+AST,Tyrese Maxey,NBA,PHI,2023-05-01
+207,7.5,TRB+AST,Tyrese Maxey,NBA,PHI,2023-05-01
+208,31.5,PTS+TRB+AST,Tyrese Maxey,NBA,PHI,2023-05-01
+209,16.5,PTS,Tobias Harris,NBA,PHI,2023-05-01
+210,7.0,TRB,Tobias Harris,NBA,PHI,2023-05-01
+211,26.5,PTS+TRB+AST,Tobias Harris,NBA,PHI,2023-05-01
+212,24.5,PTS+TRB,Tobias Harris,NBA,PHI,2023-05-01
+213,9.5,TRB+AST,Tobias Harris,NBA,PHI,2023-05-01
+214,1.5,3PM,Tobias Harris,NBA,PHI,2023-05-01
+215,19.5,PTS+AST,Tobias Harris,NBA,PHI,2023-05-01
+216,42.5,PTS+TRB+AST,Jayson Tatum,NBA,BOS,2023-05-01
+217,9.0,TRB,Jayson Tatum,NBA,BOS,2023-05-01
+218,28.5,PTS,Jayson Tatum,NBA,BOS,2023-05-01
+219,33.5,PTS+AST,Jayson Tatum,NBA,BOS,2023-05-01
+220,38.5,PTS+TRB,Jayson Tatum,NBA,BOS,2023-05-01
+221,13.5,TRB+AST,Jayson Tatum,NBA,BOS,2023-05-01
+222,4.5,AST,Jayson Tatum,NBA,BOS,2023-05-01
+223,24.5,PTS,Jaylen Brown,NBA,BOS,2023-05-01
+224,6.0,TRB,Jaylen Brown,NBA,BOS,2023-05-01
+225,30.5,PTS+TRB,Jaylen Brown,NBA,BOS,2023-05-01
+226,28.5,PTS+AST,Jaylen Brown,NBA,BOS,2023-05-01
+227,9.0,TRB+AST,Jaylen Brown,NBA,BOS,2023-05-01
+228,2.5,TO,Jaylen Brown,NBA,BOS,2023-05-01
+229,34.0,PTS+TRB+AST,Jaylen Brown,NBA,BOS,2023-05-01
+230,11.5,PTS,Marcus Smart,NBA,BOS,2023-05-01
+231,19.5,PTS+TRB+AST,Marcus Smart,NBA,BOS,2023-05-01
+232,5.0,AST,Marcus Smart,NBA,BOS,2023-05-01
+233,14.5,PTS+TRB,Marcus Smart,NBA,BOS,2023-05-01
+234,16.5,PTS+AST,Marcus Smart,NBA,BOS,2023-05-01
+235,8.5,TRB+AST,Marcus Smart,NBA,BOS,2023-05-01
+236,21.5,PTS+TRB+AST,Derrick White,NBA,BOS,2023-05-01
+237,13.5,PTS,Derrick White,NBA,BOS,2023-05-01
+238,4.0,TRB,Derrick White,NBA,BOS,2023-05-01
+239,17.5,PTS+AST,Derrick White,NBA,BOS,2023-05-01
+240,17.5,PTS+TRB,Derrick White,NBA,BOS,2023-05-01
+241,7.5,TRB+AST,Derrick White,NBA,BOS,2023-05-01
+242,1.5,STL+BLK,Derrick White,NBA,BOS,2023-05-01
+243,8.5,PTS,Al Horford,NBA,BOS,2023-05-01
+244,11.5,PTS+AST,Al Horford,NBA,BOS,2023-05-01
+245,14.5,PTS+TRB,Al Horford,NBA,BOS,2023-05-01
+246,9.5,TRB+AST,Al Horford,NBA,BOS,2023-05-01
+247,18.0,PTS+TRB+AST,Al Horford,NBA,BOS,2023-05-01
+248,6.5,TRB,Al Horford,NBA,BOS,2023-05-01
+249,12.5,PTS,Malcolm Brogdon,NBA,BOS,2023-05-01
+250,19.5,PTS+TRB+AST,Malcolm Brogdon,NBA,BOS,2023-05-01
+251,3.5,TRB,Malcolm Brogdon,NBA,BOS,2023-05-01
+252,16.5,PTS+AST,Malcolm Brogdon,NBA,BOS,2023-05-01
+253,16.5,PTS+TRB,Malcolm Brogdon,NBA,BOS,2023-05-01
+254,8.0,TRB,Robert Williams,NBA,BOS,2023-05-01
+255,17.5,PTS+TRB+AST,Robert Williams,NBA,BOS,2023-05-01
+256,8.0,PTS,Robert Williams,NBA,BOS,2023-05-01
+257,4.5,AST,Kevin Durant,NBA,PHX,2023-05-02
+258,12.5,TRB+AST,Kevin Durant,NBA,PHX,2023-05-02
+259,37.5,PTS+TRB,Kevin Durant,NBA,PHX,2023-05-02
+260,33.5,PTS+AST,Kevin Durant,NBA,PHX,2023-05-02
+261,8.5,TRB,Kevin Durant,NBA,PHX,2023-05-02
+262,28.5,PTS,Kevin Durant,NBA,PHX,2023-05-02
+263,41.5,PTS+TRB+AST,Kevin Durant,NBA,PHX,2023-05-02
+264,35.5,PTS+AST,Devin Booker,NBA,PHX,2023-05-02
+265,29.5,PTS,Devin Booker,NBA,PHX,2023-05-02
+266,5.0,TRB,Devin Booker,NBA,PHX,2023-05-02
+267,34.5,PTS+TRB,Devin Booker,NBA,PHX,2023-05-02
+268,11.5,TRB+AST,Devin Booker,NBA,PHX,2023-05-02
+269,6.5,AST,Devin Booker,NBA,PHX,2023-05-02
+270,41.5,PTS+TRB+AST,Devin Booker,NBA,PHX,2023-05-02
+271,26.5,PTS+TRB+AST,Chris Paul,NBA,PHX,2023-05-02
+272,13.5,PTS,Chris Paul,NBA,PHX,2023-05-02
+273,4.0,TRB,Chris Paul,NBA,PHX,2023-05-02
+274,8.0,AST,Chris Paul,NBA,PHX,2023-05-02
+275,15.5,PTS,Deandre Ayton,NBA,PHX,2023-05-02
+276,9.5,TRB,Deandre Ayton,NBA,PHX,2023-05-02
+277,25.5,PTS+TRB,Deandre Ayton,NBA,PHX,2023-05-02
+278,47.5,PTS+TRB+AST,Nikola Jokic,NBA,DEN,2023-05-02
+279,25.5,PTS,Nikola Jokic,NBA,DEN,2023-05-02
+280,38.5,PTS+TRB,Nikola Jokic,NBA,DEN,2023-05-02
+281,22.5,TRB+AST,Nikola Jokic,NBA,DEN,2023-05-02
+282,33.5,PTS+AST,Nikola Jokic,NBA,DEN,2023-05-02
+283,13.5,TRB,Nikola Jokic,NBA,DEN,2023-05-02
+284,8.5,AST,Nikola Jokic,NBA,DEN,2023-05-02
+285,4.5,TRB,Jamal Murray,NBA,DEN,2023-05-02
+286,24.5,PTS,Jamal Murray,NBA,DEN,2023-05-02
+287,29.5,PTS+TRB,Jamal Murray,NBA,DEN,2023-05-02
+288,11.0,TRB+AST,Jamal Murray,NBA,DEN,2023-05-02
+289,31.5,PTS+AST,Jamal Murray,NBA,DEN,2023-05-02
+290,36.5,PTS+TRB+AST,Jamal Murray,NBA,DEN,2023-05-02
+291,6.5,AST,Jamal Murray,NBA,DEN,2023-05-02
+292,8.5,TRB+AST,Aaron Gordon,NBA,DEN,2023-05-02
+293,17.5,PTS+AST,Aaron Gordon,NBA,DEN,2023-05-02
+294,6.0,TRB,Aaron Gordon,NBA,DEN,2023-05-02
+295,23.5,PTS+TRB+AST,Aaron Gordon,NBA,DEN,2023-05-02
+296,21.5,PTS+TRB,Aaron Gordon,NBA,DEN,2023-05-02
+297,15.0,PTS,Aaron Gordon,NBA,DEN,2023-05-02
+298,5.5,TRB,Michael Porter,NBA,DEN,2023-05-02
+299,22.5,PTS+TRB+AST,Michael Porter,NBA,DEN,2023-05-02
+300,16.5,PTS,Michael Porter,NBA,DEN,2023-05-02
+301,9.5,PTS,Kentavious Caldwell-Pope,NBA,DEN,2023-05-02
+302,13.5,PTS+TRB+AST,Kentavious Caldwell-Pope,NBA,DEN,2023-05-02
+303,4.0,TRB,Bruce Brown,NBA,DEN,2023-05-02
+304,17.5,PTS+TRB+AST,Bruce Brown,NBA,DEN,2023-05-02
+305,11.5,PTS,Bruce Brown,NBA,DEN,2023-05-02
+306,92.5,pitch_count,Johan Oviedo,MLB,PIT,2023-04-30
+307,4.5,strikeouts,Johan Oviedo,MLB,PIT,2023-04-30
+309,2.0,hits_runs_rbis,Bryan Reynolds,MLB,PIT,2023-04-30
+310,1.5,total_bases,Bryan Reynolds,MLB,PIT,2023-04-30
+311,0.5,singles,Ji Hwan Bae,other,PIT,2023-04-30
+312,0.5,singles,Connor Joe,MLB,PIT,2023-04-30
+313,0.5,hits,Austin Hedges,MLB,PIT,2023-04-30
+314,94.5,pitch_count,Josiah Gray,MLB,WSH,2023-04-30
+315,5.0,strikeouts,Josiah Gray,MLB,WSH,2023-04-30
+317,1.5,hits_runs_rbis,Joey Meneses,MLB,WSH,2023-04-30
+318,0.5,singles,Jeimer Candelario,MLB,WSH,2023-04-30
+319,0.5,singles,CJ Abrams,MLB,WSH,2023-04-30
+320,0.5,hits,Victor Robles,MLB,WSH,2023-04-30
+321,4.5,strikeouts,Logan Allen,MLB,CLE,2023-04-30
+323,0.5,singles,José Ramírez,MLB,CLE,2023-04-30
+324,0.5,singles,Andrés Giménez,MLB,CLE,2023-04-30
+325,0.5,singles,Josh Bell,MLB,CLE,2023-04-30
+326,0.5,hits,Gabriel Arias,MLB,CLE,2023-04-30
+327,5.0,strikeouts,Chris Sale,MLB,BOS,2023-04-30
+329,1.5,hits_runs_rbis,Jarren Duran,MLB,BOS,2023-04-30
+330,0.5,singles,Rafael Devers,MLB,BOS,2023-04-30
+331,0.5,singles,Masataka Yoshida,MLB,BOS,2023-04-30
+332,0.5,singles,Justin Turner,MLB,BOS,2023-04-30
+333,0.5,singles,Christian Arroyo,MLB,BOS,2023-04-30
+334,3.0,strikeouts,Marco Gonzales,MLB,SEA,2023-04-30
+336,0.5,singles,Teoscar Hernández,MLB,SEA,2023-04-30
+337,0.5,singles,AJ Pollock,MLB,SEA,2023-04-30
+338,0.5,singles,J.P. Crawford,MLB,SEA,2023-04-30
+339,0.5,hits,Sam Haggerty,MLB,SEA,2023-04-30
+340,5.0,strikeouts,Chris Bassitt,MLB,TOR,2023-04-30
+341,97.5,pitch_count,Chris Bassitt,MLB,TOR,2023-04-30
+342,1.5,walks_allowed,Chris Bassitt,MLB,TOR,2023-04-30
+343,0.5,rbis,Matt Chapman,MLB,TOR,2023-04-30
+345,1.5,total_bases,Vladimir Guerrero Jr.,other,TOR,2023-04-30
+346,0.5,singles,George Springer,MLB,TOR,2023-04-30
+347,1.5,total_bases,George Springer,MLB,TOR,2023-04-30
+348,2.0,total_bases,Bo Bichette,MLB,TOR,2023-04-30
+349,1.5,total_bases,Matt Chapman,MLB,TOR,2023-04-30
+350,0.5,singles,Daulton Varsho,MLB,TOR,2023-04-30
+351,0.5,singles,Alejandro Kirk,MLB,TOR,2023-04-30
+352,0.5,singles,Santiago Espinal,MLB,TOR,2023-04-30
+353,5.0,strikeouts,Kyle Bradish,MLB,BAL,2023-04-30
+355,0.5,walks,Adley Rutschman,MLB,BAL,2023-04-30
+356,0.5,singles,Jorge Mateo,MLB,BAL,2023-04-30
+357,0.5,singles,Adam Frazier,MLB,BAL,2023-04-30
+358,4.0,strikeouts,Spencer Turnbull,MLB,DET,2023-04-30
+360,1.5,hits_runs_rbis,Javier Báez,MLB,DET,2023-04-30
+361,0.5,singles,Riley Greene,MLB,DET,2023-04-30
+362,0.5,singles,Spencer Torkelson,MLB,DET,2023-04-30
+363,0.5,singles,Matt Vierling,MLB,DET,2023-04-30
+364,0.5,singles,Zach McKinstry,MLB,DET,2023-04-30
+365,0.5,hits,Jake Rogers,MLB,DET,2023-04-30
+366,5.5,strikeouts,Brady Singer,MLB,KC,2023-04-30
+368,0.5,singles,Edward Olivares,MLB,KC,2023-04-30
+369,0.5,singles,Matt Duffy,MLB,KC,2023-04-30
+370,1.5,walks_allowed,Sonny Gray,MLB,MIN,2023-04-30
+371,6.5,strikeouts,Sonny Gray,MLB,MIN,2023-04-30
+372,93.5,pitch_count,Sonny Gray,MLB,MIN,2023-04-30
+374,0.5,singles,Carlos Correa,MLB,MIN,2023-04-30
+375,0.5,singles,Max Kepler,MLB,MIN,2023-04-30
+376,0.5,singles,Christian Vázquez,MLB,MIN,2023-04-30
+377,0.5,hits,Joey Gallo,MLB,MIN,2023-04-30
+378,5.5,strikeouts,Drew Rasmussen,MLB,TB,2023-04-30
+380,1.5,hits_runs_rbis,Randy Arozarena,MLB,TB,2023-04-30
+381,5.0,strikeouts,Mike Clevinger,MLB,CWS,2023-04-30
+383,0.5,singles,Adam Haseley,MLB,CWS,2023-04-30
+384,0.5,hits,Lenyn Sosa,MLB,CWS,2023-04-30
+385,5.5,strikeouts,José Suarez,MLB,LAA,2023-04-30
+386,1.5,total_bases,Mike Trout,MLB,LAA,2023-04-30
+387,2.5,hits_runs_rbis,Mike Trout,MLB,LAA,2023-04-30
+388,0.5,walks,Mike Trout,MLB,LAA,2023-04-30
+391,1.5,total_bases,Shohei Ohtani,MLB,LAA,2023-04-30
+392,0.5,singles,Shohei Ohtani,MLB,LAA,2023-04-30
+393,3.5,strikeouts,Colin Rea,MLB,MIL,2023-04-30
+395,0.5,runs,Willy Adames,MLB,MIL,2023-04-30
+396,0.5,singles,William Contreras,MLB,MIL,2023-04-30
+397,0.5,singles,Owen Miller,MLB,MIL,2023-04-30
+398,6.0,strikeouts,Nestor Cortes,MLB,NYY,2023-04-30
+399,93.5,pitch_count,Nestor Cortes,MLB,NYY,2023-04-30
+400,1.5,walks_allowed,Nestor Cortes,MLB,NYY,2023-04-30
+402,0.5,singles,Gleyber Torres,MLB,NYY,2023-04-30
+403,0.5,singles,Anthony Rizzo,MLB,NYY,2023-04-30
+404,0.5,singles,Anthony Volpe,MLB,NYY,2023-04-30
+405,0.5,singles,Oswald Peraza,MLB,NYY,2023-04-30
+406,90.5,pitch_count,Martín Pérez,MLB,TEX,2023-04-30
+407,4.0,strikeouts,Martín Pérez,MLB,TEX,2023-04-30
+409,1.5,hits_runs_rbis,Marcus Semien,MLB,TEX,2023-04-30
+410,0.5,runs,Marcus Semien,MLB,TEX,2023-04-30
+411,0.5,singles,Nathaniel Lowe,MLB,TEX,2023-04-30
+413,0.5,singles,Christian Walker,MLB,ARI,2023-04-30
+414,2.5,hits_runs_rbis,Christian Walker,MLB,ARI,2023-04-30
+415,1.5,total_bases,Christian Walker,MLB,ARI,2023-04-30
+416,2.0,total_bases,Ketel Marte,MLB,ARI,2023-04-30
+417,1.5,total_bases,Evan Longoria,MLB,ARI,2023-04-30
+418,0.5,singles,Alek Thomas,MLB,ARI,2023-04-30
+419,0.5,singles,Emmanuel Rivera,MLB,ARI,2023-04-30
+420,1.5,total_bases,Emmanuel Rivera,MLB,ARI,2023-04-30
+421,0.5,singles,Nick Ahmed,MLB,ARI,2023-04-30
+422,0.5,singles,Pavin Smith,MLB,ARI,2023-04-30
+423,0.5,singles,Gabriel Moreno,MLB,ARI,2023-04-30
+424,3.0,strikeouts,Austin Gomber,MLB,COL,2023-04-30
+425,1.5,hits_runs_rbis,Mike Moustakas,MLB,COL,2023-04-30
+427,0.5,singles,C.J. Cron,MLB,COL,2023-04-30
+428,1.5,total_bases,C.J. Cron,MLB,COL,2023-04-30
+429,1.5,total_bases,Charlie Blackmon,MLB,COL,2023-04-30
+430,1.5,total_bases,Jurickson Profar,MLB,COL,2023-04-30
+431,0.5,singles,Randal Grichuk,MLB,COL,2023-04-30
+432,1.5,total_bases,Randal Grichuk,MLB,COL,2023-04-30
+433,0.5,singles,Alan Trejo,MLB,COL,2023-04-30
+434,0.5,singles,Elias Díaz,MLB,COL,2023-04-30
+435,0.5,walks,Ryan McMahon,MLB,COL,2023-04-30
+436,0.5,singles,Ezequiel Tovar,MLB,COL,2023-04-30
+437,0.5,singles,Ryan McMahon,MLB,COL,2023-04-30
+438,3.5,strikeouts,Alex Cobb,MLB,SF,2023-04-30
+440,3.5,hits_runs_rbis,Joc Pederson,MLB,SF,2023-04-30
+441,2.5,total_bases,Joc Pederson,MLB,SF,2023-04-30
+442,2.5,total_bases,Mitch Haniger,MLB,SF,2023-04-30
+443,0.5,singles,Mitch Haniger,MLB,SF,2023-04-30
+444,0.5,walks,Michael Conforto,MLB,SF,2023-04-30
+445,0.5,singles,Michael Conforto,MLB,SF,2023-04-30
+446,2.0,total_bases,Michael Conforto,MLB,SF,2023-04-30
+447,2.0,total_bases,LaMonte Wade Jr.,other,SF,2023-04-30
+448,2.0,total_bases,Thairo Estrada,MLB,SF,2023-04-30
+449,1.5,total_bases,Joey Bart,MLB,SF,2023-04-30
+450,5.0,strikeouts,Yu Darvish,MLB,SD,2023-04-30
+452,3.5,total_bases,Fernando Tatis Jr.,other,SD,2023-04-30
+453,2.5,total_bases,Manny Machado,MLB,SD,2023-04-30
+454,0.5,singles,Juan Soto,MLB,SD,2023-04-30
+455,2.5,total_bases,Juan Soto,MLB,SD,2023-04-30
+456,1.5,hits,Xander Bogaerts,MLB,SD,2023-04-30
+457,2.0,total_bases,Jake Cronenworth,MLB,SD,2023-04-30
+458,2.0,total_bases,Nelson Cruz,MLB,SD,2023-04-30
+459,1.5,total_bases,Austin Nola,MLB,SD,2023-04-30
+460,7.0,strikeouts,Nick Lodolo,MLB,CIN,2023-04-30
+461,98.5,pitch_count,Nick Lodolo,MLB,CIN,2023-04-30
+463,1.5,hits_runs_rbis,Spencer Steer,MLB,CIN,2023-04-30
+464,0.5,singles,Tyler Stephenson,MLB,CIN,2023-04-30
+465,0.5,singles,Henry Ramos,MLB,CIN,2023-04-30
+466,0.5,singles,Kevin Newman,MLB,CIN,2023-04-30
+467,0.5,singles,Nick Senzel,MLB,CIN,2023-04-30
+468,4.5,strikeouts,Ken Waldichuk,MLB,OAK,2023-04-30
+470,0.5,singles,Esteury Ruiz,MLB,OAK,2023-04-30
+471,0.5,hits,Shea Langeliers,MLB,OAK,2023-04-30
+472,0.5,hits,Kevin Smith,MLB,OAK,2023-04-30
+473,3.0,strikeouts,Jake Woodford,MLB,STL,2023-04-30
+475,0.5,runs,Paul Goldschmidt,MLB,STL,2023-04-30
+476,0.5,singles,Paul Goldschmidt,MLB,STL,2023-04-30
+477,2.0,hits_runs_rbis,Paul Goldschmidt,MLB,STL,2023-04-30
+478,0.5,singles,Nolan Arenado,MLB,STL,2023-04-30
+479,0.5,singles,Willson Contreras,MLB,STL,2023-04-30
+480,0.5,singles,Alec Burleson,MLB,STL,2023-04-30
+481,0.5,singles,Brendan Donovan,MLB,STL,2023-04-30
+482,0.5,singles,Tommy Edman,MLB,STL,2023-04-30
+483,4.0,strikeouts,Noah Syndergaard,MLB,LAD,2023-04-30
+485,0.5,runs,Freddie Freeman,MLB,LAD,2023-04-30
+486,1.5,total_bases,Freddie Freeman,MLB,LAD,2023-04-30
+487,2.0,hits_runs_rbis,Freddie Freeman,MLB,LAD,2023-04-30
+488,0.5,singles,Mookie Betts,MLB,LAD,2023-04-30
+489,0.5,singles,Will Smith,MLB,LAD,2023-04-30
+490,0.5,singles,David Peralta,MLB,LAD,2023-04-30
+491,0.5,singles,Miguel Vargas,MLB,LAD,2023-04-30
+492,0.5,hits,Chris Taylor,MLB,LAD,2023-04-30
+493,4.0,strikeouts,Bailey Falter,MLB,PHI,2023-04-30
+494,93.5,pitch_count,Bailey Falter,MLB,PHI,2023-04-30
+496,1.5,hits_runs_rbis,Kyle Schwarber,MLB,PHI,2023-04-30
+497,0.5,runs,Kyle Schwarber,MLB,PHI,2023-04-30
+498,0.5,singles,Trea Turner,MLB,PHI,2023-04-30
+499,0.5,singles,Alec Bohm,MLB,PHI,2023-04-30
+500,0.5,singles,Bryson Stott,MLB,PHI,2023-04-30
+501,5.0,strikeouts,José Urquidy,MLB,HOU,2023-04-30
+503,1.5,hits_runs_rbis,Kyle Tucker,MLB,HOU,2023-04-30
+504,0.5,singles,Kyle Tucker,MLB,HOU,2023-04-30
+505,1.5,total_bases,Yordan Alvarez,MLB,HOU,2023-04-30
+506,0.5,singles,Alex Bregman,MLB,HOU,2023-04-30
+507,0.5,singles,Jeremy Peña,MLB,HOU,2023-04-30
+508,0.5,singles,José Abreu,MLB,HOU,2023-04-30
+509,0.5,hits,Martín Maldonado,MLB,HOU,2023-04-30
+510,30.5,saves,Sergei Bobrovsky,NHL,FLA,2023-04-30
+511,0.5,PTS,Sam Reinhart,NHL,FLA,2023-04-30
+512,3.5,shots,Matthew Tkachuk,NHL,FLA,2023-04-30
+513,3.0,shots,Sam Bennett,NHL,FLA,2023-04-30
+514,3.0,shots,Carter Verhaeghe,NHL,FLA,2023-04-30
+515,2.5,shots,Brandon Montour,NHL,FLA,2023-04-30
+516,2.0,shots,Gustav Forsling,NHL,FLA,2023-04-30
+517,2.5,shots,Aleksander Barkov,NHL,FLA,2023-04-30
+518,2.5,shots,Aaron Ekblad,NHL,FLA,2023-04-30
+519,2.0,shots,Sam Reinhart,NHL,FLA,2023-04-30
+520,4.5,hits,Radko Gudas,NHL,FLA,2023-04-30
+521,4.0,hits,Sam Bennett,NHL,FLA,2023-04-30
+522,3.5,hits,Matthew Tkachuk,NHL,FLA,2023-04-30
+523,0.5,goals,David Pastrnak,NHL,BOS,2023-04-30
+524,5.0,shots,David Pastrnak,NHL,BOS,2023-04-30
+525,3.0,shots,Brad Marchand,NHL,BOS,2023-04-30
+526,2.5,shots,Tyler Bertuzzi,NHL,BOS,2023-04-30
+527,2.0,shots,Jake DeBrusk,NHL,BOS,2023-04-30
+528,2.0,shots,Taylor Hall,NHL,BOS,2023-04-30
+529,4.0,hits,Charlie McAvoy,NHL,BOS,2023-04-30
+530,2.5,hits,Tyler Bertuzzi,NHL,BOS,2023-04-30
+531,4.0,hits,Garnet Hathaway,NHL,BOS,2023-04-30
+532,29.5,saves,Philipp Grubauer,NHL,SEA,2023-05-01
+533,0.5,PTS,Matty Beniers,NHL,SEA,2023-05-01
+534,3.0,shots,Jaden Schwartz,NHL,SEA,2023-05-01
+535,2.0,shots,Oliver Bjorkstrand,NHL,SEA,2023-05-01
+536,2.0,shots,Matty Beniers,NHL,SEA,2023-05-01
+537,2.0,shots,Eeli Tolvanen,NHL,SEA,2023-05-01
+538,2.0,shots,Daniel Sprong,NHL,SEA,2023-05-01
+539,2.0,shots,Jordan Eberle,NHL,SEA,2023-05-01
+540,2.0,shots,Vince Dunn,NHL,SEA,2023-05-01
+541,3.5,hits,Eeli Tolvanen,NHL,SEA,2023-05-01
+542,4.5,hits,Brandon Tanev,NHL,SEA,2023-05-01
+543,4.5,hits,Adam Larsson,NHL,SEA,2023-05-01
+544,26.5,saves,Alexandar Georgiev,NHL,COL,2023-05-01
+545,0.5,goals,Nathan MacKinnon,NHL,COL,2023-05-01
+546,5.0,shots,Nathan MacKinnon,NHL,COL,2023-05-01
+547,0.5,goals,Mikko Rantanen,NHL,COL,2023-05-01
+548,3.5,shots,Mikko Rantanen,NHL,COL,2023-05-01
+549,3.0,shots,Cale Makar,NHL,COL,2023-05-01
+550,2.5,shots,Evan Rodrigues,NHL,COL,2023-05-01
+551,2.0,shots,J.T. Compher,NHL,COL,2023-05-01
+552,2.0,shots,Bowen Byram,NHL,COL,2023-05-01
+553,2.0,shots,Artturi Lehkonen,NHL,COL,2023-05-01
+554,1.5,shots,Devon Toews,NHL,COL,2023-05-01
+555,3.5,hits,Artturi Lehkonen,NHL,COL,2023-05-01
+556,4.5,hits,Erik Johnson,NHL,COL,2023-05-01
+557,2.5,hits,Logan O'Connor,NHL,COL,2023-05-01
+558,0.5,PTS,Chris Kreider,NHL,NYR,2023-05-02
+559,3.0,shots,Patrick Kane,NHL,NYR,2023-05-02
+560,2.5,shots,Mika Zibanejad,NHL,NYR,2023-05-02
+561,2.0,shots,Vladimir Tarasenko,NHL,NYR,2023-05-02
+562,2.0,shots,Artemi Panarin,NHL,NYR,2023-05-02
+563,2.0,shots,Chris Kreider,NHL,NYR,2023-05-02
+564,2.0,shots,Vincent Trocheck,NHL,NYR,2023-05-02
+565,2.0,shots,Jacob Trouba,NHL,NYR,2023-05-02
+566,2.0,shots,Filip Chytil,NHL,NYR,2023-05-02
+567,0.5,AST,Jack Hughes,NHL,NJ,2023-05-02
+568,4.0,shots,Jack Hughes,NHL,NJ,2023-05-02
+569,4.0,shots,Timo Meier,NHL,NJ,2023-05-02
+570,3.0,shots,Nico Hischier,NHL,NJ,2023-05-02
+571,3.0,shots,Dougie Hamilton,NHL,NJ,2023-05-02
+572,2.5,shots,Jesper Bratt,NHL,NJ,2023-05-02
+573,2.0,shots,Dawson Mercer,NHL,NJ,2023-05-02
+574,2.0,shots,Erik Haula,NHL,NJ,2023-05-02
+575,2.0,shots,Tomas Tatar,NHL,NJ,2023-05-02
+576,2.5,saves,Wojciech Szczesny,SOCCER,Juventus,2023-04-30
+577,2.0,shots,Dusan Vlahovic,SOCCER,Juventus,2023-04-30
+578,2.0,shots,Arek Milik,SOCCER,Juventus,2023-04-30
+579,1.0,shots,Filip Kostić,SOCCER,Juventus,2023-04-30
+580,0.5,interceptions,Nicolo Fagioli,SOCCER,Juventus,2023-04-30
+581,3.5,clearances,Federico Gatti,SOCCER,Juventus,2023-04-30
+582,3.0,saves,Łukasz Skorupski,SOCCER,Bologna,2023-04-30
+583,2.0,shots,Musa Barrow,SOCCER,Bologna,2023-04-30
+584,2.5,clearances,Stefan Posch,SOCCER,Bologna,2023-04-30
+585,2.5,tackles,Stefan Posch,SOCCER,Bologna,2023-04-30
+586,1.5,interceptions,Jerdy Schouten,SOCCER,Bologna,2023-04-30
+587,2.5,shots,Nuno Shots,other,Nuno Shots,
+588,1.0,shots,M'Baye Niang,SOCCER,Auxerre,2023-04-30
+589,2.5,shots,Alexis Sanchez,SOCCER,Marseille,2023-04-30
+590,0.5,goals_and_assists,Cengiz Ünder,SOCCER,Marseille,2023-04-30
+591,2.5,shots,Cengiz Ünder,SOCCER,Marseille,2023-04-30
+592,2.5,shots,Ruslan Malinovskyi,SOCCER,Marseille,2023-04-30
+593,1.5,shots,Jonathan Clauss,SOCCER,Marseille,2023-04-30
+594,3.0,shots,Antoine Griezmann,SOCCER,Atletico Madrid,2023-04-30
+595,5.0,crosses,Antoine Griezmann,SOCCER,Atletico Madrid,2023-04-30
+596,0.5,goals_and_assists,Alvaro Morata,SOCCER,Atletico Madrid,2023-04-30
+597,2.0,shots,Alvaro Morata,SOCCER,Atletico Madrid,2023-04-30
+598,2.0,shots,Angel Correa,SOCCER,Atletico Madrid,2023-04-30
+599,2.0,shots,Yannick Carrasco,SOCCER,Atletico Madrid,2023-04-30
+600,2.0,tackles,Koke Tackles,other,Koke Tackles,
+601,1.5,shots,Cyle Larin,SOCCER,Valladolid,2023-04-30
+602,4.5,clearances,Javi Sanchez,SOCCER,Valladolid,2023-04-30
+603,36.5,map_1_and_2_kills,Val: Leaf,ESPORTS,Val: Cloud9 ,2023-04-30
+604,30.5,map_1_and_2_kills,Val: runi,ESPORTS,Val: Cloud9 ,2023-04-30
+605,35.5,map_1_and_2_kills,Val: zekken,ESPORTS, Sentinels,2023-04-30
+606,33.5,map_1_and_2_kills,Val: Sacy,ESPORTS, Sentinels,2023-04-30
+607,32.0,map_1_and_2_kills,Val: Tacolilla,ESPORTS,Val: Leviatan ,2023-04-30
+608,33.0,map_1_and_2_kills,Val: kiNgg,ESPORTS,Val: Leviatan ,2023-04-30
+609,32.5,map_1_and_2_kills,Val: Boostio,ESPORTS, Evil Geniuses,2023-04-30
+610,31.0,map_1_and_2_kills,Val: Ethan,ESPORTS, Evil Geniuses,2023-04-30
+611,40.5,map_1_and_2_kills,CS:GO KEi,ESPORTS,9INE ,2023-04-30
+612,17.5,Headshots on Maps 1+2,CS:GO KEi,ESPORTS,9INE ,2023-04-30
+613,39.5,map_1_and_2_kills,CS:GO hades,ESPORTS,9INE ,2023-04-30
+614,11.5,Headshots on Maps 1+2,CS:GO hades,ESPORTS,9INE ,2023-04-30
+615,37.0,map_1_and_2_kills,CS:GO lauNX,ESPORTS, Sprout,2023-04-30
+616,21.0,Headshots on Maps 1+2,CS:GO lauNX,ESPORTS, Sprout,2023-04-30
+617,35.5,map_1_and_2_kills,CS:GO diozera,ESPORTS, MiBR Academy,2023-04-30
+618,15.5,Headshots on Maps 1+2,CS:GO diozera,ESPORTS, MiBR Academy,2023-04-30
+619,32.5,map_1_and_2_kills,CS:GO land1n,ESPORTS,Tropicaos ,2023-04-30
+620,7.5,Headshots on Maps 1+2,CS:GO land1n,ESPORTS,Tropicaos ,2023-04-30
+621,35.0,map_1_and_2_kills,CS:GO tatazin,ESPORTS,Tropicaos ,2023-04-30
+622,17.0,Headshots on Maps 1+2,CS:GO tatazin,ESPORTS,Tropicaos ,2023-04-30
+623,36.5,map_1_and_2_kills,CS:GO Bwills,ESPORTS,Nouns ,2023-04-30
+624,18.5,Headshots on Maps 1+2,CS:GO Bwills,ESPORTS,Nouns ,2023-04-30
+625,41.5,map_1_and_2_kills,CS:GO cynic,ESPORTS,Nouns ,2023-04-30
+626,16.0,Headshots on Maps 1+2,CS:GO cynic,ESPORTS,Nouns ,2023-04-30
+627,29.5,map_1_and_2_kills,CS:GO snav,ESPORTS, Timbermen,2023-04-30
+628,14.5,Headshots on Maps 1+2,CS:GO snav,ESPORTS, Timbermen,2023-04-30
+629,36.5,map_1_and_2_kills,CSGO: Infinite,ESPORTS, Strife,2023-04-30
+630,19.5,Headshots on Maps 1+2,CSGO: Infinite,ESPORTS, Strife,2023-04-30
+631,39.0,map_1_and_2_kills,CS:GO Swisher,ESPORTS,ATK ,2023-04-30
+632,18.5,Headshots on Maps 1+2,CS:GO Swisher,ESPORTS,ATK ,2023-04-30
+633,37.0,map_1_and_2_kills,CS:GO reck,ESPORTS,ATK ,2023-04-30
+634,21.5,Headshots on Maps 1+2,CS:GO reck,ESPORTS,ATK ,2023-04-30
+635,38.5,map_1_and_2_kills,CS:GO togs,ESPORTS,Sharks ,2023-04-30
+636,18.0,Headshots on Maps 1+2,CS:GO togs,ESPORTS,Sharks ,2023-04-30
+637,36.5,map_1_and_2_kills,CS:GO Gafolo,ESPORTS,Sharks ,2023-04-30
+638,11.0,Headshots on Maps 1+2,CS:GO Gafolo,ESPORTS,Sharks ,2023-04-30
+639,35.5,map_1_and_2_kills,CS:GO Lcm,ESPORTS, Solid,2023-04-30
+640,10.5,Headshots on Maps 1+2,CS:GO Lcm,ESPORTS, Solid,2023-04-30
+641,1.5,service_games_lost,Hubert Hurkacz,other,Hubert Hurkacz,
+642,13.0,games_won,Hubert Hurkacz,other,Hubert Hurkacz,
+643,12.5,games_lost,Hubert Hurkacz,other,Hubert Hurkacz,
+645,16.5,aces,Hubert Hurkacz,other,Hubert Hurkacz,
+646,2.5,double_faults,Hubert Hurkacz,other,Hubert Hurkacz,
+647,12.0,games_lost,Yannick Hanfmann,other,Yannick Hanfmann,
+648,5.0,aces,Yannick Hanfmann,other,Yannick Hanfmann,
+649,12.5,games_won,Yannick Hanfmann,other,Yannick Hanfmann,
+651,2.0,double_faults,Yannick Hanfmann,other,Yannick Hanfmann,
+652,3.5,breakpoints_won,Carlos Alcaraz,other,Carlos Alcaraz,
+653,8.0,games_lost,Carlos Alcaraz,other,Carlos Alcaraz,
+654,3.5,aces,Carlos Alcaraz,other,Carlos Alcaraz,
+655,1.5,double_faults,Carlos Alcaraz,other,Carlos Alcaraz,
+656,12.5,games_won,Carlos Alcaraz,other,Carlos Alcaraz,
+658,12.0,games_lost,Holger Rune,other,Holger Rune,
+659,12.5,games_won,Holger Rune,other,Holger Rune,
+660,3.5,breakpoints_won,Holger Rune,other,Holger Rune,
+661,2.5,service_games_lost,Holger Rune,other,Holger Rune,
+662,4.0,aces,Holger Rune,other,Holger Rune,
+664,4.0,double_faults,Holger Rune,other,Holger Rune,
+665,4.0,double_faults,Qinwen Zheng,other,Qinwen Zheng,
+666,12.0,games_lost,Qinwen Zheng,other,Qinwen Zheng,
+667,3.5,service_games_lost,Qinwen Zheng,other,Qinwen Zheng,
+669,7.0,aces,Qinwen Zheng,other,Qinwen Zheng,
+670,4.0,position,Kyle Larson,RACING,b0d9360d-6b0d-4dcd-97fc-80126b4b4140,
+671,6.5,position,William Byron,RACING,b3ec612c-da86-4586-957a-69ef59ff3be5,
+672,6.5,position,Chase Elliott,RACING,d46b1b2a-8dea-4733-b1d9-0acf761add7f,
+673,7.5,position,Christopher Bell,RACING,21336e69-820d-40ee-a01f-678c633af187,
+674,7.5,position,Denny Hamlin,RACING,23543f4d-d305-42e3-861e-c9cc3941f8bf,
+675,8.5,position,Kevin Harvick,RACING,613c00bc-da7e-4b7b-8ed9-dc32c2eccd95,
+676,8.5,position,Martin Truex Jr,other,00e0c7d2-df5e-4bb8-b23b-db6d691df710,
+677,9.5,position,Ross Chastain,RACING,91c174ea-6bd6-46d1-94dd-0d0a0d7d05bb,
+678,10.5,position,Kyle Busch,RACING,4fbbee2d-3b38-4713-b929-df61d2331aa7,
+679,10.5,position,Brad Keselowski,RACING,dfebe773-60e1-42a6-9a19-86c647797b0b,
+680,11.5,position,Joey Logano,RACING,d3fd26b6-20d3-47c1-98ee-b67ea5870d43,
+681,11.5,position,Ryan Blaney,RACING,99bfb686-6910-4652-b064-69d19d62d31b,
+682,11.5,position,Tyler Reddick,RACING,df276411-6219-461e-87a5-181740d92613,
+683,270.5,passing_yds,Ben DiNucci,XFL,Sea Dragons,2023-04-30
+684,25.5,rushing_yds,Phillip Lindsay,XFL,Sea Dragons,2023-04-30
+685,60.5,receiving_yds,Jahcour Pearson,XFL,Sea Dragons,2023-04-30
+686,45.5,receiving_yds,Blake Jackson,XFL,Sea Dragons,2023-04-30
+687,45.5,receiving_yds,Josh Gordon,XFL,Sea Dragons,2023-04-30
+688,215.5,passing_yds,Jordan Taamu,XFL,Defenders,2023-04-30
+689,20.5,rushing_yds,Jordan Taamu,XFL,Defenders,2023-04-30
+690,70.5,rushing_yds,Abram Smith,XFL,Defenders,2023-04-30
+691,45.5,receiving_yds,Lucky Jackson,XFL,Defenders,2023-04-30
+692,40.5,receiving_yds,Chris Blair,XFL,Defenders,2023-04-30
+693,60.5,rushing_yds,Darius Victor,USFL,Generals ,2023-04-30
+694,222.5,passing_yds,Josh Love,USFL,Panthers,2023-04-30
+695,55.5,rushing_yds,Reggie Corbin,USFL,Panthers,2023-04-30
+696,53.5,receiving_yds,Joe Walker,USFL,Panthers,2023-04-30

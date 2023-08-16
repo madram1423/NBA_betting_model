@@ -1,0 +1,383 @@
+,Player,Team,Stat,Line,Date
+0,Marco Gonzales,SEA,SO (K),4.0,2023-05-12
+1,Ty France,SEA,FPTS,8.5,2023-05-12
+2,Matthew Boyd,DET,SO (K),5.0,2023-05-12
+3,Graham Ashcraft,CIN,SO (K),4.0,2023-05-12
+4,Graham Ashcraft,CIN,P,93.5,2023-05-12
+5,Jonathan India,CIN,FPTS,9.0,2023-05-12
+6,Jazz Chisholm Jr.,MIA,FPTS,9.0,2023-05-12
+7,Auston Matthews,TOR,SHO,4.5,2023-05-12
+8,Auston Matthews,TOR,GLS,0.5,2023-05-12
+9,Auston Matthews,TOR,FPTS,8.5,2023-05-12
+10,William Nylander,TOR,SHO,3.5,2023-05-12
+11,William Nylander,TOR,FPTS,6.0,2023-05-12
+12,Joseph Woll,TOR,SV,28.5,2023-05-12
+13,Joseph Woll,TOR,FPTS,4.5,2023-05-12
+14,John Tavares,TOR,SHO,3.5,2023-05-12
+15,John Tavares,TOR,FPTS,6.0,2023-05-12
+16,Mitchell Marner,TOR,SHO,3.0,2023-05-12
+17,Mitchell Marner,TOR,FPTS,6.5,2023-05-12
+18,Matthew Tkachuk,FLO,SHO,3.0,2023-05-12
+19,Matthew Tkachuk,FLO,HIT,3.5,2023-05-12
+20,Matthew Tkachuk,FLO,FPTS,8.5,2023-05-12
+21,Carter Verhaeghe,FLO,SHO,2.5,2023-05-12
+22,Brandon Montour,FLO,SHO,3.0,2023-05-12
+23,Brandon Montour,FLO,FPTS,6.0,2023-05-12
+24,Sam Reinhart,FLO,SHO,2.0,2023-05-12
+25,Sam Reinhart,FLO,FPTS,5.5,2023-05-12
+26,Sergei Bobrovsky,FLO,SV,29.5,2023-05-12
+27,Sergei Bobrovsky,FLO,FPTS,5.0,2023-05-12
+28,Radko Gudas,FLO,HIT,4.5,2023-05-12
+29,Radko Gudas,FLO,BS,1.5,2023-05-12
+30,Radko Gudas,FLO,FPTS,7.0,2023-05-12
+31,Aaron Ekblad,FLO,SHO,2.0,2023-05-12
+32,Aaron Ekblad,FLO,FPTS,5.0,2023-05-12
+33,Aleksander Barkov,FLO,SHO,2.5,2023-05-12
+34,Aleksander Barkov,FLO,FPTS,5.0,2023-05-12
+35,Gustav Forsling,FLO,SHO,2.0,2023-05-12
+36,Gustav Forsling,FLO,FPTS,4.5,2023-05-12
+37,Johan Oviedo,PIT,SO (K),4.0,2023-05-12
+38,Johan Oviedo,PIT,P,89.5,2023-05-12
+39,Adley Rutschman,BAL,FPTS,9.0,2023-05-12
+40,Kyle Bradish,BAL,SO (K),5.0,2023-05-12
+41,Randy Arozarena,TB,FPTS,7.5,2023-05-12
+42,Yandy Díaz,TB,FPTS,7.5,2023-05-12
+43,Gerrit Cole,NYY,SO (K),7.0,2023-05-12
+44,Gerrit Cole,NYY,P,97.5,2023-05-12
+45,Aaron Judge,NYY,FPTS,10.5,2023-05-12
+46,Anthony Rizzo,NYY,FPTS,8.5,2023-05-12
+47,Pete Alonso,NYM,FPTS,8.5,2023-05-12
+48,Francisco Lindor,NYM,FPTS,8.5,2023-05-12
+49,MacKenzie Gore,WSH,SO (K),5.5,2023-05-12
+50,MacKenzie Gore,WSH,P,95.5,2023-05-12
+51,Vladimir Guerrero Jr.,TOR,FPTS,8.0,2023-05-12
+52,Bo Bichette,TOR,FPTS,7.5,2023-05-12
+53,Chris Bassitt,TOR,SO (K),4.5,2023-05-12
+54,Chris Bassitt,TOR,P,97.5,2023-05-12
+55,Ronald Acuña Jr.,ATL,TB,1.5,2023-05-12
+56,Ronald Acuña Jr.,ATL,FPTS,10.5,2023-05-12
+57,Spencer Strider,ATL,SO (K),8.0,2023-05-12
+58,Spencer Strider,ATL,P,97.5,2023-05-12
+59,Matt Olson,ATL,R,0.5,2023-05-12
+60,Matt Olson,ATL,FPTS,8.5,2023-05-12
+61,Alex Verdugo,BOS,FPTS,8.5,2023-05-12
+62,James Paxton,BOS,SO (K),5.0,2023-05-12
+63,Masataka Yoshida,BOS,FPTS,8.0,2023-05-12
+64,Adam Wainwright,STL,SO (K),3.0,2023-05-12
+65,Nolan Arenado,STL,TB,1.5,2023-05-12
+66,Nolan Arenado,STL,FPTS,8.0,2023-05-12
+67,Paul Goldschmidt,STL,TB,1.5,2023-05-12
+68,Paul Goldschmidt,STL,FPTS,9.0,2023-05-12
+69,José Ramírez,CLE,FPTS,8.5,2023-05-12
+70,Logan Allen,CLE,SO (K),5.0,2023-05-12
+71,Tyler Anderson,LAA,SO (K),4.0,2023-05-12
+72,Shohei Ohtani,LAA,FPTS,10.0,2023-05-12
+73,Julius Randle,NYK,PTS,22.0,2023-05-12
+74,Julius Randle,NYK,REB,9.0,2023-05-12
+75,Julius Randle,NYK,AST,3.5,2023-05-12
+76,Julius Randle,NYK,3P,2.5,2023-05-12
+77,Julius Randle,NYK,PTS+TRB+AST,34.5,2023-05-12
+78,Julius Randle,NYK,PTS+TRB,31.5,2023-05-12
+79,Julius Randle,NYK,PTS+AST,25.5,2023-05-12
+80,Julius Randle,NYK,TRB+AST,12.5,2023-05-12
+81,Julius Randle,NYK,3PA,7.0,2023-05-12
+82,Julius Randle,NYK,FTM,4.0,2023-05-12
+83,Julius Randle,NYK,FPTS,34.5,2023-05-12
+84,Jalen Brunson,NYK,PTS,27.5,2023-05-12
+85,Jalen Brunson,NYK,REB,5.0,2023-05-12
+86,Jalen Brunson,NYK,AST,7.0,2023-05-12
+87,Jalen Brunson,NYK,PTS+TRB+AST,40.5,2023-05-12
+88,Jalen Brunson,NYK,PTS+TRB,33.5,2023-05-12
+89,Jalen Brunson,NYK,PTS+AST,35.5,2023-05-12
+90,Jalen Brunson,NYK,TRB+AST,12.0,2023-05-12
+91,Jalen Brunson,NYK,3PA,7.0,2023-05-12
+92,Jalen Brunson,NYK,FTM,5.5,2023-05-12
+93,Jalen Brunson,NYK,FPTS,42.5,2023-05-12
+94,RJ Barrett,NYK,PTS,21.5,2023-05-12
+95,RJ Barrett,NYK,REB,4.5,2023-05-12
+96,RJ Barrett,NYK,PTS+TRB+AST,28.5,2023-05-12
+97,RJ Barrett,NYK,PTS+TRB,25.5,2023-05-12
+98,RJ Barrett,NYK,PTS+AST,24.5,2023-05-12
+99,RJ Barrett,NYK,3PA,6.0,2023-05-12
+100,RJ Barrett,NYK,FTM,3.5,2023-05-12
+101,RJ Barrett,NYK,FPTS,28.5,2023-05-12
+102,Jimmy Butler,MIA,PTS,28.5,2023-05-12
+103,Jimmy Butler,MIA,REB,6.5,2023-05-12
+104,Jimmy Butler,MIA,PTS+TRB+AST,42.5,2023-05-12
+105,Jimmy Butler,MIA,PTS+TRB,35.5,2023-05-12
+106,Jimmy Butler,MIA,PTS+AST,35.5,2023-05-12
+107,Jimmy Butler,MIA,TRB+AST,14.0,2023-05-12
+108,Jimmy Butler,MIA,3PA,2.5,2023-05-12
+109,Jimmy Butler,MIA,FTM,8.5,2023-05-12
+110,Jimmy Butler,MIA,FPTS,46.5,2023-05-12
+111,Bam Adebayo,MIA,PTS,18.0,2023-05-12
+112,Bam Adebayo,MIA,REB,8.5,2023-05-12
+113,Bam Adebayo,MIA,PTS+TRB+AST,29.5,2023-05-12
+114,Bam Adebayo,MIA,PTS+TRB,26.5,2023-05-12
+115,Bam Adebayo,MIA,PTS+AST,21.0,2023-05-12
+116,Bam Adebayo,MIA,TRB+AST,11.5,2023-05-12
+117,Bam Adebayo,MIA,FPTS,30.5,2023-05-12
+118,Max Strus,MIA,PTS,13.0,2023-05-12
+119,Max Strus,MIA,PTS+TRB+AST,17.5,2023-05-12
+120,Max Strus,MIA,PTS+TRB,15.5,2023-05-12
+121,Max Strus,MIA,PTS+AST,14.5,2023-05-12
+122,Max Strus,MIA,3PA,7.5,2023-05-12
+123,Max Strus,MIA,FTM,0.5,2023-05-12
+124,Max Strus,MIA,TO,0.5,2023-05-12
+125,Max Strus,MIA,FPTS,18.0,2023-05-12
+126,Michael Kopech,CHW,SO (K),5.0,2023-05-12
+127,Michael Kopech,CHW,P,93.5,2023-05-12
+128,Andrew Benintendi,CHW,FPTS,8.5,2023-05-12
+129,J.P. France,HOU,SO (K),4.5,2023-05-12
+130,Yordan Alvarez,HOU,FPTS,10.5,2023-05-12
+131,Bobby Witt Jr.,KC,FPTS,9.0,2023-05-12
+132,Corbin Burnes,MIL,SO (K),6.5,2023-05-12
+133,Corbin Burnes,MIL,P,93.5,2023-05-12
+134,Christian Yelich,MIL,FPTS,9.0,2023-05-12
+135,Willy Adames,MIL,FPTS,8.5,2023-05-12
+136,Dansby Swanson,CHC,FPTS,8.5,2023-05-12
+137,Drew Smyly,CHC,SO (K),4.0,2023-05-12
+138,Byron Buxton,MIN,FPTS,8.5,2023-05-12
+139,Sonny Gray,MIN,SO (K),6.0,2023-05-12
+140,Sonny Gray,MIN,P,93.5,2023-05-12
+141,Carlos Correa,MIN,FPTS,7.5,2023-05-12
+142,Trea Turner,PHI,FPTS,11.5,2023-05-12
+143,Taijuan Walker,PHI,SO (K),4.0,2023-05-12
+144,Bryce Harper,PHI,FPTS,10.5,2023-05-12
+145,Austin Gomber,COL,SO (K),3.5,2023-05-12
+146,C.J. Cron,COL,FPTS,8.5,2023-05-12
+147,Charlie Blackmon,COL,FPTS,9.0,2023-05-12
+148,Ketel Marte,ARI,FPTS,9.0,2023-05-12
+149,Thairo Estrada,SF,FPTS,9.0,2023-05-12
+150,Mitch Haniger,SF,FPTS,8.0,2023-05-12
+151,Ken Waldichuk,OAK,SO (K),5.0,2023-05-12
+152,Ken Waldichuk,OAK,H,5.5,2023-05-12
+153,Martin Pérez,TEX,SO (K),4.5,2023-05-12
+154,Adolis García,TEX,FPTS,9.0,2023-05-12
+155,Marcus Semien,TEX,FPTS,10.5,2023-05-12
+156,Jonathan Marchessault,VGK,SHO,3.0,2023-05-12
+157,Jonathan Marchessault,VGK,FPTS,4.5,2023-05-12
+158,Jack Eichel,VGK,SHO,3.5,2023-05-12
+159,Jack Eichel,VGK,FPTS,6.0,2023-05-12
+160,Alex Pietrangelo,VGK,SHO,2.0,2023-05-12
+161,Alex Pietrangelo,VGK,FPTS,6.0,2023-05-12
+162,William Karlsson,VGK,SHO,2.0,2023-05-12
+163,Reilly Smith,VGK,SHO,2.0,2023-05-12
+164,Connor McDavid,EDM,SHO,4.0,2023-05-12
+165,Connor McDavid,EDM,GLS,0.5,2023-05-12
+166,Connor McDavid,EDM,FPTS,8.0,2023-05-12
+167,Leon Draisaitl,EDM,SHO,3.0,2023-05-12
+168,Leon Draisaitl,EDM,GLS,0.5,2023-05-12
+169,Leon Draisaitl,EDM,BS,0.5,2023-05-12
+170,Leon Draisaitl,EDM,FPTS,7.5,2023-05-12
+171,Stuart Skinner,EDM,SV,28.5,2023-05-12
+172,Stuart Skinner,EDM,FPTS,4.5,2023-05-12
+173,Zach Hyman,EDM,SHO,3.0,2023-05-12
+174,Zach Hyman,EDM,FPTS,7.5,2023-05-12
+175,Ryan Nugent-Hopkins,EDM,SHO,2.0,2023-05-12
+176,Ryan Nugent-Hopkins,EDM,FPTS,4.0,2023-05-12
+177,LeBron James,LAL,PTS,26.5,2023-05-12
+178,LeBron James,LAL,REB,9.0,2023-05-12
+179,LeBron James,LAL,AST,6.0,2023-05-12
+180,LeBron James,LAL,PTS+TRB+AST,41.5,2023-05-12
+181,LeBron James,LAL,PTS+TRB,35.5,2023-05-12
+182,LeBron James,LAL,PTS+AST,32.5,2023-05-12
+183,LeBron James,LAL,TRB+AST,15.0,2023-05-12
+184,LeBron James,LAL,3PA,7.5,2023-05-12
+185,LeBron James,LAL,FTM,4.5,2023-05-12
+186,LeBron James,LAL,FPTS,44.5,2023-05-12
+187,Anthony Davis,LAL,PTS,24.5,2023-05-12
+188,Anthony Davis,LAL,REB,14.0,2023-05-12
+189,Anthony Davis,LAL,PTS+TRB+AST,41.5,2023-05-12
+190,Anthony Davis,LAL,PTS+TRB,38.5,2023-05-12
+191,Anthony Davis,LAL,PTS+AST,27.5,2023-05-12
+192,Anthony Davis,LAL,TRB+AST,17.0,2023-05-12
+193,Anthony Davis,LAL,FTM,5.5,2023-05-12
+194,Anthony Davis,LAL,FPTS,48.5,2023-05-12
+195,D'Angelo Russell,LAL,PTS,15.0,2023-05-12
+196,D'Angelo Russell,LAL,AST,5.0,2023-05-12
+197,D'Angelo Russell,LAL,PTS+TRB+AST,23.5,2023-05-12
+198,D'Angelo Russell,LAL,PTS+TRB,18.5,2023-05-12
+199,D'Angelo Russell,LAL,PTS+AST,20.5,2023-05-12
+200,D'Angelo Russell,LAL,3PA,6.0,2023-05-12
+201,D'Angelo Russell,LAL,FTM,1.0,2023-05-12
+202,D'Angelo Russell,LAL,FPTS,24.0,2023-05-12
+203,Austin Reaves,LAL,PTS,14.5,2023-05-12
+204,Austin Reaves,LAL,REB,4.0,2023-05-12
+205,Austin Reaves,LAL,AST,4.0,2023-05-12
+206,Austin Reaves,LAL,PTS+TRB+AST,22.5,2023-05-12
+207,Austin Reaves,LAL,PTS+TRB,18.5,2023-05-12
+208,Austin Reaves,LAL,PTS+AST,18.5,2023-05-12
+209,Austin Reaves,LAL,TRB+AST,8.0,2023-05-12
+210,Austin Reaves,LAL,3PA,5.0,2023-05-12
+211,Austin Reaves,LAL,FTM,2.5,2023-05-12
+212,Austin Reaves,LAL,FPTS,23.5,2023-05-12
+213,Stephen Curry,GSW,PTS,31.5,2023-05-12
+214,Stephen Curry,GSW,REB,6.0,2023-05-12
+215,Stephen Curry,GSW,AST,7.0,2023-05-12
+216,Stephen Curry,GSW,3P,5.0,2023-05-12
+217,Stephen Curry,GSW,PTS+TRB+AST,45.5,2023-05-12
+218,Stephen Curry,GSW,PTS+TRB,38.5,2023-05-12
+219,Stephen Curry,GSW,PTS+AST,39.5,2023-05-12
+220,Stephen Curry,GSW,TRB+AST,13.0,2023-05-12
+221,Stephen Curry,GSW,FTM,4.0,2023-05-12
+222,Stephen Curry,GSW,FPTS,46.5,2023-05-12
+223,Klay Thompson,GSW,PTS,22.0,2023-05-12
+224,Klay Thompson,GSW,REB,4.5,2023-05-12
+225,Klay Thompson,GSW,PTS+TRB+AST,28.5,2023-05-12
+226,Klay Thompson,GSW,PTS+TRB,26.5,2023-05-12
+227,Klay Thompson,GSW,PTS+AST,24.5,2023-05-12
+228,Klay Thompson,GSW,FTM,1.0,2023-05-12
+229,Klay Thompson,GSW,FPTS,29.5,2023-05-12
+230,Draymond Green,GSW,PTS,9.0,2023-05-12
+231,Draymond Green,GSW,REB,8.0,2023-05-12
+232,Draymond Green,GSW,AST,7.0,2023-05-12
+233,Draymond Green,GSW,PTS+TRB+AST,24.0,2023-05-12
+234,Draymond Green,GSW,PTS+TRB,17.0,2023-05-12
+235,Draymond Green,GSW,PTS+AST,16.0,2023-05-12
+236,Draymond Green,GSW,TRB+AST,15.0,2023-05-12
+237,Draymond Green,GSW,3PA,1.5,2023-05-12
+238,Draymond Green,GSW,FTM,1.0,2023-05-12
+239,Draymond Green,GSW,FPTS,27.5,2023-05-12
+240,Andrew Wiggins,GSW,PTS,15.5,2023-05-12
+241,Andrew Wiggins,GSW,REB,5.5,2023-05-12
+242,Andrew Wiggins,GSW,PTS+TRB+AST,23.0,2023-05-12
+243,Andrew Wiggins,GSW,PTS+TRB,21.0,2023-05-12
+244,Andrew Wiggins,GSW,PTS+AST,17.5,2023-05-12
+245,Andrew Wiggins,GSW,3PA,5.0,2023-05-12
+246,Andrew Wiggins,GSW,FTM,2.5,2023-05-12
+247,Andrew Wiggins,GSW,FPTS,26.5,2023-05-12
+248,Mookie Betts,LAD,FPTS,9.0,2023-05-12
+249,Dustin May,LAD,SO (K),5.0,2023-05-12
+250,Freddie Freeman,LAD,FPTS,9.0,2023-05-12
+251,Will Smith,LAD,FPTS,8.0,2023-05-12
+252,Fernando Tatis Jr.,SD,FPTS,9.0,2023-05-12
+253,Juan Soto,SD,FPTS,9.0,2023-05-12
+254,Blake Snell,SD,SO (K),6.0,2023-05-12
+255,Blake Snell,SD,P,97.5,2023-05-12
+256,Manny Machado,SD,FPTS,8.5,2023-05-12
+257,Alexander Isak,NEW,SHO,2.0,2023-05-12
+258,Alexander Isak,NEW,G + A,0.5,2023-05-12
+259,Callum Wilson,NEW,SHO,2.5,2023-05-12
+260,Nicholas Pope,NEW,SV,2.5,2023-05-12
+261,Joelinton,NEW,SHO,2.0,2023-05-12
+262,Miguel Almirón,NEW,SHO,2.0,2023-05-12
+263,Miguel Almirón,NEW,SOG,0.5,2023-05-12
+264,Jacob Murphy,NEW,SHO,2.0,2023-05-12
+265,Jacob Murphy,NEW,SOG,0.5,2023-05-12
+266,Joe Willock,NEW,SHO,1.5,2023-05-12
+267,Joe Willock,NEW,SOG,0.5,2023-05-12
+268,Bruno Guimarães,NEW,SHO,1.0,2023-05-12
+269,Bruno Guimarães,NEW,Pass,59.5,2023-05-12
+270,Sven Botman,NEW,SHO,0.5,2023-05-12
+271,Sven Botman,NEW,Pass,62.5,2023-05-12
+272,Kieran Trippier,NEW,Pass,61.5,2023-05-12
+273,Patrick Bamford,LEE,SHO,2.0,2023-05-12
+274,Joel Robles Blázquez,LEE,SV,3.5,2023-05-12
+275,Wilfried Gnonto,LEE,SHO,1.0,2023-05-12
+276,Wilfried Gnonto,LEE,SOG,0.5,2023-05-12
+277,Marc Roca Junqué,LEE,SHO,1.0,2023-05-12
+278,Marc Roca Junqué,LEE,Pass,31.5,2023-05-12
+279,Jack Harrison,LEE,SHO,1.0,2023-05-12
+280,Crysencio Summerville,LEE,SHO,1.0,2023-05-12
+281,Weston McKennie,LEE,SHO,0.5,2023-05-12
+282,Maximilian Wöber,LEE,Pass,34.5,2023-05-12
+283,Luke Ayling,LEE,Pass,30.5,2023-05-12
+284,Ollie Watkins,AST,SHO,2.5,2023-05-12
+285,Ollie Watkins,AST,G + A,0.5,2023-05-12
+286,Emiliano Martínez,AST,SV,2.5,2023-05-12
+287,Emiliano Buendía,AST,SHO,1.5,2023-05-12
+288,Emiliano Buendía,AST,SOG,0.5,2023-05-12
+289,Tyrone Mings,AST,Pass,54.5,2023-05-12
+290,Douglas Luiz Soares de Paulo,AST,Pass,48.5,2023-05-12
+291,Harry Kane,TOT,SHO,3.0,2023-05-12
+292,Fraser Forster,TOT,SV,3.0,2023-05-12
+293,Heungmin Son,TOT,SHO,2.0,2023-05-12
+294,Heungmin Son,TOT,Pass,24.5,2023-05-12
+295,Richarlison,TOT,SHO,1.5,2023-05-12
+296,Richarlison,TOT,SOG,0.5,2023-05-12
+297,Emerson Aparecido Leite de Souza Junior,TOT,SHO,0.5,2023-05-12
+298,Cristian Romero,TOT,Pass,56.5,2023-05-12
+299,João Félix,CFC,SHO,3.0,2023-05-12
+300,Kepa Arrizabalaga,CFC,SV,2.0,2023-05-12
+301,Kai Havertz,CFC,SHO,2.5,2023-05-12
+302,Noni Madueke,CFC,SHO,2.0,2023-05-12
+303,Noni Madueke,CFC,SOG,0.5,2023-05-12
+304,Hakim Ziyech,CFC,SHO,2.0,2023-05-12
+305,Pierre-Emerick Aubameyang,CFC,SHO,2.0,2023-05-12
+306,Raheem Sterling,CFC,SHO,1.5,2023-05-12
+307,Raheem Sterling,CFC,SOG,0.5,2023-05-12
+308,Conor Gallagher,CFC,SHO,1.5,2023-05-12
+309,Mykhailo Mudryk,CFC,SHO,1.5,2023-05-12
+310,Keylor Navas,NOT,SV,4.0,2023-05-12
+311,Morgan Gibbs-White,NOT,SHO,1.5,2023-05-12
+312,Morgan Gibbs-White,NOT,Pass,25.5,2023-05-12
+313,Taiwo Awoniyi,NOT,SHO,1.5,2023-05-12
+314,Sam Surridge,NOT,SHO,1.0,2023-05-12
+315,Sam Surridge,NOT,SOG,0.5,2023-05-12
+316,Emmanuel Dennis,NOT,SHO,1.0,2023-05-12
+317,Brennan Johnson,NOT,SHO,1.0,2023-05-12
+318,Joe Worrall,NOT,Pass,36.5,2023-05-12
+319,Neto,BOR,SV,3.5,2023-05-12
+320,Dominic Solanke,BOR,SHO,2.0,2023-05-12
+321,Dominic Solanke,BOR,SOG,0.5,2023-05-12
+322,Dominic Solanke,BOR,Pass,16.5,2023-05-12
+323,Dango Ouattara,BOR,SHO,1.5,2023-05-12
+324,Dango Ouattara,BOR,SOG,0.5,2023-05-12
+325,Ryan Christie,BOR,SHO,1.0,2023-05-12
+326,Philip Billing,BOR,SHO,1.0,2023-05-12
+327,Jefferson Lerma,BOR,Pass,40.5,2023-05-12
+328,Sam Johnstone,CRY,SV,2.5,2023-05-12
+329,Wilfried Zaha,CRY,SHO,2.5,2023-05-12
+330,Wilfried Zaha,CRY,Pass,28.5,2023-05-12
+331,Eberechi Eze,CRY,SHO,2.5,2023-05-12
+332,Michael Olise,CRY,SHO,2.0,2023-05-12
+333,Michael Olise,CRY,SOG,0.5,2023-05-12
+334,Jordan Pierre Ayew,CRY,SHO,1.5,2023-05-12
+335,Cheick Doucouré,CRY,SHO,1.0,2023-05-12
+336,Addji Keaninkin Marc Isreal Guéhi,CRY,Pass,69.5,2023-05-12
+337,Marcus Rashford,MNU,SHO,3.5,2023-05-12
+338,Marcus Rashford,MNU,SOG,1.5,2023-05-12
+339,Marcus Rashford,MNU,Pass,24.5,2023-05-12
+340,David De Gea,MNU,SV,2.0,2023-05-12
+341,Antony,MNU,SHO,3.0,2023-05-12
+342,Bruno Fernandes,MNU,SHO,3.0,2023-05-12
+343,Wout Weghorst,MNU,SHO,2.0,2023-05-12
+344,Wout Weghorst,MNU,SOG,0.5,2023-05-12
+345,Anthony Joran Martial,MNU,SHO,2.0,2023-05-12
+346,Christian Eriksen,MNU,SHO,1.5,2023-05-12
+347,Casemiro,MNU,SHO,1.0,2023-05-12
+348,Victor Jorgen Nilsson-Lindelöf,MNU,Pass,67.5,2023-05-12
+349,José Sá,WOL,SV,4.0,2023-05-12
+350,Matheus Cunha,WOL,SHO,1.5,2023-05-12
+351,Rúben Neves,WOL,SHO,1.0,2023-05-12
+352,Rúben Neves,WOL,Pass,51.5,2023-05-12
+353,Diego Costa,WOL,SHO,1.0,2023-05-12
+354,Pedro Neto,WOL,SHO,1.0,2023-05-12
+355,Mario Lemina,WOL,SHO,0.5,2023-05-12
+356,Nélson Cabral Semedo,WOL,Pass,35.5,2023-05-12
+357,Alex McCarthy,SOT,SV,3.0,2023-05-12
+358,Che Adams,SOT,SHO,1.5,2023-05-12
+359,Che Adams,SOT,SOG,0.5,2023-05-12
+360,Carlos Alcaraz,SOT,SHO,1.5,2023-05-12
+361,Carlos Alcaraz,SOT,SOG,0.5,2023-05-12
+362,Theo Walcott,SOT,SHO,1.0,2023-05-12
+363,Stuart Armstrong,SOT,SHO,1.0,2023-05-12
+364,James Ward-Prowse,SOT,SHO,1.0,2023-05-12
+365,James Ward-Prowse,SOT,Pass,53.5,2023-05-12
+366,Kyle Leonardus Walker-Peters,SOT,Pass,36.5,2023-05-12
+367,Aleksandar Mitrović,FUL,SHO,3.0,2023-05-12
+368,Bernd Leno,FUL,SV,3.0,2023-05-12
+369,Willian,FUL,SHO,2.0,2023-05-12
+370,Willian,FUL,SOG,0.5,2023-05-12
+371,Harry Wilson,FUL,SHO,1.5,2023-05-12
+372,Tom Cairney,FUL,SHO,1.5,2023-05-12
+373,João Palhinha,FUL,SHO,1.0,2023-05-12
+374,Harrison Reed,FUL,SHO,0.5,2023-05-12
+375,Harrison Reed,FUL,Pass,44.5,2023-05-12
+376,Oluwatosin Adarabioyo,FUL,SHO,0.5,2023-05-12
+377,Antonee Robinson,FUL,Pass,50.5,2023-05-12
+378,Ji Yeon Kim,YeonKim,SIGSTR,84.5,2023-05-12
+379,Carlos Ulberg,Ulberg,SIGSTR,37.5,2023-05-12
+380,Johnny Walker,JWalker,SIGSTR,32.5,2023-05-12
+381,Jailton Almeida,Almeida,SIGSTR,20.5,2023-05-12
