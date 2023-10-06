@@ -128,9 +128,11 @@ df = df.replace("KJ Martin Jr.", "Kenyon Martin Jr.")
 df = df.replace("Xavier Tillman", "Xavier Tillman Sr.")
 df = df.reset_index(drop=True)
 
-today = dt.date.today()
-df["time"] = dt.datetime.now()
-nba = df.loc[df.League == "7"]
-nba.to_csv(f"Lines/lines{today.month}_{today.day}")
-df.to_csv(f"Lines/full_lines{today.month}_{today.day}")
+today = dt.datetime.today()
+df["time"] = df['time'] = dt.datetime.now().replace(microsecond=0,second=0)
+df.columns = [x.lower() for x in df.columns]
+
+nba = df.loc[df.league == "7"]
+nba.to_csv(f"Lines/nba_lines_{today.year}_{today.month}_{today.day}.csv")
+df.to_csv(f"Lines/full_lines_{today.year}_{today.month}_{today.day}.csv")
 print(df.head(10))

@@ -1,0 +1,875 @@
+,Player,Team,Line,Stat,League,Date,time
+0,Jesus Luzardo,PHI,5.5,Pitcher Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+1,Breanna Stewart,LVA,3.5,AST,3,2023-10-08,2023-10-03 16:56:00
+2,Daniil Medvedev,J. Sinner (Beijing),9.5,1st Set - Total Games,244,2023-10-04,2023-10-03 16:56:00
+3,Nikita Kucherov,2023-2024 Season,34.5,Goals,236,2023-10-10,2023-10-03 16:56:00
+4,Lebron James,2023-2024 Season,6.8,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+5,Raimond Magomedaliev	 (DWCS),Mauricio Ruffy,35.5,Significant Strikes,12,2023-10-03,2023-10-03 16:56:00
+6,Lebron James,2023-2024 Season,27.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+7,Daniil Medvedev,J. Sinner (Beijing),9.5,3rd Set - Total Games,244,2023-10-04,2023-10-03 16:56:00
+8,Breanna Stewart,LVA,23.5,PTS,3,2023-10-08,2023-10-03 16:56:00
+9,Daniil Medvedev,J. Sinner (Beijing),9.5,2nd Set - Total Games,244,2023-10-04,2023-10-03 16:56:00
+10,Sam Howell,CHI,1.5,Pass TDs,9,2023-10-05,2023-10-03 16:56:00
+11,Raimond Magomedaliev	 (DWCS),Mauricio Ruffy,9.75,Fight Time (Mins),12,2023-10-03,2023-10-03 16:56:00
+12,Raimond Magomedaliev	 (DWCS),Mauricio Ruffy,1.5,Takedowns,12,2023-10-03,2023-10-03 16:56:00
+13,Justin Fields,WAS,192.5,Pass Yards,9,2023-10-05,2023-10-03 16:56:00
+14,Lebron James,2023-2024 Season,7.9,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+15,Breanna Stewart,LVA 1st Half,11.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+16,Breanna Stewart,LVA,8.5,TRB,3,2023-10-08,2023-10-03 16:56:00
+17,Nikola Jokic,2023-2024 Season,25.6,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+18,Magomed Gadzhiyasulov (DWCS),Jose Daniel Medina,4.75,Fight Time (Mins),12,2023-10-03,2023-10-03 16:56:00
+19,Justin Fields,WAS,1.5,Pass+Rush+Rec TDs,9,2023-10-05,2023-10-03 16:56:00
+20,Sam Howell,CHI,234.5,Pass Yards,9,2023-10-05,2023-10-03 16:56:00
+21,Nikola Jokic,2023-2024 Season,9.4,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+22,A'ja Wilson,NYL,23.5,PTS,3,2023-10-08,2023-10-03 16:56:00
+23,Magomed Gadzhiyasulov (DWCS),Jose Daniel Medina,21.5,Significant Strikes,12,2023-10-03,2023-10-03 16:56:00
+24,Brayden Point,2023-2024 Season,38.5,Goals,236,2023-10-10,2023-10-03 16:56:00
+25,Nikola Jokic,2023-2024 Season,11.9,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+26,A'ja Wilson,NYL 1st Half,11.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+27,A'ja Wilson,NYL,10.5,TRB,3,2023-10-08,2023-10-03 16:56:00
+28,Daniil Medvedev,J. Sinner (Beijing),7.5,Aces,5,2023-10-04,2023-10-03 16:56:00
+29,Victor Hugo Silva (DWCS),Eduardo Matias Torres,2.0,Takedowns,12,2023-10-03,2023-10-03 16:56:00
+30,Daniil Medvedev,J. Sinner (Beijing),22.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+31,D.J. Moore,WAS,50.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+32,Sabrina Ionescu,LVA,5.0,TRB,3,2023-10-08,2023-10-03 16:56:00
+33,Victor Hugo Silva (DWCS),Eduardo Matias Torres,37.5,Significant Strikes,12,2023-10-03,2023-10-03 16:56:00
+34,Sabrina Ionescu,LVA,4.5,AST,3,2023-10-08,2023-10-03 16:56:00
+35,Victor Hugo Silva (DWCS),Eduardo Matias Torres,10.0,Fight Time (Mins),12,2023-10-03,2023-10-03 16:56:00
+36,Sabrina Ionescu,LVA 1st Half,8.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+37,Daniil Medvedev,J. Sinner (Beijing),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+38,Sabrina Ionescu,LVA,17.5,PTS,3,2023-10-08,2023-10-03 16:56:00
+39,Steven Stamkos,2023-2024 Season,33.5,Goals,236,2023-10-10,2023-10-03 16:56:00
+40,Kelsey Plum,NYL 1st Half,9.0,PTS,193,2023-10-08,2023-10-03 16:56:00
+41,Brian Robinson Jr.,CHI,65.5,Rush Yards,9,2023-10-05,2023-10-03 16:56:00
+42,Jessica Pegula,J. Ostapenko (Beijing),4.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+43,Kelsey Plum,NYL,3.5,AST,3,2023-10-08,2023-10-03 16:56:00
+44,Kelsey Plum,NYL,18.0,PTS,3,2023-10-08,2023-10-03 16:56:00
+45,Sidney Crosby,2023-2024 Season,31.5,Goals,236,2023-10-10,2023-10-03 16:56:00
+46,Jessica Pegula,J. Ostapenko (Beijing),21.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+47,Murtaza Talha (DWCS),Rodolfo Bellato,4.75,Fight Time (Mins),12,2023-10-03,2023-10-03 16:56:00
+48,Murtaza Talha (DWCS),Rodolfo Bellato,17.5,Significant Strikes,12,2023-10-03,2023-10-03 16:56:00
+49,Jessica Pegula,J. Ostapenko (Beijing),3.5,Aces,5,2023-10-04,2023-10-03 16:56:00
+50,Courtney Vandersloot,LVA,7.5,AST,3,2023-10-08,2023-10-03 16:56:00
+51,Connor Bedard,2023-2024 Season,30.5,Goals,236,2023-10-10,2023-10-03 16:56:00
+52,Courtney Vandersloot,LVA,10.0,PTS,3,2023-10-08,2023-10-03 16:56:00
+53,Terry McLaurin,CHI,5.0,Receptions,9,2023-10-05,2023-10-03 16:56:00
+54,Liudmila Samsonova,M. Kostyuk (Beijing),2.5,Aces,5,2023-10-04,2023-10-03 16:56:00
+55,Liudmila Samsonova,M. Kostyuk (Beijing),3.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+56,Liudmila Samsonova,M. Kostyuk (Beijing),21.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+57,Courtney Vandersloot,LVA 1st Half,5.0,PTS,193,2023-10-08,2023-10-03 16:56:00
+58,Chelsea Gray,NYL 1st Half,7.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+59,Terry McLaurin,CHI,60.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+60,Iga Swiatek,M. Linette (Beijing),5.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+61,Chelsea Gray,NYL,4.5,TRB,3,2023-10-08,2023-10-03 16:56:00
+62,D.J. Moore,WAS,4.0,Receptions,9,2023-10-05,2023-10-03 16:56:00
+63,Chelsea Gray,NYL,6.5,AST,3,2023-10-08,2023-10-03 16:56:00
+64,Chelsea Gray,NYL,15.5,PTS,3,2023-10-08,2023-10-03 16:56:00
+65,Iga Swiatek,M. Linette (Beijing),18.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+66,Jorge Soler + Trea Turner + Jazz Chisholm Jr.,PHI/MIA/PHI,0.5,Home Runs (Combo),2,2023-10-03,2023-10-03 16:56:00
+67,Darnell Mooney,WAS,2.5,Receptions,9,2023-10-05,2023-10-03 16:56:00
+68,Elena Rybakina,M. Andreeva (Beijing),4.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+69,Elena Rybakina,M. Andreeva (Beijing),21.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+70,Elena Rybakina,M. Andreeva (Beijing),6.0,Aces,5,2023-10-04,2023-10-03 16:56:00
+71,Auston Matthews,2023-2024 Season,51.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+72,Jonquel Jones,LVA,13.0,PTS,3,2023-10-08,2023-10-03 16:56:00
+73,Jonquel Jones,LVA 1st Half,6.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+74,Jonquel Jones,LVA,11.5,TRB,3,2023-10-08,2023-10-03 16:56:00
+75,Esteban Andrada,Puebla,2.5,Goalie Saves,82,2023-10-03,2023-10-03 16:56:00
+76,Sebastian Vegas,Puebla,3.0,Clearances,82,2023-10-03,2023-10-03 16:56:00
+77,Jackie Young,NYL,4.0,AST,3,2023-10-08,2023-10-03 16:56:00
+78,Cole Caufield,2023-2024 Season,32.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+79,Yoshihito Nishioka,D. Altmaier (Shanghai),2.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+80,Jackie Young,NYL 1st Half,9.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+81,Jackie Young,NYL,18.5,PTS,3,2023-10-08,2023-10-03 16:56:00
+82,Sebastian Olmedo,Monterrey,43.5,Passes Attempted,82,2023-10-03,2023-10-03 16:56:00
+83,Rogelio Funes Mori,Puebla,2.0,Shots,82,2023-10-03,2023-10-03 16:56:00
+84,Sergio Canales,Puebla,2.0,Shots,82,2023-10-03,2023-10-03 16:56:00
+85,Guillermo Martinez,Monterrey,2.0,Shots,82,2023-10-03,2023-10-03 16:56:00
+86,Kevin Velasco,Monterrey,1.5,Shots Assisted,82,2023-10-03,2023-10-03 16:56:00
+87,Jordi Cortizo,Puebla,1.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+88,Brayan Angulo,Monterrey,2.0,Tackles,82,2023-10-03,2023-10-03 16:56:00
+89,Jesus Rodriguez,Monterrey,3.5,Goalie Saves,82,2023-10-03,2023-10-03 16:56:00
+90,Jordi Cortizo,Puebla,0.5,Shots On Target,82,2023-10-03,2023-10-03 16:56:00
+91,Omar Govea,Puebla,0.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+92,Pablo Gonzalez,Monterrey,0.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+93,Gaston Silva,Monterrey,4.0,Clearances,82,2023-10-03,2023-10-03 16:56:00
+94,Sergio Canales,Puebla,1.5,Shots Assisted,82,2023-10-03,2023-10-03 16:56:00
+95,Jesus Corona,Puebla,28.5,Passes Attempted,82,2023-10-03,2023-10-03 16:56:00
+96,Yoshihito Nishioka,D. Altmaier (Shanghai),22.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+97,Diego de Buen,Monterrey,1.5,Tackles,82,2023-10-03,2023-10-03 16:56:00
+98,Jesus Gallardo,Puebla,2.0,Tackles,82,2023-10-03,2023-10-03 16:56:00
+99,Jackie Young,NYL,4.5,TRB,3,2023-10-08,2023-10-03 16:56:00
+100,Luis Romo,Puebla,2.0,Tackles,82,2023-10-03,2023-10-03 16:56:00
+101,Julian Quinones,Pachuca,1.5,Shots On Target,82,2023-10-03,2023-10-03 16:56:00
+102,Henry Martin,Pachuca,2.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+103,Luis Malagon,Pachuca,2.5,Goalie Saves,82,2023-10-03,2023-10-03 16:56:00
+104,Javier Lopez,América,1.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+105,Mitch Marner,2023-2024 Season,32.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+106,Roberto de la Rosa,América,2.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+107,Erick Sanchez,América,1.5,Shots Assisted,82,2023-10-03,2023-10-03 16:56:00
+108,Sergio Barreto,América,35.5,Passes Attempted,82,2023-10-03,2023-10-03 16:56:00
+109,Betnijah Laney,LVA,16.5,PTS,3,2023-10-08,2023-10-03 16:56:00
+110,Miomir Kecmanovic,Y. Bu (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+111,Marino Hinestroza,América,1.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+112,Betnijah Laney,LVA 1st Half,8.5,PTS,193,2023-10-08,2023-10-03 16:56:00
+113,Igor Lichnovsky,Pachuca,3.5,Clearances,82,2023-10-03,2023-10-03 16:56:00
+114,Kevin Alvarez,Pachuca,1.5,Tackles,82,2023-10-03,2023-10-03 16:56:00
+115,Alex Zendejas,Pachuca,1.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+116,Carlos Moreno,América,4.0,Goalie Saves,82,2023-10-03,2023-10-03 16:56:00
+117,Richard Sanchez,Pachuca,77.5,Passes Attempted,82,2023-10-03,2023-10-03 16:56:00
+118,Julian Quinones,Pachuca,3.5,Shots,82,2023-10-03,2023-10-03 16:56:00
+119,Miguel Rodriguez,América,1.5,Tackles,82,2023-10-03,2023-10-03 16:56:00
+120,Julian Quinones,Pachuca,1.5,Shots Assisted,82,2023-10-03,2023-10-03 16:56:00
+121,Alvaro Fidalgo,Pachuca,2.0,Tackles,82,2023-10-03,2023-10-03 16:56:00
+122,Elias Montiel,América,2.0,Tackles,82,2023-10-03,2023-10-03 16:56:00
+123,Gustavo Cabral,América,4.0,Clearances,82,2023-10-03,2023-10-03 16:56:00
+124,Miomir Kecmanovic,Y. Bu (Shanghai),21.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+125,Jonathan Rodriguez,Pachuca,2.0,Shots,82,2023-10-03,2023-10-03 16:56:00
+126,Toby Alderweireld,Shakhtar D,67.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+127,Brian Robinson Jr.,CHI,0.5,Pass+Rush+Rec TDs,9,2023-10-05,2023-10-03 16:56:00
+128,Arthur Vermeeren,Shakhtar D,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+129,Oleksandr Zubkov,Antwerp,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+130,Heorhii Sudakov,Antwerp,48.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+131,Taras Stepanenko,Antwerp,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+132,Jesus Rodriguez + Esteban Andrada,Monterrey/Puebla,6.0,Goalie Saves (Combo),82,2023-10-03,2023-10-03 16:56:00
+133,Stan Wawrinka,D. Lajovic (Shanghai),22.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+134,Artem Bondarenko,Antwerp,0.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+135,Sebastian Aho,2023-2024 Season,36.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+136,Arbnor Muja,Shakhtar D,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+137,Arbnor Muja,Shakhtar D,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+138,Justin Fields,WAS,248.5,Pass+Rush Yds,9,2023-10-05,2023-10-03 16:56:00
+139,Jesus Rodriguez + Esteban Andrada,Monterrey/Puebla,0.5,Goals Allowed in First 30 Minutes,82,2023-10-03,2023-10-03 16:56:00
+140,Justin Fields,WAS,48.5,Rush Yards,9,2023-10-05,2023-10-03 16:56:00
+141,Dmytro Riznyk,Antwerp,3.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+142,Jurgen Ekkelenkamp,Shakhtar D,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+143,Vincent Janssen,Shakhtar D,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+144,Stan Wawrinka,D. Lajovic (Shanghai),2.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+145,Jean Butez,Shakhtar D,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+146,Soumaila Coulibaly,Shakhtar D,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+147,Jelle Bataille,Shakhtar D,2.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+148,Justin Fields,WAS,0.5,INT,9,2023-10-05,2023-10-03 16:56:00
+149,Vincent Janssen,Shakhtar D,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+150,Jurgen Ekkelenkamp,Shakhtar D,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+151,Oleksandr Zubkov,Antwerp,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+152,Novatus Miroshi,Antwerp,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+153,Owen Wijndal,Shakhtar D,0.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+154,Yaroslav Rakitskyi,Antwerp,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+155,Callum McGregor,Lazio,60.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+156,Matt O'Riley,Lazio 1st Half,0.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+157,Sam Howell,CHI,13.5,Rush Yards,9,2023-10-05,2023-10-03 16:56:00
+158,John Tavares,2023-2024 Season,30.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+159,Mohamed Ali Camara,Crvena Zvezda,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+160,Cheikh Niasse,Crvena Zvezda,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+161,Daizen Maeda,Lazio 1st Half,0.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+162,Mikey Johnston,Lazio 1st Half,0.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+163,Oh Hyeon-Gyu,Lazio 1st Half,0.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+164,Kyogo Furuhashi,Lazio 1st Half,1.0,Shots,242,2023-10-04,2023-10-03 16:56:00
+165,Liel Abada,Lazio 1st Half,0.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+166,Joe Hart,Lazio 1st Half,1.5,Goalie Saves,242,2023-10-04,2023-10-03 16:56:00
+167,Alistair Johnston,Lazio,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+168,Liam Scales,Lazio,5.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+169,David Turnbull,Lazio,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+170,David Turnbull,Lazio,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+171,Matt O'Riley,Lazio,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+172,Daizen Maeda,Lazio,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+173,Ciro Immobile,Celtic,22.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+174,Luis Alberto,Celtic 1st Half,1.0,Shots,242,2023-10-04,2023-10-03 16:56:00
+175,Gustav Isaksen,Celtic 1st Half,1.0,Shots,242,2023-10-04,2023-10-03 16:56:00
+176,Ciro Immobile,Celtic 1st Half,1.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+177,Ivan Provedel,Celtic 1st Half,1.5,Goalie Saves,242,2023-10-04,2023-10-03 16:56:00
+178,Alessio Romagnoli,Celtic,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+179,Luis Alberto,Celtic,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+180,Gustav Isaksen,Celtic,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+181,Saidy Janko,Crvena Zvezda,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+182,Srdjan Mijailovic,Young Boys,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+183,Hwang In-Beom,Young Boys,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+184,Gustav Isaksen,Celtic,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+185,Mikey Johnston,Lazio,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+186,Oh Hyeon-Gyu,Lazio,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+187,Kyogo Furuhashi,Lazio,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+188,Liel Abada,Lazio,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+189,Joe Hart,Lazio,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+190,Luis Alberto,Celtic,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+191,Ciro Immobile,Celtic,3.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+192,Valentin Castellanos,Celtic,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+193,Ivan Provedel,Celtic,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+194,Anthony Racioppi,Crvena Zvezda,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+195,Filip Ugrinic,Crvena Zvezda,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+196,Jean-Philippe Krasso,Young Boys,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+197,Brandon Nakashima,B. Zapata Miralles (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+198,Meschack Elia,Crvena Zvezda,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+199,Cedric Itten,Crvena Zvezda,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+200,Aleksandar Dragovic,Young Boys,3.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+201,Sam Howell,CHI,250.5,Pass+Rush Yds,9,2023-10-05,2023-10-03 16:56:00
+202,Luis Malagon + Carlos Moreno,Pachuca/América,0.5,Goals Allowed in First 30 Minutes,82,2023-10-03,2023-10-03 16:56:00
+203,Cole Kmet,WAS,31.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+204,Luis Malagon + Carlos Moreno,Pachuca/América,6.5,Goalie Saves (Combo),82,2023-10-03,2023-10-03 16:56:00
+205,Mirko Ivanic,Young Boys,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+206,Osman Bukari,Young Boys,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+207,Jean-Philippe Krasso,Young Boys,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+208,Omri Glazer,Young Boys,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+209,Meschack Elia,Crvena Zvezda,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+210,Sandro Lauper,Crvena Zvezda,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+211,Marko Stamenic,Young Boys,33.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+212,Ulisses Garcia,Crvena Zvezda,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+213,Mirko Ivanic,Young Boys,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+214,Cedric Itten,Crvena Zvezda,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+215,Aurele Amenda,Crvena Zvezda,52.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+216,Brandon Nakashima,B. Zapata Miralles (Shanghai),22.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+217,David Turnbull,Lazio 1st Half,0.5,Shots,242,2023-10-04,2023-10-03 16:56:00
+218,Diego Rossi,New England,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+219,Carles Gil,Columbus,3.0,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+220,Dave Romney,Columbus,45.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+221,Cucho Hernandez,New England,5.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+222,Earl Edwards Jr.,Columbus,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+223,Darnell Mooney,WAS,30.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+224,Jere Uronen,Toronto,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+225,Carles Gil,Columbus,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+226,Thanasi Kokkinakis,F. Fognini (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+227,Khalil Herbert,WAS,44.5,Rush Yards,9,2023-10-05,2023-10-03 16:56:00
+228,Kristijan Kahlina,Toronto,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+229,Luka Gavran,Charlotte,4.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+230,Enzo Copetti,Toronto,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+231,Karol Swiderski,Toronto,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+232,Brandt Bronico,Toronto,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+233,Sigurd Rosted,Charlotte,47.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+234,Lorenzo Insigne,Charlotte,3.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+235,Jonathan Osorio,Charlotte,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+236,Kobe Franklin,Charlotte,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+237,Aime Mabika,Charlotte,3.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+238,David Pastrnak,2023-2024 Season,47.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+239,Brandt Bronico,Toronto,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+240,Adilson Malanda,Toronto,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+241,Federico Bernardeschi,Charlotte,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+242,Enzo Copetti,Toronto,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+243,Alonso Coello,Charlotte,3.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+244,Ashley Westwood,Toronto,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+245,Thanasi Kokkinakis,F. Fognini (Shanghai),22.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+246,Ashley Westwood,Toronto,0.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+247,Lorenzo Insigne,Charlotte,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+248,Giacomo Vrioni,Columbus,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+249,Enzo Copetti,Toronto,20.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+250,McKinze Gaines,Toronto,0.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+251,Tomas Chancalay,Columbus,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+252,Aidan Morris,New England,3.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+253,Julian Gressel,New England,2.0,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+254,Cucho Hernandez,New England,2.0,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+255,Malte Amundsen,New England,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+256,Rudy Camacho,New England,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+257,Malte Amundsen,New England,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+258,Patrick Schulte,New England,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+259,Matt Polster,Columbus,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+260,Matt Polster,Columbus,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+261,Mark-Anthony Kaye,Columbus,2.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+262,Giacomo Vrioni,Columbus,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+263,Aidan Morris,New England,57.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+264,Darlington Nagbe,New England,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+265,Andrew Farrell,Columbus,3.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+266,Andrew Gutman,Dallas,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+267,Diego Rubio,Dallas,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+268,Russell Canouse,Austin,2.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+269,Marko Ilic,Dallas,3.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+270,Andreas Maxso,Dallas,41.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+271,Chris Durkin,Austin,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+272,Jaume Munar,R. Te (Shanghai),4.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+273,Danny Wilson,Dallas,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+274,Ruan,Austin,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+275,Nkosi Tafari,Colorado,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+276,Maarten Paes,Colorado,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+277,Asier Illarramendi,Colorado,62.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+278,Donovan Pines,Austin,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+279,Alex Bono,Austin,3.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+280,Antonio Gibson,CHI,13.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+281,Jaume Munar,R. Te (Shanghai),21.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+282,Calvin Harris,Dallas,0.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+283,Cole Bassett,Dallas,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+284,Alexander Ring,DC United,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+285,Alan Velasco,Colorado,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+286,Sam Junqua,Colorado,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+287,Rafael Navarro,Dallas,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+288,Emiliano Rigoni,DC United,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+289,Emiliano Rigoni,DC United,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+290,Ethan Finlay,DC United,0.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+291,Connor McDavid,2023-2024 Season,55.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+292,Leo Vaisanen,DC United,61.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+293,Ethan Finlay,DC United,0.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+294,Facundo Quignon,Colorado,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+295,Owen Wolff,DC United,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+296,Alan Velasco,Colorado,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+297,Christian Benteke,Austin,3.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+298,Marco Farfan,Colorado,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+299,Jhojan Valencia,DC United,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+300,Daniel Pereira,DC United,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+301,Nick Lima,DC United,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+302,Gabriel Pirani,Austin,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+303,Brad Stuver,DC United,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+304,Julio Cascante,DC United,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+305,Jesus Ferreira,Colorado,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+306,Facundo Quignon,Colorado,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+307,Theodore Ku-DiPietro,Austin,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+308,Chris Durkin,Austin,30.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+309,Mateusz Klich,Austin,2.0,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+310,Jesus Ferreira,Colorado,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+311,Paul Arriola,Colorado,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+312,Adrian Aldrete,Querétaro,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+313,Elias Pettersson,2023-2024 Season,35.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+314,Khalil Herbert,WAS,11.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+315,Arthur Rinderknech,F. Marozsan (Shanghai),23.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+316,Arthur Rinderknech,F. Marozsan (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+317,Alexis Pena,Cruz Azul,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+318,Facundo Batista,Cruz Azul,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+319,Carlos Salcedo,Necaxa,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+320,Ricardo Monreal,Cruz Azul,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+321,Willer Ditta,Necaxa,59.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+322,Diber Cambindo,Necaxa,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+323,Carlos Rodriguez,Necaxa,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+324,Erik Lira,Necaxa,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+325,Ignacio Rivero,Necaxa,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+326,Rodrigo Huescas,Necaxa,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+327,Brayan Garnica,Cruz Azul,2.0,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+328,Fernando Arce,Cruz Azul,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+329,Jorge Rodriguez,Cruz Azul,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+330,Brayan Garnica,Cruz Azul,19.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+331,Uriel Antuna,Necaxa,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+332,Moises,Necaxa,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+333,Moises,Necaxa,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+334,Alan Montes,Cruz Azul,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+335,Eduardo Salvio,Querétaro,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+336,Gabriel Fernandez,Querétaro,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+337,Andres Gudino,Necaxa,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+338,Juan Dinenno,Querétaro,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+339,Robert Ergas,Querétaro,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+340,Lisandro Magallan,Querétaro,3.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+341,Raul Gudino,Cruz Azul,3.0,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+342,Ulises Rivas,Querétaro,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+343,Juan Escobar,Necaxa,2.5,Clearances,82,2023-10-04,2023-10-03 16:56:00
+344,Julio Gonzalez,Querétaro,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+345,Nathan Silva,Querétaro,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+346,Nathan Silva,Querétaro,59.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+347,Guillermo Allison,Pumas,3.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+348,Camilo Sanvezzo,Pumas,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+349,Raul Zuniga,Pumas,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+350,Jordan Sierra,Pumas,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+351,Omar Mendoza,Pumas,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+352,Emanuel Gularte,Pumas,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+353,Kevin Escamilla,Pumas,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+354,Federico Lertora,Pumas,34.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+355,Eduardo Salvio,Querétaro,2.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+356,Pablo Barrera,Pumas,2.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+357,Antonio Gibson,CHI,23.5,Rush Yards,9,2023-10-05,2023-10-03 16:56:00
+358,Brian Robinson Jr.,CHI,6.5,Receiving Yards,9,2023-10-05,2023-10-03 16:56:00
+359,Leon Draisaitl,2023-2024 Season,50.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+360,Taro Daniel,D. Sweeny (Shanghai),4.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+361,Taro Daniel,D. Sweeny (Shanghai),20.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+362,Harold Preciado,Tijuana,3.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+363,Pedro Aquino,Tijuana,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+364,Gibran Lajud,Tijuana,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+365,Lucas Cavallini,Santos Laguna,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+366,Alejandro Martinez,Santos Laguna,0.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+367,Francisco Contreras,Santos Laguna,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+368,Pedro Aquino,Tijuana,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+369,Marcel Ruiz,Tigres,46.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+370,Juan Gamboa,Tigres,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+371,Jesus Angulo,Tigres,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+372,Tomas Belmonte,Tigres,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+373,Brian Garcia,Tigres,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+374,Fernando Madrigal,Santos Laguna,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+375,Kevin Balanta,Santos Laguna,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+376,Andres Mosquera,Tigres,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+377,Nathan MacKinnon,2023-2024 Season,39.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+378,Fernando Gorriaran,Toluca,1.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+379,Luis Quinones,Toluca,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+380,Rafael Carioca,Toluca,0.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+381,Javier Aquino,Toluca,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+382,Diego Reyes,Toluca,3.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+383,Nahuel Guzman,Toluca,2.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+384,Sebastian Cordova,Toluca,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+385,Yannick Hanfmann,J. Duckworth (Shanghai),23.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+386,Emerson Rodriguez,Tijuana,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+387,Hugo Rodriguez,Tijuana,41.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+388,Juan Brunetta,Tijuana,3.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+389,Harold Preciado,Tijuana,1.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+390,Antonio Rodriguez,Santos Laguna,3.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+391,Omar Campos,Tijuana,2.0,Tackles,82,2023-10-04,2023-10-03 16:56:00
+392,Christian Rivera,Santos Laguna,3.5,Tackles,82,2023-10-04,2023-10-03 16:56:00
+393,Diego Barbosa,Santos Laguna,33.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+394,Duvan Vergara,Tijuana,1.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+395,Felix Torres,Tijuana,4.0,Clearances,82,2023-10-04,2023-10-03 16:56:00
+396,Andre-Pierre Gignac,Toluca,3.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+397,Luis Quinones,Toluca,1.5,Shots Assisted,82,2023-10-04,2023-10-03 16:56:00
+398,Diego Reyes,Toluca,39.5,Passes Attempted,82,2023-10-04,2023-10-03 16:56:00
+399,Pedro Raul,Tigres,2.5,Shots,82,2023-10-04,2023-10-03 16:56:00
+400,Tiago Volpi,Tigres,3.5,Goalie Saves,82,2023-10-04,2023-10-03 16:56:00
+401,Sebastian Cordova,Toluca,2.0,Shots,82,2023-10-04,2023-10-03 16:56:00
+402,Yannick Hanfmann,J. Duckworth (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+403,Diego Lainez,Toluca,0.5,Shots On Target,82,2023-10-04,2023-10-03 16:56:00
+404,Kevin Fiala,2023-2024 Season,26.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+405,Mackenzie McDonald,C. Moutet (Shanghai),21.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+406,Mackenzie McDonald,C. Moutet (Shanghai),3.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+407,Mikko Rantanen,2023-2024 Season,44.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+408,Marton Fucsovics,D. Yevseyev (Shanghai),3.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+409,Marton Fucsovics,D. Yevseyev (Shanghai),21.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+410,Marcos Giron,D. Galan (Shanghai),22.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+411,Kyle Connor,2023-2024 Season,36.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+412,Marcos Giron,D. Galan (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+413,Donovan Mitchell,2023-2024 Season,28.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+414,Elias Lindholm,2023-2024 Season,28.5,Goals,236,2023-10-11,2023-10-03 16:56:00
+415,Cristian Garin,A. Kovacevic (Shanghai),23.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+416,Cristian Garin,A. Kovacevic (Shanghai),2.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+417,Kevin Gausman,MIN 5th Inning,16.0,Pitches Thrown,231,2023-10-03,2023-10-03 16:56:00
+418,Devin Booker,2023-2024 Season,27.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+419,Max Purcell,Y. Hsu (Shanghai),3.0,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+420,Pablo Lopez,TOR 5th Inning,0.5,Hits Allowed,231,2023-10-03,2023-10-03 16:56:00
+421,Johnny Gaudreau,2023-2024 Season,28.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+422,Max Purcell,Y. Hsu (Shanghai),21.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+423,Kevin Gausman,MIN 5th Inning,0.5,Hits Allowed,231,2023-10-03,2023-10-03 16:56:00
+424,Zhizhen Zhang,R. Gasquet (Shanghai),2.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+425,Pablo Lopez,TOR 5th Inning,15.5,Pitches Thrown,231,2023-10-03,2023-10-03 16:56:00
+426,Kevin Durant,2023-2024 Season,26.7,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+427,Zhizhen Zhang,R. Gasquet (Shanghai),22.5,Total Games,5,2023-10-04,2023-10-03 16:56:00
+428,Artemi Panarin,2023-2024 Season,28.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+429,Cairo Santos,WAS,5.5,Kicking Points,9,2023-10-05,2023-10-03 16:56:00
+430,Tage Thompson,2023-2024 Season,43.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+431,Luka Doncic,2023-2024 Season,2.9,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+432,Joey Slye,CHI,1.5,FG Made,9,2023-10-05,2023-10-03 16:56:00
+433,Steven Adams,2023-2024 Season,10.9,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+434,Stephen Curry,2023-2024 Season,6.0,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+435,Kyrie Irving,2023-2024 Season,26.7,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+436,Andy Murray,R. Safiullin (Shanghai),23.0,Total Games,5,2023-10-04,2023-10-03 16:56:00
+437,Andy Murray,R. Safiullin (Shanghai),2.5,Break Points Won,5,2023-10-04,2023-10-03 16:56:00
+438,Devin Booker,2023-2024 Season,6.6,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+439,Nikola Vucevic,2023-2024 Season,10.9,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+440,Trae Young,2023-2024 Season,26.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+441,Mika Zibanejad,2023-2024 Season,35.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+442,Stephen Curry,2023-2024 Season,4.8,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+443,Jack Hughes,2023-2024 Season,42.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+444,Anthony Edwards,2023-2024 Season,26.0,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+445,Lebron James,2023-2024 Season,2.3,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+446,De'Aaron Fox,2023-2024 Season,6.1,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+447,Chris Kreider,2023-2024 Season,35.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+448,Jonas Valanciunas,2023-2024 Season,10.3,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+449,Devin Booker,2023-2024 Season,2.1,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+450,Jalen Brunson,2023-2024 Season,6.1,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+451,Anthony Davis,2023-2024 Season,25.5,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+452,Alex DeBrincat,2023-2024 Season,35.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+453,Anthony Davis,2023-2024 Season,11.7,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+454,Trae Young,2023-2024 Season,2.4,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+455,Lamelo Ball,2023-2024 Season,8.7,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+456,De'Aaron Fox,2023-2024 Season,25.2,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+457,Anthony Edwards,2023-2024 Season,2.9,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+458,Cade Cunningham,2023-2024 Season,6.2,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+459,Timo Meier,2023-2024 Season,37.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+460,Jarrett Allen,2023-2024 Season,9.9,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+461,Aleksander Barkov,2023-2024 Season,28.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+462,JJ Aldrich,Montana De La Rosa,51.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+463,Zach Lavine,2023-2024 Season,25.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+464,Domantas Sabonis,2023-2024 Season,6.9,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+465,Nic Claxton,2023-2024 Season,9.5,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+466,CJ McCollum	,2023-2024 Season,2.7,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+467,Mateus Mendonca	,Nathan Maness,11.5,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+468,Jalen Brunson,2023-2024 Season,24.4,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+469,Zach Lavine,2023-2024 Season,2.7,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+470,Kirill Kaprizov,2023-2024 Season,43.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+471,Mitchell Robinson,2023-2024 Season,9.1,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+472,Mateus Mendonca	,Nathan Maness,33.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+473,Mateus Mendonca	,Nathan Maness,2.0,Takedowns,12,2023-10-07,2023-10-03 16:56:00
+474,Kanako Murata,Vanessa Demopoulos,43.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+475,Kanako Murata,Vanessa Demopoulos,2.0,Takedowns,12,2023-10-07,2023-10-03 16:56:00
+476,Russell Westbrook,2023-2024 Season,6.9,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+477,Lamelo Ball,2023-2024 Season,4.0,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+478,Julius Randle,2023-2024 Season,10.0,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+479,Jason Robertson,2023-2024 Season,43.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+480,Julius Randle,2023-2024 Season,24.3,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+481,Jordan Poole,2023-2024 Season,3.1,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+482,Sam Reinhart,2023-2024 Season,30.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+483,Tyus Jones,2023-2024 Season,6.9,Assists Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+484,Qileng Aori,Johnny Munoz Jr.,48.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+485,DeMar DeRozan,2023-2024 Season,23.8,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+486,Kevon Looney,2023-2024 Season,9.1,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+487,Qileng Aori,Johnny Munoz Jr.,12.5,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+488,Roope Hintz,2023-2024 Season,36.5,Goals,236,2023-10-12,2023-10-03 16:56:00
+489,Evan Mobley,2023-2024 Season,9.4,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+490,Darius Garland,2023-2024 Season,2.5,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+491,Lamelo Ball,2023-2024 Season,23.7,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+492,Karolina Kowalkiewicz,Diana Belbita,80.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+493,Klay Thompson,2023-2024 Season,4.2,3PT Made Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+494,Jordan Poole,2023-2024 Season,24.4,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+495,Bobby Portis,2023-2024 Season,9.1,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+496,Alex Ovechkin,2023-2024 Season,40.5,Goals,236,2023-10-13,2023-10-03 16:56:00
+497,Wendell Carter Jr.	,2023-2024 Season,9.1,Rebounds Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+498,Darius Garland,2023-2024 Season,21.9,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+499,Bill Algeo,Alexander Hernandez,0.5,Takedowns,12,2023-10-07,2023-10-03 16:56:00
+500,Bill Algeo,Alexander Hernandez,65.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+501,Bill Algeo,Alexander Hernandez,12.5,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+502,Ion Cutelaba,Philipe Lins,2.0,Takedowns,12,2023-10-07,2023-10-03 16:56:00
+503,Karl-Anthony Towns,2023-2024 Season,22.0,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+504,Ion Cutelaba,Philipe Lins,8.5,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+505,Ion Cutelaba,Philipe Lins,32.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+506,Paolo Banchero,2023-2024 Season,21.8,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+507,Drew Dober,Ricky Glenn,9.75,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+508,Drew Dober,Ricky Glenn,40.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+509,Joaquin Buckley,Alex Morono,10.5,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+510,Joaquin Buckley,Alex Morono,36.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+511,Kyle Kuzma,2023-2024 Season,21.5,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+512,Joe Pyfer	,Abdul Razak Alhassan,4.5,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+513,Joe Pyfer	,Abdul Razak Alhassan,18.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+514,Tyrese Haliburton,2023-2024 Season,21.2,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+515, Grant Dawson,Bobby Green,20.0,Fight Time (Mins),12,2023-10-07,2023-10-03 16:56:00
+516, Grant Dawson,Bobby Green,3.0,Takedowns,12,2023-10-07,2023-10-03 16:56:00
+517, Grant Dawson,Bobby Green,60.5,Significant Strikes,12,2023-10-07,2023-10-03 16:56:00
+518,Keldon Johnson,2023-2024 Season,20.8,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+519,Christian Yelich,ARI,7.5,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+520,Brandon Pfaadt + Corbin Burnes,MIL/ARI,0.5,1st Inning Runs Allowed,2,2023-10-03,2023-10-03 16:56:00
+521,Klay Thompson,2023-2024 Season,21.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+522,Corbin Burnes,ARI 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-10-03,2023-10-03 16:56:00
+523,Corbin Carroll + Christian Yelich,MIL/ARI,3.0,Hits+Runs+RBIs (Combo),2,2023-10-03,2023-10-03 16:56:00
+524,Corbin Burnes,ARI 1st Inning,15.0,Pitches Thrown,231,2023-10-03,2023-10-03 16:56:00
+525,Jace Peterson,MIL,0.5,Total Bases,2,2023-10-03,2023-10-03 16:56:00
+526,Cade Cunningham,2023-2024 Season,21.4,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+527,Ketel Marte + William Contreras,MIL/ARI,3.0,Hits+Runs+RBIs (Combo),2,2023-10-03,2023-10-03 16:56:00
+528,Corbin Carroll,MIL,7.0,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+529,Brandon Pfaadt,MIL 1st Inning,16.0,Pitches Thrown,231,2023-10-03,2023-10-03 16:56:00
+530,Brandon Pfaadt,MIL 1+2 Innings,2.0,Pitcher Strikeouts,231,2023-10-03,2023-10-03 16:56:00
+531,Willy Adames,ARI,6.5,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+532,Terry Rozier,2023-2024 Season,20.1,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+533,Ketel Marte,MIL,6.0,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+534,Corbin Carroll,MIL,1.5,Hits+Runs+RBIS,2,2023-10-03,2023-10-03 16:56:00
+535,RJ Barrett,2023-2024 Season,19.7,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+536,Bojan Bogdanovic,2023-2024 Season,19.7,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+537,Mark Canha,ARI,1.5,Hits+Runs+RBIS,2,2023-10-03,2023-10-03 16:56:00
+538,Domantas Sabonis,2023-2024 Season,19.3,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+539,Chet Holmgren ,2023-2024 Season,13.2,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+540,Stephen Curry,2023-2024 Season,28.9,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+541,Bradley Beal,2023-2024 Season,20.8,Points Per Game AVG,173,2023-10-24,2023-10-03 16:56:00
+542,Tyrese Haliburton,2023-2024 Season,9.9,Assists Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+543,Trae Young,2023-2024 Season,9.9,Assists Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+544,Clint Capela,2023-2024 Season,11.1,Rebounds Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+545,Brandon Miller ,2023-2024 Season,14.3,Points Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+546,Rudy Gobert,2023-2024 Season,11.6,Rebounds Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+547,Bam Adebayo,2023-2024 Season,9.3,Rebounds Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+548,Darius Garland,2023-2024 Season,7.9,Assists Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+549,Josh Giddey,2023-2024 Season,6.5,Assists Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+550,Shai Gilgeous-Alexander,2023-2024 Season,30.6,Points Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+551,Domantas Sabonis,2023-2024 Season,12.1,Rebounds Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+552,Luka Doncic,2023-2024 Season,8.6,Rebounds Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+553,Luka Doncic,2023-2024 Season,8.1,Assists Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+554,Luka Doncic,2023-2024 Season,31.2,Points Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+555,Victor Wembanyama,2023-2024 Season,17.5,Points Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+556,Victor Wembanyama,2023-2024 Season,8.6,Rebounds Per Game AVG,173,2023-10-25,2023-10-03 16:56:00
+557,Bryce Harper,MIA,6.5,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+558,Corbin Burnes,ARI,6.0,Pitcher Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+559,Jake Burger,PHI,1.5,Hitter Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+560,Zack Wheeler,MIA 1st Inning,15.0,Pitches Thrown,231,2023-10-03,2023-10-03 16:56:00
+561,Zack Wheeler,MIA 1+2+3 Innings,3.5,Pitcher Strikeouts,231,2023-10-03,2023-10-03 16:56:00
+562,Bryce Harper + Luis Arraez,MIA/PHI,3.0,Hits+Runs+RBIs (Combo),2,2023-10-03,2023-10-03 16:56:00
+563,Bryce Harper,MIA,1.5,Hits+Runs+RBIS,2,2023-10-03,2023-10-03 16:56:00
+564,Trea Turner + Jorge Soler,MIA/PHI,3.0,Hits+Runs+RBIs (Combo),2,2023-10-03,2023-10-03 16:56:00
+565,Kyle Schwarber,MIA,1.5,Hitter Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+566,Kyle Schwarber,MIA,0.5,Total Bases,2,2023-10-03,2023-10-03 16:56:00
+567,Luis Arraez,PHI,1.5,Hits+Runs+RBIS,2,2023-10-03,2023-10-03 16:56:00
+568,Corbin Burnes,ARI,17.0,Pitching Outs,2,2023-10-03,2023-10-03 16:56:00
+569,Luis Arraez,PHI,6.0,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+570,Brandon Pfaadt,MIL,21.5,Pitcher Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+571,Jesus Luzardo,PHI 1st Inning,16.0,Pitches Thrown,231,2023-10-03,2023-10-03 16:56:00
+572,Jesus Sanchez,PHI,0.5,Total Bases,2,2023-10-03,2023-10-03 16:56:00
+573,Jesus Luzardo,PHI 1+2 Innings,2.5,Pitcher Strikeouts,231,2023-10-03,2023-10-03 16:56:00
+574,Trea Turner,MIA,1.5,Hits+Runs+RBIS,2,2023-10-03,2023-10-03 16:56:00
+575,Trea Turner,MIA,7.5,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+576,Corbin Burnes,ARI,32.5,Pitcher Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+577,Jazz Chisholm Jr.,PHI,1.5,Hitter Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+578,Nick Fortes,PHI,0.5,Total Bases,2,2023-10-03,2023-10-03 16:56:00
+579,Corbin Burnes,ARI,1.5,Walks Allowed,2,2023-10-03,2023-10-03 16:56:00
+580,Alec Bohm,MIA,1.5,Hits+Runs+RBIS,2,2023-10-03,2023-10-03 16:56:00
+581,Cristian Pache,MIA,0.5,Total Bases,2,2023-10-03,2023-10-03 16:56:00
+582,Jorge Soler,PHI,5.5,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+583,Jorge Soler,PHI,1.5,Hitter Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+584,Corbin Burnes,ARI,4.0,Hits Allowed,2,2023-10-03,2023-10-03 16:56:00
+585,Kyle Schwarber,MIA,6.0,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+586,Jazz Chisholm Jr.,PHI,6.0,Hitter Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+587,Brandon Pfaadt,MIL,1.5,Walks Allowed,2,2023-10-03,2023-10-03 16:56:00
+588,Brandon Pfaadt,MIL,14.5,Pitching Outs,2,2023-10-03,2023-10-03 16:56:00
+589,Brandon Pfaadt,MIL,4.0,Pitcher Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+590,Brandon Pfaadt,MIL,4.0,Hits Allowed,2,2023-10-03,2023-10-03 16:56:00
+591,Zack Wheeler,MIA,36.5,Pitcher Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+592,Zack Wheeler,MIA,6.5,Pitcher Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+593,Zack Wheeler,MIA,4.0,Hits Allowed,2,2023-10-03,2023-10-03 16:56:00
+594,Jesus Luzardo,PHI,5.5,Pitcher Strikeouts,2,2023-10-03,2023-10-03 16:56:00
+595,Jesus Luzardo,PHI,28.5,Pitcher Fantasy Score,2,2023-10-03,2023-10-03 16:56:00
+596,Jesus Luzardo,PHI,4.0,Hits Allowed,2,2023-10-03,2023-10-03 16:56:00
+597,Nikita Kucherov,2023-2024 Season,108.5,PTS,236,2023-10-10,2023-10-03 16:56:00
+598,Steven Stamkos,2023-2024 Season,80.5,PTS,236,2023-10-10,2023-10-03 16:56:00
+599,Sidney Crosby,2023-2024 Season,90.5,PTS,236,2023-10-10,2023-10-03 16:56:00
+600,Connor Bedard,2023-2024 Season,69.5,PTS,236,2023-10-10,2023-10-03 16:56:00
+601,Jack Eichel,2023-2024 Season,75.5,PTS,236,2023-10-10,2023-10-03 16:56:00
+602,Matty Beniers,2023-2024 Season,65.5,PTS,236,2023-10-10,2023-10-03 16:56:00
+603,Mitch Marner,2023-2024 Season,99.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+604,Brady Tkachuk,2023-2024 Season,85.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+605,Sebastian Aho,2023-2024 Season,72.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+606,David Pastrnak,2023-2024 Season,93.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+607,Brad Marchand,2023-2024 Season,70.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+608,Charlie McAvoy,2023-2024 Season,58.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+609,Nathan MacKinnon,2023-2024 Season,112.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+610,Connor McDavid,2023-2024 Season,135.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+611,Cale Makar,2023-2024 Season,78.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+612,Adrian Kempe,2023-2024 Season,67.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+613,Kyle Connor,2023-2024 Season,84.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+614,Cole Perfetti,2023-2024 Season,51.5,PTS,236,2023-10-11,2023-10-03 16:56:00
+615,Adam Fantilli,2023-2024 Season,46.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+616,Artemi Panarin,2023-2024 Season,93.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+617,Tage Thompson,2023-2024 Season,90.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+618,Mika Zibanejad,2023-2024 Season,84.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+619,Rasmus Dahlin,2023-2024 Season,72.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+620,Jack Hughes,2023-2024 Season,102.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+621,Dylan Larkin,2023-2024 Season,76.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+622,Nico Hischier,2023-2024 Season,77.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+623,Tyler Toffoli,2023-2024 Season,70.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+624,Kirill Kaprizov,2023-2024 Season,97.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+625,Jason Robertson,2023-2024 Season,102.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+626,Jordan Kyrou,2023-2024 Season,74.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+627,Roope Hintz,2023-2024 Season,79.5,PTS,236,2023-10-12,2023-10-03 16:56:00
+628,Alex Ovechkin,2023-2024 Season,71.5,PTS,236,2023-10-13,2023-10-03 16:56:00
+629,Clayton Keller,2023-2024 Season,84.5,PTS,236,2023-10-13,2023-10-03 16:56:00
+630,Brock Nelson,2023-2024 Season,66.5,PTS,236,2023-10-14,2023-10-03 16:56:00
+631,Trevor Zegras,2023-2024 Season,67.5,PTS,236,2023-10-14,2023-10-03 16:56:00
+632,Christian Yelich,ARI,0.5,Runs,2,2023-10-03,2023-10-03 16:56:00
+633,keenc,Shopify Rebellion GC (MAPS 1-2 Kills),42.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+634,Juuse Saros,2023-2024 Season,28.5,Goalie Wins,236,2023-10-10,2023-10-03 16:56:00
+635,Starbound,Shopify Rebellion GC (MAPS 1-2 Kills),35.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+636,PowerPixele,Shopify Rebellion GC (MAPS 1-2 Kills),29.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+637,Petr Mrazek,2023-2024 Season,14.5,Goalie Wins,236,2023-10-10,2023-10-03 16:56:00
+638,Lorri,Shopify Rebellion GC (MAPS 1-2 Kills),27.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+639,Tristan Jarry,2023-2024 Season,28.5,Goalie Wins,236,2023-10-10,2023-10-03 16:56:00
+640,sonder,Evil Geniuses GC (MAPS 1-2 Kills),35.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+641,Adin Hill,2023-2024 Season,26.5,Goalie Wins,236,2023-10-10,2023-10-03 16:56:00
+642,Philipp Grubauer,2023-2024 Season,25.5,Goalie Wins,236,2023-10-10,2023-10-03 16:56:00
+643,flowerful,Evil Geniuses GC (MAPS 1-2 Kills),32.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+644,Frederik Andersen,2023-2024 Season,30.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+645,panini,Evil Geniuses GC (MAPS 1-2 Kills),30.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+646,Ilya Samsonov,2023-2024 Season,32.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+647,cbui,Evil Geniuses GC (MAPS 1-2 Kills),28.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+648,Joonas Korpisalo,2023-2024 Season,24.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+649,unstable,noot noot (MAPS 1-2 Kills),38.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+650,Katarina,noot noot (MAPS 1-2 Kills),36.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+651,Jeremy Swayman,2023-2024 Season,20.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+652,Linus Ullmark,2023-2024 Season,26.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+653,lazylion,noot noot (MAPS 1-2 Kills),31.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+654,hannah,noot noot (MAPS 1-2 Kills),25.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+655,Alexandar Georgiev,2023-2024 Season,34.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+656,xann,Disguised GC (MAPS 1-2 Kills),36.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+657,Connor Hellebuyck,2023-2024 Season,31.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+658,Jacob Markstrom,2023-2024 Season,29.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+659,malibu,Disguised GC (MAPS 1-2 Kills),31.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+660,Pheonix Copley,2023-2024 Season,22.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+661,karie,Disguised GC (MAPS 1-2 Kills),29.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+662,Stuart Skinner,2023-2024 Season,31.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+663,mili,Disguised GC (MAPS 1-2 Kills),25.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+664,florescent,FlyQuest RED (MAPS 1-2 Kills),42.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+665,Thatcher Demko,2023-2024 Season,27.5,Goalie Wins,236,2023-10-11,2023-10-03 16:56:00
+666,sarahcat,FlyQuest RED (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+667,Carter Hart,2023-2024 Season,22.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+668,meL,FlyQuest RED (MAPS 1-2 Kills),30.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+669,Devon Levi,2023-2024 Season,24.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+670,Elvis Merzlikins,2023-2024 Season,20.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+671,Noia,FlyQuest RED (MAPS 1-2 Kills),30.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+672,dodonut,Version1 (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+673,Igor Shesterkin,2023-2024 Season,34.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+674,Ville Husso,2023-2024 Season,26.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+675,mle,Version1 (MAPS 1-2 Kills),25.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+676,Vitek Vanecek,2023-2024 Season,26.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+677,it not han,Version1 (MAPS 1-2 Kills),22.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+678,emluo,Version1 (MAPS 1-2 Kills),22.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+679,Filip Gustavsson,2023-2024 Season,25.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+680,akaL4CE,Wingman Patrol (MAPS 1-2 Kills),35.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+681,Jake Oettinger,2023-2024 Season,35.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+682,Jordan Binnington,2023-2024 Season,26.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+683,Jazzyk1ns,Wingman Patrol (MAPS 1-2 Kills),33.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+684,Sergei Bobrovsky,2023-2024 Season,28.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+685,rayse,Wingman Patrol (MAPS 1-2 Kills),29.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+686,Kaapo Kahkonen,2023-2024 Season,15.5,Goalie Wins,236,2023-10-12,2023-10-03 16:56:00
+687,Karra,Wingman Patrol (MAPS 1-2 Kills),28.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+688,Darcy Kuemper,2023-2024 Season,24.5,Goalie Wins,236,2023-10-13,2023-10-03 16:56:00
+689,soto,Complexity GX3 (MAPS 1-2 Kills),38.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+690,bunny bee,Complexity GX3 (MAPS 1-2 Kills),31.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+691,Karel Vejmelka,2023-2024 Season,20.5,Goalie Wins,236,2023-10-13,2023-10-03 16:56:00
+692,avery,Complexity GX3 (MAPS 1-2 Kills),26.5,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+693,Ilya Sorokin,2023-2024 Season,31.5,Goalie Wins,236,2023-10-14,2023-10-03 16:56:00
+694,John Gibson,2023-2024 Season,18.5,Goalie Wins,236,2023-10-14,2023-10-03 16:56:00
+695,rise,Complexity GX3 (MAPS 1-2 Kills),26.0,MAPS 1-2 Kills,159,2023-10-04,2023-10-03 16:56:00
+696,Connor Bedard,2023-2024 Season,0.5,Hat Tricks,236,2023-10-10,2023-10-03 16:56:00
+697,Nikita Kucherov,NSH,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+698,Filip Forsberg,TB,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+699,Steven Stamkos,NSH,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+700,Roman Josi,TB,3.5,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+701,Brayden Point,NSH,2.5,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+702,Victor Hedman,NSH,2.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+703,Sidney Crosby,CHI,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+704,Connor Bedard,PIT,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+705,Evgeni Malkin,CHI,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+706,Taylor Hall,PIT,2.5,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+707,Erik Karlsson,CHI,2.5,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+708,Jack Eichel,SEA,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+709,Matty Beniers,VGK,2.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+710,Jonathan Marchessault,SEA,3.0,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+711,Jared McCann,VGK,2.5,Shots On Goal,8,2023-10-10,2023-10-03 16:56:00
+712,Brandon Pfaadt + Corbin Burnes,MIL/ARI,10.0,Pitcher Strikeouts (Combo),2,2023-10-03,2023-10-03 16:56:00
+713,Zack Wheeler + Corbin Burnes,MIA/ARI,12.0,Pitcher Strikeouts (Combo),2,2023-10-03,2023-10-03 16:56:00
+714,Zack Wheeler + Jesus Luzardo,MIA/PHI,12.0,Pitcher Strikeouts (Combo),2,2023-10-03,2023-10-03 16:56:00
+715,Bae Je-seong,Kia Tigers (Game 1),2.5,Pitcher Strikeouts,135,2023-10-04,2023-10-03 16:56:00
+716,Anthony Alford,Kia Tigers (Game 1),1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+717,Kim Jun-tae,Kia Tigers (Game 1),0.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+718,Thomas Pannone,KT Wiz (Game 1),4.5,Pitcher Strikeouts,135,2023-10-04,2023-10-03 16:56:00
+719,Socrates Brito,KT Wiz (Game 1),1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+720,Ricardo Sanchez,Samsung Lions,4.5,Pitcher Strikeouts,135,2023-10-04,2023-10-03 16:56:00
+721,Choi Hyoung-woo,KT Wiz (Game 1),1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+722,Jeong Choi,NC Dinos,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+723,Casey Kelly,Lotte Giants,4.5,Pitcher Strikeouts,135,2023-10-04,2023-10-03 16:56:00
+724,Guillermo Heredia,NC Dinos,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+725,Kim Kwang-hyun,NC Dinos,3.5,Pitcher Strikeouts,135,2023-10-04,2023-10-03 16:56:00
+726,Jason Martin,SSG Landers,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+727,Choi Sung-young,SSG Landers,2.5,Pitcher Strikeouts,135,2023-10-04,2023-10-03 16:56:00
+728,Ah-Seop Son,SSG Landers,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+729,Eun-seong Chae,Samsung Lions,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+730,Bae Je-seong,Kia Tigers (Game 1),5.5,Hits Allowed,135,2023-10-04,2023-10-03 16:56:00
+731,Thomas Pannone,KT Wiz (Game 1),5.5,Hits Allowed,135,2023-10-04,2023-10-03 16:56:00
+732,Kim In-Hwan,Samsung Lions,0.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+733,Jose Pirela,Hanwha Eagles,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+734,Ricardo Sanchez,Samsung Lions,5.5,Hits Allowed,135,2023-10-04,2023-10-03 16:56:00
+735,Ja Wook Koo,Hanwha Eagles,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+736,Jun Woo Jeon,LG Twins,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+737,Casey Kelly,Lotte Giants,6.0,Hits Allowed,135,2023-10-04,2023-10-03 16:56:00
+738,Jin Hyuk No,LG Twins,0.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+739,Kim Kwang-hyun,NC Dinos,5.5,Hits Allowed,135,2023-10-04,2023-10-03 16:56:00
+740,Choi Sung-young,SSG Landers,5.0,Hits Allowed,135,2023-10-04,2023-10-03 16:56:00
+741,Kim Hyun-soo,Lotte Giants,1.5,Total Bases,135,2023-10-04,2023-10-03 16:56:00
+742,Bae Je-seong,Kia Tigers (Game 1),15.5,Pitching Outs,135,2023-10-04,2023-10-03 16:56:00
+743,Thomas Pannone,KT Wiz (Game 1),17.5,Pitching Outs,135,2023-10-04,2023-10-03 16:56:00
+744,Ricardo Sanchez,Samsung Lions,17.5,Pitching Outs,135,2023-10-04,2023-10-03 16:56:00
+745,Sang-su Kim,Kia Tigers (Game 1),2.0,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+746,Park Chan-ho,KT Wiz (Game 1),2.0,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+747,Park Seong-Han,NC Dinos,2.0,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+748,Min Woo Park,SSG Landers,2.0,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+749,Nick Williams,Samsung Lions,2.0,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+750,Min Ho Kang,Hanwha Eagles,1.5,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+751,Austin Dean,Lotte Giants,2.5,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+752,Niko Goodrum,LG Twins,1.5,Hits+Runs+RBIS,135,2023-10-04,2023-10-03 16:56:00
+753,Travis Kelce,MIN,0.5,Pass+Rush+Rec TDs,9,2023-10-08,2023-10-03 16:56:00
+754,Justin Jefferson,KC,0.5,Pass+Rush+Rec TDs,9,2023-10-08,2023-10-03 16:56:00
+755,Derrick Henry,IND,0.5,Pass+Rush+Rec TDs,9,2023-10-08,2023-10-03 16:56:00
+756,Joe Mixon,ARI,0.5,Pass+Rush+Rec TDs,9,2023-10-08,2023-10-03 16:56:00
+757,Tyreek Hill,NYG,0.5,Pass+Rush+Rec TDs,9,2023-10-08,2023-10-03 16:56:00
+758,Kyren Williams,PHI,0.5,Pass+Rush+Rec TDs,9,2023-10-08,2023-10-03 16:56:00
+759,Trevor Lawrence,BUF,248.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+760,Josh Allen,JAC,260.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+761,Travis Etienne,BUF,63.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+762,James Cook,JAC,52.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+763,Calvin Ridley,BUF,62.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+764,Stefon Diggs,JAC,85.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+765,Christian Kirk,BUF,53.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+766,Gabriel Davis,JAC,39.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+767,Tua Tagovailoa,NYG,277.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+768,Tyreek Hill,NYG,86.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+769,Jaylen Waddle,NYG,59.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+770,C.J. Stroud,ATL,244.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+771,Desmond Ridder,HOU,183.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+772,Dameon Pierce,ATL,53.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+773,Bijan Robinson,HOU,81.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+774,Nico Collins,ATL,52.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+775,Drake London,HOU,44.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+776,Tank Dell,ATL,42.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+777,Kyle Pitts,HOU,32.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+778,Bryce Young,DET,203.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+779,Jared Goff,CAR,254.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+780,Adam Thielen,DET,57.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+781,Amon-Ra St. Brown,CAR,74.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+782,Sam LaPorta,CAR,48.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+783,Anthony Richardson,TEN,202.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+784,Ryan Tannehill,IND,192.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+785,Derrick Henry,IND,77.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+786,Michael Pittman Jr.,TEN,56.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+787,DeAndre Hopkins,IND,57.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+788,Michael Thomas,NE,51.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+789,Lamar Jackson,PIT,205.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+790,Zay Flowers,PIT,55.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+791,Mark Andrews,PIT,54.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+792,Joshua Dobbs,CIN,199.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+793,Joe Mixon,ARI,62.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+794,James Conner,CIN,60.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+795,Marquise Brown,CIN,52.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+796,Jalen Hurts,LAR,236.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+797,D'Andre Swift,LAR,66.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+798,Kyren Williams,PHI,58.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+799,A.J. Brown,LAR,76.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+800,DeVonta Smith,LAR,63.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+801,Russell Wilson,NYJ,222.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+802,Garrett Wilson,DEN,58.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+803,Courtland Sutton,NYJ,52.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+804,Jerry Jeudy,NYJ,52.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+805,Patrick Mahomes,MIN,299.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+806,Isiah Pacheco,MIN,63.5,Rush Yards,9,2023-10-08,2023-10-03 16:56:00
+807,Travis Kelce,MIN,74.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+808,Justin Jefferson,KC,100.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+809,Dak Prescott,SF,232.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+810,Brock Purdy,DAL,231.5,Pass Yards,9,2023-10-08,2023-10-03 16:56:00
+811,CeeDee Lamb,SF,70.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+812,Brandon Aiyuk,DAL,57.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+813,Deebo Samuel,DAL,50.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+814,George Kittle,DAL,39.5,Receiving Yards,9,2023-10-08,2023-10-03 16:56:00
+815,KEi,BIG,39.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+816,hades,BIG,39.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+817,Kylar,BIG,35.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+818,Goofy,BIG,34.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+819,mynio,BIG,31.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+820,Krimbo,9INE,38.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+821,prosus,9INE,37.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+822,mantuu,9INE,35.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+823,tabseN,9INE,36.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+824,s1n,9INE,32.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+825,KEi,BIG,18.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+826,hades,BIG,10.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+827,Kylar,BIG,18.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+828,Goofy,BIG,13.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+829,mynio,BIG,14.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+830,Krimbo,9INE,18.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+831,prosus,9INE,21.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+832,mantuu,9INE,8.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+833,tabseN,9INE,19.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+834,s1n,9INE,16.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+835,Nertz,Alliance,41.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+836,SunPayus,Alliance,41.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+837,Maden,Alliance,35.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+838,dycha,Alliance,35.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+839,Snappi,Alliance,32.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+840,PlesseN,ENCE,33.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+841,avid,ENCE,32.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+842,robiin,ENCE,29.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+843,b0denmaster,ENCE,30.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+844,twist,ENCE,27.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+845,Nertz,Alliance,19.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+846,SunPayus,Alliance,11.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+847,Maden,Alliance,16.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+848,dycha,Alliance,17.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+849,Snappi,Alliance,15.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+850,PlesseN,ENCE,17.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+851,avid,ENCE,17.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+852,robiin,ENCE,14.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+853,b0denmaster,ENCE,9.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+854,twist,ENCE,12.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+855,felps,Party Astronauts,39.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+856,HEN1,Party Astronauts,37.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+857,boltz,Party Astronauts,36.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+858,VINI,Party Astronauts,34.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+859,LUCAS1,Party Astronauts,32.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+860,PwnAlone,Imperial,34.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+861,Grizz,Imperial,32.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+862,spek,Imperial,33.0,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+863,chop,Imperial,30.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+864,ben1337,Imperial,28.5,MAPS 1-2 Kills,124,2023-10-04,2023-10-03 16:56:00
+865,felps,Party Astronauts,16.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+866,HEN1,Party Astronauts,11.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+867,boltz,Party Astronauts,13.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+868,VINI,Party Astronauts,16.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+869,LUCAS1,Party Astronauts,17.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+870,PwnAlone,Imperial,9.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+871,Grizz,Imperial,16.5,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+872,spek,Imperial,18.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00
+873,chop,Imperial,17.0,MAPS 1-2 Headshots,124,2023-10-04,2023-10-03 16:56:00

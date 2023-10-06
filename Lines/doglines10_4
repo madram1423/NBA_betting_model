@@ -1,0 +1,1328 @@
+,Line,Stat,Player,League,Team,Date
+0,27.5,Hitter Fantasy Score,Zac Gallen,MLB,ARI,2023-10-04
+1,5.0,Pitcher Strikeouts,Zac Gallen,MLB,ARI,2023-10-04
+2,17.5,pitch_outs,Zac Gallen,MLB,ARI,2023-10-04
+3,2.5,runs_allowed,Zac Gallen,MLB,ARI,2023-10-04
+4,5.0,hits_allowed,Zac Gallen,MLB,ARI,2023-10-04
+5,9.5,Hitter Fantasy Score,Corbin Carroll,MLB,ARI,2023-10-04
+6,0.5,Singles,Corbin Carroll,MLB,ARI,2023-10-04
+7,7.5,Hitter Fantasy Score,Ketel Marte,MLB,ARI,2023-10-04
+8,1.5,PTS,Ketel Marte,MLB,ARI,2023-10-04
+9,6.5,Hitter Fantasy Score,Christian Walker,MLB,ARI,2023-10-04
+10,6.0,Hitter Fantasy Score,Tommy Pham,MLB,ARI,2023-10-04
+11,1.5,batter_strikeouts,Tommy Pham,MLB,ARI,2023-10-04
+12,0.5,Singles,Gabriel Moreno,MLB,ARI,2023-10-04
+13,0.5,Total Bases,Evan Longoria,MLB,ARI,2023-10-04
+14,0.5,PTS,Evan Longoria,MLB,ARI,2023-10-04
+15,6.0,Pitcher Strikeouts,Freddy Peralta,MLB,MIL,2023-10-04
+16,1.5,runs_allowed,Freddy Peralta,MLB,MIL,2023-10-04
+17,1.5,walks_allowed,Freddy Peralta,MLB,MIL,2023-10-04
+18,8.0,Hitter Fantasy Score,Christian Yelich,MLB,MIL,2023-10-04
+19,1.5,PTS,Christian Yelich,MLB,MIL,2023-10-04
+20,0.5,runs,Christian Yelich,MLB,MIL,2023-10-04
+21,0.5,Singles,Christian Yelich,MLB,MIL,2023-10-04
+22,7.5,Hitter Fantasy Score,William Contreras,MLB,MIL,2023-10-04
+23,1.5,PTS,William Contreras,MLB,MIL,2023-10-04
+24,0.5,Singles,William Contreras,MLB,MIL,2023-10-04
+25,6.5,Hitter Fantasy Score,Willy Adames,MLB,MIL,2023-10-04
+26,1.5,PTS,Willy Adames,MLB,MIL,2023-10-04
+27,1.5,PTS,Carlos Santana,MLB,MIL,2023-10-04
+28,1.5,PTS,Mark Canha,MLB,MIL,2023-10-04
+29,0.5,Singles,Mark Canha,MLB,MIL,2023-10-04
+30,1.5,PTS,Sal Frelick,MLB,MIL,2023-10-04
+31,0.5,Singles,Sal Frelick,MLB,MIL,2023-10-04
+32,0.5,batter_strikeouts,Sal Frelick,MLB,MIL,2023-10-04
+33,0.5,batter_strikeouts,Brice Turang,MLB,MIL,2023-10-04
+34,20.5,Hitter Fantasy Score,Braxton Garrett,MLB,MIA,2023-10-04
+35,4.0,Pitcher Strikeouts,Braxton Garrett,MLB,MIA,2023-10-04
+36,13.5,pitch_outs,Braxton Garrett,MLB,MIA,2023-10-04
+37,4.5,hits_allowed,Braxton Garrett,MLB,MIA,2023-10-04
+38,6.5,Hitter Fantasy Score,Jazz Chisholm Jr.,other,MIA,2023-10-04
+39,1.5,batter_strikeouts,Jazz Chisholm Jr.,other,MIA,2023-10-04
+40,7.0,Hitter Fantasy Score,Luis Arraez,MLB,MIA,2023-10-04
+41,6.0,Hitter Fantasy Score,Jorge Soler,MLB,MIA,2023-10-04
+42,1.5,batter_strikeouts,Jorge Soler,MLB,MIA,2023-10-04
+43,0.5,Singles,Jon Berti,MLB,MIA,2023-10-04
+44,0.5,Total Bases,Jesus Sanchez,MLB,Jesus Sanchez,
+45,0.5,Total Bases,Jacob Stallings,MLB,MIA,2023-10-04
+46,0.5,PTS,Jacob Stallings,MLB,MIA,2023-10-04
+47,31.5,Hitter Fantasy Score,Aaron Nola,MLB,PHI,2023-10-04
+48,6.0,Pitcher Strikeouts,Aaron Nola,MLB,PHI,2023-10-04
+49,16.0,pitch_outs,Aaron Nola,MLB,PHI,2023-10-04
+50,8.0,Hitter Fantasy Score,Bryce Harper,MLB,PHI,2023-10-04
+51,0.5,Singles,Bryce Harper,MLB,PHI,2023-10-04
+52,8.5,Hitter Fantasy Score,Trea Turner,MLB,PHI,2023-10-04
+53,2.0,PTS,Trea Turner,MLB,PHI,2023-10-04
+54,0.5,runs,Trea Turner,MLB,PHI,2023-10-04
+55,0.5,Singles,Trea Turner,MLB,PHI,2023-10-04
+56,7.5,Hitter Fantasy Score,Kyle Schwarber,MLB,PHI,2023-10-04
+57,1.5,PTS,Kyle Schwarber,MLB,PHI,2023-10-04
+58,0.5,runs,Kyle Schwarber,MLB,PHI,2023-10-04
+59,7.0,Hitter Fantasy Score,Nick Castellanos,MLB,PHI,2023-10-04
+60,1.5,PTS,Nick Castellanos,MLB,PHI,2023-10-04
+61,0.5,Singles,Nick Castellanos,MLB,PHI,2023-10-04
+62,7.5,Hitter Fantasy Score,J.T. Realmuto,MLB,PHI,2023-10-04
+63,1.5,PTS,J.T. Realmuto,MLB,PHI,2023-10-04
+64,0.5,Singles,J.T. Realmuto,MLB,PHI,2023-10-04
+65,2.0,PTS,Alec Bohm,MLB,PHI,2023-10-04
+66,0.5,Singles,Bryson Stott,MLB,PHI,2023-10-04
+67,0.5,Total Bases,Cristian Pache,MLB,PHI,2023-10-04
+68,2.5,shots_attempted,Thiago Almada,FIFA,Atlanta United FC,2023-10-04
+69,2.5,shots_attempted,Giorgos Giakoumakis,FIFA,Atlanta United FC,2023-10-04
+70,1.5,shots_attempted,Xande Silva,FIFA,Atlanta United FC,2023-10-04
+71,2.5,shots_attempted,Julian Carranza,FIFA,Philadelphia Union,2023-10-04
+72,2.0,shots_attempted,Daniel Gazdag,FIFA,Philadelphia Union,2023-10-04
+73,2.5,shots_attempted,Mikael Uhre,FIFA,Philadelphia Union,2023-10-04
+74,3.0,Goalie Saves,Patrick Schulte,FIFA,Columbus Crew,2023-10-04
+75,1.5,Goal Against,Patrick Schulte,FIFA,Columbus Crew,2023-10-04
+76,0.5,goals_assists,Cucho Hernandez,FIFA,Columbus Crew,2023-10-04
+77,5.0,shots_attempted,Cucho Hernandez,FIFA,Columbus Crew,2023-10-04
+78,2.5,shots_attempted,Diego Rossi,FIFA,Columbus Crew,2023-10-04
+79,2.0,chances_created,Julian Gressel,FIFA,Columbus Crew,2023-10-04
+80,57.5,passes,Aidan Morris,FIFA,Columbus Crew,2023-10-04
+81,3.0,Goalie Saves,Earl Edwards Jr.,other,New England Revolution,2023-10-04
+82,2.0,shots_attempted,Tomas Chancalay,FIFA,New England Revolution,2023-10-04
+83,2.0,shots_attempted,Giacomo Vrioni,FIFA,New England Revolution,2023-10-04
+84,2.0,shots_attempted,Carles Gil,FIFA,New England Revolution,2023-10-04
+85,3.0,chances_created,Carles Gil,FIFA,New England Revolution,2023-10-04
+86,45.5,passes,Dave Romney,FIFA,New England Revolution,2023-10-04
+87,1.5,Goal Against,Carlos Miguel,FIFA,New York Red Bulls,2023-10-04
+88,1.5,shots_attempted,Elias Manoel,FIFA,New York Red Bulls,2023-10-04
+89,1.5,shots_attempted,Luquinhas Shots,other,Luquinhas Shots,
+90,0.5,goals_assists,Brandon Vazquez,FIFA,FC Cincinnati,2023-10-04
+91,2.5,shots_attempted,Brandon Vazquez,FIFA,FC Cincinnati,2023-10-04
+92,0.5,goals_assists,Aaron Boupendza,FIFA,FC Cincinnati,2023-10-04
+93,2.5,shots_attempted,Aaron Boupendza,FIFA,FC Cincinnati,2023-10-04
+94,2.5,shots_attempted,Luciano Acosta,FIFA,FC Cincinnati,2023-10-04
+95,2.0,shots_attempted,Alvaro Barreal,FIFA,FC Cincinnati,2023-10-04
+96,4.0,Goalie Saves,Luka Gavran,FIFA,Toronto FC,2023-10-04
+97,2.5,shots_attempted,Federico Bernardeschi,FIFA,Toronto FC,2023-10-04
+98,3.0,shots_attempted,Lorenzo Insigne,FIFA,Toronto FC,2023-10-04
+99,1.5,chances_created,Lorenzo Insigne,FIFA,Toronto FC,2023-10-04
+100,47.5,passes,Sigurd Rosted,FIFA,Toronto FC,2023-10-04
+101,2.5,Goalie Saves,Kristijan Kahlina,FIFA,Charlotte FC,2023-10-04
+102,0.5,goals_assists,Karol Swiderski,FIFA,Charlotte FC,2023-10-04
+103,2.5,shots_attempted,Karol Swiderski,FIFA,Charlotte FC,2023-10-04
+104,2.0,shots_attempted,Enzo Copetti,FIFA,Charlotte FC,2023-10-04
+105,0.5,chances_created,McKinze Gaines,FIFA,Charlotte FC,2023-10-04
+106,1.5,Goal Against,Drake Callender,FIFA,Inter Miami CF,2023-10-04
+107,1.5,Goal Against,Pedro Gallese,FIFA,Orlando City SC,2023-10-04
+108,3.0,Goalie Saves,Pedro Gallese,FIFA,Orlando City SC,2023-10-04
+109,23.5,passes,Ivan Angulo,FIFA,Orlando City SC,2023-10-04
+110,1.5,shots_attempted,Duncan McGuire,FIFA,Orlando City SC,2023-10-04
+111,0.5,shots_attempted,Cesar Araujo,FIFA,Orlando City SC,2023-10-04
+112,0.5,shots_attempted,Mauricio Pereyra,FIFA,Orlando City SC,2023-10-04
+113,2.5,Goalie Saves,Joe Willis,FIFA,Nashville SC,2023-10-04
+114,0.5,Goals,Hany Mukhtar,FIFA,Nashville SC,2023-10-04
+115,3.5,shots_attempted,Hany Mukhtar,FIFA,Nashville SC,2023-10-04
+116,0.5,shots_attempted,Walker Zimmerman,FIFA,Nashville SC,2023-10-04
+117,3.5,Goalie Saves,Alex Bono,FIFA,DC United,2023-10-04
+118,3.0,shots_attempted,Christian Benteke,FIFA,DC United,2023-10-04
+119,2.0,chances_created,Mateusz Klich,FIFA,DC United,2023-10-04
+120,1.5,shots_attempted,Gabriel Cordeiro Pirani,other,DC United,2023-10-04
+121,1.5,shots_attempted,Theodore Ku-DiPietro,FIFA,DC United,2023-10-04
+122,2.5,Goalie Saves,Bradley Stuver,FIFA,Austin FC,2023-10-04
+123,2.0,shots_attempted,Emiliano Rigoni,FIFA,Austin FC,2023-10-04
+124,0.5,chances_created,Ethan Finlay,FIFA,Austin FC,2023-10-04
+125,61.5,passes,Leo Vaisanen,FIFA,Austin FC,2023-10-04
+126,3.5,Goalie Saves,Marko Ilic,FIFA,Colorado Rapids,2023-10-04
+127,1.5,shots_attempted,Rafael Navarro,FIFA,Colorado Rapids,2023-10-04
+128,2.0,shots_attempted,Diego Rubio,FIFA,Colorado Rapids,2023-10-04
+129,0.5,chances_created,Calvin Harris,FIFA,Colorado Rapids,2023-10-04
+130,2.5,Goalie Saves,Maarten Paes,FIFA,FC Dallas,2023-10-04
+131,0.5,goals_assists,Jesus Ferreira,FIFA,FC Dallas,2023-10-04
+132,2.5,shots_attempted,Jesus Ferreira,FIFA,FC Dallas,2023-10-04
+133,2.0,shots_attempted,Alan Velasco,FIFA,FC Dallas,2023-10-04
+134,1.5,chances_created,Jesus Ferreira,FIFA,FC Dallas,2023-10-04
+135,62.5,passes,Illarramendi Passes,other,Illarramendi Passes,
+136,4.0,Goalie Saves,Dayne St. Clair,other,Minnesota United FC,2023-10-04
+137,2.5,shots_attempted,Emanuel Reynoso,FIFA,Minnesota United FC,2023-10-04
+138,3.0,shots_attempted,Teemu Pukki,FIFA,Minnesota United FC,2023-10-04
+139,0.5,shots_attempted,Wil Trapp,FIFA,Minnesota United FC,2023-10-04
+140,2.0,Goalie Saves,Maxime Crepeau,FIFA,LAFC,2023-10-04
+141,0.5,Goals,Carlos Vela,FIFA,LAFC,2023-10-04
+142,2.0,shots_attempted,Mateusz Bogusz,FIFA,LAFC,2023-10-04
+143,0.5,goals_assists,Filip Yavorov Krastev,other,LAFC,2023-10-04
+144,2.0,shots_attempted,Cristian Olivera,FIFA,LAFC,2023-10-04
+145,3.5,Goalie Saves,Roman Burki,FIFA,Saint Louis City SC,2023-10-04
+146,1.5,shots_attempted,Samuel Adeniran,FIFA,Saint Louis City SC,2023-10-04
+147,2.5,Goalie Saves,Yohei Takaoka,FIFA,Vancouver,2023-10-04
+148,0.5,goals_assists,Brian White,FIFA,Vancouver,2023-10-04
+149,2.5,shots_attempted,Ryan Gauld,FIFA,Vancouver,2023-10-04
+150,2.5,shots_attempted,Brian White,FIFA,Vancouver,2023-10-04
+151,3.5,Goalie Saves,Jonathan Bond,FIFA,Los Angeles Galaxy,2023-10-04
+152,2.0,shots_attempted,Billy Sharp,FIFA,Los Angeles Galaxy,2023-10-04
+153,2.0,shots_attempted,Tyler Boyd,FIFA,Los Angeles Galaxy,2023-10-04
+154,0.5,shots_attempted,Marky Delgado,FIFA,Los Angeles Galaxy,2023-10-04
+155,2.5,Goalie Saves,Stefan Frei,FIFA,Seattle,2023-10-04
+156,0.5,goals_assists,Raul Ruidiaz,FIFA,Seattle,2023-10-04
+157,1.5,shots_attempted,Leo Chu,FIFA,Seattle,2023-10-04
+158,2.0,shots_attempted,Albert Rusnak,FIFA,Seattle,2023-10-04
+159,1.5,shots_attempted,Jordan Morris,FIFA,Seattle,2023-10-04
+160,192.5,Pass Yards,Justin Fields,NFL,CHI,2023-10-05
+161,46.5,Rush Yards,Justin Fields,NFL,CHI,2023-10-05
+162,8.0,rushing_att,Justin Fields,NFL,CHI,2023-10-05
+163,27.5,passing_att,Justin Fields,NFL,CHI,2023-10-05
+164,16.5,passing_comps,Justin Fields,NFL,CHI,2023-10-05
+165,0.5,passing_ints,Justin Fields,NFL,CHI,2023-10-05
+166,9.5,passing_first_downs,Justin Fields,NFL,CHI,2023-10-05
+167,60.0,passing_comp_pct,Justin Fields,NFL,CHI,2023-10-05
+168,245.5,passing_and_rushing_yds,Justin Fields,NFL,CHI,2023-10-05
+169,18.05,Hitter Fantasy Score,Justin Fields,NFL,CHI,2023-10-05
+170,20.5,Rush Yards,Roschon Johnson,NFL,CHI,2023-10-05
+171,46.5,Rush Yards,Khalil Herbert,NFL,CHI,2023-10-05
+172,11.5,rushing_att,Khalil Herbert,NFL,CHI,2023-10-05
+173,2.0,receiving_rec,Khalil Herbert,NFL,CHI,2023-10-05
+174,12.0,Receiving Yards,Khalil Herbert,NFL,CHI,2023-10-05
+175,62.5,rush_rec_yds,Khalil Herbert,NFL,CHI,2023-10-05
+176,9.15,Hitter Fantasy Score,Khalil Herbert,NFL,CHI,2023-10-05
+177,4.0,receiving_rec,DJ Moore,NFL,CHI,2023-10-05
+178,49.5,Receiving Yards,DJ Moore,NFL,CHI,2023-10-05
+179,50.5,rush_rec_yds,DJ Moore,NFL,CHI,2023-10-05
+180,3.5,first_downs,DJ Moore,NFL,CHI,2023-10-05
+181,14.5,receiving_yac,DJ Moore,NFL,CHI,2023-10-05
+182,6.0,receiving_tgts,DJ Moore,NFL,CHI,2023-10-05
+183,10.25,Hitter Fantasy Score,DJ Moore,NFL,CHI,2023-10-05
+184,2.5,receiving_rec,Darnell Mooney,NFL,CHI,2023-10-05
+185,30.5,Receiving Yards,Darnell Mooney,NFL,CHI,2023-10-05
+186,30.5,rush_rec_yds,Darnell Mooney,NFL,CHI,2023-10-05
+187,4.0,receiving_tgts,Darnell Mooney,NFL,CHI,2023-10-05
+188,7.5,receiving_yac,Darnell Mooney,NFL,CHI,2023-10-05
+189,5.35,Hitter Fantasy Score,Darnell Mooney,NFL,CHI,2023-10-05
+190,3.0,receiving_rec,Cole Kmet,NFL,CHI,2023-10-05
+191,31.5,Receiving Yards,Cole Kmet,NFL,CHI,2023-10-05
+192,6.85,Hitter Fantasy Score,Cole Kmet,NFL,CHI,2023-10-05
+193,5.5,kicking_points,Cairo Santos,NFL,CHI,2023-10-05
+194,3.5,AST,T.J. Edwards,NFL,CHI,2023-10-05
+195,1.5,AST,Elijah Hicks,NFL,CHI,2023-10-05
+196,4.5,tackles_and_assists,Elijah Hicks,NFL,CHI,2023-10-05
+197,3.5,tackles_and_assists,Tyrique Stevenson,NFL,CHI,2023-10-05
+198,5.5,Tackles,T.J. Edwards,NFL,CHI,2023-10-05
+199,9.0,tackles_and_assists,T.J. Edwards,NFL,CHI,2023-10-05
+200,2.5,Tackles,Tyrique Stevenson,NFL,CHI,2023-10-05
+201,4.5,Tackles,Tremaine Edmunds,NFL,CHI,2023-10-05
+202,7.5,tackles_and_assists,Tremaine Edmunds,NFL,CHI,2023-10-05
+203,1.5,passing_tds,Sam Howell,NFL,WAS,2023-10-05
+204,243.5,Pass Yards,Sam Howell,NFL,WAS,2023-10-05
+205,13.5,Rush Yards,Sam Howell,NFL,WAS,2023-10-05
+206,31.5,passing_att,Sam Howell,NFL,WAS,2023-10-05
+207,21.5,passing_comps,Sam Howell,NFL,WAS,2023-10-05
+208,70.4,passing_comp_pct,Sam Howell,NFL,WAS,2023-10-05
+209,9.0,passing_first_downs,Sam Howell,NFL,WAS,2023-10-05
+210,261.5,passing_and_rushing_yds,Sam Howell,NFL,WAS,2023-10-05
+211,17.05,Hitter Fantasy Score,Sam Howell,NFL,WAS,2023-10-05
+212,19.5,Rush Yards,Antonio Gibson,NFL,WAS,2023-10-05
+213,14.5,Receiving Yards,Antonio Gibson,NFL,WAS,2023-10-05
+214,35.5,rush_rec_yds,Antonio Gibson,NFL,WAS,2023-10-05
+215,63.5,Rush Yards,Brian Robinson Jr.,other,WAS,2023-10-05
+216,15.5,rushing_att,Brian Robinson Jr.,other,WAS,2023-10-05
+217,6.5,Receiving Yards,Brian Robinson Jr.,other,WAS,2023-10-05
+218,74.5,rush_rec_yds,Brian Robinson Jr.,other,WAS,2023-10-05
+219,11.85,Hitter Fantasy Score,Brian Robinson Jr.,other,WAS,2023-10-05
+220,5.0,receiving_rec,Terry McLaurin,NFL,WAS,2023-10-05
+221,59.5,Receiving Yards,Terry McLaurin,NFL,WAS,2023-10-05
+222,61.5,rush_rec_yds,Terry McLaurin,NFL,WAS,2023-10-05
+223,16.0,receiving_yac,Terry McLaurin,NFL,WAS,2023-10-05
+224,7.0,receiving_tgts,Terry McLaurin,NFL,WAS,2023-10-05
+225,3.5,first_downs,Terry McLaurin,NFL,WAS,2023-10-05
+226,11.25,Hitter Fantasy Score,Terry McLaurin,NFL,WAS,2023-10-05
+227,3.0,receiving_rec,Curtis Samuel,NFL,WAS,2023-10-05
+228,3.5,receiving_rec,Jahan Dotson,NFL,WAS,2023-10-05
+229,42.5,Receiving Yards,Jahan Dotson,NFL,WAS,2023-10-05
+230,31.5,Receiving Yards,Curtis Samuel,NFL,WAS,2023-10-05
+231,43.5,rush_rec_yds,Jahan Dotson,NFL,WAS,2023-10-05
+232,27.5,Receiving Yards,Logan Thomas,NFL,WAS,2023-10-05
+233,1.5,field_goals_made,Joey Slye,NFL,WAS,2023-10-05
+234,7.0,kicking_points,Joey Slye,NFL,WAS,2023-10-05
+235,7.0,tackles_and_assists,Kamren Curl,NFL,WAS,2023-10-05
+236,7.0,tackles_and_assists,Jamin Davis,NFL,WAS,2023-10-05
+237,4.0,tackles_and_assists,Benjamin St-Juste,NFL,WAS,2023-10-05
+238,3.5,AST,Cody Barton,NFL,WAS,2023-10-05
+239,2.5,AST,Kamren Curl,NFL,WAS,2023-10-05
+240,4.5,Tackles,Cody Barton,NFL,WAS,2023-10-05
+241,4.0,Tackles,Jamin Davis,NFL,WAS,2023-10-05
+242,4.5,Tackles,Kamren Curl,NFL,WAS,2023-10-05
+243,3.0,Tackles,Benjamin St-Juste,NFL,WAS,2023-10-05
+244,3.0,AST,Jamin Davis,NFL,WAS,2023-10-05
+245,3.0,Tackles,Darrick Forrest,NFL,WAS,2023-10-05
+246,5.0,tackles_and_assists,Darrick Forrest,NFL,WAS,2023-10-05
+247,3.5,tackles_and_assists,Kendall Fuller,NFL,WAS,2023-10-05
+248,8.5,tackles_and_assists,Cody Barton,NFL,WAS,2023-10-05
+249,1.5,passing_tds,Trevor Lawrence,NFL,JAX,2023-10-08
+250,247.5,Pass Yards,Trevor Lawrence,NFL,JAX,2023-10-08
+251,0.5,passing_ints,Trevor Lawrence,NFL,JAX,2023-10-08
+252,62.5,Rush Yards,Travis Etienne Jr.,other,JAX,2023-10-08
+253,5.0,receiving_rec,Calvin Ridley,NFL,JAX,2023-10-08
+254,60.5,Receiving Yards,Calvin Ridley,NFL,JAX,2023-10-08
+255,60.5,rush_rec_yds,Calvin Ridley,NFL,JAX,2023-10-08
+256,13.5,receiving_yac,Calvin Ridley,NFL,JAX,2023-10-08
+257,5.0,receiving_rec,Christian Kirk,NFL,JAX,2023-10-08
+258,54.5,Receiving Yards,Christian Kirk,NFL,JAX,2023-10-08
+259,54.5,rush_rec_yds,Christian Kirk,NFL,JAX,2023-10-08
+260,2.0,extra_points_made,Brandon McManus,NFL,JAX,2023-10-08
+261,6.5,kicking_points,Brandon McManus,NFL,JAX,2023-10-08
+262,260.5,Pass Yards,Josh Allen,NFL,BUF,2023-10-08
+263,33.5,Rush Yards,Josh Allen,NFL,BUF,2023-10-08
+264,0.5,passing_ints,Josh Allen,NFL,BUF,2023-10-08
+265,296.5,passing_and_rushing_yds,Josh Allen,NFL,BUF,2023-10-08
+266,53.5,Rush Yards,James Cook,NFL,BUF,2023-10-08
+267,15.5,Receiving Yards,James Cook,NFL,BUF,2023-10-08
+268,72.5,rush_rec_yds,James Cook,NFL,BUF,2023-10-08
+269,6.5,receiving_rec,Stefon Diggs,NFL,BUF,2023-10-08
+270,83.5,Receiving Yards,Stefon Diggs,NFL,BUF,2023-10-08
+271,9.0,receiving_tgts,Stefon Diggs,NFL,BUF,2023-10-08
+272,4.5,first_downs,Stefon Diggs,NFL,BUF,2023-10-08
+273,26.5,receiving_yac,Stefon Diggs,NFL,BUF,2023-10-08
+274,40.5,Receiving Yards,Gabe Davis,NFL,BUF,2023-10-08
+275,3.0,receiving_rec,Dalton Kincaid,NFL,BUF,2023-10-08
+276,26.5,Receiving Yards,Dalton Kincaid,NFL,BUF,2023-10-08
+277,3.5,receiving_tgts,Dalton Kincaid,NFL,BUF,2023-10-08
+278,2.5,extra_points_made,Tyler Bass,NFL,BUF,2023-10-08
+279,6.5,kicking_points,Tyler Bass,NFL,BUF,2023-10-08
+280,205.5,Pass Yards,Lamar Jackson,NFL,BAL,2023-10-08
+281,55.5,Rush Yards,Alvin Kamara,NFL,NO,2023-10-08
+282,24.5,Receiving Yards,Alvin Kamara,NFL,NO,2023-10-08
+283,84.5,rush_rec_yds,Alvin Kamara,NFL,NO,2023-10-08
+284,63.5,Receiving Yards,Chris Olave,NFL,NO,2023-10-08
+285,63.5,rush_rec_yds,Chris Olave,NFL,NO,2023-10-08
+286,27.5,Receiving Yards,Rashid Shaheed,NFL,NO,2023-10-08
+287,50.5,Receiving Yards,Michael Thomas,NFL,NO,2023-10-08
+288,29.5,rush_rec_yds,Rashid Shaheed,NFL,NO,2023-10-08
+289,50.5,rush_rec_yds,Michael Thomas,NFL,NO,2023-10-08
+290,1.5,field_goals_made,Blake Grupe,NFL,NO,2023-10-08
+291,2.0,extra_points_made,Blake Grupe,NFL,NO,2023-10-08
+292,6.5,kicking_points,Blake Grupe,NFL,NO,2023-10-08
+293,4.0,Tackles,Demario Davis,NFL,NO,2023-10-08
+294,3.5,Tackles,Tyrann Mathieu,NFL,NO,2023-10-08
+295,5.5,tackles_and_assists,Tyrann Mathieu,NFL,NO,2023-10-08
+296,4.5,tackles_and_assists,Marshon Lattimore,NFL,NO,2023-10-08
+297,4.5,Tackles,Pete Werner,NFL,NO,2023-10-08
+298,3.5,AST,Pete Werner,NFL,NO,2023-10-08
+299,8.0,tackles_and_assists,Pete Werner,NFL,NO,2023-10-08
+300,3.5,Tackles,Alontae Taylor,NFL,NO,2023-10-08
+301,4.5,tackles_and_assists,Alontae Taylor,NFL,NO,2023-10-08
+302,3.5,Tackles,Marshon Lattimore,NFL,NO,2023-10-08
+303,7.0,tackles_and_assists,Demario Davis,NFL,NO,2023-10-08
+304,222.5,Pass Yards,Mac Jones,NFL,NE,2023-10-08
+305,11.5,Rush Yards,Mac Jones,NFL,NE,2023-10-08
+306,0.5,passing_ints,Mac Jones,NFL,NE,2023-10-08
+307,238.5,passing_and_rushing_yds,Mac Jones,NFL,NE,2023-10-08
+308,53.5,Rush Yards,Rhamondre Stevenson,NFL,NE,2023-10-08
+309,16.5,Receiving Yards,Rhamondre Stevenson,NFL,NE,2023-10-08
+310,74.5,rush_rec_yds,Rhamondre Stevenson,NFL,NE,2023-10-08
+311,29.5,Receiving Yards,JuJu Smith-Schuster,NFL,NE,2023-10-08
+312,29.5,rush_rec_yds,JuJu Smith-Schuster,NFL,NE,2023-10-08
+313,38.5,Receiving Yards,DeVante Parker,NFL,NE,2023-10-08
+314,38.5,rush_rec_yds,DeVante Parker,NFL,NE,2023-10-08
+315,19.5,Receiving Yards,Mike Gesicki,NFL,NE,2023-10-08
+316,37.5,Receiving Yards,Hunter Henry,NFL,NE,2023-10-08
+317,32.5,Receiving Yards,Kendrick Bourne,NFL,NE,2023-10-08
+318,32.5,rush_rec_yds,Kendrick Bourne,NFL,NE,2023-10-08
+319,6.0,kicking_points,Chad Ryland,NFL,NE,2023-10-08
+320,4.0,Tackles,Jabrill Peppers,NFL,NE,2023-10-08
+321,2.0,AST,Jabrill Peppers,NFL,NE,2023-10-08
+322,6.0,tackles_and_assists,Jabrill Peppers,NFL,NE,2023-10-08
+323,4.0,Tackles,Ja'Whaun Bentley,NFL,NE,2023-10-08
+324,3.0,AST,Ja'Whaun Bentley,NFL,NE,2023-10-08
+325,7.0,tackles_and_assists,Ja'Whaun Bentley,NFL,NE,2023-10-08
+326,2.5,Tackles,Jahlani Tavai,NFL,NE,2023-10-08
+327,2.0,AST,Jahlani Tavai,NFL,NE,2023-10-08
+328,3.5,Tackles,Kyle Dugger,NFL,NE,2023-10-08
+329,2.0,AST,Kyle Dugger,NFL,NE,2023-10-08
+330,5.5,tackles_and_assists,Kyle Dugger,NFL,NE,2023-10-08
+331,4.5,tackles_and_assists,Jahlani Tavai,NFL,NE,2023-10-08
+332,224.5,Pass Yards,Daniel Jones,NFL,NYG,2023-10-08
+333,37.5,Rush Yards,Daniel Jones,NFL,NYG,2023-10-08
+334,0.5,passing_ints,Daniel Jones,NFL,NYG,2023-10-08
+335,267.5,passing_and_rushing_yds,Daniel Jones,NFL,NYG,2023-10-08
+336,40.5,Receiving Yards,Darren Waller,NFL,NYG,2023-10-08
+337,31.5,Receiving Yards,Darius Slayton,NFL,NYG,2023-10-08
+338,5.5,kicking_points,Graham Gano,NFL,NYG,2023-10-08
+339,284.5,Pass Yards,Tua Tagovailoa,NFL,MIA,2023-10-08
+340,0.5,passing_ints,Tua Tagovailoa,NFL,MIA,2023-10-08
+341,0.5,rush_rec_tds,Raheem Mostert,NFL,MIA,2023-10-08
+342,0.5,rush_rec_tds,De'Von Achane,NFL,MIA,2023-10-08
+343,50.5,Rush Yards,De'Von Achane,NFL,MIA,2023-10-08
+344,0.5,rush_rec_tds,Tyreek Hill,NFL,MIA,2023-10-08
+345,88.5,Receiving Yards,Tyreek Hill,NFL,MIA,2023-10-08
+346,62.5,Receiving Yards,Jaylen Waddle,NFL,MIA,2023-10-08
+347,20.5,Receiving Yards,Durham Smythe,NFL,MIA,2023-10-08
+348,3.0,extra_points_made,Jason Sanders,NFL,MIA,2023-10-08
+349,7.5,kicking_points,Jason Sanders,NFL,MIA,2023-10-08
+350,196.5,Pass Yards,Ryan Tannehill,NFL,TEN,2023-10-08
+351,0.5,rush_rec_tds,Derrick Henry,NFL,TEN,2023-10-08
+352,75.5,Rush Yards,Derrick Henry,NFL,TEN,2023-10-08
+353,54.5,Receiving Yards,DeAndre Hopkins,NFL,TEN,2023-10-08
+354,206.5,Pass Yards,Anthony Richardson,NFL,IND,2023-10-08
+355,59.5,Receiving Yards,Michael Pittman Jr.,other,IND,2023-10-08
+356,246.5,Pass Yards,C.J. Stroud,NFL,HOU,2023-10-08
+357,50.5,Rush Yards,Dameon Pierce,NFL,HOU,2023-10-08
+358,58.5,Receiving Yards,Nico Collins,NFL,HOU,2023-10-08
+359,185.5,Pass Yards,Desmond Ridder,NFL,ATL,2023-10-08
+360,80.5,Rush Yards,Bijan Robinson,NFL,ATL,2023-10-08
+361,219.5,Pass Yards,Bryce Young,NFL,CAR,2023-10-08
+362,231.5,passing_and_rushing_yds,Bryce Young,NFL,CAR,2023-10-08
+363,41.5,Rush Yards,Miles Sanders,NFL,CAR,2023-10-08
+364,61.5,rush_rec_yds,Miles Sanders,NFL,CAR,2023-10-08
+365,49.5,Receiving Yards,Adam Thielen,NFL,CAR,2023-10-08
+366,50.5,rush_rec_yds,Adam Thielen,NFL,CAR,2023-10-08
+367,1.5,extra_points_made,Eddy Pineiro,NFL,CAR,2023-10-08
+368,5.0,kicking_points,Eddy Pineiro,NFL,CAR,2023-10-08
+369,246.5,Pass Yards,Jared Goff,NFL,DET,2023-10-08
+370,3.5,Rush Yards,Jared Goff,NFL,DET,2023-10-08
+371,253.5,passing_and_rushing_yds,Jared Goff,NFL,DET,2023-10-08
+372,0.5,rushing_tds,David Montgomery,NFL,DET,2023-10-08
+373,0.5,rush_rec_tds,David Montgomery,NFL,DET,2023-10-08
+374,67.5,Rush Yards,David Montgomery,NFL,DET,2023-10-08
+375,1.5,field_goals_made,Riley Patterson,NFL,DET,2023-10-08
+376,2.5,extra_points_made,Riley Patterson,NFL,DET,2023-10-08
+377,7.0,kicking_points,Riley Patterson,NFL,DET,2023-10-08
+378,0.5,rushing_tds,Jalen Hurts,NFL,PHI,2023-10-08
+379,0.5,rush_rec_tds,Jalen Hurts,NFL,PHI,2023-10-08
+380,242.5,Pass Yards,Jalen Hurts,NFL,PHI,2023-10-08
+381,67.5,Rush Yards,D'Andre Swift,NFL,PHI,2023-10-08
+382,79.5,Receiving Yards,A.J. Brown,NFL,PHI,2023-10-08
+383,1.5,field_goals_made,Jake Elliott,NFL,PHI,2023-10-08
+384,2.5,extra_points_made,Jake Elliott,NFL,PHI,2023-10-08
+385,7.5,kicking_points,Jake Elliott,NFL,PHI,2023-10-08
+386,0.5,rush_rec_tds,Kyren Williams,NFL,LAR,2023-10-08
+387,1.5,field_goals_made,Brett Maher,NFL,LAR,2023-10-08
+388,6.5,kicking_points,Brett Maher,NFL,LAR,2023-10-08
+389,1.5,passing_tds,Joe Burrow,NFL,CIN,2023-10-08
+390,251.5,Pass Yards,Joe Burrow,NFL,CIN,2023-10-08
+391,264.5,passing_and_rushing_yds,Joe Burrow,NFL,CIN,2023-10-08
+392,0.5,rush_rec_tds,Joe Mixon,NFL,CIN,2023-10-08
+393,68.5,Rush Yards,Joe Mixon,NFL,CIN,2023-10-08
+394,93.5,rush_rec_yds,Joe Mixon,NFL,CIN,2023-10-08
+395,78.5,Receiving Yards,Ja'Marr Chase,NFL,CIN,2023-10-08
+396,80.5,rush_rec_yds,Ja'Marr Chase,NFL,CIN,2023-10-08
+397,1.5,field_goals_made,Evan McPherson,NFL,CIN,2023-10-08
+398,6.5,kicking_points,Evan McPherson,NFL,CIN,2023-10-08
+399,220.5,Pass Yards,Joshua Dobbs,NFL,ARI,2023-10-08
+400,21.5,Rush Yards,Joshua Dobbs,NFL,ARI,2023-10-08
+401,0.5,passing_ints,Joshua Dobbs,NFL,ARI,2023-10-08
+402,246.5,passing_and_rushing_yds,Joshua Dobbs,NFL,ARI,2023-10-08
+403,59.5,Rush Yards,James Conner,NFL,ARI,2023-10-08
+404,13.5,Receiving Yards,James Conner,NFL,ARI,2023-10-08
+405,77.5,rush_rec_yds,James Conner,NFL,ARI,2023-10-08
+406,52.5,Receiving Yards,Marquise Brown,NFL,ARI,2023-10-08
+407,53.5,rush_rec_yds,Marquise Brown,NFL,ARI,2023-10-08
+408,30.5,Receiving Yards,Zach Ertz,NFL,ARI,2023-10-08
+409,37.5,Receiving Yards,Michael Wilson,NFL,ARI,2023-10-08
+410,37.5,rush_rec_yds,Michael Wilson,NFL,ARI,2023-10-08
+411,6.0,kicking_points,Matt Prater,NFL,ARI,2023-10-08
+412,285.5,Pass Yards,Patrick Mahomes,NFL,KC,2023-10-08
+413,56.5,Rush Yards,Isiah Pacheco,NFL,KC,2023-10-08
+414,79.5,Receiving Yards,Travis Kelce,NFL,KC,2023-10-08
+415,1.5,field_goals_made,Harrison Butker,NFL,KC,2023-10-08
+416,8.0,kicking_points,Harrison Butker,NFL,KC,2023-10-08
+417,3.5,Tackles,Trent McDuffie,NFL,KC,2023-10-08
+418,5.0,tackles_and_assists,Trent McDuffie,NFL,KC,2023-10-08
+419,0.5,sacks,Chris Jones,NFL,KC,2023-10-08
+420,293.5,Pass Yards,Kirk Cousins,NFL,MIN,2023-10-08
+421,0.5,passing_ints,Kirk Cousins,NFL,MIN,2023-10-08
+422,52.5,Rush Yards,Alexander Mattison,NFL,MIN,2023-10-08
+423,0.5,rush_rec_tds,Justin Jefferson,NFL,MIN,2023-10-08
+424,104.5,Receiving Yards,Justin Jefferson,NFL,MIN,2023-10-08
+425,105.5,rush_rec_yds,Justin Jefferson,NFL,MIN,2023-10-08
+426,46.5,Receiving Yards,Jordan Addison,NFL,MIN,2023-10-08
+427,35.5,Receiving Yards,K.J. Osborn,NFL,MIN,2023-10-08
+428,46.5,rush_rec_yds,Jordan Addison,NFL,MIN,2023-10-08
+429,36.5,rush_rec_yds,K.J. Osborn,NFL,MIN,2023-10-08
+430,53.5,Receiving Yards,T.J. Hockenson,NFL,MIN,2023-10-08
+431,6.5,kicking_points,Greg Joseph,NFL,MIN,2023-10-08
+432,4.5,Tackles,Jordan Hicks,NFL,MIN,2023-10-08
+433,3.0,AST,Jordan Hicks,NFL,MIN,2023-10-08
+434,5.0,Tackles,Camryn Bynum,NFL,MIN,2023-10-08
+435,2.5,AST,Camryn Bynum,NFL,MIN,2023-10-08
+436,7.5,tackles_and_assists,Camryn Bynum,NFL,MIN,2023-10-08
+437,4.0,Tackles,Josh Metellus,NFL,MIN,2023-10-08
+438,6.0,tackles_and_assists,Josh Metellus,NFL,MIN,2023-10-08
+439,7.5,tackles_and_assists,Jordan Hicks,NFL,MIN,2023-10-08
+440,202.5,Pass Yards,Zach Wilson,NFL,NYJ,2023-10-08
+441,0.5,passing_ints,Zach Wilson,NFL,NYJ,2023-10-08
+442,59.5,Receiving Yards,Garrett Wilson,NFL,NYJ,2023-10-08
+443,6.0,kicking_points,Greg Zuerlein,NFL,NYJ,2023-10-08
+444,218.5,Pass Yards,Russell Wilson,NFL,DEN,2023-10-08
+445,0.5,passing_ints,Russell Wilson,NFL,DEN,2023-10-08
+446,48.5,Receiving Yards,Jerry Jeudy,NFL,DEN,2023-10-08
+447,47.5,Receiving Yards,Courtland Sutton,NFL,DEN,2023-10-08
+448,1.5,field_goals_made,Wil Lutz,NFL,DEN,2023-10-08
+449,2.0,extra_points_made,Wil Lutz,NFL,DEN,2023-10-08
+450,6.5,kicking_points,Wil Lutz,NFL,DEN,2023-10-08
+451,243.5,Pass Yards,Dak Prescott,NFL,DAL,2023-10-08
+452,34.5,passing_att,Dak Prescott,NFL,DAL,2023-10-08
+453,23.0,passing_comps,Dak Prescott,NFL,DAL,2023-10-08
+454,0.5,passing_ints,Dak Prescott,NFL,DAL,2023-10-08
+455,65.5,Rush Yards,Tony Pollard,NFL,DAL,2023-10-08
+456,64.5,Receiving Yards,CeeDee Lamb,NFL,DAL,2023-10-08
+457,1.5,passing_tds,Brock Purdy,NFL,SF,2023-10-08
+458,241.5,Pass Yards,Brock Purdy,NFL,SF,2023-10-08
+459,29.5,passing_att,Brock Purdy,NFL,SF,2023-10-08
+460,20.5,passing_comps,Brock Purdy,NFL,SF,2023-10-08
+461,0.5,rushing_tds,Christian McCaffrey,NFL,SF,2023-10-08
+462,89.5,Rush Yards,Christian McCaffrey,NFL,SF,2023-10-08
+463,31.5,Receiving Yards,Christian McCaffrey,NFL,SF,2023-10-08
+464,56.5,Receiving Yards,Brandon Aiyuk,NFL,SF,2023-10-08
+465,41.5,Receiving Yards,George Kittle,NFL,SF,2023-10-08
+466,234.5,Pass Yards,Jordan Love,NFL,GB,2023-10-09
+467,65.5,Rush Yards,Josh Jacobs,NFL,LV,2023-10-09
+468,23.5,PTS,Breanna Stewart,WNBA,NYL,2023-10-08
+469,3.5,AST,Breanna Stewart,WNBA,NYL,2023-10-08
+470,17.5,PTS,Sabrina Ionescu,WNBA,NYL,2023-10-08
+471,4.5,AST,Sabrina Ionescu,WNBA,NYL,2023-10-08
+472,5.0,TRB,Sabrina Ionescu,WNBA,NYL,2023-10-08
+473,10.0,PTS,Courtney Vandersloot,WNBA,NYL,2023-10-08
+474,7.5,AST,Courtney Vandersloot,WNBA,NYL,2023-10-08
+475,13.0,PTS,Jonquel Jones,WNBA,NYL,2023-10-08
+476,11.5,TRB,Jonquel Jones,WNBA,NYL,2023-10-08
+477,23.5,PTS,A'ja Wilson,WNBA,LVA,2023-10-08
+478,10.5,TRB,A'ja Wilson,WNBA,LVA,2023-10-08
+479,18.0,PTS,Kelsey Plum,WNBA,LVA,2023-10-08
+480,18.0,PTS,Jackie Young,WNBA,LVA,2023-10-08
+481,4.0,AST,Jackie Young,WNBA,LVA,2023-10-08
+482,4.5,TRB,Jackie Young,WNBA,LVA,2023-10-08
+483,15.5,PTS,Chelsea Gray,WNBA,LVA,2023-10-08
+484,6.5,AST,Chelsea Gray,WNBA,LVA,2023-10-08
+485,4.5,TRB,Chelsea Gray,WNBA,LVA,2023-10-08
+486,2.0,Double Faults,Lorenzo Sonego,other,Lorenzo Sonego,
+487,2.5,Double Faults,Alexander Shevchenko,other,Alexander Shevchenko,
+488,7.0,Aces,Caroline Garcia,other,Caroline Garcia,
+489,2.5,Double Faults,Caroline Garcia,other,Caroline Garcia,
+490,2.0,Double Faults,Aleksandar Vukic,other,Aleksandar Vukic,
+491,2.5,Double Faults,Arthur Fils,other,Arthur Fils,
+492,7.0,Aces,Matteo Arnaldi,other,Matteo Arnaldi,
+493,3.5,Double Faults,Luca van,other,Luca van,
+494,4.5,Aces,Liudmila Samsonova,other,Liudmila Samsonova,
+495,5.5,Double Faults,Liudmila Samsonova,other,Liudmila Samsonova,
+496,10.5,Aces,Yosuke Watanuki,other,Yosuke Watanuki,
+497,6.0,Aces,Nuno Borges,other,Nuno Borges,
+498,8.0,Aces,Aleksandar Vukic,other,Aleksandar Vukic,
+499,5.5,Aces,Sebastian Ofner,other,Sebastian Ofner,
+500,5.0,Aces,Christopher O'Connell,other,Christopher O'Connell,
+501,4.0,Aces,Luca van,other,Luca van,
+502,6.0,Aces,Arthur Fils,other,Arthur Fils,
+503,6.5,Aces,Aslan Karatsev,other,Aslan Karatsev,
+504,4.5,Aces,Coco Gauff,other,Coco Gauff,
+505,6.5,Aces,Laslo Djere,other,Laslo Djere,
+506,5.5,Aces,Lorenzo Sonego,other,Lorenzo Sonego,
+507,7.5,Aces,Jordan Thompson,other,Jordan Thompson,
+508,6.5,Aces,Jeffrey John,other,Jeffrey John,
+509,4.5,Aces,Alexandre Muller,other,Alexandre Muller,
+510,5.5,Aces,Aryna Sabalenka,other,Aryna Sabalenka,
+511,5.5,Aces,Alexander Shevchenko,other,Alexander Shevchenko,
+512,3.5,Aces,Maria Sakkari,other,Maria Sakkari,
+513,9.0,Aces,Tallon Griekspoor,other,Tallon Griekspoor,
+514,6.5,Aces,Jannik Sinner,other,Jannik Sinner,
+515,3.0,Aces,Alex de,other,Alex de,
+516,7.0,Aces,Yannick Hanfmann,other,Yannick Hanfmann,
+517,6.5,Aces,Casper Ruud,other,Casper Ruud,
+518,9.0,Aces,Sebastian Korda,other,Sebastian Korda,
+519,14.5,Aces,Hubert Hurkacz,other,Hubert Hurkacz,
+520,3.0,Aces,Mackenzie McDonald,other,Mackenzie McDonald,
+521,8.0,Aces,Ben Shelton,other,Ben Shelton,
+522,2.0,Double Faults,Nuno Borges,other,Nuno Borges,
+523,4.5,Double Faults,Aslan Karatsev,other,Aslan Karatsev,
+524,1.5,Double Faults,Christopher O'Connell,other,Christopher O'Connell,
+525,3.5,Double Faults,Matteo Arnaldi,other,Matteo Arnaldi,
+526,2.5,Double Faults,Yosuke Watanuki,other,Yosuke Watanuki,
+527,2.5,Double Faults,Jeffrey John,other,Jeffrey John,
+528,2.0,Double Faults,Laslo Djere,other,Laslo Djere,
+529,2.5,Double Faults,Alexandre Muller,other,Alexandre Muller,
+530,4.0,Double Faults,Coco Gauff,other,Coco Gauff,
+531,4.5,Double Faults,Aryna Sabalenka,other,Aryna Sabalenka,
+532,3.0,Double Faults,Sebastian Ofner,other,Sebastian Ofner,
+533,3.0,Double Faults,Maria Sakkari,other,Maria Sakkari,
+534,2.0,Double Faults,Alex de,other,Alex de,
+535,3.0,Double Faults,Ben Shelton,other,Ben Shelton,
+536,2.0,Double Faults,Sebastian Korda,other,Sebastian Korda,
+537,3.0,Double Faults,Holger Rune,other,Holger Rune,
+538,2.0,Double Faults,Mackenzie McDonald,other,Mackenzie McDonald,
+539,2.0,Double Faults,Hubert Hurkacz,other,Hubert Hurkacz,
+540,2.0,Double Faults,Jannik Sinner,other,Jannik Sinner,
+541,2.0,Double Faults,Yannick Hanfmann,other,Yannick Hanfmann,
+542,2.5,Double Faults,Zhizhen Zhang,other,Zhizhen Zhang,
+543,3.0,Double Faults,Tallon Griekspoor,other,Tallon Griekspoor,
+544,4.5,Double Faults,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+545,0.5,sets_lost,Jeffrey John,other,Jeffrey John,
+546,0.5,sets_lost,Coco Gauff,other,Coco Gauff,
+547,0.5,sets_lost,Ben Shelton,other,Ben Shelton,
+548,0.5,sets_lost,Sebastian Baez,other,Sebastian Baez,
+549,45.55,Hitter Fantasy Score,Matteo Arnaldi,other,Matteo Arnaldi,
+550,47.65,Hitter Fantasy Score,Aleksandar Vukic,other,Aleksandar Vukic,
+551,46.35,Hitter Fantasy Score,Arthur Fils,other,Arthur Fils,
+552,44.75,Hitter Fantasy Score,Yosuke Watanuki,other,Yosuke Watanuki,
+553,45.25,Hitter Fantasy Score,Christopher O'Connell,other,Christopher O'Connell,
+554,43.05,Hitter Fantasy Score,Nuno Borges,other,Nuno Borges,
+555,44.25,Hitter Fantasy Score,Luca van,other,Luca van,
+556,46.55,Hitter Fantasy Score,Aslan Karatsev,other,Aslan Karatsev,
+557,49.15,Hitter Fantasy Score,Jeffrey John,other,Jeffrey John,
+558,44.05,Hitter Fantasy Score,Sebastian Ofner,other,Sebastian Ofner,
+559,46.35,Hitter Fantasy Score,Coco Gauff,other,Coco Gauff,
+560,50.65,Hitter Fantasy Score,Lorenzo Sonego,other,Lorenzo Sonego,
+561,44.65,Hitter Fantasy Score,Laslo Djere,other,Laslo Djere,
+562,44.35,Hitter Fantasy Score,Alexander Shevchenko,other,Alexander Shevchenko,
+563,45.95,Hitter Fantasy Score,Alexandre Muller,other,Alexandre Muller,
+564,43.65,Hitter Fantasy Score,Jordan Thompson,other,Jordan Thompson,
+565,51.85,Hitter Fantasy Score,Aryna Sabalenka,other,Aryna Sabalenka,
+566,45.55,Hitter Fantasy Score,Caroline Garcia,other,Caroline Garcia,
+567,47.25,Hitter Fantasy Score,Maria Sakkari,other,Maria Sakkari,
+568,47.95,Hitter Fantasy Score,Casper Ruud,other,Casper Ruud,
+569,51.45,Hitter Fantasy Score,Sebastian Korda,other,Sebastian Korda,
+570,44.85,Hitter Fantasy Score,Mackenzie McDonald,other,Mackenzie McDonald,
+571,47.15,Hitter Fantasy Score,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+572,52.15,Hitter Fantasy Score,Jannik Sinner,other,Jannik Sinner,
+573,49.05,Hitter Fantasy Score,Sebastian Baez,other,Sebastian Baez,
+574,51.25,Hitter Fantasy Score,Alex de,other,Alex de,
+575,44.55,Hitter Fantasy Score,Yannick Hanfmann,other,Yannick Hanfmann,
+576,49.05,Hitter Fantasy Score,Hubert Hurkacz,other,Hubert Hurkacz,
+577,48.95,Hitter Fantasy Score,Ben Shelton,other,Ben Shelton,
+578,45.25,Hitter Fantasy Score,Holger Rune,other,Holger Rune,
+579,45.25,Hitter Fantasy Score,Zhizhen Zhang,other,Zhizhen Zhang,
+580,47.55,Hitter Fantasy Score,Tallon Griekspoor,other,Tallon Griekspoor,
+581,44.55,Hitter Fantasy Score,Liudmila Samsonova,other,Liudmila Samsonova,
+582,3.5,Break Points Won,Caroline Garcia,other,Caroline Garcia,
+583,3.5,Break Points Won,Liudmila Samsonova,other,Liudmila Samsonova,
+584,3.5,Break Points Won,Sebastian Baez,other,Sebastian Baez,
+585,3.5,Break Points Won,Jannik Sinner,other,Jannik Sinner,
+586,1.5,Break Points Won,Hubert Hurkacz,other,Hubert Hurkacz,
+587,2.5,Break Points Won,Zhizhen Zhang,other,Zhizhen Zhang,
+588,2.5,Break Points Won,Holger Rune,other,Holger Rune,
+589,3.5,Break Points Won,Alex de,other,Alex de,
+590,2.5,Break Points Won,Tallon Griekspoor,other,Tallon Griekspoor,
+591,1.5,Service Games Lost,Sebastian Baez,other,Sebastian Baez,
+592,1.5,Service Games Lost,Tallon Griekspoor,other,Tallon Griekspoor,
+593,1.5,Service Games Lost,Alex de,other,Alex de,
+594,1.5,Service Games Lost,Ben Shelton,other,Ben Shelton,
+595,3.5,Service Games Lost,Liudmila Samsonova,other,Liudmila Samsonova,
+596,1.5,Service Games Lost,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+597,12.5,Games Won,Christopher O'Connell,other,Christopher O'Connell,
+598,12.5,Games Won,Aleksandar Vukic,other,Aleksandar Vukic,
+599,12.5,Games Won,Nuno Borges,other,Nuno Borges,
+600,13.0,Games Won,Matteo Arnaldi,other,Matteo Arnaldi,
+601,13.0,Games Won,Aslan Karatsev,other,Aslan Karatsev,
+602,12.5,Games Won,Sebastian Ofner,other,Sebastian Ofner,
+603,12.5,Games Won,Coco Gauff,other,Coco Gauff,
+604,12.5,Games Won,Laslo Djere,other,Laslo Djere,
+605,12.5,Games Won,Alexandre Muller,other,Alexandre Muller,
+606,12.5,Games Won,Alexander Shevchenko,other,Alexander Shevchenko,
+607,13.0,Games Won,Jordan Thompson,other,Jordan Thompson,
+608,13.0,Games Won,Stefano Napolitano,other,Stefano Napolitano,
+609,12.5,Games Won,Caroline Garcia,other,Caroline Garcia,
+610,12.5,Games Won,Jannik Sinner,other,Jannik Sinner,
+611,13.0,Games Won,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+612,13.0,Games Won,Zhizhen Zhang,other,Zhizhen Zhang,
+613,13.0,Games Won,Holger Rune,other,Holger Rune,
+614,12.5,Games Won,Alex de,other,Alex de,
+615,12.5,Games Won,Yannick Hanfmann,other,Yannick Hanfmann,
+616,12.5,Games Won,Mackenzie McDonald,other,Mackenzie McDonald,
+617,12.5,Games Won,Sebastian Korda,other,Sebastian Korda,
+618,13.0,Games Won,Tallon Griekspoor,other,Tallon Griekspoor,
+619,12.5,Games Won,Sebastian Baez,other,Sebastian Baez,
+620,10.5,Games Lost,Jeffrey John,other,Jeffrey John,
+621,12.0,Games Lost,Yosuke Watanuki,other,Yosuke Watanuki,
+622,11.5,Games Lost,Aleksandar Vukic,other,Aleksandar Vukic,
+623,12.5,Games Lost,Nuno Borges,other,Nuno Borges,
+624,12.5,Games Lost,Matteo Arnaldi,other,Matteo Arnaldi,
+625,12.0,Games Lost,Arthur Fils,other,Arthur Fils,
+626,12.5,Games Lost,Christopher O'Connell,other,Christopher O'Connell,
+627,12.0,Games Lost,Aslan Karatsev,other,Aslan Karatsev,
+628,12.0,Games Lost,Sebastian Ofner,other,Sebastian Ofner,
+629,11.0,Games Lost,Coco Gauff,other,Coco Gauff,
+630,12.0,Games Lost,Alexander Shevchenko,other,Alexander Shevchenko,
+631,12.0,Games Lost,Jordan Thompson,other,Jordan Thompson,
+632,12.0,Games Lost,Alexandre Muller,other,Alexandre Muller,
+633,12.5,Games Lost,Laslo Djere,other,Laslo Djere,
+634,9.0,Games Lost,Lorenzo Sonego,other,Lorenzo Sonego,
+635,12.5,Games Lost,Stefano Napolitano,other,Stefano Napolitano,
+636,6.5,Games Lost,Aryna Sabalenka,other,Aryna Sabalenka,
+637,12.0,Games Lost,Caroline Garcia,other,Caroline Garcia,
+638,10.5,Games Lost,Maria Sakkari,other,Maria Sakkari,
+639,12.5,Games Lost,Holger Rune,other,Holger Rune,
+640,8.5,Games Lost,Alex de,other,Alex de,
+641,10.5,Games Lost,Sebastian Baez,other,Sebastian Baez,
+642,12.0,Games Lost,Liudmila Samsonova,other,Liudmila Samsonova,
+643,9.0,Games Lost,Sebastian Korda,other,Sebastian Korda,
+644,12.0,Games Lost,Tallon Griekspoor,other,Tallon Griekspoor,
+645,12.5,Games Lost,Hubert Hurkacz,other,Hubert Hurkacz,
+646,8.5,Games Lost,Jannik Sinner,other,Jannik Sinner,
+647,12.5,Games Lost,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+648,12.5,Games Lost,Zhizhen Zhang,other,Zhizhen Zhang,
+649,12.0,Games Lost,Casper Ruud,other,Casper Ruud,
+650,10.5,Games Lost,Ben Shelton,other,Ben Shelton,
+651,12.5,Games Lost,Yannick Hanfmann,other,Yannick Hanfmann,
+652,22.5,games_played,Arthur Fils,other,Arthur Fils,
+653,22.5,games_played,Christopher O'Connell,other,Christopher O'Connell,
+654,23.0,games_played,Yosuke Watanuki,other,Yosuke Watanuki,
+655,23.0,games_played,Matteo Arnaldi,other,Matteo Arnaldi,
+656,22.0,games_played,Aleksandar Vukic,other,Aleksandar Vukic,
+657,23.0,games_played,Nuno Borges,other,Nuno Borges,
+658,22.0,games_played,Jeffrey John,other,Jeffrey John,
+659,22.0,games_played,Luca van,other,Luca van,
+660,23.0,games_played,Aslan Karatsev,other,Aslan Karatsev,
+661,22.5,games_played,Sebastian Ofner,other,Sebastian Ofner,
+662,21.0,games_played,Coco Gauff,other,Coco Gauff,
+663,22.5,games_played,Laslo Djere,other,Laslo Djere,
+664,22.5,games_played,Alexandre Muller,other,Alexandre Muller,
+665,23.0,games_played,Jordan Thompson,other,Jordan Thompson,
+666,21.5,games_played,Lorenzo Sonego,other,Lorenzo Sonego,
+667,22.0,games_played,Alexander Shevchenko,other,Alexander Shevchenko,
+668,23.0,games_played,Stefano Napolitano,other,Stefano Napolitano,
+669,18.5,games_played,Aryna Sabalenka,other,Aryna Sabalenka,
+670,22.5,games_played,Caroline Garcia,other,Caroline Garcia,
+671,21.0,games_played,Maria Sakkari,other,Maria Sakkari,
+672,23.0,games_played,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+673,21.5,games_played,Sebastian Korda,other,Sebastian Korda,
+674,22.5,games_played,Mackenzie McDonald,other,Mackenzie McDonald,
+675,23.0,games_played,Holger Rune,other,Holger Rune,
+676,22.5,games_played,Casper Ruud,other,Casper Ruud,
+677,25.0,games_played,Hubert Hurkacz,other,Hubert Hurkacz,
+678,22.0,games_played,Ben Shelton,other,Ben Shelton,
+679,21.0,games_played,Alex de,other,Alex de,
+680,23.0,games_played,Yannick Hanfmann,other,Yannick Hanfmann,
+681,22.0,games_played,Liudmila Samsonova,other,Liudmila Samsonova,
+682,23.0,games_played,Tallon Griekspoor,other,Tallon Griekspoor,
+683,20.5,games_played,Jannik Sinner,other,Jannik Sinner,
+684,23.0,games_played,Zhizhen Zhang,other,Zhizhen Zhang,
+685,21.5,games_played,Sebastian Baez,other,Sebastian Baez,
+686,70.0,Strokes,Adam Svensson,other,Adam Svensson,
+687,69.0,Strokes,Stephan Jaeger,other,Stephan Jaeger,
+688,69.5,Strokes,Beau Hossler,other,Beau Hossler,
+689,69.0,Strokes,Ludvig Aberg,other,Ludvig Aberg,
+690,70.0,Strokes,Alex Smalley,other,Alex Smalley,
+691,69.5,Strokes,Mark Hubbard,other,Mark Hubbard,
+692,70.0,Strokes,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+693,69.5,Strokes,Eric Cole,other,Eric Cole,
+694,70.0,Strokes,Mackenzie Hughes,other,Mackenzie Hughes,
+695,70.5,Strokes,Alex Noren,other,Alex Noren,
+696,70.0,Strokes,Lee Hodges,other,Lee Hodges,
+697,69.5,Strokes,Emiliano Grillo,other,Emiliano Grillo,
+698,70.0,Strokes,Tom Hoge,other,Tom Hoge,
+699,69.5,Strokes,Lucas Herbert,other,Lucas Herbert,
+700,4.5,Birdies or Better,Eric Cole,other,Eric Cole,
+701,4.0,Birdies or Better,Lucas Herbert,other,Lucas Herbert,
+702,4.5,Birdies or Better,Beau Hossler,other,Beau Hossler,
+703,4.0,Birdies or Better,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+704,4.0,Birdies or Better,Lee Hodges,other,Lee Hodges,
+705,4.0,Birdies or Better,Mackenzie Hughes,other,Mackenzie Hughes,
+706,4.5,Birdies or Better,Mark Hubbard,other,Mark Hubbard,
+707,4.0,Birdies or Better,Adam Svensson,other,Adam Svensson,
+708,4.0,Birdies or Better,Alex Smalley,other,Alex Smalley,
+709,4.0,Birdies or Better,Tom Hoge,other,Tom Hoge,
+710,4.5,Birdies or Better,Emiliano Grillo,other,Emiliano Grillo,
+711,4.5,Birdies or Better,Stephan Jaeger,other,Stephan Jaeger,
+712,5.0,Birdies or Better,Ludvig Aberg,other,Ludvig Aberg,
+713,4.0,Birdies or Better,Alex Noren,other,Alex Noren,
+714,2.5,Bogeys or Worse,Adam Svensson,other,Adam Svensson,
+715,2.0,Bogeys or Worse,Beau Hossler,other,Beau Hossler,
+716,2.5,Bogeys or Worse,Tom Hoge,other,Tom Hoge,
+717,2.0,Bogeys or Worse,Lucas Herbert,other,Lucas Herbert,
+718,1.5,Bogeys or Worse,Stephan Jaeger,other,Stephan Jaeger,
+719,2.5,Bogeys or Worse,Alex Noren,other,Alex Noren,
+720,2.0,Bogeys or Worse,Lee Hodges,other,Lee Hodges,
+721,2.0,Bogeys or Worse,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+722,2.0,Bogeys or Worse,Mark Hubbard,other,Mark Hubbard,
+723,2.0,Bogeys or Worse,Eric Cole,other,Eric Cole,
+724,2.0,Bogeys or Worse,Emiliano Grillo,other,Emiliano Grillo,
+725,2.5,Bogeys or Worse,Mackenzie Hughes,other,Mackenzie Hughes,
+726,2.0,Bogeys or Worse,Ludvig Aberg,other,Ludvig Aberg,
+727,2.0,Bogeys or Worse,Alex Smalley,other,Alex Smalley,
+728,12.0,cumulative_par_3_strokes,Adam Svensson,other,Adam Svensson,
+729,12.0,cumulative_par_3_strokes,Emiliano Grillo,other,Emiliano Grillo,
+730,12.0,cumulative_par_3_strokes,Lee Hodges,other,Lee Hodges,
+731,12.0,cumulative_par_3_strokes,Mackenzie Hughes,other,Mackenzie Hughes,
+732,12.0,cumulative_par_3_strokes,Eric Cole,other,Eric Cole,
+733,12.0,cumulative_par_3_strokes,Mark Hubbard,other,Mark Hubbard,
+734,12.0,cumulative_par_3_strokes,Stephan Jaeger,other,Stephan Jaeger,
+735,12.0,cumulative_par_3_strokes,Ludvig Aberg,other,Ludvig Aberg,
+736,12.0,cumulative_par_3_strokes,Alex Noren,other,Alex Noren,
+737,12.0,cumulative_par_3_strokes,Alex Smalley,other,Alex Smalley,
+738,12.0,cumulative_par_3_strokes,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+739,12.0,cumulative_par_3_strokes,Beau Hossler,other,Beau Hossler,
+740,12.0,cumulative_par_3_strokes,Lucas Herbert,other,Lucas Herbert,
+741,12.0,cumulative_par_3_strokes,Tom Hoge,other,Tom Hoge,
+742,29.85,Hitter Fantasy Score,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+743,30.45,Hitter Fantasy Score,Lee Hodges,other,Lee Hodges,
+744,31.95,Hitter Fantasy Score,Beau Hossler,other,Beau Hossler,
+745,35.25,Hitter Fantasy Score,Stephan Jaeger,other,Stephan Jaeger,
+746,29.85,Hitter Fantasy Score,Lucas Herbert,other,Lucas Herbert,
+747,33.35,Hitter Fantasy Score,Eric Cole,other,Eric Cole,
+748,35.35,Hitter Fantasy Score,Ludvig Aberg,other,Ludvig Aberg,
+749,26.65,Hitter Fantasy Score,Tom Hoge,other,Tom Hoge,
+750,28.65,Hitter Fantasy Score,Adam Svensson,other,Adam Svensson,
+751,29.85,Hitter Fantasy Score,Mackenzie Hughes,other,Mackenzie Hughes,
+752,28.75,Hitter Fantasy Score,Alex Smalley,other,Alex Smalley,
+753,26.65,Hitter Fantasy Score,Alex Noren,other,Alex Noren,
+754,35.25,Hitter Fantasy Score,Emiliano Grillo,other,Emiliano Grillo,
+755,32.05,Hitter Fantasy Score,Mark Hubbard,other,Mark Hubbard,
+756,6.0,MAPS 1-2 Kills,WhiteKnight,ESPORTS,Barca Esports ,2023-10-05
+757,6.5,MAPS 1-2 Kills,maxlore,ESPORTS,Barca Esports ,2023-10-05
+758,10.0,MAPS 1-2 Kills,Sajator,ESPORTS,Barca Esports ,2023-10-05
+759,1.5,MAPS 1-2 Kills,Efias,ESPORTS,Barca Esports ,2023-10-05
+760,11.0,MAPS 1-2 Kills,Deadly,ESPORTS,Barca Esports ,2023-10-05
+761,4.5,MAPS 1-2 Kills,Midnight,ESPORTS, Hijos De Patria,2023-10-05
+762,4.5,MAPS 1-2 Kills,Abner,ESPORTS, Hijos De Patria,2023-10-05
+763,0.5,MAPS 1-2 Kills,Speedobear,ESPORTS, Hijos De Patria,2023-10-05
+764,3.5,MAPS 1-2 Kills,Claycee,ESPORTS, Hijos De Patria,2023-10-05
+765,10.5,MAPS 1-2 Kills,Coldraa,ESPORTS,CASE Esports ,2023-10-05
+766,1.0,MAPS 1-2 Kills,Pyrka,ESPORTS,CASE Esports ,2023-10-05
+767,8.5,MAPS 1-2 Kills,Javier,ESPORTS,CASE Esports ,2023-10-05
+768,7.5,MAPS 1-2 Kills,Lebron,ESPORTS,CASE Esports ,2023-10-05
+769,5.0,MAPS 1-2 Kills,Jordi,ESPORTS,CASE Esports ,2023-10-05
+770,4.0,MAPS 1-2 Kills,Chaos,ESPORTS, Boavista FC,2023-10-05
+771,5.0,MAPS 1-2 Kills,Campello,ESPORTS, Boavista FC,2023-10-05
+772,5.0,MAPS 1-2 Kills,Phoxie,ESPORTS, Boavista FC,2023-10-05
+773,33.0,MAPS 1-2 Kills,Juli,ESPORTS,EG Gold ,2023-10-04
+774,13.5,headshots_on_maps_1_2,Juli,ESPORTS,EG Gold ,2023-10-04
+775,31.5,MAPS 1-2 Kills,7licious,ESPORTS,EG Gold ,2023-10-04
+776,31.0,MAPS 1-2 Kills,m1lky,ESPORTS,EG Gold ,2023-10-04
+777,30.5,MAPS 1-2 Kills,PiggyKiki,ESPORTS,EG Gold ,2023-10-04
+778,27.0,MAPS 1-2 Kills,vanessa,ESPORTS,EG Gold ,2023-10-04
+779,10.5,headshots_on_maps_1_2,vanessa,ESPORTS,EG Gold ,2023-10-04
+780,13.0,headshots_on_maps_1_2,7licious,ESPORTS,EG Gold ,2023-10-04
+781,10.5,headshots_on_maps_1_2,PiggyKiki,ESPORTS,EG Gold ,2023-10-04
+782,13.5,headshots_on_maps_1_2,m1lky,ESPORTS,EG Gold ,2023-10-04
+783,24.5,MAPS 1-2 Kills,Chigen,ESPORTS, Tsunami Sirens,2023-10-04
+784,23.5,MAPS 1-2 Kills,fawx,ESPORTS, Tsunami Sirens,2023-10-04
+785,29.0,MAPS 1-2 Kills,Kate,ESPORTS, Tsunami Sirens,2023-10-04
+786,24.0,MAPS 1-2 Kills,mira,ESPORTS, Tsunami Sirens,2023-10-04
+787,23.0,MAPS 1-2 Kills,Daria,ESPORTS, Tsunami Sirens,2023-10-04
+788,15.0,headshots_on_maps_1_2,Kate,ESPORTS, Tsunami Sirens,2023-10-04
+789,13.0,headshots_on_maps_1_2,Chigen,ESPORTS, Tsunami Sirens,2023-10-04
+790,13.5,headshots_on_maps_1_2,mira,ESPORTS, Tsunami Sirens,2023-10-04
+791,8.5,headshots_on_maps_1_2,Daria,ESPORTS, Tsunami Sirens,2023-10-04
+792,10.5,headshots_on_maps_1_2,fawx,ESPORTS, Tsunami Sirens,2023-10-04
+793,25.0,MAPS 1-2 Kills,Shelby,ESPORTS,Cherry Bombs ,2023-10-04
+794,23.0,MAPS 1-2 Kills,Giraffley,ESPORTS,Cherry Bombs ,2023-10-04
+795,27.5,MAPS 1-2 Kills,Chels,ESPORTS,Cherry Bombs ,2023-10-04
+796,21.0,MAPS 1-2 Kills,Auti,ESPORTS,Cherry Bombs ,2023-10-04
+797,26.5,MAPS 1-2 Kills,Swan,ESPORTS,Cherry Bombs ,2023-10-04
+798,10.0,headshots_on_maps_1_2,Shelby,ESPORTS,Cherry Bombs ,2023-10-04
+799,8.0,headshots_on_maps_1_2,Chels,ESPORTS,Cherry Bombs ,2023-10-04
+800,13.0,headshots_on_maps_1_2,Auti,ESPORTS,Cherry Bombs ,2023-10-04
+801,9.0,headshots_on_maps_1_2,Giraffley,ESPORTS,Cherry Bombs ,2023-10-04
+802,9.5,headshots_on_maps_1_2,Swan,ESPORTS,Cherry Bombs ,2023-10-04
+803,31.5,MAPS 1-2 Kills,Kionetta,ESPORTS, Hyperion,2023-10-04
+804,30.0,MAPS 1-2 Kills,anna,ESPORTS, Hyperion,2023-10-04
+805,25.0,MAPS 1-2 Kills,Kimmy,ESPORTS, Hyperion,2023-10-04
+806,29.0,MAPS 1-2 Kills,Natty,ESPORTS, Hyperion,2023-10-04
+807,33.5,MAPS 1-2 Kills,ArtStar,ESPORTS, Hyperion,2023-10-04
+808,17.5,headshots_on_maps_1_2,ArtStar,ESPORTS, Hyperion,2023-10-04
+809,10.5,headshots_on_maps_1_2,Kionetta,ESPORTS, Hyperion,2023-10-04
+810,15.0,headshots_on_maps_1_2,Natty,ESPORTS, Hyperion,2023-10-04
+811,16.0,headshots_on_maps_1_2,anna,ESPORTS, Hyperion,2023-10-04
+812,12.5,headshots_on_maps_1_2,Kimmy,ESPORTS, Hyperion,2023-10-04
+813,4.0,kills_on_maps_1_2_3,Deimos,ESPORTS,Atletec ,2023-10-05
+814,6.5,kills_on_maps_1_2_3,Croniik,ESPORTS,Atletec ,2023-10-05
+815,10.5,kills_on_maps_1_2_3,Kamiloo,ESPORTS,Atletec ,2023-10-05
+816,12.0,kills_on_maps_1_2_3,Soldier,ESPORTS,Atletec ,2023-10-05
+817,2.5,kills_on_maps_1_2_3,HONOR,ESPORTS, du Sud,2023-10-05
+818,9.0,kills_on_maps_1_2_3,Maynter,ESPORTS, du Sud,2023-10-05
+819,18.5,kills_on_maps_1_2_3,Matias,ESPORTS, du Sud,2023-10-05
+820,10.5,kills_on_maps_1_2_3,Boukada,ESPORTS, du Sud,2023-10-05
+821,14.0,kills_on_maps_1_2_3,Furuy,ESPORTS, du Sud,2023-10-05
+822,177.5,Pass Yards,Logan Smothers,CFB,JVS,2023-10-04
+823,42.5,Rush Yards,Logan Smothers,CFB,JVS,2023-10-04
+824,104.5,Rush Yards,Malik Jackson,CFB,JVS,2023-10-04
+825,31.5,Receiving Yards,Perry Carter,CFB,JVS,2023-10-04
+826,32.5,Receiving Yards,Quinton Lane,CFB,JVS,2023-10-04
+827,1.5,passing_tds,Nicholas Vattiato,CFB,MTS,2023-10-04
+828,257.5,Pass Yards,Nicholas Vattiato,CFB,MTS,2023-10-04
+829,40.5,Rush Yards,Jaiden Credle,CFB,MTS,2023-10-04
+830,50.5,Rush Yards,Frank Peasant,CFB,MTS,2023-10-04
+831,50.5,Receiving Yards,Elijah Metcalf,CFB,MTS,2023-10-04
+832,40.5,Receiving Yards,Justin Olson,CFB,MTS,2023-10-04
+833,52.5,Receiving Yards,Holden Willis,CFB,MTS,2023-10-04
+834,0.5,rush_rec_tds,Will Howard,CFB,KST,2023-10-06
+835,249.5,Pass Yards,Will Howard,CFB,KST,2023-10-06
+836,26.5,Rush Yards,Will Howard,CFB,KST,2023-10-06
+837,281.5,passing_and_rushing_yds,Will Howard,CFB,KST,2023-10-06
+838,0.5,passing_ints,Will Howard,CFB,KST,2023-10-06
+839,21.5,passing_comps,Will Howard,CFB,KST,2023-10-06
+840,9.5,rushing_att,Will Howard,CFB,KST,2023-10-06
+841,32.5,passing_att,Will Howard,CFB,KST,2023-10-06
+842,37.5,Receiving Yards,Jadon Jackson,CFB,KST,2023-10-06
+843,56.5,Receiving Yards,Phillip Brooks,CFB,KST,2023-10-06
+844,5.0,receiving_rec,Phillip Brooks,CFB,KST,2023-10-06
+845,3.0,receiving_rec,Jadon Jackson,CFB,KST,2023-10-06
+846,0.5,rush_rec_tds,Ben Sinnott,CFB,KST,2023-10-06
+847,57.5,Receiving Yards,Ben Sinnott,CFB,KST,2023-10-06
+848,4.5,receiving_rec,Ben Sinnott,CFB,KST,2023-10-06
+849,7.5,kicking_points,Chris Tennant,CFB,KST,2023-10-06
+850,3.5,extra_points_made,Chris Tennant,CFB,KST,2023-10-06
+851,232.5,Pass Yards,Alan Bowman,CFB,OKS,2023-10-06
+852,20.5,passing_comps,Alan Bowman,CFB,OKS,2023-10-06
+853,37.5,passing_att,Alan Bowman,CFB,OKS,2023-10-06
+854,32.5,Receiving Yards,Brennan Presley,CFB,OKS,2023-10-06
+855,54.5,Receiving Yards,De'Zhaun Stribling,CFB,OKS,2023-10-06
+856,3.5,receiving_rec,Brennan Presley,CFB,OKS,2023-10-06
+857,4.5,receiving_rec,De'Zhaun Stribling,CFB,OKS,2023-10-06
+858,52.5,Receiving Yards,Billy Kemp IV,other,NEB,2023-10-06
+859,26.5,Receiving Yards,Marcus Washington,CFB,NEB,2023-10-06
+860,16.5,Receiving Yards,Alex Bullock,CFB,NEB,2023-10-06
+861,4.5,receiving_rec,Billy Kemp IV,other,NEB,2023-10-06
+862,2.0,receiving_rec,Marcus Washington,CFB,NEB,2023-10-06
+863,23.5,Receiving Yards,Thomas Fidone II,other,NEB,2023-10-06
+864,2.5,extra_points_made,Tristan Alvano,CFB,NEB,2023-10-06
+865,5.5,kicking_points,Tristan Alvano,CFB,NEB,2023-10-06
+866,184.5,Pass Yards,Luke Altmyer,CFB,ILL,2023-10-06
+867,18.5,Rush Yards,Luke Altmyer,CFB,ILL,2023-10-06
+868,206.5,passing_and_rushing_yds,Luke Altmyer,CFB,ILL,2023-10-06
+869,0.5,passing_ints,Luke Altmyer,CFB,ILL,2023-10-06
+870,19.5,Receiving Yards,Casey Washington,CFB,ILL,2023-10-06
+871,27.5,Receiving Yards,Pat Bryant,CFB,ILL,2023-10-06
+872,67.5,Receiving Yards,Isaiah Williams,CFB,ILL,2023-10-06
+873,5.5,receiving_rec,Isaiah Williams,CFB,ILL,2023-10-06
+874,2.5,receiving_rec,Pat Bryant,CFB,ILL,2023-10-06
+875,2.0,receiving_rec,Casey Washington,CFB,ILL,2023-10-06
+876,15.5,Receiving Yards,Tip Reiman,CFB,ILL,2023-10-06
+877,305.5,Pass Yards,Jayden Daniels,CFB,LSU,2023-10-07
+878,58.5,Rush Yards,Jayden Daniels,CFB,LSU,2023-10-07
+879,71.5,Rush Yards,Logan Diggs,CFB,LSU,2023-10-07
+880,88.5,Receiving Yards,Brian Thomas Jr.,other,LSU,2023-10-07
+881,102.5,Receiving Yards,Malik Nabers,CFB,LSU,2023-10-07
+882,76.5,Rush Yards,Cody Schrader,CFB,MIZ,2023-10-07
+883,57.5,Receiving Yards,Theo Wease Jr.,other,MIZ,2023-10-07
+884,266.5,Pass Yards,Dillon Gabriel,CFB,OKL,2023-10-07
+885,24.5,Rush Yards,Dillon Gabriel,CFB,OKL,2023-10-07
+886,294.5,passing_and_rushing_yds,Dillon Gabriel,CFB,OKL,2023-10-07
+887,0.5,passing_ints,Dillon Gabriel,CFB,OKL,2023-10-07
+888,24.5,passing_comps,Dillon Gabriel,CFB,OKL,2023-10-07
+889,9.5,rushing_att,Dillon Gabriel,CFB,OKL,2023-10-07
+890,34.5,passing_att,Dillon Gabriel,CFB,OKL,2023-10-07
+891,51.5,Receiving Yards,Drake Stoops,CFB,OKL,2023-10-07
+892,59.5,Receiving Yards,Andrel Anthony,CFB,OKL,2023-10-07
+893,56.5,Receiving Yards,Jalil Farooq,CFB,OKL,2023-10-07
+894,5.0,receiving_rec,Drake Stoops,CFB,OKL,2023-10-07
+895,4.0,receiving_rec,Andrel Anthony,CFB,OKL,2023-10-07
+896,3.5,receiving_rec,Jalil Farooq,CFB,OKL,2023-10-07
+897,291.5,Pass Yards,Quinn Ewers,CFB,TEX,2023-10-07
+898,0.5,passing_ints,Quinn Ewers,CFB,TEX,2023-10-07
+899,22.5,passing_comps,Quinn Ewers,CFB,TEX,2023-10-07
+900,31.5,passing_att,Quinn Ewers,CFB,TEX,2023-10-07
+901,93.5,Rush Yards,Jonathon Brooks,CFB,TEX,2023-10-07
+902,11.5,Receiving Yards,Jonathon Brooks,CFB,TEX,2023-10-07
+903,110.5,rush_rec_yds,Jonathon Brooks,CFB,TEX,2023-10-07
+904,19.5,rushing_att,Jonathon Brooks,CFB,TEX,2023-10-07
+905,0.5,rush_rec_tds,Adonai Mitchell,CFB,TEX,2023-10-07
+906,0.5,rush_rec_tds,Xavier Worthy,CFB,TEX,2023-10-07
+907,66.5,Receiving Yards,Adonai Mitchell,CFB,TEX,2023-10-07
+908,76.5,Receiving Yards,Xavier Worthy,CFB,TEX,2023-10-07
+909,33.5,Receiving Yards,Jordan Whittington,CFB,TEX,2023-10-07
+910,5.5,receiving_rec,Xavier Worthy,CFB,TEX,2023-10-07
+911,41.5,Receiving Yards,Jeshaun Jones,CFB,MAR,2023-10-07
+912,40.5,Receiving Yards,Tai Felton,CFB,MAR,2023-10-07
+913,3.5,receiving_rec,Jeshaun Jones,CFB,MAR,2023-10-07
+914,3.0,receiving_rec,Tai Felton,CFB,MAR,2023-10-07
+915,21.5,Receiving Yards,Corey Dyches,CFB,MAR,2023-10-07
+916,282.5,Pass Yards,Kyle McCord,CFB,OSU,2023-10-07
+917,6.5,Rush Yards,Kyle McCord,CFB,OSU,2023-10-07
+918,292.5,passing_and_rushing_yds,Kyle McCord,CFB,OSU,2023-10-07
+919,21.5,passing_comps,Kyle McCord,CFB,OSU,2023-10-07
+920,30.5,passing_att,Kyle McCord,CFB,OSU,2023-10-07
+921,78.5,Rush Yards,TreVeyon Henderson,CFB,OSU,2023-10-07
+922,5.5,Receiving Yards,TreVeyon Henderson,CFB,OSU,2023-10-07
+923,89.5,rush_rec_yds,TreVeyon Henderson,CFB,OSU,2023-10-07
+924,14.0,rushing_att,TreVeyon Henderson,CFB,OSU,2023-10-07
+925,194.5,Pass Yards,Jalen Milroe,CFB,BAMA,2023-10-07
+926,47.5,Rush Yards,Jalen Milroe,CFB,BAMA,2023-10-07
+927,66.5,Rush Yards,Jase McClellan,CFB,BAMA,2023-10-07
+928,33.5,Receiving Yards,Isaiah Bond,CFB,BAMA,2023-10-07
+929,216.5,Pass Yards,Max Johnson,CFB,TXAM,2023-10-07
+930,58.5,Rush Yards,Le'Veon Moss,CFB,TXAM,2023-10-07
+931,65.5,Receiving Yards,Evan Stewart,CFB,TXAM,2023-10-07
+932,52.5,Receiving Yards,Ainias Smith,CFB,TXAM,2023-10-07
+933,1.5,passing_tds,Garrett Shrader,CFB,SYR,2023-10-07
+934,0.5,rush_rec_tds,Garrett Shrader,CFB,SYR,2023-10-07
+935,213.5,Pass Yards,Garrett Shrader,CFB,SYR,2023-10-07
+936,75.5,Rush Yards,LeQuint Allen,CFB,SYR,2023-10-07
+937,46.5,Receiving Yards,Donovan Brown,CFB,SYR,2023-10-07
+938,46.5,Receiving Yards,Damien Alford,CFB,SYR,2023-10-07
+939,2.0,passing_tds,Drake Maye,CFB,NC,2023-10-07
+940,279.5,Pass Yards,Drake Maye,CFB,NC,2023-10-07
+941,26.5,Rush Yards,Drake Maye,CFB,NC,2023-10-07
+942,312.5,passing_and_rushing_yds,Drake Maye,CFB,NC,2023-10-07
+943,74.5,Rush Yards,Omarion Hampton,CFB,NC,2023-10-07
+944,55.5,Receiving Yards,J.J. Jones,CFB,NC,2023-10-07
+945,67.5,Receiving Yards,Nate McCollum,CFB,NC,2023-10-07
+946,47.5,Receiving Yards,Kobe Paysour,CFB,NC,2023-10-07
+947,5.5,receiving_rec,Nate McCollum,CFB,NC,2023-10-07
+948,4.0,receiving_rec,J.J. Jones,CFB,NC,2023-10-07
+949,4.0,receiving_rec,Kobe Paysour,CFB,NC,2023-10-07
+950,218.5,Pass Yards,Hudson Card,CFB,PUR,2023-10-07
+951,12.5,Rush Yards,Hudson Card,CFB,PUR,2023-10-07
+952,234.5,passing_and_rushing_yds,Hudson Card,CFB,PUR,2023-10-07
+953,35.5,Rush Yards,Devin Mockobee,CFB,PUR,2023-10-07
+954,5.5,Receiving Yards,Devin Mockobee,CFB,PUR,2023-10-07
+955,45.5,rush_rec_yds,Devin Mockobee,CFB,PUR,2023-10-07
+956,34.5,Receiving Yards,TJ Sheffield,CFB,PUR,2023-10-07
+957,42.5,Receiving Yards,Abdur-Rahmaan Yaseen,CFB,PUR,2023-10-07
+958,51.5,Receiving Yards,Deion Burks,CFB,PUR,2023-10-07
+959,3.5,receiving_rec,Abdur-Rahmaan Yaseen,CFB,PUR,2023-10-07
+960,5.0,kicking_points,Ben Freehill,CFB,PUR,2023-10-07
+961,148.5,Pass Yards,Deacon Hill,CFB,IOW,2023-10-07
+962,0.5,passing_ints,Deacon Hill,CFB,IOW,2023-10-07
+963,21.5,Receiving Yards,Nico Ragaini,CFB,IOW,2023-10-07
+964,21.5,Receiving Yards,Diante Vines,CFB,IOW,2023-10-07
+965,21.5,Receiving Yards,Seth Anderson,CFB,IOW,2023-10-07
+966,2.0,receiving_rec,Nico Ragaini,CFB,IOW,2023-10-07
+967,2.0,receiving_rec,Diante Vines,CFB,IOW,2023-10-07
+968,35.5,Receiving Yards,Erick All,CFB,IOW,2023-10-07
+969,5.5,kicking_points,Drew Stevens,CFB,IOW,2023-10-07
+970,3.0,passing_tds,Shedeur Sanders,CFB,COL,2023-10-07
+971,348.5,Pass Yards,Shedeur Sanders,CFB,COL,2023-10-07
+972,81.5,Receiving Yards,Xavier Weaver,CFB,COL,2023-10-07
+973,67.5,Receiving Yards,Jimmy Horn Jr.,other,COL,2023-10-07
+974,1.5,passing_tds,Trenton Bourguet,CFB,ASU,2023-10-07
+975,236.5,Pass Yards,Trenton Bourguet,CFB,ASU,2023-10-07
+976,61.5,Receiving Yards,Elijhah Badger,CFB,ASU,2023-10-07
+977,4.5,receiving_rec,Elijhah Badger,CFB,ASU,2023-10-07
+978,36.5,Receiving Yards,Jalin Conyers,CFB,ASU,2023-10-07
+979,3.5,receiving_rec,Jalin Conyers,CFB,ASU,2023-10-07
+980,3.0,extra_points_made,Dario Longhetto,CFB,ASU,2023-10-07
+981,7.0,kicking_points,Dario Longhetto,CFB,ASU,2023-10-07
+982,156.5,Pass Yards,Devin Leary,CFB,KEN,2023-10-07
+983,71.5,Rush Yards,Ray Davis,CFB,KEN,2023-10-07
+984,32.5,Receiving Yards,Dane Key,CFB,KEN,2023-10-07
+985,44.5,Receiving Yards,Tayvion Robinson,CFB,KEN,2023-10-07
+986,273.5,Pass Yards,Carson Beck,CFB,UGA,2023-10-07
+987,71.5,Rush Yards,Daijun Edwards,CFB,UGA,2023-10-07
+988,32.5,Receiving Yards,Dominic Lovett,CFB,UGA,2023-10-07
+989,27.5,Receiving Yards,Rara Thomas,CFB,UGA,2023-10-07
+990,40.5,Receiving Yards,Ladd McConkey,CFB,UGA,2023-10-07
+991,37.5,Receiving Yards,Marcus Rosemy-Jacksaint,CFB,UGA,2023-10-07
+992,76.5,Receiving Yards,Brock Bowers,CFB,UGA,2023-10-07
+993,2.0,passing_tds,J.J. McCarthy,CFB,MICH,2023-10-07
+994,218.5,Pass Yards,J.J. McCarthy,CFB,MICH,2023-10-07
+995,12.5,Rush Yards,J.J. McCarthy,CFB,MICH,2023-10-07
+996,235.5,passing_and_rushing_yds,J.J. McCarthy,CFB,MICH,2023-10-07
+997,0.5,rush_rec_tds,Donovan Edwards,CFB,MICH,2023-10-07
+998,48.5,Rush Yards,Donovan Edwards,CFB,MICH,2023-10-07
+999,15.5,Receiving Yards,Donovan Edwards,CFB,MICH,2023-10-07
+1000,0.5,rush_rec_tds,Roman Wilson,CFB,MICH,2023-10-07
+1001,43.5,Receiving Yards,Cornelius Johnson,CFB,MICH,2023-10-07
+1002,56.5,Receiving Yards,Roman Wilson,CFB,MICH,2023-10-07
+1003,3.0,receiving_rec,Cornelius Johnson,CFB,MICH,2023-10-07
+1004,3.5,receiving_rec,Roman Wilson,CFB,MICH,2023-10-07
+1005,30.5,Receiving Yards,Colston Loveland,CFB,MICH,2023-10-07
+1006,2.5,receiving_rec,Colston Loveland,CFB,MICH,2023-10-07
+1007,7.5,kicking_points,James Turner,CFB,MICH,2023-10-07
+1008,4.0,extra_points_made,James Turner,CFB,MICH,2023-10-07
+1009,150.5,Pass Yards,Athan Kaliakmanis,CFB,MIN,2023-10-07
+1010,8.5,Rush Yards,Athan Kaliakmanis,CFB,MIN,2023-10-07
+1011,162.5,passing_and_rushing_yds,Athan Kaliakmanis,CFB,MIN,2023-10-07
+1012,0.5,passing_ints,Athan Kaliakmanis,CFB,MIN,2023-10-07
+1013,38.5,Receiving Yards,Corey Crooms Jr.,other,MIN,2023-10-07
+1014,44.5,Receiving Yards,Daniel Jackson,CFB,MIN,2023-10-07
+1015,3.5,receiving_rec,Daniel Jackson,CFB,MIN,2023-10-07
+1016,16.5,Receiving Yards,Brevyn Spann-Ford,CFB,MIN,2023-10-07
+1017,1.5,extra_points_made,Dragan Kesich,CFB,MIN,2023-10-07
+1018,4.5,kicking_points,Dragan Kesich,CFB,MIN,2023-10-07
+1019,235.5,Pass Yards,Behren Morton,CFB,TT,2023-10-07
+1020,19.5,passing_comps,Behren Morton,CFB,TT,2023-10-07
+1021,33.5,passing_att,Behren Morton,CFB,TT,2023-10-07
+1022,100.5,Rush Yards,Tahj Brooks,CFB,TT,2023-10-07
+1023,19.5,rushing_att,Tahj Brooks,CFB,TT,2023-10-07
+1024,35.5,Receiving Yards,Xavier White,CFB,TT,2023-10-07
+1025,43.5,Receiving Yards,Myles Price,CFB,TT,2023-10-07
+1026,49.5,Receiving Yards,Jerand Bradley,CFB,TT,2023-10-07
+1027,3.5,receiving_rec,Myles Price,CFB,TT,2023-10-07
+1028,4.0,receiving_rec,Jerand Bradley,CFB,TT,2023-10-07
+1029,3.5,extra_points_made,Gino Garcia,CFB,TT,2023-10-07
+1030,6.5,kicking_points,Gino Garcia,CFB,TT,2023-10-07
+1031,248.5,Pass Yards,Blake Shapen,CFB,BAY,2023-10-07
+1032,20.5,passing_comps,Blake Shapen,CFB,BAY,2023-10-07
+1033,33.5,passing_att,Blake Shapen,CFB,BAY,2023-10-07
+1034,0.5,rush_rec_tds,Richard Reese,CFB,BAY,2023-10-07
+1035,36.5,Rush Yards,Dominic Richardson,CFB,BAY,2023-10-07
+1036,60.5,Rush Yards,Richard Reese,CFB,BAY,2023-10-07
+1037,44.5,Receiving Yards,Ketron Jackson Jr.,other,BAY,2023-10-07
+1038,44.5,Receiving Yards,Monaray Baldwin,CFB,BAY,2023-10-07
+1039,33.5,Receiving Yards,Hal Presley,CFB,BAY,2023-10-07
+1040,3.5,receiving_rec,Monaray Baldwin,CFB,BAY,2023-10-07
+1041,3.0,extra_points_made,Isaiah Hankins,CFB,BAY,2023-10-07
+1042,6.5,kicking_points,Isaiah Hankins,CFB,BAY,2023-10-07
+1043,1.5,passing_tds,Chandler Morris,CFB,TCU,2023-10-07
+1044,245.5,Pass Yards,Chandler Morris,CFB,TCU,2023-10-07
+1045,34.5,Rush Yards,Chandler Morris,CFB,TCU,2023-10-07
+1046,285.5,passing_and_rushing_yds,Chandler Morris,CFB,TCU,2023-10-07
+1047,21.5,passing_comps,Chandler Morris,CFB,TCU,2023-10-07
+1048,34.5,passing_att,Chandler Morris,CFB,TCU,2023-10-07
+1049,11.0,rushing_att,Chandler Morris,CFB,TCU,2023-10-07
+1050,84.5,Rush Yards,Emani Bailey,CFB,TCU,2023-10-07
+1051,14.5,Receiving Yards,Emani Bailey,CFB,TCU,2023-10-07
+1052,103.5,rush_rec_yds,Emani Bailey,CFB,TCU,2023-10-07
+1053,17.5,rushing_att,Emani Bailey,CFB,TCU,2023-10-07
+1054,34.5,Receiving Yards,Dylan Wright,CFB,TCU,2023-10-07
+1055,30.5,Receiving Yards,Savion Williams,CFB,TCU,2023-10-07
+1056,41.5,Receiving Yards,JP Richardson,CFB,TCU,2023-10-07
+1057,3.5,receiving_rec,JP Richardson,CFB,TCU,2023-10-07
+1058,32.5,Receiving Yards,Jared Wiley,CFB,TCU,2023-10-07
+1059,234.5,Pass Yards,Rocco Becht,CFB,ISU,2023-10-07
+1060,20.5,passing_comps,Rocco Becht,CFB,ISU,2023-10-07
+1061,35.5,passing_att,Rocco Becht,CFB,ISU,2023-10-07
+1062,46.5,Receiving Yards,Jayden Higgins,CFB,ISU,2023-10-07
+1063,58.5,Receiving Yards,Jaylin Noel,CFB,ISU,2023-10-07
+1064,5.0,receiving_rec,Jaylin Noel,CFB,ISU,2023-10-07
+1065,5.5,kicking_points,Chase Contreraz,CFB,ISU,2023-10-07
+1066,3.5,passing_tds,Caleb Williams,CFB,USC,2023-10-07
+1067,348.5,Pass Yards,Caleb Williams,CFB,USC,2023-10-07
+1068,90.5,Rush Yards,MarShawn Lloyd,CFB,USC,2023-10-07
+1069,0.5,rush_rec_tds,Tahj Washington,CFB,USC,2023-10-07
+1070,66.5,Receiving Yards,Tahj Washington,CFB,USC,2023-10-07
+1071,73.5,Receiving Yards,Brenden Rice,CFB,USC,2023-10-07
+1072,9.5,position,Christopher Bell,RACING,21336e69-820d-40ee-a01f-678c633af187,
+1073,5.5,position,William Byron,RACING,b3ec612c-da86-4586-957a-69ef59ff3be5,
+1074,10.0,position,Kyle Busch,RACING,4fbbee2d-3b38-4713-b929-df61d2331aa7,
+1075,10.0,position,Chris Buescher,RACING,0b29f869-ef32-4876-902c-43033c411a95,
+1076,9.0,position,Denny Hamlin,RACING,23543f4d-d305-42e3-861e-c9cc3941f8bf,
+1077,6.5,position,Michael McDowell,RACING,2dd0236f-b1bd-4e26-918b-5b57efa54ba1,
+1078,7.5,position,AJ Allmendinger,RACING,b30fd5d8-e537-4cdd-a981-c9872b6fb379,
+1079,10.0,position,Ty Gibbs,RACING,2d4992aa-eb8a-4e72-bdbf-8cfdaf51450f,
+1080,5.5,position,Chase Elliott,RACING,d46b1b2a-8dea-4733-b1d9-0acf761add7f,
+1081,8.0,position,Martin Truex Jr,other,00e0c7d2-df5e-4bb8-b23b-db6d691df710,
+1082,6.5,position,Kyle Larson,RACING,b0d9360d-6b0d-4dcd-97fc-80126b4b4140,
+1083,6.5,position,Tyler Reddick,RACING,df276411-6219-461e-87a5-181740d92613,
+1084,3.0,Goalie Saves,Andres Gudino,SOCCER,Andres Gudino,
+1085,1.5,Shots,Moises Shots,other,Moises Shots,
+1086,2.5,Shots,Diber Cambindo,SOCCER,Diber Cambindo,
+1087,1.5,chances_created,Ignacio Jose,other,Ignacio Jose,
+1088,3.0,Goalie Saves,Raul Gudino,SOCCER,Raul Gudino,
+1089,2.0,chances_created,Brayan Garnica,SOCCER,Necaxa,2023-10-04
+1090,3.5,Goalie Saves,Guillermo Allison,SOCCER,Querétaro ,2023-10-04
+1091,1.5,Shots,Raul Zuniga,SOCCER,Raul Zuniga,
+1092,2.0,Shots,Camilo Sanvezzo,SOCCER,Querétaro ,2023-10-04
+1093,2.5,chances_created,Pablo Barrera,SOCCER,Querétaro ,2023-10-04
+1094,2.5,Goalie Saves,Julio Gonzalez,SOCCER,Julio Gonzalez,
+1095,2.5,Shots,Juan Dinenno,SOCCER,Pumas,2023-10-04
+1096,2.5,Shots,Eduardo Salvio,SOCCER,Pumas,2023-10-04
+1097,2.5,chances_created,Eduardo Salvio,SOCCER,Pumas,2023-10-04
+1098,2.5,Shots,Gabriel Fernandez,SOCCER,Gabriel Fernandez,
+1099,3.5,Goalie Saves,Jose Antonio Rodríguez,other,Club Tijuana ,2023-10-04
+1100,0.5,chances_created,Alejandro Martinez,SOCCER,Alejandro Martinez,
+1101,2.0,Shots,Lucas Cavallini,SOCCER,Club Tijuana ,2023-10-04
+1102,1.5,Shots,Fernando Madrigal,SOCCER,Club Tijuana ,2023-10-04
+1103,2.5,Goalie Saves,Gibran Lajud,SOCCER,Santos Laguna,2023-10-04
+1104,3.0,Shots,Juan Brunetta,SOCCER,Santos Laguna,2023-10-04
+1105,3.0,Shots,Harold Preciado,SOCCER,Santos Laguna,2023-10-04
+1106,1.5,Shots,Duvan Vergara,SOCCER,Duvan Vergara,
+1107,1.5,chances_created,Emerson Rodriguez,SOCCER,Emerson Rodriguez,
+1108,3.5,Goalie Saves,Tiago Volpi,SOCCER,Toluca ,2023-10-04
+1109,2.5,Shots,Pedro Raul,SOCCER,Toluca ,2023-10-04
+1110,1.5,Shots,Juan Gamboa,SOCCER,Toluca ,2023-10-04
+1111,2.5,Goalie Saves,Nahuel Guzman,SOCCER,Nahuel Guzman,
+1112,3.5,Shots,Andre-Pierre Gignac,SOCCER,Andre-Pierre Gignac,
+1113,1.5,chances_created,Luis Quinones,SOCCER,Luis Quinones,
+1114,2.0,Shots,Sebastian Cordova,SOCCER,Sebastian Cordova,
+1115,2.5,Pitcher Strikeouts,Ki-joong Kim,KBO,HAN,2023-10-05
+1116,1.5,PTS,Nick Williams,KBO,HAN,2023-10-05
+1117,5.5,hits_allowed,Ki-joong Kim,KBO,HAN,2023-10-05
+1118,1.5,Total Bases,Eun-seong Chae,KBO,HAN,2023-10-05
+1119,0.5,Total Bases,Kim In-Hwan,KBO,HAN,2023-10-05
+1120,5.0,Pitcher Strikeouts,David Buchanan,KBO,SAM,2023-10-05
+1121,1.5,Total Bases,Ja Wook Koo,other,SAM,2023-10-05
+1122,5.5,hits_allowed,David Buchanan,KBO,SAM,2023-10-05
+1123,2.5,PTS,Min Ho Kang,other,SAM,2023-10-05
+1124,1.5,Total Bases,Jose Pirela,KBO,SAM,2023-10-05
+1125,4.5,Pitcher Strikeouts,Hyeon Jong Yang,other,KIA,2023-10-05
+1126,2.5,PTS,Chan Ho Park,other,KIA,2023-10-05
+1127,6.0,hits_allowed,Hyeon Jong Yang,other,KIA,2023-10-05
+1128,1.5,Total Bases,Socrates Brito,KBO,KIA,2023-10-05
+1129,0.5,Total Bases,Jun-tae Kim,KBO,KT,2023-10-05
+1130,1.5,PTS,Sang-su Kim,KBO,KT,2023-10-05
+1131,1.5,Total Bases,Anthony Alford,KBO,KT,2023-10-05
+1132,3.5,Pitcher Strikeouts,Chan Kyu Im,other,LG,2023-10-05
+1133,15.5,pitch_outs,Chan Kyu Im,other,LG,2023-10-05
+1134,2.5,PTS,Austin Dean,KBO,LG,2023-10-05
+1135,1.5,Total Bases,Hyun-soo Kim,KBO,LG,2023-10-05
+1136,6.0,hits_allowed,Chan Kyu Im,other,LG,2023-10-05
+1137,1.5,PTS,Niko Goodrum,KBO,LOT,2023-10-05
+1138,0.5,Total Bases,Jin Hyuk No,other,LOT,2023-10-05
+1139,1.5,Total Bases,Jun Woo Jeon,other,LOT,2023-10-05
+1140,1.5,Total Bases,Jason Martin,KBO,NC,2023-10-05
+1141,2.5,Pitcher Strikeouts,Jae Hak Lee,other,NC,2023-10-05
+1142,2.0,PTS,Min Woo Park,other,NC,2023-10-05
+1143,5.5,hits_allowed,Jae Hak Lee,other,NC,2023-10-05
+1144,2.0,PTS,Seong-Han Park,KBO,SSG,2023-10-05
+1145,3.0,Pitcher Strikeouts,Won Seok Oh,other,SSG,2023-10-05
+1146,15.5,pitch_outs,Won Seok Oh,other,SSG,2023-10-05
+1147,1.5,Total Bases,Guillermo Heredia,KBO,SSG,2023-10-05
+1148,1.5,Total Bases,Jeong Choi,KBO,SSG,2023-10-05
+1149,6.0,hits_allowed,Won Seok Oh,other,SSG,2023-10-05
+1150,14.2,ppg,Brandon Miller,NBASZN,1240c34d-9dbd-473e-841e-811444327bb9,
+1151,28.9,ppg,Stephen Curry,NBASZN,bc54d8b2-086a-472c-9da4-c3fc58062d44,
+1152,18.5,ppg,Victor Wembanyama,NBASZN,27446680-20af-4669-ae5b-4c283b65868e,
+1153,29.9,ppg,Shai Gilgeous-Alexander,NBASZN,bcc5d02a-fc93-412a-a211-dec2e3f03a50,
+1154,30.6,ppg,Luka Doncic,NBASZN,2a05bf35-65bd-45cf-9b33-959e9c99b851,
+1155,18.9,ppg,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+1156,28.7,ppg,Jayson Tatum,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+1157,27.1,ppg,LeBron James,NBASZN,b075de5a-578f-417c-8a5c-cf0ff08101b2,
+1158,21.8,ppg,Bradley Beal,NBASZN,bf374cd2-3365-4bb8-972e-fb429353aa56,
+1159,25.6,ppg,Nikola Jokic,NBASZN,f0caa9a4-5486-43c2-bdc5-3515c62d77d3,
+1160,8.7,rpg,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+1161,9.3,rpg,Bam Adebayo,NBASZN,2fcf2a76-d6fd-408c-84e1-979a539fd98c,
+1162,11.9,rpg,Nikola Jokic,NBASZN,f0caa9a4-5486-43c2-bdc5-3515c62d77d3,
+1163,11.6,rpg,Rudy Gobert,NBASZN,4602be91-097a-4469-89c8-f259dddaec2c,
+1164,8.4,rpg,Luka Doncic,NBASZN,2a05bf35-65bd-45cf-9b33-959e9c99b851,
+1165,8.8,rpg,Victor Wembanyama,NBASZN,27446680-20af-4669-ae5b-4c283b65868e,
+1166,11.1,rpg,Clint Capela,NBASZN,7871efd1-78a9-472f-8694-d2094757c580,
+1167,12.1,rpg,Domantas Sabonis,NBASZN,df874a70-5f96-4604-ae98-0b0b7d91d3c7,
+1168,7.9,rpg,LeBron James,NBASZN,b075de5a-578f-417c-8a5c-cf0ff08101b2,
+1169,6.3,apg,Josh Giddey,NBASZN,bcc5d02a-fc93-412a-a211-dec2e3f03a50,
+1170,6.9,apg,LeBron James,NBASZN,b075de5a-578f-417c-8a5c-cf0ff08101b2,
+1171,9.8,apg,Trae Young,NBASZN,7871efd1-78a9-472f-8694-d2094757c580,
+1172,9.7,apg,Tyrese Haliburton,NBASZN,be9576d3-a00f-4b18-ae6c-9aa74ee18181,
+1173,9.2,apg,Nikola Jokic,NBASZN,f0caa9a4-5486-43c2-bdc5-3515c62d77d3,
+1174,7.7,apg,Darius Garland,NBASZN,1705b97c-bf42-4394-b608-dba0c5be0d00,
+1175,50.5,Goals,Leon Draisaitl,NHLSZN,749b21fb-13c5-4075-8ce1-c0d066bdc3ae,
+1176,55.5,Goals,Connor McDavid,NHLSZN,749b21fb-13c5-4075-8ce1-c0d066bdc3ae,
+1177,114.5,PTS,Leon Draisaitl,NHLSZN,749b21fb-13c5-4075-8ce1-c0d066bdc3ae,
+1178,135.5,PTS,Connor McDavid,NHLSZN,749b21fb-13c5-4075-8ce1-c0d066bdc3ae,
+1179,44.5,Goals,Mikko Rantanen,NHLSZN,6dbebc53-1e2b-4912-8cf3-fa55cc5fb419,
+1180,39.5,Goals,Nathan MacKinnon,NHLSZN,6dbebc53-1e2b-4912-8cf3-fa55cc5fb419,
+1181,99.5,PTS,Mikko Rantanen,NHLSZN,6dbebc53-1e2b-4912-8cf3-fa55cc5fb419,
+1182,112.5,PTS,Nathan MacKinnon,NHLSZN,6dbebc53-1e2b-4912-8cf3-fa55cc5fb419,
+1183,32.5,Goals,Mitch Marner,NHLSZN,e07f70ac-abfc-44c6-970c-8d399ef7cff0,
+1184,51.5,Goals,Auston Matthews,NHLSZN,e07f70ac-abfc-44c6-970c-8d399ef7cff0,
+1185,30.5,Goals,John Tavares,NHLSZN,e07f70ac-abfc-44c6-970c-8d399ef7cff0,
+1186,99.5,PTS,Mitch Marner,NHLSZN,e07f70ac-abfc-44c6-970c-8d399ef7cff0,
+1187,42.5,Goals,Jack Hughes,NHLSZN,780f0d2e-9881-4d79-ade2-be563e049415,
+1188,37.5,Goals,Timo Meier,NHLSZN,780f0d2e-9881-4d79-ade2-be563e049415,
+1189,77.5,PTS,Nico Hischier,NHLSZN,780f0d2e-9881-4d79-ade2-be563e049415,
+1190,70.5,PTS,Tyler Toffoli,NHLSZN,780f0d2e-9881-4d79-ade2-be563e049415,
+1191,102.5,PTS,Jack Hughes,NHLSZN,780f0d2e-9881-4d79-ade2-be563e049415,
+1192,28.5,Goals,Artemi Panarin,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1193,35.5,Goals,Mika Zibanejad,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1194,35.5,Goals,Chris Kreider,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1195,84.5,PTS,Mika Zibanejad,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1196,93.5,PTS,Artemi Panarin,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1197,71.5,PTS,Adam Fox,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1198,47.5,Goals,David Pastrnak,NHLSZN,bed1286b-93b4-4dd9-b252-6e38b51dc90a,
+1199,70.5,PTS,Brad Marchand,NHLSZN,bed1286b-93b4-4dd9-b252-6e38b51dc90a,
+1200,58.5,PTS,Charlie McAvoy,NHLSZN,bed1286b-93b4-4dd9-b252-6e38b51dc90a,
+1201,93.5,PTS,David Pastrnak,NHLSZN,bed1286b-93b4-4dd9-b252-6e38b51dc90a,
+1202,38.5,Goals,Brayden Point,NHLSZN,d8c2361e-83b1-4b77-952f-3ac010803e43,
+1203,34.5,Goals,Nikita Kucherov,NHLSZN,d8c2361e-83b1-4b77-952f-3ac010803e43,
+1204,33.5,Goals,Steven Stamkos,NHLSZN,d8c2361e-83b1-4b77-952f-3ac010803e43,
+1205,108.5,PTS,Nikita Kucherov,NHLSZN,d8c2361e-83b1-4b77-952f-3ac010803e43,
+1206,82.5,PTS,Brayden Point,NHLSZN,d8c2361e-83b1-4b77-952f-3ac010803e43,
+1207,80.5,PTS,Steven Stamkos,NHLSZN,d8c2361e-83b1-4b77-952f-3ac010803e43,
+1208,36.5,Goals,Roope Hintz,NHLSZN,302b4ff9-78ef-44ae-a86d-9888fb14664a,
+1209,43.5,Goals,Jason Robertson,NHLSZN,302b4ff9-78ef-44ae-a86d-9888fb14664a,
+1210,102.5,PTS,Jason Robertson,NHLSZN,302b4ff9-78ef-44ae-a86d-9888fb14664a,
+1211,79.5,PTS,Roope Hintz,NHLSZN,302b4ff9-78ef-44ae-a86d-9888fb14664a,
+1212,26.5,Goals,Kevin Fiala,NHLSZN,1e7f6fc0-336b-4f03-9287-6630e058e8c9,
+1213,35.5,Goals,Alex DeBrincat,NHLSZN,0fef2c01-39d2-4353-8867-281186adb701,
+1214,28.5,Goals,Johnny Gaudreau,NHLSZN,595dffcd-420d-4631-bfed-57a9c546064e,
+1215,43.5,Goals,Tage Thompson,NHLSZN,1431d20e-b693-4320-9d4f-a70f173b5d68,
+1216,28.5,Goals,Aleksander Barkov,NHLSZN,00f62a19-03e7-40eb-92c8-9a603efca13c,
+1217,30.5,Goals,Sam Reinhart,NHLSZN,00f62a19-03e7-40eb-92c8-9a603efca13c,
+1218,90.5,PTS,Tage Thompson,NHLSZN,1431d20e-b693-4320-9d4f-a70f173b5d68,
+1219,73.5,PTS,Alex Tuch,NHLSZN,1431d20e-b693-4320-9d4f-a70f173b5d68,
+1220,67.5,PTS,Adrian Kempe,NHLSZN,1e7f6fc0-336b-4f03-9287-6630e058e8c9,
+1221,76.5,PTS,Dylan Larkin,NHLSZN,0fef2c01-39d2-4353-8867-281186adb701,
+1222,85.5,PTS,Brady Tkachuk,NHLSZN,0f594ce2-af81-4b57-b94b-399f3c8c5628,
+1223,72.5,PTS,Rasmus Dahlin,NHLSZN,1431d20e-b693-4320-9d4f-a70f173b5d68,
+1224,46.5,PTS,Adam Fantilli,NHLSZN,595dffcd-420d-4631-bfed-57a9c546064e,
+1225,90.5,PTS,Tim Stutzle,NHLSZN,0f594ce2-af81-4b57-b94b-399f3c8c5628,
+1226,36.5,Goals,Kyle Connor,NHLSZN,cf92d399-db15-4bf6-98cd-c15a081f7b03,
+1227,30.5,Goals,Connor Bedard,NHLSZN,77b5276a-e527-4cf1-9278-a2e9c3e7671c,
+1228,40.5,Goals,Alex Ovechkin,NHLSZN,06dfa1e9-3d6e-482e-8599-7e09bd01fc1b,
+1229,31.5,Goals,Sidney Crosby,NHLSZN,e90c0702-9653-4cd0-984b-85a5e910ed2c,
+1230,36.5,Goals,Sebastian Aho,NHLSZN,33caf4c3-baf8-420d-8e13-e3ec1fbc12a5,
+1231,35.5,Goals,Elias Pettersson,NHLSZN,697a3c79-13ef-4269-9bee-86b3ee371241,
+1232,28.5,Goals,Elias Lindholm,NHLSZN,a67e2d23-3730-49d7-9af2-169b0d38c832,
+1233,32.5,Goals,Cole Caufield,NHLSZN,a239ca5a-b581-436d-bba3-7d79aded79cd,
+1234,71.5,PTS,Alex Ovechkin,NHLSZN,06dfa1e9-3d6e-482e-8599-7e09bd01fc1b,
+1235,74.5,PTS,Jordan Kyrou,NHLSZN,f6561440-c97f-469c-b0cb-31c76dae6016,
+1236,84.5,PTS,Kyle Connor,NHLSZN,cf92d399-db15-4bf6-98cd-c15a081f7b03,
+1237,67.5,PTS,Trevor Zegras,NHLSZN,e7b32b0f-d8ad-4c3e-8307-5256b789ce2e,
+1238,75.5,PTS,Jack Eichel,NHLSZN,45046a87-8297-4f70-adf9-bcb3c40cc892,
+1239,90.5,PTS,Sidney Crosby,NHLSZN,e90c0702-9653-4cd0-984b-85a5e910ed2c,
+1240,97.5,PTS,Kirill Kaprizov,NHLSZN,b9b7829e-1923-442b-88ba-043668bf3b90,
+1241,84.5,PTS,Clayton Keller,NHLSZN,0f6f7978-2250-41d7-bdce-1da7ebcda915,
+1242,69.5,PTS,Connor Bedard,NHLSZN,77b5276a-e527-4cf1-9278-a2e9c3e7671c,
+1243,72.5,PTS,Sebastian Aho,NHLSZN,33caf4c3-baf8-420d-8e13-e3ec1fbc12a5,
+1244,66.5,PTS,Brock Nelson,NHLSZN,014ef5d2-0e15-4c2e-9271-eb8dd15e3b7b,
+1245,28.5,goalie_wins,Tristan Jarry,NHLSZN,e90c0702-9653-4cd0-984b-85a5e910ed2c,
+1246,22.5,goalie_wins,Carter Hart,NHLSZN,15debff8-7176-46e1-b67e-7b8533f70801,
+1247,35.5,goalie_wins,Jake Oettinger,NHLSZN,302b4ff9-78ef-44ae-a86d-9888fb14664a,
+1248,26.5,goalie_wins,Linus Ullmark,NHLSZN,bed1286b-93b4-4dd9-b252-6e38b51dc90a,
+1249,32.5,goalie_wins,Ilya Samsonov,NHLSZN,e07f70ac-abfc-44c6-970c-8d399ef7cff0,
+1250,24.5,goalie_wins,Joonas Korpisalo,NHLSZN,0f594ce2-af81-4b57-b94b-399f3c8c5628,
+1251,27.5,goalie_wins,Thatcher Demko,NHLSZN,697a3c79-13ef-4269-9bee-86b3ee371241,
+1252,31.5,goalie_wins,Stuart Skinner,NHLSZN,749b21fb-13c5-4075-8ce1-c0d066bdc3ae,
+1253,15.5,goalie_wins,Kaapo Kahkonen,NHLSZN,70d02b37-9ce7-40da-847c-40f1b69bef03,
+1254,28.5,goalie_wins,Sergei Bobrovsky,NHLSZN,00f62a19-03e7-40eb-92c8-9a603efca13c,
+1255,25.5,goalie_wins,Filip Gustavsson,NHLSZN,b9b7829e-1923-442b-88ba-043668bf3b90,
+1256,24.5,goalie_wins,Devon Levi,NHLSZN,1431d20e-b693-4320-9d4f-a70f173b5d68,
+1257,25.5,goalie_wins,Philipp Grubauer,NHLSZN,824bf296-31d5-4930-8c3d-03aa7f4129b4,
+1258,28.5,goalie_wins,Juuse Saros,NHLSZN,c9d40440-587d-4874-bb38-e23dc4b381d6,
+1259,26.5,goalie_wins,Vitek Vanecek,NHLSZN,780f0d2e-9881-4d79-ade2-be563e049415,
+1260,26.5,goalie_wins,Jordan Binnington,NHLSZN,f6561440-c97f-469c-b0cb-31c76dae6016,
+1261,30.5,goalie_wins,Frederik Andersen,NHLSZN,33caf4c3-baf8-420d-8e13-e3ec1fbc12a5,
+1262,34.5,goalie_wins,Alexandar Georgiev,NHLSZN,6dbebc53-1e2b-4912-8cf3-fa55cc5fb419,
+1263,20.5,goalie_wins,Elvis Merzlikins,NHLSZN,595dffcd-420d-4631-bfed-57a9c546064e,
+1264,20.5,goalie_wins,Jeremy Swayman,NHLSZN,bed1286b-93b4-4dd9-b252-6e38b51dc90a,
+1265,31.5,goalie_wins,Ilya Sorokin,NHLSZN,014ef5d2-0e15-4c2e-9271-eb8dd15e3b7b,
+1266,26.5,goalie_wins,Ville Husso,NHLSZN,0fef2c01-39d2-4353-8867-281186adb701,
+1267,18.5,goalie_wins,John Gibson,NHLSZN,e7b32b0f-d8ad-4c3e-8307-5256b789ce2e,
+1268,31.5,goalie_wins,Connor Hellebuyck,NHLSZN,cf92d399-db15-4bf6-98cd-c15a081f7b03,
+1269,20.5,goalie_wins,Karel Vejmelka,NHLSZN,0f6f7978-2250-41d7-bdce-1da7ebcda915,
+1270,29.5,goalie_wins,Jacob Markstrom,NHLSZN,a67e2d23-3730-49d7-9af2-169b0d38c832,
+1271,14.5,goalie_wins,Petr Mrazek,NHLSZN,77b5276a-e527-4cf1-9278-a2e9c3e7671c,
+1272,34.5,goalie_wins,Igor Shesterkin,NHLSZN,cb3e381b-7f7c-40bc-92f0-ce833e960dda,
+1273,26.5,goalie_wins,Adin Hill,NHLSZN,45046a87-8297-4f70-adf9-bcb3c40cc892,
+1274,22.5,goalie_wins,Pheonix Copley,NHLSZN,1e7f6fc0-336b-4f03-9287-6630e058e8c9,
+1275,24.5,goalie_wins,Darcy Kuemper,NHLSZN,06dfa1e9-3d6e-482e-8599-7e09bd01fc1b,
+1276,36.45,Hitter Fantasy Score,J. Fields,other,J. Fields,
+1277,443.5,Pass Yards,J. Fields,other,J. Fields,
+1278,65.5,Rush Yards,J. Fields,other,J. Fields,
+1279,58.5,passing_att,J. Fields,other,J. Fields,
+1280,38.5,passing_comps,J. Fields,other,J. Fields,
+1281,513.5,total_yds,J. Fields,other,J. Fields,
+1282,18.35,Hitter Fantasy Score,  D. Moore + C. Kmet,other,8c71c553-68e2-4669-b5e1-d08f728a2de3,
+1283,91.5,Rush Yards,Br. Robinson + A. Gibson,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1284,72.5,Rush Yards,K. Herbert + R. Johnson,other,8c71c553-68e2-4669-b5e1-d08f728a2de3,
+1285,7.5,receiving_rec,  D. Moore + C. Kmet,other,8c71c553-68e2-4669-b5e1-d08f728a2de3,
+1286,22.5,Receiving Yards,Br. Robinson + A. Gibson,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1287,86.5,Receiving Yards,  D. Moore + C. Kmet,other,8c71c553-68e2-4669-b5e1-d08f728a2de3,
+1288,115.5,rush_rec_yds,Br. Robinson + A. Gibson,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1289,9.0,receiving_rec,T. McLaurin + J. Dotson,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1290,107.5,Receiving Yards,T. McLaurin + J. Dotson,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1291,6.0,receiving_rec,C. Samuel + L. Thomas,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1292,61.5,Receiving Yards,C. Samuel + L. Thomas,other,3484a8d7-d5ae-497e-99ab-1338a569abc0,
+1293,54.5,Hitter Fantasy Score,Z. Gallen,other,Z. Gallen,
+1294,15.5,Hitter Fantasy Score,C. Yelich + C. Santana,other,59911828-ba52-4101-a84b-0f16873fd8f5,
+1295,10.5,Pitcher Strikeouts,Z. Gallen,other,Z. Gallen,
+1296,31.5,pitch_outs,Z. Gallen,other,Z. Gallen,
+1297,3.5,PTS,C. Yelich + C. Santana,other,59911828-ba52-4101-a84b-0f16873fd8f5,
+1298,3.0,Total Bases,C. Yelich + C. Santana,other,59911828-ba52-4101-a84b-0f16873fd8f5,
+1299,8.5,hits_allowed,Z. Gallen,other,Z. Gallen,
+1300,4.5,runs_allowed,Z. Gallen,other,Z. Gallen,
+1301,15.5,Hitter Fantasy Score,C. Carroll + K. Marte,other,db69f844-d6eb-4332-b133-796ce316890a,
+1302,3.5,PTS,C. Carroll + K. Marte,other,db69f844-d6eb-4332-b133-796ce316890a,
+1303,3.0,Total Bases,C. Carroll + K. Marte,other,db69f844-d6eb-4332-b133-796ce316890a,
+1304,14.5,Hitter Fantasy Score,W. Adames + Wm. Contreras,other,59911828-ba52-4101-a84b-0f16873fd8f5,
+1305,3.5,PTS,W. Adames + Wm. Contreras,other,59911828-ba52-4101-a84b-0f16873fd8f5,
+1306,3.0,Total Bases,W. Adames + Wm. Contreras,other,59911828-ba52-4101-a84b-0f16873fd8f5,
+1307,12.5,Hitter Fantasy Score,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+1308,2.5,Total Bases,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+1309,3.0,PTS,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+1310,52.5,Hitter Fantasy Score,B. Garrett,other,B. Garrett,
+1311,10.0,Pitcher Strikeouts,B. Garrett,other,B. Garrett,
+1312,29.5,pitch_outs,B. Garrett,other,B. Garrett,
+1313,9.0,hits_allowed,B. Garrett,other,B. Garrett,
+1314,4.0,runs_allowed,B. Garrett,other,B. Garrett,
+1315,17.5,Hitter Fantasy Score,B. Harper + T. Turner,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+1316,13.5,Hitter Fantasy Score,L. Arraez + J. Chisholm Jr.,other,3cd974c9-fce6-4f43-bbfb-a7b73805375d,
+1317,3.0,Total Bases,B. Harper + T. Turner,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+1318,2.5,Total Bases,L. Arraez + J. Chisholm Jr.,other,3cd974c9-fce6-4f43-bbfb-a7b73805375d,
+1319,3.0,PTS,L. Arraez + J. Chisholm Jr.,other,3cd974c9-fce6-4f43-bbfb-a7b73805375d,
+1320,4.0,PTS,B. Harper + T. Turner,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+1321,12.5,Hitter Fantasy Score,J. Soler + J. Bell,other,3cd974c9-fce6-4f43-bbfb-a7b73805375d,
+1322,2.5,Total Bases,J. Soler + J. Bell,other,3cd974c9-fce6-4f43-bbfb-a7b73805375d,
+1323,3.0,PTS,J. Soler + J. Bell,other,3cd974c9-fce6-4f43-bbfb-a7b73805375d,
+1324,14.5,Hitter Fantasy Score,K. Schwarber + N. Castellanos,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+1325,3.0,Total Bases,K. Schwarber + N. Castellanos,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+1326,3.5,PTS,K. Schwarber + N. Castellanos,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
