@@ -77,8 +77,8 @@ lines_df['person_name'] = lines_df.personId.apply(lambda x: i2p[x])
 teams = pd.json_normalize(lines_df.eventTeams)
 teams[['1.id','0.id']]
 teams['Team'] =teams['0.id'].apply(lambda x: teamdict[x])
-teams['Opp'] =teams['1.id'].apply(lambda x: teamdict[x])
-teams = teams[['Team','Opp']]
+teams['opp'] =teams['1.id'].apply(lambda x: teamdict[x])
+teams = teams[['Team','opp']]
 
 #renaming stats
 bt2stat = {'bt77': 'TRB',
@@ -112,7 +112,26 @@ bt2stat = {'bt77': 'TRB',
           'bt85': 'Total Hits',
           'bt19': 'Total Bases',
           'bt17': 'Pitcher Strikeouts',
-          'bt18': 'Home Runs'}
+          'bt18': 'Home Runs',
+          'bt12': 'Rush Yards',
+          'bt11': 'Receiving Yards',
+          'bt68': 'Rush+Rec Yards',
+          'bt16': 'Receiving Yards',
+          'bt56': 'Sacks',
+          'bt67': 'Rush Attempts',
+          'bt61': 'Longest Pass Completion',
+          'bt57': 'Tackles and Assists',
+          'bt62': 'Interceptions Thrown',
+          'bt59': 'Field Goals Made',
+          'bt58': 'Extra Points Made',
+          'bt60': 'Total Kicking Points',
+          'bt65': 'Passing Touchdowns',
+          'bt63': 'Passing Attempts',
+          'bt13': 'Passing Completions',
+          'bt14': 'Passing Yards',
+          'bt64': 'Passing And Rush Yards',
+          'bt': '',
+          }
 
 lines_df['propsMarketSourcesLines'][0].keys()
 
@@ -142,8 +161,8 @@ def get_odds(row):
     results_df['player'] = person_name
     results_df['player_id'] = person_id
     results_df = results_df[['player',"player_id",'points','price','side','stat','book','league_id','event_time']].dropna()
-    results_df['Prob'] = results_df['price'].apply(lambda x: (-x/(100-x)) if x < 0 else 100/(x+100))
-    results_df['Opp'] = teams['Opp'][row]
+    results_df['prob'] = results_df['price'].apply(lambda x: (-x/(100-x)) if x < 0 else 100/(x+100))
+    results_df['opp'] = teams['opp'][row]
     results_df['Team'] = teams['Team'][row]
     return results_df
 
@@ -171,9 +190,9 @@ odds.to_csv(f'Lines/unabated_raw_{today.year}_{today.month}_{today.day}.csv')
 columns=['Player','Stat','Line','o_Prob','u_Prob','num_books','means']
 players = odds.player.unique()
 
-odds_agg = odds.groupby(['player','player_id','side','points','stat','league_id','event_time','Opp','Team'],as_index=False)['Prob'].agg(func=['mean','count']).reset_index()
+odds_agg = odds.groupby(['player','player_id','side','points','stat','league_id','event_time','opp','Team'],as_index=False)['prob'].agg(func=['mean','count']).reset_index()
 
-odds_condensed = odds_agg.pivot(index=['player', 'player_id', 'points', 'stat', 'league_id', 'event_time', 'Opp', 'Team','count'],
+odds_condensed = odds_agg.pivot(index=['player', 'player_id', 'points', 'stat', 'league_id', 'event_time', 'opp', 'Team','count'],
                        columns='side', values='mean').reset_index()
 odds_condensed.rename(columns={'over': 'over_prob', 'under': 'under_prob','points':'line'}, inplace=True)
 odds_condensed['total'] = odds_condensed['over_prob'] + odds_condensed['under_prob']
