@@ -3,31 +3,12 @@
 #df is the actual betting line
 #df2 has other info, mostly using to get player id to name dict
 from scipy.stats import poisson
-import requests
-from bs4 import BeautifulSoup as bs
 import pandas as pd
 import numpy as np
 import datetime as dt
 from betting_functions import *
-import time
 import tls_client
-import gzip
 
-headers = {
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "accept-language": "en-US,en;q=0.9",
-    "cache-control": "no-cache",
-    "pragma": "no-cache",
-    "sec-ch-ua": '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": '"Windows"',
-    "sec-fetch-dest": "document",
-    "sec-fetch-mode": "navigate",
-    "sec-fetch-site": "none",
-    "sec-fetch-user": "?1",
-    "upgrade-insecure-requests": "1",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-}
 
 requests = tls_client.Session(
     client_identifier="chrome112",
@@ -36,7 +17,6 @@ unabated_url = 'https://content.unabated.com/markets/b_playerprops.json?'
 response1 = requests.get(unabated_url)
 
 data = response1.json()
-
 
 
 #team from id dict
@@ -82,55 +62,55 @@ teams = teams[['Team','opp']]
 
 #renaming stats
 bt2stat = {'bt77': 'TRB',
-          'bt73': 'PTS',
-          'bt69': '3P',
-          'bt78': 'TRB+AST',
-          'bt74': 'PTS+AST',
-          'bt75': 'PTS+TRB',
-           'bt76': 'PTS+TRB+AST',
-           'bt70': 'AST',
-           'bt84': 'TO',
-           'bt82': 'BLK+STL',
-           'bt81': 'STL',
-           'bt71': 'BLK',
-           'bt72': 'Techs',
-          'bt83': 'Triple Double',
-           'bt77': 'TRB',
-          'bt73': 'PTS',
-          'bt69': '3P',
-          'bt78': 'TRB + AST',
-          'bt74': 'PTS+AST',
-          'bt75': 'PTS+TRB',
-           'bt76': 'PTS+TRB+AST',
-           'bt70': 'AST',
-           'bt84': 'TO',
-           'bt82': 'BLK + STL',
-           'bt81': 'STL',
-           'bt71': 'BLK',
-           'bt72': 'Techs',
-          'bt83': 'Triple Double',
-          'bt85': 'Total Hits',
-          'bt19': 'Total Bases',
-          'bt17': 'Pitcher Strikeouts',
-          'bt18': 'Home Runs',
-          'bt12': 'Rush Yards',
-          'bt11': 'Receiving Yards',
-          'bt68': 'Rush+Rec Yards',
-          'bt16': 'Receiving Yards',
-          'bt56': 'Sacks',
-          'bt67': 'Rush Attempts',
-          'bt61': 'Longest Pass Completion',
-          'bt57': 'Tackles and Assists',
-          'bt62': 'Interceptions Thrown',
-          'bt59': 'Field Goals Made',
-          'bt58': 'Extra Points Made',
-          'bt60': 'Total Kicking Points',
-          'bt65': 'Passing Touchdowns',
-          'bt63': 'Passing Attempts',
-          'bt13': 'Passing Completions',
-          'bt14': 'Passing Yards',
-          'bt64': 'Passing And Rush Yards',
-          'bt': '',
+            'bt73': 'PTS',
+            'bt69': '3P',
+            'bt78': 'TRB+AST',
+            'bt74': 'PTS+AST',
+            'bt75': 'PTS+TRB',
+            'bt76': 'PTS+TRB+AST',
+            'bt70': 'AST',
+            'bt84': 'TO',
+            'bt82': 'BLK+STL',
+            'bt81': 'STL',
+            'bt71': 'BLK',
+            'bt72': 'Techs',
+            'bt83': 'Triple Double',
+            'bt77': 'TRB',
+            'bt73': 'PTS',
+            'bt69': '3P',
+            'bt78': 'TRB + AST',
+            'bt74': 'PTS+AST',
+            'bt75': 'PTS+TRB',
+            'bt76': 'PTS+TRB+AST',
+            'bt70': 'AST',
+            'bt84': 'TO',
+            'bt82': 'BLK + STL',
+            'bt81': 'STL',
+            'bt71': 'BLK',
+            'bt72': 'Techs',
+            'bt83': 'Triple Double',
+            'bt85': 'Total Hits',
+            'bt19': 'Total Bases',
+            'bt17': 'Pitcher Strikeouts',
+            'bt18': 'Home Runs',
+            'bt12': 'Rush Yards',
+            'bt11': 'Receiving Yards',
+            'bt68': 'Rush+Rec Yards',
+            'bt16': 'Receiving Yards',
+            'bt56': 'Sacks',
+            'bt67': 'Rush Attempts',
+            'bt61': 'Longest Pass Completion',
+            'bt57': 'Tackles and Assists',
+            'bt62': 'Interceptions Thrown',
+            'bt59': 'Field Goals Made',
+            'bt58': 'Extra Points Made',
+            'bt60': 'Total Kicking Points',
+            'bt65': 'Passing Touchdowns',
+            'bt63': 'Passing Attempts',
+            'bt13': 'Passing Completions',
+            'bt14': 'Passing Yards',
+            'bt64': 'Passing And Rush Yards',
+            'bt': '',
           }
 
 lines_df['propsMarketSourcesLines'][0].keys()
@@ -180,7 +160,7 @@ now = dt.datetime.now().replace(microsecond=0,second=0)
 today = dt.datetime.today()
 odds = odds.loc[odds.book !='Bookmaker']
 odds = odds.loc[~((odds.stat =='Total Bases') & (odds.points==1.5))]
-odds.to_csv(f'Lines/unabated_raw_{today.year}_{today.month}_{today.day}.csv')
+odds.to_csv(f'Lines/unabated/unabated_raw_{today.year}_{today.month}_{today.day}.csv')
 
 
 
@@ -216,7 +196,7 @@ final_odds.drop('mean_pred',inplace=True,axis=1)
 today = dt.datetime.today()
 timestamp = dt.datetime.now().replace(microsecond=0,second=0)
 final_odds = final_odds.reset_index(drop=True)
-final_odds.to_csv(f"Lines/unabated_{today.year}_{today.month}_{today.day}.csv")
+final_odds.to_csv(f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv")
 
 
 

@@ -1,0 +1,2384 @@
+,line,stat,player,league,team,date
+0,3.0,Pitcher Strikeouts,Bryce Elder,MLB,ATL,2023-10-11
+1,11.5,pitch_outs,Bryce Elder,MLB,ATL,2023-10-11
+2,2.5,runs_allowed,Bryce Elder,MLB,ATL,2023-10-11
+3,4.0,hits_allowed,Bryce Elder,MLB,ATL,2023-10-11
+4,10.0,Hitter Fantasy Score,Ronald Acuna,other,Ronald Acuna,
+5,1.5,Total Bases,Ronald Acuna,other,Ronald Acuna,
+6,7.0,Hitter Fantasy Score,Matt Olson,MLB,ATL,2023-10-11
+7,1.5,PTS,Matt Olson,MLB,ATL,2023-10-11
+8,0.5,runs,Matt Olson,MLB,ATL,2023-10-11
+9,0.5,Walks Allowed,Matt Olson,MLB,ATL,2023-10-11
+10,8.0,Hitter Fantasy Score,Austin Riley,MLB,ATL,2023-10-11
+11,1.5,PTS,Austin Riley,MLB,ATL,2023-10-11
+12,7.0,Hitter Fantasy Score,Ozzie Albies,MLB,ATL,2023-10-11
+13,0.5,Singles,Ozzie Albies,MLB,ATL,2023-10-11
+14,1.5,PTS,Marcell Ozuna,MLB,ATL,2023-10-11
+15,27.5,Hitter Fantasy Score,Aaron Nola,MLB,PHI,2023-10-11
+16,5.0,Pitcher Strikeouts,Aaron Nola,MLB,PHI,2023-10-11
+17,2.5,runs_allowed,Aaron Nola,MLB,PHI,2023-10-11
+18,4.5,hits_allowed,Aaron Nola,MLB,PHI,2023-10-11
+19,9.0,Hitter Fantasy Score,Bryce Harper,MLB,PHI,2023-10-11
+20,0.5,runs,Bryce Harper,MLB,PHI,2023-10-11
+21,8.5,Hitter Fantasy Score,Trea Turner,MLB,PHI,2023-10-11
+22,1.5,Total Bases,Trea Turner,MLB,PHI,2023-10-11
+23,2.0,PTS,Trea Turner,MLB,PHI,2023-10-11
+24,1.5,PTS,Kyle Schwarber,MLB,PHI,2023-10-11
+25,1.5,PTS,Nick Castellanos,MLB,PHI,2023-10-11
+26,7.5,Hitter Fantasy Score,J.T. Realmuto,MLB,PHI,2023-10-11
+27,1.5,PTS,J.T. Realmuto,MLB,PHI,2023-10-11
+28,1.5,PTS,Bryson Stott,MLB,PHI,2023-10-11
+29,0.5,Singles,Bryson Stott,MLB,PHI,2023-10-11
+30,0.5,Singles,Johan Rojas,MLB,PHI,2023-10-11
+31,17.5,Hitter Fantasy Score,Jose Urquidy,MLB,Jose Urquidy,
+32,3.5,Pitcher Strikeouts,Jose Urquidy,MLB,Jose Urquidy,
+33,11.0,pitch_outs,Jose Urquidy,MLB,Jose Urquidy,
+34,2.0,runs_allowed,Jose Urquidy,MLB,Jose Urquidy,
+35,3.5,hits_allowed,Jose Urquidy,MLB,Jose Urquidy,
+36,10.5,Hitter Fantasy Score,Yordan Alvarez,MLB,HOU,2023-10-11
+37,1.5,Total Bases,Yordan Alvarez,MLB,HOU,2023-10-11
+38,2.0,PTS,Yordan Alvarez,MLB,HOU,2023-10-11
+39,0.5,runs,Yordan Alvarez,MLB,HOU,2023-10-11
+40,0.5,Walks Allowed,Yordan Alvarez,MLB,HOU,2023-10-11
+41,7.5,Hitter Fantasy Score,Jose Altuve,MLB,HOU,2023-10-11
+42,1.5,PTS,Jose Altuve,MLB,HOU,2023-10-11
+43,0.5,Singles,Jose Altuve,MLB,HOU,2023-10-11
+44,7.0,Hitter Fantasy Score,Kyle Tucker,MLB,HOU,2023-10-11
+45,1.5,PTS,Kyle Tucker,MLB,HOU,2023-10-11
+46,8.0,Hitter Fantasy Score,Alex Bregman,MLB,HOU,2023-10-11
+47,1.5,PTS,Alex Bregman,MLB,HOU,2023-10-11
+48,0.5,Singles,Alex Bregman,MLB,HOU,2023-10-11
+49,7.5,Hitter Fantasy Score,Jose Abreu,MLB,Jose Abreu,
+50,0.5,Singles,Jose Abreu,MLB,Jose Abreu,
+51,0.5,Singles,Jeremy Pena,MLB,Jeremy Pena,
+52,0.5,Singles,Yainer Diaz,MLB,HOU,2023-10-11
+53,1.5,PTS,Mauricio Dubon,MLB,Mauricio Dubon,
+54,0.5,Singles,Mauricio Dubon,MLB,Mauricio Dubon,
+55,4.5,Pitcher Strikeouts,Joe Ryan,MLB,MIN,2023-10-11
+56,14.0,pitch_outs,Joe Ryan,MLB,MIN,2023-10-11
+57,4.5,hits_allowed,Joe Ryan,MLB,MIN,2023-10-11
+58,8.0,Hitter Fantasy Score,Carlos Correa,MLB,MIN,2023-10-11
+59,1.5,PTS,Carlos Correa,MLB,MIN,2023-10-11
+60,0.5,Singles,Carlos Correa,MLB,MIN,2023-10-11
+61,1.5,PTS,Max Kepler,MLB,MIN,2023-10-11
+62,1.5,PTS,Alex Kirilloff,MLB,MIN,2023-10-11
+63,7.5,Hitter Fantasy Score,Royce Lewis,MLB,MIN,2023-10-11
+64,0.5,Total Bases,Edouard Julien,MLB,MIN,2023-10-11
+65,1.5,PTS,Royce Lewis,MLB,MIN,2023-10-11
+66,0.5,runs,Edouard Julien,MLB,MIN,2023-10-11
+67,0.5,runs,Royce Lewis,MLB,MIN,2023-10-11
+68,7.0,Hitter Fantasy Score,Jorge Polanco,MLB,MIN,2023-10-11
+69,1.5,PTS,Jorge Polanco,MLB,MIN,2023-10-11
+70,0.5,runs,Jorge Polanco,MLB,MIN,2023-10-11
+71,0.5,Walks Allowed,Jorge Polanco,MLB,MIN,2023-10-11
+72,0.5,Total Bases,Matt Wallner,MLB,MIN,2023-10-11
+73,0.5,Total Bases,Ryan Jeffers,MLB,MIN,2023-10-11
+74,19.5,Hitter Fantasy Score,Lance Lynn,MLB,LAD,2023-10-11
+75,4.0,Pitcher Strikeouts,Lance Lynn,MLB,LAD,2023-10-11
+76,12.0,pitch_outs,Lance Lynn,MLB,LAD,2023-10-11
+77,4.0,hits_allowed,Lance Lynn,MLB,LAD,2023-10-11
+78,9.0,Hitter Fantasy Score,Mookie Betts,MLB,LAD,2023-10-11
+79,1.5,Total Bases,Mookie Betts,MLB,LAD,2023-10-11
+80,2.0,PTS,Mookie Betts,MLB,LAD,2023-10-11
+81,0.5,runs,Mookie Betts,MLB,LAD,2023-10-11
+82,0.5,Singles,Mookie Betts,MLB,LAD,2023-10-11
+83,8.5,Hitter Fantasy Score,Freddie Freeman,MLB,LAD,2023-10-11
+84,1.5,Total Bases,Freddie Freeman,MLB,LAD,2023-10-11
+85,2.0,PTS,Freddie Freeman,MLB,LAD,2023-10-11
+86,0.5,runs,Freddie Freeman,MLB,LAD,2023-10-11
+87,7.0,Hitter Fantasy Score,Will Smith,MLB,LAD,2023-10-11
+88,1.5,Total Bases,Will Smith,MLB,LAD,2023-10-11
+89,0.5,Singles,Will Smith,MLB,LAD,2023-10-11
+90,7.0,Hitter Fantasy Score,Max Muncy,MLB,LAD,2023-10-11
+91,1.5,PTS,Max Muncy,MLB,LAD,2023-10-11
+92,0.5,runs,Max Muncy,MLB,LAD,2023-10-11
+93,0.5,Walks Allowed,Max Muncy,MLB,LAD,2023-10-11
+94,7.5,Hitter Fantasy Score,J.D. Martinez + M. Muncy,MLB,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+95,1.5,PTS,J.D. Martinez + M. Muncy,MLB,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+96,0.5,batter_strikeouts,Jason Heyward,MLB,LAD,2023-10-11
+97,0.5,batter_strikeouts,David Peralta,MLB,LAD,2023-10-11
+98,0.5,Singles,Miguel Rojas,MLB,LAD,2023-10-11
+99,17.5,Hitter Fantasy Score,Brandon Pfaadt,MLB,ARI,2023-10-11
+100,3.5,Pitcher Strikeouts,Brandon Pfaadt,MLB,ARI,2023-10-11
+101,11.5,pitch_outs,Brandon Pfaadt,MLB,ARI,2023-10-11
+102,4.5,hits_allowed,Brandon Pfaadt,MLB,ARI,2023-10-11
+103,10.0,Hitter Fantasy Score,Corbin Carroll,MLB,ARI,2023-10-11
+104,0.5,runs,Corbin Carroll,MLB,ARI,2023-10-11
+105,0.5,Singles,Corbin Carroll,MLB,ARI,2023-10-11
+106,8.0,Hitter Fantasy Score,Ketel Marte,MLB,ARI,2023-10-11
+107,0.5,runs,Ketel Marte,MLB,ARI,2023-10-11
+108,0.5,Singles,Ketel Marte,MLB,ARI,2023-10-11
+109,8.0,Hitter Fantasy Score,Christian Walker,MLB,ARI,2023-10-11
+110,1.5,PTS,Christian Walker,MLB,ARI,2023-10-11
+111,1.5,PTS,Tommy Pham,MLB,ARI,2023-10-11
+112,0.5,Singles,Tommy Pham,MLB,ARI,2023-10-11
+113,1.5,PTS,Gabriel Moreno,MLB,ARI,2023-10-11
+114,0.5,Singles,Gabriel Moreno,MLB,ARI,2023-10-11
+115,0.5,Total Bases,Evan Longoria,MLB,ARI,2023-10-11
+116,0.5,Total Bases,Geraldo Perdomo,MLB,ARI,2023-10-11
+117,1.5,PTS,Lourdes Gurriel Jr.,other,ARI,2023-10-11
+118,0.5,Singles,Alek Thomas,MLB,ARI,2023-10-11
+119,31.5,Goalie Saves,Joonas Korpisalo,NHL,OTT,2023-10-11
+120,11.55,Hitter Fantasy Score,Joonas Korpisalo,NHL,OTT,2023-10-11
+121,3.5,Shots,Brady Tkachuk,NHL,OTT,2023-10-11
+122,7.55,Hitter Fantasy Score,Brady Tkachuk,NHL,OTT,2023-10-11
+123,7.55,Hitter Fantasy Score,Tim Stutzle,NHL,OTT,2023-10-11
+124,2.5,Shots,Drake Batherson,NHL,OTT,2023-10-11
+125,2.0,Shots,Vladimir Tarasenko,NHL,OTT,2023-10-11
+126,5.05,Hitter Fantasy Score,Vladimir Tarasenko,NHL,OTT,2023-10-11
+127,2.5,Shots,Claude Giroux,NHL,OTT,2023-10-11
+128,6.55,Hitter Fantasy Score,Claude Giroux,NHL,OTT,2023-10-11
+129,26.5,Goalie Saves,Frederik Andersen,NHL,CAR,2023-10-11
+130,12.55,Hitter Fantasy Score,Frederik Andersen,NHL,CAR,2023-10-11
+131,7.55,Hitter Fantasy Score,Sebastian Aho,NHL,CAR,2023-10-11
+132,0.5,AST,Brent Burns,NHL,CAR,2023-10-11
+133,3.5,Shots,Brent Burns,NHL,CAR,2023-10-11
+134,8.55,Hitter Fantasy Score,Brent Burns,NHL,CAR,2023-10-11
+135,3.0,Shots,Martin Necas,NHL,CAR,2023-10-11
+136,7.55,Hitter Fantasy Score,Martin Necas,NHL,CAR,2023-10-11
+137,2.5,Shots,Seth Jarvis,NHL,CAR,2023-10-11
+138,0.5,PTS,Teuvo Teravainen,NHL,CAR,2023-10-11
+139,2.0,Shots,Teuvo Teravainen,NHL,CAR,2023-10-11
+140,2.5,Shots,Brady Skjei,NHL,CAR,2023-10-11
+141,0.5,PTS,Michael Bunting,NHL,CAR,2023-10-11
+142,3.5,Goal Against,Jake Allen,NHL,MTL,2023-10-11
+143,30.5,Goalie Saves,Jake Allen,NHL,MTL,2023-10-11
+144,10.05,Hitter Fantasy Score,Jake Allen,NHL,MTL,2023-10-11
+145,0.5,PTS,Cole Caufield,NHL,MTL,2023-10-11
+146,3.0,Shots,Cole Caufield,NHL,MTL,2023-10-11
+147,7.05,Hitter Fantasy Score,Cole Caufield,NHL,MTL,2023-10-11
+148,0.5,PTS,Nick Suzuki,NHL,MTL,2023-10-11
+149,6.05,Hitter Fantasy Score,Nick Suzuki,NHL,MTL,2023-10-11
+150,0.5,PTS,Michael Matheson,NHL,MTL,2023-10-11
+151,6.55,Hitter Fantasy Score,Michael Matheson,NHL,MTL,2023-10-11
+152,2.0,Shots,Josh Anderson,NHL,MTL,2023-10-11
+153,0.5,PTS,Kirby Dach,NHL,MTL,2023-10-11
+154,6.05,Hitter Fantasy Score,Kirby Dach,NHL,MTL,2023-10-11
+155,2.0,Shots,Sean Monahan,NHL,MTL,2023-10-11
+156,2.5,blocked_shots,David Savard,NHL,MTL,2023-10-11
+157,2.5,Goal Against,Ilya Samsonov,NHL,TOR,2023-10-11
+158,25.5,Goalie Saves,Ilya Samsonov,NHL,TOR,2023-10-11
+159,13.05,Hitter Fantasy Score,Ilya Samsonov,NHL,TOR,2023-10-11
+160,1.5,PTS,Auston Matthews,NHL,TOR,2023-10-11
+161,4.5,Shots,Auston Matthews,NHL,TOR,2023-10-11
+162,11.55,Hitter Fantasy Score,Auston Matthews,NHL,TOR,2023-10-11
+163,2.5,Shots,Mitchell Marner,NHL,TOR,2023-10-11
+164,8.55,Hitter Fantasy Score,Mitchell Marner,NHL,TOR,2023-10-11
+165,0.5,AST,William Nylander,NHL,TOR,2023-10-11
+166,4.0,Shots,William Nylander,NHL,TOR,2023-10-11
+167,8.05,Hitter Fantasy Score,William Nylander,NHL,TOR,2023-10-11
+168,8.55,Hitter Fantasy Score,John Tavares,NHL,TOR,2023-10-11
+169,2.5,Shots,Tyler Bertuzzi,NHL,TOR,2023-10-11
+170,0.5,PTS,Max Domi,NHL,TOR,2023-10-11
+171,0.5,PTS,Morgan Rielly,NHL,TOR,2023-10-11
+172,0.5,AST,Morgan Rielly,NHL,TOR,2023-10-11
+173,2.0,Shots,Morgan Rielly,NHL,TOR,2023-10-11
+174,1.5,blocked_shots,Morgan Rielly,NHL,TOR,2023-10-11
+175,2.0,blocked_shots,T.J. Brodie,NHL,TOR,2023-10-11
+176,3.5,Goal Against,Arvid Soderblom,NHL,CHI,2023-10-11
+177,30.5,Goalie Saves,Arvid Soderblom,NHL,CHI,2023-10-11
+178,9.55,Hitter Fantasy Score,Arvid Soderblom,NHL,CHI,2023-10-11
+179,0.5,PTS,Connor Bedard,NHL,CHI,2023-10-11
+180,3.5,Shots,Connor Bedard,NHL,CHI,2023-10-11
+181,6.05,Hitter Fantasy Score,Connor Bedard,NHL,CHI,2023-10-11
+182,2.0,Shots,Seth Jones,NHL,CHI,2023-10-11
+183,0.5,PTS,Taylor Hall,NHL,CHI,2023-10-11
+184,2.0,Shots,Tyler Johnson,NHL,CHI,2023-10-11
+185,1.5,Shots,Taylor Raddysh,NHL,CHI,2023-10-11
+186,25.5,Goalie Saves,Linus Ullmark,NHL,BOS,2023-10-11
+187,14.05,Hitter Fantasy Score,Linus Ullmark,NHL,BOS,2023-10-11
+188,0.5,Goals,David Pastrnak,NHL,BOS,2023-10-11
+189,0.5,AST,David Pastrnak,NHL,BOS,2023-10-11
+190,10.05,Hitter Fantasy Score,David Pastrnak,NHL,BOS,2023-10-11
+191,0.5,AST,Brad Marchand,NHL,BOS,2023-10-11
+192,7.55,Hitter Fantasy Score,Brad Marchand,NHL,BOS,2023-10-11
+193,0.5,PTS,Jake DeBrusk,NHL,BOS,2023-10-11
+194,0.5,AST,Charlie McAvoy,NHL,BOS,2023-10-11
+195,2.0,Shots,Charlie McAvoy,NHL,BOS,2023-10-11
+196,0.5,PTS,James van Riemsdyk,other,BOS,2023-10-11
+197,29.5,Goalie Saves,Connor Hellebuyck,NHL,WPG,2023-10-11
+198,0.5,AST,Kyle Connor,NHL,WPG,2023-10-11
+199,0.5,PTS,Nikolaj Ehlers,NHL,WPG,2023-10-11
+200,0.5,PTS,Mark Scheifele,NHL,WPG,2023-10-11
+201,2.0,Shots,Mark Scheifele,NHL,WPG,2023-10-11
+202,2.0,Shots,Alex Iafallo,NHL,WPG,2023-10-11
+203,2.0,Shots,Nino Niederreiter,NHL,WPG,2023-10-11
+204,0.5,PTS,Gabriel Vilardi,NHL,WPG,2023-10-11
+205,2.5,Goal Against,Jacob Markstrom,NHL,CGY,2023-10-11
+206,26.5,Goalie Saves,Jacob Markstrom,NHL,CGY,2023-10-11
+207,12.05,Hitter Fantasy Score,Jacob Markstrom,NHL,CGY,2023-10-11
+208,0.5,PTS,Nazem Kadri,NHL,CGY,2023-10-11
+209,3.0,Shots,Nazem Kadri,NHL,CGY,2023-10-11
+210,0.5,PTS,Mikael Backlund,NHL,CGY,2023-10-11
+211,0.5,PTS,Jonathan Huberdeau,NHL,CGY,2023-10-11
+212,2.0,Shots,Blake Coleman,NHL,CGY,2023-10-11
+213,2.5,Shots,Elias Lindholm,NHL,CGY,2023-10-11
+214,0.5,Goals,Connor McDavid,NHL,EDM,2023-10-11
+215,4.0,Shots,Connor McDavid,NHL,EDM,2023-10-11
+216,12.05,Hitter Fantasy Score,Connor McDavid,NHL,EDM,2023-10-11
+217,0.5,Goals,Leon Draisaitl,NHL,EDM,2023-10-11
+218,3.0,Shots,Leon Draisaitl,NHL,EDM,2023-10-11
+219,0.5,power_play_points,Leon Draisaitl,NHL,EDM,2023-10-11
+220,8.55,Hitter Fantasy Score,Leon Draisaitl,NHL,EDM,2023-10-11
+221,3.0,Shots,Evander Kane,NHL,EDM,2023-10-11
+222,3.0,Shots,Zach Hyman,NHL,EDM,2023-10-11
+223,7.55,Hitter Fantasy Score,Zach Hyman,NHL,EDM,2023-10-11
+224,2.0,Shots,Ryan Nugent-Hopkins,NHL,EDM,2023-10-11
+225,0.5,AST,Evan Bouchard,NHL,EDM,2023-10-11
+226,2.0,Shots,Darnell Nurse,NHL,EDM,2023-10-11
+227,0.5,PTS,Connor Brown,NHL,EDM,2023-10-11
+228,28.5,Goalie Saves,Thatcher Demko,NHL,VAN,2023-10-11
+229,0.5,AST,Elias Pettersson,NHL,VAN,2023-10-11
+230,9.05,Hitter Fantasy Score,Elias Pettersson,NHL,VAN,2023-10-11
+231,0.5,AST,J.T. Miller,NHL,VAN,2023-10-11
+232,2.5,Shots,J.T. Miller,NHL,VAN,2023-10-11
+233,2.5,Shots,Brock Boeser,NHL,VAN,2023-10-11
+234,2.0,Shots,Quinn Hughes,NHL,VAN,2023-10-11
+235,6.55,Hitter Fantasy Score,Quinn Hughes,NHL,VAN,2023-10-11
+236,2.5,Goal Against,Alexandar Georgiev,NHL,COL,2023-10-11
+237,27.5,Goalie Saves,Alexandar Georgiev,NHL,COL,2023-10-11
+238,1.5,PTS,Nathan MacKinnon,NHL,COL,2023-10-11
+239,11.05,Hitter Fantasy Score,Nathan MacKinnon,NHL,COL,2023-10-11
+240,0.5,Goals,Mikko Rantanen,NHL,COL,2023-10-11
+241,0.5,AST,Mikko Rantanen,NHL,COL,2023-10-11
+242,9.05,Hitter Fantasy Score,Mikko Rantanen,NHL,COL,2023-10-11
+243,3.0,Shots,Cale Makar,NHL,COL,2023-10-11
+244,2.5,Shots,Valeri Nichushkin,NHL,COL,2023-10-11
+245,2.0,Shots,Artturi Lehkonen,NHL,COL,2023-10-11
+246,0.5,PTS,Devon Toews,NHL,COL,2023-10-11
+247,3.0,Shots,Kevin Fiala,NHL,LA,2023-10-11
+248,3.5,Shots,Adrian Kempe,NHL,LA,2023-10-11
+249,3.0,Shots,Pierre-Luc Dubois,NHL,LA,2023-10-11
+250,0.5,PTS,Phillip Danault,NHL,LA,2023-10-11
+251,0.5,PTS,Drew Doughty,NHL,LA,2023-10-11
+252,0.5,AST,Drew Doughty,NHL,LA,2023-10-11
+253,54.5,Rush Yards,Torrance Burgess,CFB,TEP,2023-10-11
+254,43.5,Receiving Yards,Tyrin Smith,CFB,TEP,2023-10-11
+255,37.5,Receiving Yards,Kelly Akharaiyi,CFB,TEP,2023-10-11
+256,229.5,Pass Yards,Keyone Jenkins,CFB,FIU,2023-10-11
+257,37.5,Rush Yards,Shomari Lawrence,CFB,FIU,2023-10-11
+258,0.5,rush_rec_tds,Kris Mitchell,CFB,FIU,2023-10-11
+259,43.5,Receiving Yards,Dean Patterson,CFB,FIU,2023-10-11
+260,84.5,Receiving Yards,Kris Mitchell,CFB,FIU,2023-10-11
+261,225.5,Pass Yards,Keegan Shoemaker,CFB,SHS,2023-10-11
+262,38.5,Rush Yards,Zach Hrbacek,CFB,SHS,2023-10-11
+263,30.5,Receiving Yards,Malik Phillips,CFB,SHS,2023-10-11
+264,71.5,Receiving Yards,Noah Smith,CFB,SHS,2023-10-11
+265,193.5,Pass Yards,Diego Pavia,CFB,NMS,2023-10-11
+266,42.5,Rush Yards,Star Thomas,CFB,NMS,2023-10-11
+267,27.5,Receiving Yards,Trent Hudson,CFB,NMS,2023-10-11
+268,36.5,Receiving Yards,Jonathan Brady,CFB,NMS,2023-10-11
+269,182.5,Pass Yards,Garrett Greene,CFB,WVU,2023-10-12
+270,51.5,Rush Yards,Garrett Greene,CFB,WVU,2023-10-12
+271,240.5,passing_and_rushing_yds,Garrett Greene,CFB,WVU,2023-10-12
+272,0.5,passing_ints,Garrett Greene,CFB,WVU,2023-10-12
+273,14.5,passing_comps,Garrett Greene,CFB,WVU,2023-10-12
+274,25.5,passing_att,Garrett Greene,CFB,WVU,2023-10-12
+275,12.5,rushing_att,Garrett Greene,CFB,WVU,2023-10-12
+276,34.5,Receiving Yards,Devin Carter,CFB,WVU,2023-10-12
+277,38.5,Receiving Yards,Hudson Clement,CFB,WVU,2023-10-12
+278,28.5,Receiving Yards,Kole Taylor,CFB,WVU,2023-10-12
+279,6.5,kicking_points,Michael Hayes,CFB,WVU,2023-10-12
+280,1.5,passing_tds,Donovan Smith,CFB,HOU,2023-10-12
+281,255.5,Pass Yards,Donovan Smith,CFB,HOU,2023-10-12
+282,26.5,Rush Yards,Donovan Smith,CFB,HOU,2023-10-12
+283,285.5,passing_and_rushing_yds,Donovan Smith,CFB,HOU,2023-10-12
+284,47.5,Receiving Yards,Joseph Manjack,CFB,HOU,2023-10-12
+285,74.5,Receiving Yards,Samuel Brown,CFB,HOU,2023-10-12
+286,57.5,Receiving Yards,Matthew Golden,CFB,HOU,2023-10-12
+287,5.0,receiving_rec,Samuel Brown,CFB,HOU,2023-10-12
+288,4.5,receiving_rec,Matthew Golden,CFB,HOU,2023-10-12
+289,3.0,extra_points_made,Jack Martin,CFB,HOU,2023-10-12
+290,6.0,kicking_points,Jack Martin,CFB,HOU,2023-10-12
+291,260.5,Pass Yards,Preston Stone,CFB,SMU,2023-10-12
+292,14.5,Rush Yards,Preston Stone,CFB,SMU,2023-10-12
+293,42.5,Receiving Yards,Jake Bailey,CFB,SMU,2023-10-12
+294,37.5,Receiving Yards,RJ Maryland,CFB,SMU,2023-10-12
+295,49.5,Rush Yards,Rahjai Harris,CFB,ECU,2023-10-12
+296,2.0,passing_tds,Kyle McCord,CFB,OSU,2023-10-14
+297,276.5,Pass Yards,Kyle McCord,CFB,OSU,2023-10-14
+298,282.5,passing_and_rushing_yds,Kyle McCord,CFB,OSU,2023-10-14
+299,0.5,passing_ints,Kyle McCord,CFB,OSU,2023-10-14
+300,21.5,passing_comps,Kyle McCord,CFB,OSU,2023-10-14
+301,31.5,passing_att,Kyle McCord,CFB,OSU,2023-10-14
+302,87.5,Receiving Yards,Marvin Harrison Jr.,other,OSU,2023-10-14
+303,6.0,receiving_rec,Marvin Harrison Jr.,other,OSU,2023-10-14
+304,38.5,Receiving Yards,Cade Stover,CFB,OSU,2023-10-14
+305,3.5,receiving_rec,Cade Stover,CFB,OSU,2023-10-14
+306,7.5,kicking_points,Jayden Fielding,CFB,OSU,2023-10-14
+307,206.5,Pass Yards,Hudson Card,CFB,PUR,2023-10-14
+308,5.5,Rush Yards,Hudson Card,CFB,PUR,2023-10-14
+309,214.5,passing_and_rushing_yds,Hudson Card,CFB,PUR,2023-10-14
+310,24.5,Rush Yards,Dylan Downing,CFB,PUR,2023-10-14
+311,42.5,Rush Yards,Devin Mockobee,CFB,PUR,2023-10-14
+312,13.5,Receiving Yards,Devin Mockobee,CFB,PUR,2023-10-14
+313,30.5,rush_rec_yds,Dylan Downing,CFB,PUR,2023-10-14
+314,60.5,rush_rec_yds,Devin Mockobee,CFB,PUR,2023-10-14
+315,2.0,receiving_rec,Devin Mockobee,CFB,PUR,2023-10-14
+316,31.5,Receiving Yards,TJ Sheffield,CFB,PUR,2023-10-14
+317,40.5,Receiving Yards,Abdur-Rahmaan Yaseen,CFB,PUR,2023-10-14
+318,48.5,Receiving Yards,Deion Burks,CFB,PUR,2023-10-14
+319,3.0,receiving_rec,TJ Sheffield,CFB,PUR,2023-10-14
+320,4.5,receiving_rec,Deion Burks,CFB,PUR,2023-10-14
+321,22.5,Receiving Yards,Garrett Miller,CFB,PUR,2023-10-14
+322,2.5,receiving_rec,Garrett Miller,CFB,PUR,2023-10-14
+323,4.5,kicking_points,Julio Macias,CFB,PUR,2023-10-14
+324,195.5,Pass Yards,Rocco Becht,CFB,ISU,2023-10-14
+325,17.5,passing_comps,Rocco Becht,CFB,ISU,2023-10-14
+326,30.5,passing_att,Rocco Becht,CFB,ISU,2023-10-14
+327,35.5,Receiving Yards,Jayden Higgins,CFB,ISU,2023-10-14
+328,52.5,Receiving Yards,Jaylin Noel,CFB,ISU,2023-10-14
+329,2.0,extra_points_made,Chase Contreraz,CFB,ISU,2023-10-14
+330,5.0,kicking_points,Chase Contreraz,CFB,ISU,2023-10-14
+331,1.5,passing_tds,Emory Jones,CFB,CIN,2023-10-14
+332,225.5,Pass Yards,Emory Jones,CFB,CIN,2023-10-14
+333,40.5,Rush Yards,Emory Jones,CFB,CIN,2023-10-14
+334,269.5,passing_and_rushing_yds,Emory Jones,CFB,CIN,2023-10-14
+335,18.5,passing_comps,Emory Jones,CFB,CIN,2023-10-14
+336,30.5,passing_att,Emory Jones,CFB,CIN,2023-10-14
+337,0.5,rush_rec_tds,Corey Kiner,CFB,CIN,2023-10-14
+338,65.5,Rush Yards,Corey Kiner,CFB,CIN,2023-10-14
+339,15.5,rushing_att,Corey Kiner,CFB,CIN,2023-10-14
+340,32.5,Receiving Yards,Dee Wiggins,CFB,CIN,2023-10-14
+341,54.5,Receiving Yards,Xzavier Henderson,CFB,CIN,2023-10-14
+342,4.5,receiving_rec,Xzavier Henderson,CFB,CIN,2023-10-14
+343,6.5,kicking_points,Carter Brown,CFB,CIN,2023-10-14
+344,288.5,Pass Yards,Bo Nix,CFB,ORE,2023-10-14
+345,16.5,Rush Yards,Bo Nix,CFB,ORE,2023-10-14
+346,86.5,Rush Yards,Bucky Irving,CFB,ORE,2023-10-14
+347,36.5,Receiving Yards,Gary Bryant Jr.,other,ORE,2023-10-14
+348,89.5,Receiving Yards,Troy Franklin,CFB,ORE,2023-10-14
+349,28.5,Receiving Yards,Terrance Ferguson,CFB,ORE,2023-10-14
+350,349.5,Pass Yards,Michael Penix Jr.,other,WAS,2023-10-14
+351,51.5,Rush Yards,Dillon Johnson,CFB,WAS,2023-10-14
+352,78.5,Receiving Yards,Ja'Lynn Polk,CFB,WAS,2023-10-14
+353,31.5,Receiving Yards,Germie Bernard,CFB,WAS,2023-10-14
+354,90.5,Receiving Yards,Jalen McMillan,CFB,WAS,2023-10-14
+355,91.5,Receiving Yards,Rome Odunze,CFB,WAS,2023-10-14
+356,125.5,Pass Yards,Deacon Hill,CFB,IOW,2023-10-14
+357,0.5,passing_ints,Deacon Hill,CFB,IOW,2023-10-14
+358,20.5,Receiving Yards,Diante Vines,CFB,IOW,2023-10-14
+359,16.5,Receiving Yards,Nico Ragaini,CFB,IOW,2023-10-14
+360,11.5,Receiving Yards,Seth Anderson,CFB,IOW,2023-10-14
+361,1.5,receiving_rec,Nico Ragaini,CFB,IOW,2023-10-14
+362,41.5,Receiving Yards,Erick All,CFB,IOW,2023-10-14
+363,1.5,extra_points_made,Drew Stevens,CFB,IOW,2023-10-14
+364,4.5,kicking_points,Drew Stevens,CFB,IOW,2023-10-14
+365,180.5,Pass Yards,Tanner Mordecai,CFB,WIS,2023-10-14
+366,28.5,Rush Yards,Tanner Mordecai,CFB,WIS,2023-10-14
+367,212.5,passing_and_rushing_yds,Tanner Mordecai,CFB,WIS,2023-10-14
+368,0.5,passing_ints,Tanner Mordecai,CFB,WIS,2023-10-14
+369,29.5,Rush Yards,Jackson Acker,CFB,WIS,2023-10-14
+370,94.5,Rush Yards,Braelon Allen,CFB,WIS,2023-10-14
+371,9.5,Receiving Yards,Braelon Allen,CFB,WIS,2023-10-14
+372,34.5,rush_rec_yds,Jackson Acker,CFB,WIS,2023-10-14
+373,109.5,rush_rec_yds,Braelon Allen,CFB,WIS,2023-10-14
+374,29.5,Receiving Yards,Will Pauling,CFB,WIS,2023-10-14
+375,28.5,Receiving Yards,Chimere Dike,CFB,WIS,2023-10-14
+376,20.5,Receiving Yards,Bryson Green,CFB,WIS,2023-10-14
+377,11.5,Receiving Yards,C.J. Williams,CFB,WIS,2023-10-14
+378,2.0,receiving_rec,Bryson Green,CFB,WIS,2023-10-14
+379,2.5,receiving_rec,Will Pauling,CFB,WIS,2023-10-14
+380,2.5,receiving_rec,Chimere Dike,CFB,WIS,2023-10-14
+381,13.5,Receiving Yards,Hayden Rucci,CFB,WIS,2023-10-14
+382,1.5,receiving_rec,Hayden Rucci,CFB,WIS,2023-10-14
+383,2.5,extra_points_made,Nathanial Vakos,CFB,WIS,2023-10-14
+384,6.5,kicking_points,Nathanial Vakos,CFB,WIS,2023-10-14
+385,308.5,Pass Yards,Caleb Williams,CFB,USC,2023-10-14
+386,25.5,Rush Yards,Caleb Williams,CFB,USC,2023-10-14
+387,72.5,Rush Yards,MarShawn Lloyd,CFB,USC,2023-10-14
+388,28.5,Receiving Yards,Mario Williams,CFB,USC,2023-10-14
+389,54.5,Receiving Yards,Tahj Washington,CFB,USC,2023-10-14
+390,67.5,Receiving Yards,Brenden Rice,CFB,USC,2023-10-14
+391,2.0,passing_tds,Sam Hartman,CFB,ND,2023-10-14
+392,263.5,Pass Yards,Sam Hartman,CFB,ND,2023-10-14
+393,87.5,Rush Yards,Audric Estime,CFB,ND,2023-10-14
+394,8.5,Receiving Yards,Audric Estime,CFB,ND,2023-10-14
+395,35.5,Receiving Yards,Jayden Thomas,CFB,ND,2023-10-14
+396,63.5,Receiving Yards,Mitchell Evans,CFB,ND,2023-10-14
+397,21.0,PTS,Breanna Stewart,WNBA,NYL,2023-10-11
+398,33.0,PTS+TRB+AST,Breanna Stewart,WNBA,NYL,2023-10-11
+399,9.0,TRB,Breanna Stewart,WNBA,NYL,2023-10-11
+400,12.0,TRB+AST,Breanna Stewart,WNBA,NYL,2023-10-11
+401,24.0,PTS+AST,Breanna Stewart,WNBA,NYL,2023-10-11
+402,30.0,PTS+TRB,Breanna Stewart,WNBA,NYL,2023-10-11
+403,42.55,Hitter Fantasy Score,Breanna Stewart,WNBA,NYL,2023-10-11
+404,1.5,TO,Breanna Stewart,WNBA,NYL,2023-10-11
+405,2.5,BLK+STL,Breanna Stewart,WNBA,NYL,2023-10-11
+406,4.5,FT,Breanna Stewart,WNBA,NYL,2023-10-11
+407,16.0,PTS,Sabrina Ionescu,WNBA,NYL,2023-10-11
+408,25.0,PTS+TRB+AST,Sabrina Ionescu,WNBA,NYL,2023-10-11
+409,4.5,AST,Sabrina Ionescu,WNBA,NYL,2023-10-11
+410,4.5,TRB,Sabrina Ionescu,WNBA,NYL,2023-10-11
+411,9.5,TRB+AST,Sabrina Ionescu,WNBA,NYL,2023-10-11
+412,20.5,PTS+AST,Sabrina Ionescu,WNBA,NYL,2023-10-11
+413,20.5,PTS+TRB,Sabrina Ionescu,WNBA,NYL,2023-10-11
+414,29.55,Hitter Fantasy Score,Sabrina Ionescu,WNBA,NYL,2023-10-11
+415,9.5,PTS,Courtney Vandersloot,WNBA,NYL,2023-10-11
+416,19.5,PTS+TRB+AST,Courtney Vandersloot,WNBA,NYL,2023-10-11
+417,6.5,AST,Courtney Vandersloot,WNBA,NYL,2023-10-11
+418,10.0,TRB+AST,Courtney Vandersloot,WNBA,NYL,2023-10-11
+419,16.0,PTS+AST,Courtney Vandersloot,WNBA,NYL,2023-10-11
+420,25.55,Hitter Fantasy Score,Courtney Vandersloot,WNBA,NYL,2023-10-11
+421,15.5,PTS,Jonquel Jones,WNBA,NYL,2023-10-11
+422,29.5,PTS+TRB+AST,Jonquel Jones,WNBA,NYL,2023-10-11
+423,11.5,TRB,Jonquel Jones,WNBA,NYL,2023-10-11
+424,27.5,PTS+TRB,Jonquel Jones,WNBA,NYL,2023-10-11
+425,36.55,Hitter Fantasy Score,Jonquel Jones,WNBA,NYL,2023-10-11
+426,15.5,PTS,Betnijah Laney,WNBA,NYL,2023-10-11
+427,22.5,PTS+TRB+AST,Betnijah Laney,WNBA,NYL,2023-10-11
+428,4.5,TRB,Betnijah Laney,WNBA,NYL,2023-10-11
+429,1.5,3PM,Betnijah Laney,WNBA,NYL,2023-10-11
+430,25.55,Hitter Fantasy Score,Betnijah Laney,WNBA,NYL,2023-10-11
+431,21.5,PTS,A'ja Wilson,WNBA,LVA,2023-10-11
+432,32.5,PTS+TRB+AST,A'ja Wilson,WNBA,LVA,2023-10-11
+433,9.0,TRB,A'ja Wilson,WNBA,LVA,2023-10-11
+434,31.0,PTS+TRB,A'ja Wilson,WNBA,LVA,2023-10-11
+435,44.05,Hitter Fantasy Score,A'ja Wilson,WNBA,LVA,2023-10-11
+436,1.5,TO,A'ja Wilson,WNBA,LVA,2023-10-11
+437,5.5,FT,A'ja Wilson,WNBA,LVA,2023-10-11
+438,19.0,PTS,Kelsey Plum,WNBA,LVA,2023-10-11
+439,25.5,PTS+TRB+AST,Kelsey Plum,WNBA,LVA,2023-10-11
+440,4.0,AST,Kelsey Plum,WNBA,LVA,2023-10-11
+441,2.5,3PM,Kelsey Plum,WNBA,LVA,2023-10-11
+442,23.0,PTS+AST,Kelsey Plum,WNBA,LVA,2023-10-11
+443,28.55,Hitter Fantasy Score,Kelsey Plum,WNBA,LVA,2023-10-11
+444,3.5,FT,Kelsey Plum,WNBA,LVA,2023-10-11
+445,19.0,PTS,Jackie Young,WNBA,LVA,2023-10-11
+446,28.5,PTS+TRB+AST,Jackie Young,WNBA,LVA,2023-10-11
+447,4.5,AST,Jackie Young,WNBA,LVA,2023-10-11
+448,5.0,TRB,Jackie Young,WNBA,LVA,2023-10-11
+449,9.0,TRB+AST,Jackie Young,WNBA,LVA,2023-10-11
+450,2.5,3PM,Jackie Young,WNBA,LVA,2023-10-11
+451,23.5,PTS+AST,Jackie Young,WNBA,LVA,2023-10-11
+452,24.0,PTS+TRB,Jackie Young,WNBA,LVA,2023-10-11
+453,35.05,Hitter Fantasy Score,Jackie Young,WNBA,LVA,2023-10-11
+454,17.0,PTS,Chelsea Gray,WNBA,LVA,2023-10-11
+455,29.5,PTS+TRB+AST,Chelsea Gray,WNBA,LVA,2023-10-11
+456,7.5,AST,Chelsea Gray,WNBA,LVA,2023-10-11
+457,5.0,TRB,Chelsea Gray,WNBA,LVA,2023-10-11
+458,12.5,TRB+AST,Chelsea Gray,WNBA,LVA,2023-10-11
+459,24.5,PTS+AST,Chelsea Gray,WNBA,LVA,2023-10-11
+460,22.0,PTS+TRB,Chelsea Gray,WNBA,LVA,2023-10-11
+461,37.55,Hitter Fantasy Score,Chelsea Gray,WNBA,LVA,2023-10-11
+462,2.5,TO,Chelsea Gray,WNBA,LVA,2023-10-11
+463,17.5,PTS,Jayson Tatum,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+464,28.5,PTS+TRB+AST,Jayson Tatum,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+465,7.0,TRB,Jayson Tatum,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+466,16.5,PTS,Jaylen Brown,NBA,BOS,2023-10-11
+467,22.5,PTS+TRB+AST,Jaylen Brown,NBA,BOS,2023-10-11
+468,15.5,PTS,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+469,22.5,PTS+TRB+AST,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+470,5.0,TRB,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+471,6.5,PTS,Al Horford,NBA,BOS,2023-10-11
+472,12.5,PTS+TRB+AST,Al Horford,NBA,BOS,2023-10-11
+473,4.0,TRB,Al Horford,NBA,BOS,2023-10-11
+474,10.0,PTS,Derrick White,NBA,BOS,2023-10-11
+475,15.5,PTS+TRB+AST,Derrick White,NBA,BOS,2023-10-11
+476,20.5,PTS,Tyrese Maxey,NBA,PHI,2023-10-11
+477,26.5,PTS+TRB+AST,Tyrese Maxey,NBA,PHI,2023-10-11
+478,12.5,PTS,Tobias Harris,NBA,PHI,2023-10-11
+479,18.5,PTS+TRB+AST,Tobias Harris,NBA,PHI,2023-10-11
+480,5.0,TRB,Tobias Harris,NBA,PHI,2023-10-11
+481,7.5,PTS,Patrick Beverley,NBA,PHI,2023-10-11
+482,11.5,PTS+TRB+AST,Patrick Beverley,NBA,PHI,2023-10-11
+483,7.5,PTS,Paul Reed,NBA,PHI,2023-10-11
+484,15.5,PTS+TRB+AST,Paul Reed,NBA,PHI,2023-10-11
+485,7.0,TRB,Paul Reed,NBA,PHI,2023-10-11
+486,10.5,PTS,Domantas Sabonis,NBASZN,df874a70-5f96-4604-ae98-0b0b7d91d3c7,
+487,21.5,PTS+TRB+AST,Domantas Sabonis,NBASZN,df874a70-5f96-4604-ae98-0b0b7d91d3c7,
+488,4.5,AST,Domantas Sabonis,NBASZN,df874a70-5f96-4604-ae98-0b0b7d91d3c7,
+489,7.0,TRB,Domantas Sabonis,NBASZN,df874a70-5f96-4604-ae98-0b0b7d91d3c7,
+490,14.5,PTS,De'Aaron Fox,NBA,SAC,2023-10-11
+491,18.5,PTS+TRB+AST,De'Aaron Fox,NBA,SAC,2023-10-11
+492,9.5,PTS,Keegan Murray,NBA,SAC,2023-10-11
+493,13.5,PTS+TRB+AST,Keegan Murray,NBA,SAC,2023-10-11
+494,7.5,PTS,Harrison Barnes,NBA,SAC,2023-10-11
+495,11.5,PTS+TRB+AST,Harrison Barnes,NBA,SAC,2023-10-11
+496,8.0,PTS,Kevin Huerter,NBA,SAC,2023-10-11
+497,12.5,PTS+TRB+AST,Kevin Huerter,NBA,SAC,2023-10-11
+498,14.0,PTS,Anthony Davis,NBA,LAL,2023-10-11
+499,22.0,PTS+TRB+AST,Anthony Davis,NBA,LAL,2023-10-11
+500,6.5,TRB,Anthony Davis,NBA,LAL,2023-10-11
+501,13.5,PTS,Austin Reaves,NBA,LAL,2023-10-11
+502,17.5,PTS+TRB+AST,Austin Reaves,NBA,LAL,2023-10-11
+503,11.0,PTS,D'Angelo Russell,NBA,LAL,2023-10-11
+504,16.5,PTS+TRB+AST,D'Angelo Russell,NBA,LAL,2023-10-11
+505,4.5,AST,D'Angelo Russell,NBA,LAL,2023-10-11
+506,12.5,PTS,Rui Hachimura,NBA,LAL,2023-10-11
+507,19.5,PTS+TRB+AST,Rui Hachimura,NBA,LAL,2023-10-11
+508,5.0,TRB,Rui Hachimura,NBA,LAL,2023-10-11
+509,219.5,Pass Yards,Russell Wilson,NFL,DEN,2023-10-12
+510,20.5,Rush Yards,Russell Wilson,NFL,DEN,2023-10-12
+511,32.5,passing_att,Russell Wilson,NFL,DEN,2023-10-12
+512,20.5,passing_comps,Russell Wilson,NFL,DEN,2023-10-12
+513,0.5,passing_ints,Russell Wilson,NFL,DEN,2023-10-12
+514,244.5,passing_and_rushing_yds,Russell Wilson,NFL,DEN,2023-10-12
+515,16.65,Hitter Fantasy Score,Russell Wilson,NFL,DEN,2023-10-12
+516,36.5,Rush Yards,Javonte Williams,NFL,DEN,2023-10-12
+517,10.5,Receiving Yards,Javonte Williams,NFL,DEN,2023-10-12
+518,7.55,Hitter Fantasy Score,Javonte Williams,NFL,DEN,2023-10-12
+519,4.5,receiving_rec,Jerry Jeudy,NFL,DEN,2023-10-12
+520,3.5,receiving_rec,Courtland Sutton,NFL,DEN,2023-10-12
+521,42.5,Receiving Yards,Courtland Sutton,NFL,DEN,2023-10-12
+522,52.5,Receiving Yards,Jerry Jeudy,NFL,DEN,2023-10-12
+523,7.95,Hitter Fantasy Score,Courtland Sutton,NFL,DEN,2023-10-12
+524,9.45,Hitter Fantasy Score,Jerry Jeudy,NFL,DEN,2023-10-12
+525,17.5,Receiving Yards,Marvin Mims Jr.,other,DEN,2023-10-12
+526,5.5,kicking_points,Wil Lutz,NFL,DEN,2023-10-12
+527,13.5,Receiving Yards,Brandon Johnson,NFL,DEN,2023-10-12
+528,5.5,Tackles,Alex Singleton,NFL,DEN,2023-10-12
+529,4.5,AST,Alex Singleton,NFL,DEN,2023-10-12
+530,5.5,tackles_and_assists,Justin Simmons,NFL,DEN,2023-10-12
+531,7.5,tackles_and_assists,Josey Jewell,NFL,DEN,2023-10-12
+532,3.5,Tackles,Damarri Mathis,NFL,DEN,2023-10-12
+533,3.5,tackles_and_assists,Pat Surtain II,other,DEN,2023-10-12
+534,2.0,AST,Kareem Jackson,NFL,DEN,2023-10-12
+535,10.0,tackles_and_assists,Alex Singleton,NFL,DEN,2023-10-12
+536,4.0,Tackles,Kareem Jackson,NFL,DEN,2023-10-12
+537,3.5,Tackles,Justin Simmons,NFL,DEN,2023-10-12
+538,6.0,tackles_and_assists,Kareem Jackson,NFL,DEN,2023-10-12
+539,268.5,Pass Yards,Patrick Mahomes,NFL,KC,2023-10-12
+540,22.5,Rush Yards,Patrick Mahomes,NFL,KC,2023-10-12
+541,35.5,passing_att,Patrick Mahomes,NFL,KC,2023-10-12
+542,25.5,passing_comps,Patrick Mahomes,NFL,KC,2023-10-12
+543,0.5,passing_ints,Patrick Mahomes,NFL,KC,2023-10-12
+544,294.5,passing_and_rushing_yds,Patrick Mahomes,NFL,KC,2023-10-12
+545,23.65,Hitter Fantasy Score,Patrick Mahomes,NFL,KC,2023-10-12
+546,73.5,Rush Yards,Isiah Pacheco,NFL,KC,2023-10-12
+547,16.0,rushing_att,Isiah Pacheco,NFL,KC,2023-10-12
+548,2.0,receiving_rec,Isiah Pacheco,NFL,KC,2023-10-12
+549,11.5,Receiving Yards,Isiah Pacheco,NFL,KC,2023-10-12
+550,89.5,rush_rec_yds,Isiah Pacheco,NFL,KC,2023-10-12
+551,13.75,Hitter Fantasy Score,Isiah Pacheco,NFL,KC,2023-10-12
+552,9.5,Rush Yards,Jerick McKinnon,NFL,KC,2023-10-12
+553,2.0,receiving_rec,Jerick McKinnon,NFL,KC,2023-10-12
+554,12.5,Receiving Yards,Jerick McKinnon,NFL,KC,2023-10-12
+555,24.5,rush_rec_yds,Jerick McKinnon,NFL,KC,2023-10-12
+556,0.5,rush_rec_tds,Travis Kelce,NFL,KC,2023-10-12
+557,6.5,receiving_rec,Travis Kelce,NFL,KC,2023-10-12
+558,65.5,Receiving Yards,Travis Kelce,NFL,KC,2023-10-12
+559,15.15,Hitter Fantasy Score,Travis Kelce,NFL,KC,2023-10-12
+560,1.5,receiving_rec,Marquez Valdes-Scantling,NFL,KC,2023-10-12
+561,2.5,receiving_rec,Skyy Moore,NFL,KC,2023-10-12
+562,18.5,Receiving Yards,Marquez Valdes-Scantling,NFL,KC,2023-10-12
+563,31.5,Receiving Yards,Kadarius Toney,NFL,KC,2023-10-12
+564,24.5,Receiving Yards,Skyy Moore,NFL,KC,2023-10-12
+565,18.5,rush_rec_yds,Marquez Valdes-Scantling,NFL,KC,2023-10-12
+566,26.5,rush_rec_yds,Skyy Moore,NFL,KC,2023-10-12
+567,3.0,receiving_rec,Rashee Rice,NFL,KC,2023-10-12
+568,29.5,Receiving Yards,Rashee Rice,NFL,KC,2023-10-12
+569,22.5,Receiving Yards,Justin Watson,NFL,KC,2023-10-12
+570,22.5,rush_rec_yds,Justin Watson,NFL,KC,2023-10-12
+571,30.5,rush_rec_yds,Rashee Rice,NFL,KC,2023-10-12
+572,1.5,field_goals_made,Harrison Butker,NFL,KC,2023-10-12
+573,3.0,extra_points_made,Harrison Butker,NFL,KC,2023-10-12
+574,8.0,kicking_points,Harrison Butker,NFL,KC,2023-10-12
+575,3.0,Tackles,Justin Reid,NFL,KC,2023-10-12
+576,1.5,AST,Justin Reid,NFL,KC,2023-10-12
+577,3.5,Tackles,Trent McDuffie,NFL,KC,2023-10-12
+578,5.0,tackles_and_assists,Trent McDuffie,NFL,KC,2023-10-12
+579,4.5,tackles_and_assists,Justin Reid,NFL,KC,2023-10-12
+580,222.5,Pass Yards,Lamar Jackson,NFL,BAL,2023-10-15
+581,42.5,Rush Yards,Lamar Jackson,NFL,BAL,2023-10-15
+582,0.5,passing_ints,Lamar Jackson,NFL,BAL,2023-10-15
+583,4.5,receiving_rec,Mark Andrews,NFL,BAL,2023-10-15
+584,53.5,Receiving Yards,Mark Andrews,NFL,BAL,2023-10-15
+585,54.5,Receiving Yards,Zay Flowers,NFL,BAL,2023-10-15
+586,56.5,rush_rec_yds,Zay Flowers,NFL,BAL,2023-10-15
+587,1.5,field_goals_made,Justin Tucker,NFL,BAL,2023-10-15
+588,2.0,extra_points_made,Justin Tucker,NFL,BAL,2023-10-15
+589,6.5,kicking_points,Justin Tucker,NFL,BAL,2023-10-15
+590,2.5,Tackles,Marcus Williams,NFL,BAL,2023-10-15
+591,1.5,AST,Marcus Williams,NFL,BAL,2023-10-15
+592,6.0,Tackles,Roquan Smith,NFL,BAL,2023-10-15
+593,10.0,tackles_and_assists,Roquan Smith,NFL,BAL,2023-10-15
+594,4.0,tackles_and_assists,Brandon Stephens,NFL,BAL,2023-10-15
+595,2.5,AST,Patrick Queen,NFL,BAL,2023-10-15
+596,7.0,tackles_and_assists,Patrick Queen,NFL,BAL,2023-10-15
+597,1.5,AST,Kyle Hamilton,NFL,BAL,2023-10-15
+598,5.0,tackles_and_assists,Kyle Hamilton,NFL,BAL,2023-10-15
+599,3.0,Tackles,Kyle Hamilton,NFL,BAL,2023-10-15
+600,2.5,Tackles,Brandon Stephens,NFL,BAL,2023-10-15
+601,210.5,Pass Yards,Ryan Tannehill,NFL,TEN,2023-10-15
+602,8.5,Rush Yards,Ryan Tannehill,NFL,TEN,2023-10-15
+603,0.5,passing_ints,Ryan Tannehill,NFL,TEN,2023-10-15
+604,65.5,Rush Yards,Derrick Henry,NFL,TEN,2023-10-15
+605,10.5,Receiving Yards,Derrick Henry,NFL,TEN,2023-10-15
+606,80.5,rush_rec_yds,Derrick Henry,NFL,TEN,2023-10-15
+607,27.5,Rush Yards,Tyjae Spears,NFL,TEN,2023-10-15
+608,14.5,Receiving Yards,Tyjae Spears,NFL,TEN,2023-10-15
+609,45.5,rush_rec_yds,Tyjae Spears,NFL,TEN,2023-10-15
+610,4.5,receiving_rec,DeAndre Hopkins,NFL,TEN,2023-10-15
+611,57.5,Receiving Yards,DeAndre Hopkins,NFL,TEN,2023-10-15
+612,57.5,rush_rec_yds,DeAndre Hopkins,NFL,TEN,2023-10-15
+613,3.0,receiving_rec,Chig Okonkwo,NFL,TEN,2023-10-15
+614,30.5,Receiving Yards,Chig Okonkwo,NFL,TEN,2023-10-15
+615,6.0,kicking_points,Nick Folk,NFL,TEN,2023-10-15
+616,2.0,AST,Kevin Byard,NFL,TEN,2023-10-15
+617,6.0,tackles_and_assists,Kevin Byard,NFL,TEN,2023-10-15
+618,3.0,Tackles,Sean Murphy-Bunting,NFL,TEN,2023-10-15
+619,4.5,tackles_and_assists,Sean Murphy-Bunting,NFL,TEN,2023-10-15
+620,3.0,Tackles,Amani Hooker,NFL,TEN,2023-10-15
+621,5.0,tackles_and_assists,Amani Hooker,NFL,TEN,2023-10-15
+622,3.0,AST,Jack Gibbens,NFL,TEN,2023-10-15
+623,7.0,tackles_and_assists,Jack Gibbens,NFL,TEN,2023-10-15
+624,4.5,tackles_and_assists,Roger McCreary,NFL,TEN,2023-10-15
+625,4.0,AST,Azeez Al-Shaair,NFL,TEN,2023-10-15
+626,0.5,sacks,Denico Autry,NFL,TEN,2023-10-15
+627,2.0,Tackles,Jeffery Simmons,NFL,TEN,2023-10-15
+628,1.5,AST,Jeffery Simmons,NFL,TEN,2023-10-15
+629,3.5,tackles_and_assists,Jeffery Simmons,NFL,TEN,2023-10-15
+630,8.5,tackles_and_assists,Azeez Al-Shaair,NFL,TEN,2023-10-15
+631,3.0,Tackles,Roger McCreary,NFL,TEN,2023-10-15
+632,4.5,Tackles,Azeez Al-Shaair,NFL,TEN,2023-10-15
+633,215.5,Pass Yards,Justin Fields,NFL,CHI,2023-10-15
+634,216.5,Pass Yards,Gardner Minshew II,other,IND,2023-10-15
+635,64.5,Receiving Yards,Michael Pittman Jr.,other,IND,2023-10-15
+636,249.5,Pass Yards,Trevor Lawrence,NFL,JAX,2023-10-15
+637,71.5,Rush Yards,Travis Etienne Jr.,other,JAX,2023-10-15
+638,239.5,Pass Yards,Geno Smith,NFL,SEA,2023-10-15
+639,255.5,passing_and_rushing_yds,Geno Smith,NFL,SEA,2023-10-15
+640,64.5,Rush Yards,Kenneth Walker III,other,SEA,2023-10-15
+641,10.5,Receiving Yards,Kenneth Walker III,other,SEA,2023-10-15
+642,78.5,rush_rec_yds,Kenneth Walker III,other,SEA,2023-10-15
+643,51.5,Receiving Yards,Tyler Lockett,NFL,SEA,2023-10-15
+644,63.5,Receiving Yards,DK Metcalf,NFL,SEA,2023-10-15
+645,22.5,Receiving Yards,Noah Fant,NFL,SEA,2023-10-15
+646,2.0,extra_points_made,Jason Myers,NFL,SEA,2023-10-15
+647,6.0,kicking_points,Jason Myers,NFL,SEA,2023-10-15
+648,1.5,passing_tds,Joe Burrow,NFL,CIN,2023-10-15
+649,271.5,Pass Yards,Joe Burrow,NFL,CIN,2023-10-15
+650,281.5,passing_and_rushing_yds,Joe Burrow,NFL,CIN,2023-10-15
+651,0.5,rush_rec_tds,Joe Mixon,NFL,CIN,2023-10-15
+652,65.5,Rush Yards,Joe Mixon,NFL,CIN,2023-10-15
+653,22.5,Receiving Yards,Joe Mixon,NFL,CIN,2023-10-15
+654,92.5,rush_rec_yds,Joe Mixon,NFL,CIN,2023-10-15
+655,84.5,Receiving Yards,Ja'Marr Chase,NFL,CIN,2023-10-15
+656,6.5,kicking_points,Evan McPherson,NFL,CIN,2023-10-15
+657,3.5,Tackles,Dax Hill,NFL,CIN,2023-10-15
+658,6.0,tackles_and_assists,Dax Hill,NFL,CIN,2023-10-15
+659,8.0,tackles_and_assists,Logan Wilson,NFL,CIN,2023-10-15
+660,7.5,tackles_and_assists,Germaine Pratt,NFL,CIN,2023-10-15
+661,4.0,tackles_and_assists,Mike Hilton,NFL,CIN,2023-10-15
+662,3.0,AST,Germaine Pratt,NFL,CIN,2023-10-15
+663,4.0,Tackles,Germaine Pratt,NFL,CIN,2023-10-15
+664,3.0,Tackles,Cam Taylor-Britt,NFL,CIN,2023-10-15
+665,4.0,tackles_and_assists,Cam Taylor-Britt,NFL,CIN,2023-10-15
+666,3.0,Tackles,Mike Hilton,NFL,CIN,2023-10-15
+667,4.5,Tackles,Logan Wilson,NFL,CIN,2023-10-15
+668,215.5,Pass Yards,Bryce Young,NFL,CAR,2023-10-15
+669,67.5,Receiving Yards,Adam Thielen,NFL,CAR,2023-10-15
+670,282.5,Pass Yards,Tua Tagovailoa,NFL,MIA,2023-10-15
+671,0.5,rush_rec_tds,Tyreek Hill,NFL,MIA,2023-10-15
+672,95.5,Receiving Yards,Tyreek Hill,NFL,MIA,2023-10-15
+673,220.5,Pass Yards,Derek Carr,NFL,NO,2023-10-15
+674,67.5,Rush Yards,Alvin Kamara,NFL,NO,2023-10-15
+675,59.5,Receiving Yards,Chris Olave,NFL,NO,2023-10-15
+676,240.5,Pass Yards,C.J. Stroud,NFL,HOU,2023-10-15
+677,51.5,Rush Yards,Dameon Pierce,NFL,HOU,2023-10-15
+678,55.5,Receiving Yards,Nico Collins,NFL,HOU,2023-10-15
+679,78.5,Rush Yards,Christian McCaffrey,NFL,SF,2023-10-15
+680,240.5,Pass Yards,Sam Howell,NFL,WAS,2023-10-15
+681,58.5,Rush Yards,Brian Robinson Jr.,other,WAS,2023-10-15
+682,4.5,receiving_rec,Terry McLaurin,NFL,WAS,2023-10-15
+683,53.5,Receiving Yards,Terry McLaurin,NFL,WAS,2023-10-15
+684,3.0,receiving_rec,Jahan Dotson,NFL,WAS,2023-10-15
+685,34.5,Receiving Yards,Curtis Samuel,NFL,WAS,2023-10-15
+686,31.5,Receiving Yards,Jahan Dotson,NFL,WAS,2023-10-15
+687,3.5,receiving_rec,Logan Thomas,NFL,WAS,2023-10-15
+688,34.5,Receiving Yards,Logan Thomas,NFL,WAS,2023-10-15
+689,6.0,kicking_points,Joey Slye,NFL,WAS,2023-10-15
+690,204.5,Pass Yards,Desmond Ridder,NFL,ATL,2023-10-15
+691,11.5,Rush Yards,Desmond Ridder,NFL,ATL,2023-10-15
+692,0.5,rush_rec_tds,Bijan Robinson,NFL,ATL,2023-10-15
+693,71.5,Rush Yards,Bijan Robinson,NFL,ATL,2023-10-15
+694,24.5,Receiving Yards,Bijan Robinson,NFL,ATL,2023-10-15
+695,100.5,rush_rec_yds,Bijan Robinson,NFL,ATL,2023-10-15
+696,44.5,Receiving Yards,Drake London,NFL,ATL,2023-10-15
+697,32.5,Receiving Yards,Kyle Pitts,NFL,ATL,2023-10-15
+698,1.5,field_goals_made,Younghoe Koo,NFL,ATL,2023-10-15
+699,7.0,kicking_points,Younghoe Koo,NFL,ATL,2023-10-15
+700,32.5,Receiving Yards,Jonnu Smith,NFL,ATL,2023-10-15
+701,0.5,rush_rec_tds,Josh Jacobs,NFL,LV,2023-10-15
+702,245.5,Pass Yards,Jalen Hurts,NFL,PHI,2023-10-15
+703,64.5,Rush Yards,D'Andre Swift,NFL,PHI,2023-10-15
+704,81.5,Receiving Yards,A.J. Brown,NFL,PHI,2023-10-15
+705,189.5,Pass Yards,Zach Wilson,NFL,NYJ,2023-10-15
+706,65.5,Rush Yards,Breece Hall,NFL,NYJ,2023-10-15
+707,54.5,Receiving Yards,Garrett Wilson,NFL,NYJ,2023-10-15
+708,203.5,Pass Yards,Joshua Dobbs,NFL,ARI,2023-10-15
+709,57.5,Receiving Yards,Marquise Brown,NFL,ARI,2023-10-15
+710,1.5,field_goals_made,Matt Prater,NFL,ARI,2023-10-15
+711,2.0,extra_points_made,Matt Prater,NFL,ARI,2023-10-15
+712,6.5,kicking_points,Matt Prater,NFL,ARI,2023-10-15
+713,271.5,Pass Yards,Matthew Stafford,NFL,LAR,2023-10-15
+714,0.5,rush_rec_tds,Kyren Williams,NFL,LAR,2023-10-15
+715,56.5,Rush Yards,Kyren Williams,NFL,LAR,2023-10-15
+716,91.5,Receiving Yards,Cooper Kupp,NFL,LAR,2023-10-15
+717,1.5,field_goals_made,Brett Maher,NFL,LAR,2023-10-15
+718,2.5,extra_points_made,Brett Maher,NFL,LAR,2023-10-15
+719,7.5,kicking_points,Brett Maher,NFL,LAR,2023-10-15
+720,52.5,Rush Yards,James Cook,NFL,BUF,2023-10-15
+721,89.5,Receiving Yards,Stefon Diggs,NFL,BUF,2023-10-15
+722,3.5,Aces,Ons Jabeur,other,Ons Jabeur,
+723,3.0,Aces,Jessica Pegula,other,Jessica Pegula,
+724,0.5,Aces,Daria Kasatkina,other,Daria Kasatkina,
+725,0.5,Aces,Martina Trevisan,other,Martina Trevisan,
+726,13.5,Aces,Hubert Hurkacz,other,Hubert Hurkacz,
+727,1.5,Aces,Xinyu Wang,other,Xinyu Wang,
+728,1.5,Aces,Kimberly Birrell,other,Kimberly Birrell,
+729,4.5,Aces,Emina Bektas,other,Emina Bektas,
+730,8.5,Aces,Ben Shelton,other,Ben Shelton,
+731,2.0,Aces,Marie Bouzkova,other,Marie Bouzkova,
+732,3.0,Double Faults,Ons Jabeur,other,Ons Jabeur,
+733,3.5,Double Faults,Jessica Pegula,other,Jessica Pegula,
+734,3.5,Double Faults,Kimberly Birrell,other,Kimberly Birrell,
+735,5.5,Double Faults,Elise Mertens,other,Elise Mertens,
+736,3.0,Double Faults,Marie Bouzkova,other,Marie Bouzkova,
+737,3.0,Double Faults,Emina Bektas,other,Emina Bektas,
+738,1.0,Double Faults,Hubert Hurkacz,other,Hubert Hurkacz,
+739,2.5,Double Faults,Xinyu Wang,other,Xinyu Wang,
+740,3.5,Double Faults,Daria Kasatkina,other,Daria Kasatkina,
+741,3.5,Double Faults,Ben Shelton,other,Ben Shelton,
+742,3.0,Double Faults,Martina Trevisan,other,Martina Trevisan,
+743,0.5,sets_lost,Marie Bouzkova,other,Marie Bouzkova,
+744,45.15,Hitter Fantasy Score,Barbora Krejcikova,other,Barbora Krejcikova,
+745,49.55,Hitter Fantasy Score,Ons Jabeur,other,Ons Jabeur,
+746,49.55,Hitter Fantasy Score,Liudmila Samsonova,other,Liudmila Samsonova,
+747,52.45,Hitter Fantasy Score,Jessica Pegula,other,Jessica Pegula,
+748,49.05,Hitter Fantasy Score,Hubert Hurkacz,other,Hubert Hurkacz,
+749,50.55,Hitter Fantasy Score,Kimberly Birrell,other,Kimberly Birrell,
+750,44.55,Hitter Fantasy Score,Beatriz Haddad,other,Beatriz Haddad,
+751,47.15,Hitter Fantasy Score,Grigor Dimitrov,other,Grigor Dimitrov,
+752,46.85,Hitter Fantasy Score,Martina Trevisan,other,Martina Trevisan,
+753,52.95,Hitter Fantasy Score,Daria Kasatkina,other,Daria Kasatkina,
+754,44.05,Hitter Fantasy Score,Ben Shelton,other,Ben Shelton,
+755,49.95,Hitter Fantasy Score,Elise Mertens,other,Elise Mertens,
+756,46.25,Hitter Fantasy Score,Emina Bektas,other,Emina Bektas,
+757,47.05,Hitter Fantasy Score,Marie Bouzkova,other,Marie Bouzkova,
+758,43.05,Hitter Fantasy Score,Xinyu Wang,other,Xinyu Wang,
+759,5.5,Break Points Won,Daria Kasatkina,other,Daria Kasatkina,
+760,1.5,Break Points Won,Ben Shelton,other,Ben Shelton,
+761,4.5,Break Points Won,Marie Bouzkova,other,Marie Bouzkova,
+762,4.5,Break Points Won,Alina Korneeva,other,Alina Korneeva,
+763,2.5,Service Games Lost,Kimberly Birrell,other,Kimberly Birrell,
+764,4.5,Service Games Lost,Martina Trevisan,other,Martina Trevisan,
+765,1.5,Service Games Lost,Ben Shelton,other,Ben Shelton,
+766,3.5,Service Games Lost,Emina Bektas,other,Emina Bektas,
+767,4.5,Service Games Lost,Alina Korneeva,other,Alina Korneeva,
+768,3.5,Service Games Lost,Marie Bouzkova,other,Marie Bouzkova,
+769,3.5,Service Games Lost,Beatriz Haddad,other,Beatriz Haddad,
+770,12.5,Games Won,Liudmila Samsonova,other,Liudmila Samsonova,
+771,12.5,Games Won,Barbora Krejcikova,other,Barbora Krejcikova,
+772,13.0,Games Won,Hubert Hurkacz,other,Hubert Hurkacz,
+773,13.0,Games Won,Grigor Dimitrov,other,Grigor Dimitrov,
+774,13.0,Games Won,Ben Shelton,other,Ben Shelton,
+775,9.0,Games Lost,Liudmila Samsonova,other,Liudmila Samsonova,
+776,11.0,Games Lost,Barbora Krejcikova,other,Barbora Krejcikova,
+777,8.0,Games Lost,Ons Jabeur,other,Ons Jabeur,
+778,8.0,Games Lost,Jessica Pegula,other,Jessica Pegula,
+779,12.0,Games Lost,Martina Trevisan,other,Martina Trevisan,
+780,11.0,Games Lost,Marie Bouzkova,other,Marie Bouzkova,
+781,12.0,Games Lost,Alina Korneeva,other,Alina Korneeva,
+782,12.5,Games Lost,Grigor Dimitrov,other,Grigor Dimitrov,
+783,7.5,Games Lost,Daria Kasatkina,other,Daria Kasatkina,
+784,12.0,Games Lost,Beatriz Haddad,other,Beatriz Haddad,
+785,12.0,Games Lost,Emina Bektas,other,Emina Bektas,
+786,8.0,Games Lost,Kimberly Birrell,other,Kimberly Birrell,
+787,12.0,Games Lost,Hubert Hurkacz,other,Hubert Hurkacz,
+788,12.0,Games Lost,Xinyu Wang,other,Xinyu Wang,
+789,13.0,Games Lost,Ben Shelton,other,Ben Shelton,
+790,6.5,Games Lost,Elise Mertens,other,Elise Mertens,
+791,20.5,games_played,Liudmila Samsonova,other,Liudmila Samsonova,
+792,21.5,games_played,Barbora Krejcikova,other,Barbora Krejcikova,
+793,19.5,games_played,Ons Jabeur,other,Ons Jabeur,
+794,20.0,games_played,Jessica Pegula,other,Jessica Pegula,
+795,23.5,games_played,Ben Shelton,other,Ben Shelton,
+796,20.5,games_played,Marie Bouzkova,other,Marie Bouzkova,
+797,21.5,games_played,Xinyu Wang,other,Xinyu Wang,
+798,23.0,games_played,Grigor Dimitrov,other,Grigor Dimitrov,
+799,23.5,games_played,Hubert Hurkacz,other,Hubert Hurkacz,
+800,21.5,games_played,Alina Korneeva,other,Alina Korneeva,
+801,22.0,games_played,Emina Bektas,other,Emina Bektas,
+802,22.0,games_played,Beatriz Haddad,other,Beatriz Haddad,
+803,22.0,games_played,Martina Trevisan,other,Martina Trevisan,
+804,18.5,games_played,Elise Mertens,other,Elise Mertens,
+805,19.5,games_played,Daria Kasatkina,other,Daria Kasatkina,
+806,20.0,games_played,Kimberly Birrell,other,Kimberly Birrell,
+807,68.5,Strokes,Adam Svensson,other,Adam Svensson,
+808,68.5,Strokes,Lucas Herbert,other,Lucas Herbert,
+809,68.0,Strokes,Cameron Davis,other,Cameron Davis,
+810,68.0,Strokes,Si Woo,other,Si Woo,
+811,67.5,Strokes,Ludvig Aberg,other,Ludvig Aberg,
+812,68.5,Strokes,Mark Hubbard,other,Mark Hubbard,
+813,68.0,Strokes,Adam Hadwin,other,Adam Hadwin,
+814,68.0,Strokes,J.T. Poston,other,J.T. Poston,
+815,67.5,Strokes,Tom Kim,other,Tom Kim,
+816,68.5,Strokes,Aaron Rai,other,Aaron Rai,
+817,68.5,Strokes,Tom Hoge,other,Tom Hoge,
+818,68.5,Strokes,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+819,68.5,Strokes,Luke List,other,Luke List,
+820,68.0,Strokes,Eric Cole,other,Eric Cole,
+821,68.0,Strokes,Adam Schenk,other,Adam Schenk,
+822,68.5,Strokes,Emiliano Grillo,other,Emiliano Grillo,
+823,68.0,Strokes,Nicolai Hojgaard,other,Nicolai Hojgaard,
+824,68.0,Strokes,J.J. Spaun,other,J.J. Spaun,
+825,68.0,Strokes,Alex Smalley,other,Alex Smalley,
+826,68.0,Strokes,Beau Hossler,other,Beau Hossler,
+827,4.5,Birdies or Better,Alex Smalley,other,Alex Smalley,
+828,5.0,Birdies or Better,Cameron Davis,other,Cameron Davis,
+829,5.5,Birdies or Better,Tom Kim,other,Tom Kim,
+830,4.5,Birdies or Better,Aaron Rai,other,Aaron Rai,
+831,4.5,Birdies or Better,Beau Hossler,other,Beau Hossler,
+832,5.0,Birdies or Better,J.T. Poston,other,J.T. Poston,
+833,5.0,Birdies or Better,Nicolai Hojgaard,other,Nicolai Hojgaard,
+834,5.5,Birdies or Better,Ludvig Aberg,other,Ludvig Aberg,
+835,4.5,Birdies or Better,Emiliano Grillo,other,Emiliano Grillo,
+836,5.0,Birdies or Better,Si Woo,other,Si Woo,
+837,4.5,Birdies or Better,Luke List,other,Luke List,
+838,5.0,Birdies or Better,Adam Hadwin,other,Adam Hadwin,
+839,5.0,Birdies or Better,J.J. Spaun,other,J.J. Spaun,
+840,5.0,Birdies or Better,Adam Schenk,other,Adam Schenk,
+841,4.5,Birdies or Better,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+842,5.0,Birdies or Better,Eric Cole,other,Eric Cole,
+843,5.0,Birdies or Better,Mark Hubbard,other,Mark Hubbard,
+844,5.0,Birdies or Better,Adam Svensson,other,Adam Svensson,
+845,5.0,Birdies or Better,Tom Hoge,other,Tom Hoge,
+846,5.0,Birdies or Better,Lucas Herbert,other,Lucas Herbert,
+847,1.5,Bogeys or Worse,Ludvig Aberg,other,Ludvig Aberg,
+848,2.0,Bogeys or Worse,Mark Hubbard,other,Mark Hubbard,
+849,1.5,Bogeys or Worse,Emiliano Grillo,other,Emiliano Grillo,
+850,1.5,Bogeys or Worse,Eric Cole,other,Eric Cole,
+851,1.5,Bogeys or Worse,Aaron Rai,other,Aaron Rai,
+852,1.5,Bogeys or Worse,Nicolai Hojgaard,other,Nicolai Hojgaard,
+853,2.0,Bogeys or Worse,Tom Hoge,other,Tom Hoge,
+854,2.0,Bogeys or Worse,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+855,2.0,Bogeys or Worse,Luke List,other,Luke List,
+856,1.5,Bogeys or Worse,Cameron Davis,other,Cameron Davis,
+857,2.0,Bogeys or Worse,Adam Svensson,other,Adam Svensson,
+858,1.5,Bogeys or Worse,J.J. Spaun,other,J.J. Spaun,
+859,1.5,Bogeys or Worse,Adam Hadwin,other,Adam Hadwin,
+860,1.5,Bogeys or Worse,Adam Schenk,other,Adam Schenk,
+861,2.0,Bogeys or Worse,Alex Smalley,other,Alex Smalley,
+862,1.5,Bogeys or Worse,Si Woo,other,Si Woo,
+863,2.0,Bogeys or Worse,Beau Hossler,other,Beau Hossler,
+864,1.5,Bogeys or Worse,Tom Kim,other,Tom Kim,
+865,1.5,Bogeys or Worse,J.T. Poston,other,J.T. Poston,
+866,2.0,Bogeys or Worse,Lucas Herbert,other,Lucas Herbert,
+867,12.5,cumulative_par_3_strokes,Beau Hossler,other,Beau Hossler,
+868,12.0,cumulative_par_3_strokes,Adam Schenk,other,Adam Schenk,
+869,12.0,cumulative_par_3_strokes,Emiliano Grillo,other,Emiliano Grillo,
+870,12.0,cumulative_par_3_strokes,Ludvig Aberg,other,Ludvig Aberg,
+871,12.0,cumulative_par_3_strokes,Cameron Davis,other,Cameron Davis,
+872,12.0,cumulative_par_3_strokes,Eric Cole,other,Eric Cole,
+873,12.0,cumulative_par_3_strokes,Tom Kim,other,Tom Kim,
+874,12.0,cumulative_par_3_strokes,Si Woo,other,Si Woo,
+875,12.5,cumulative_par_3_strokes,Mark Hubbard,other,Mark Hubbard,
+876,12.0,cumulative_par_3_strokes,Nicolai Hojgaard,other,Nicolai Hojgaard,
+877,12.0,cumulative_par_3_strokes,J.T. Poston,other,J.T. Poston,
+878,12.0,cumulative_par_3_strokes,Lucas Herbert,other,Lucas Herbert,
+879,12.5,cumulative_par_3_strokes,Tom Hoge,other,Tom Hoge,
+880,12.5,cumulative_par_3_strokes,Luke List,other,Luke List,
+881,12.0,cumulative_par_3_strokes,Adam Hadwin,other,Adam Hadwin,
+882,12.5,cumulative_par_3_strokes,Aaron Rai,other,Aaron Rai,
+883,12.5,cumulative_par_3_strokes,Alex Smalley,other,Alex Smalley,
+884,12.5,cumulative_par_3_strokes,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+885,12.0,cumulative_par_3_strokes,J.J. Spaun,other,J.J. Spaun,
+886,12.0,cumulative_par_3_strokes,Adam Svensson,other,Adam Svensson,
+887,37.75,Hitter Fantasy Score,Ludvig Aberg,other,Ludvig Aberg,
+888,35.35,Hitter Fantasy Score,Adam Schenk,other,Adam Schenk,
+889,32.05,Hitter Fantasy Score,Christiaan Bezuidenhout,other,Christiaan Bezuidenhout,
+890,33.35,Hitter Fantasy Score,Lucas Herbert,other,Lucas Herbert,
+891,35.35,Hitter Fantasy Score,Adam Hadwin,other,Adam Hadwin,
+892,35.75,Hitter Fantasy Score,Cameron Davis,other,Cameron Davis,
+893,35.35,Hitter Fantasy Score,Eric Cole,other,Eric Cole,
+894,35.25,Hitter Fantasy Score,J.J. Spaun,other,J.J. Spaun,
+895,35.65,Hitter Fantasy Score,J.T. Poston,other,J.T. Poston,
+896,32.05,Hitter Fantasy Score,Luke List,other,Luke List,
+897,35.35,Hitter Fantasy Score,Nicolai Hojgaard,other,Nicolai Hojgaard,
+898,37.75,Hitter Fantasy Score,Tom Kim,other,Tom Kim,
+899,32.05,Hitter Fantasy Score,Beau Hossler,other,Beau Hossler,
+900,35.75,Hitter Fantasy Score,Si Woo,other,Si Woo,
+901,33.25,Hitter Fantasy Score,Aaron Rai,other,Aaron Rai,
+902,33.45,Hitter Fantasy Score,Emiliano Grillo,other,Emiliano Grillo,
+903,33.95,Hitter Fantasy Score,Alex Smalley,other,Alex Smalley,
+904,33.05,Hitter Fantasy Score,Adam Svensson,other,Adam Svensson,
+905,33.05,Hitter Fantasy Score,Mark Hubbard,other,Mark Hubbard,
+906,33.15,Hitter Fantasy Score,Tom Hoge,other,Tom Hoge,
+907,54.6,fantasy_points_on_maps_1_2,Adam,ESPORTS,Team BDS ,2023-10-13
+908,7.5,kills_in_maps_1_2,Adam,ESPORTS,Team BDS ,2023-10-13
+909,52.5,fantasy_points_on_maps_1_2,Sheo,ESPORTS,Team BDS ,2023-10-13
+910,4.0,kills_in_maps_1_2,Sheo,ESPORTS,Team BDS ,2023-10-13
+911,64.2,fantasy_points_on_maps_1_2,nuc,ESPORTS,Team BDS ,2023-10-13
+912,9.0,kills_in_maps_1_2,nuc,ESPORTS,Team BDS ,2023-10-13
+913,48.1,fantasy_points_on_maps_1_2,labrov,ESPORTS,Team BDS ,2023-10-13
+914,1.0,kills_in_maps_1_2,labrov,ESPORTS,Team BDS ,2023-10-13
+915,68.2,fantasy_points_on_maps_1_2,Crownie,ESPORTS,Team BDS ,2023-10-13
+916,19.0,kills_in_maps_1_2,nuc,ESPORTS,Team BDS ,2023-10-13
+917,10.5,kills_in_maps_1_2,Crownie,ESPORTS,Team BDS ,2023-10-13
+918,19.8,fantasy_points_on_maps_1_2,ApaMen,ESPORTS, Detonation FocusMe,2023-10-13
+919,2.5,kills_in_maps_1_2,ApaMen,ESPORTS, Detonation FocusMe,2023-10-13
+920,9.0,kills_in_maps_1_2,Aria+Yutapon,ESPORTS, Detonation FocusMe,2023-10-13
+921,24.2,fantasy_points_on_maps_1_2,Steal,ESPORTS, Detonation FocusMe,2023-10-13
+922,3.0,kills_in_maps_1_2,Steal,ESPORTS, Detonation FocusMe,2023-10-13
+923,29.0,fantasy_points_on_maps_1_2,Aria,ESPORTS, Detonation FocusMe,2023-10-13
+924,5.0,kills_in_maps_1_2,Aria,ESPORTS, Detonation FocusMe,2023-10-13
+925,18.2,fantasy_points_on_maps_1_2,Harp,ESPORTS, Detonation FocusMe,2023-10-13
+926,1.0,kills_in_maps_1_2,Harp,ESPORTS, Detonation FocusMe,2023-10-13
+927,29.4,fantasy_points_on_maps_1_2,Yutapon,ESPORTS, Detonation FocusMe,2023-10-13
+928,4.5,kills_in_maps_1_2,Yutapon,ESPORTS, Detonation FocusMe,2023-10-13
+929,14.0,kills_in_maps_1_2,Artemis+Gloryy,ESPORTS,Team Whales ,2023-10-12
+930,35.8,fantasy_points_on_maps_1_2,Sparda,ESPORTS,Team Whales ,2023-10-12
+931,4.5,kills_in_maps_1_2,Sparda,ESPORTS,Team Whales ,2023-10-12
+932,40.1,fantasy_points_on_maps_1_2,BeanJ,ESPORTS,Team Whales ,2023-10-12
+933,4.0,kills_in_maps_1_2,BeanJ,ESPORTS,Team Whales ,2023-10-12
+934,42.1,fantasy_points_on_maps_1_2,Gloryy,ESPORTS,Team Whales ,2023-10-12
+935,5.5,kills_in_maps_1_2,Gloryy,ESPORTS,Team Whales ,2023-10-12
+936,34.3,fantasy_points_on_maps_1_2,Bie,ESPORTS,Team Whales ,2023-10-12
+937,1.0,kills_in_maps_1_2,Bie,ESPORTS,Team Whales ,2023-10-12
+938,51.5,fantasy_points_on_maps_1_2,Artemis,ESPORTS,Team Whales ,2023-10-12
+939,8.5,kills_in_maps_1_2,Artemis,ESPORTS,Team Whales ,2023-10-12
+940,16.5,kills_in_maps_1_2,Jimien+Shunn,ESPORTS, CTBC Flying Oyster,2023-10-12
+941,39.8,fantasy_points_on_maps_1_2,Rest,ESPORTS, CTBC Flying Oyster,2023-10-12
+942,5.0,kills_in_maps_1_2,Rest,ESPORTS, CTBC Flying Oyster,2023-10-12
+943,40.2,fantasy_points_on_maps_1_2,Gemini,ESPORTS, CTBC Flying Oyster,2023-10-12
+944,3.5,kills_in_maps_1_2,Gemini,ESPORTS, CTBC Flying Oyster,2023-10-12
+945,46.8,fantasy_points_on_maps_1_2,JimieN,ESPORTS, CTBC Flying Oyster,2023-10-12
+946,7.0,kills_in_maps_1_2,JimieN,ESPORTS, CTBC Flying Oyster,2023-10-12
+947,34.6,fantasy_points_on_maps_1_2,ShiauC,ESPORTS, CTBC Flying Oyster,2023-10-12
+948,1.5,kills_in_maps_1_2,ShiauC,ESPORTS, CTBC Flying Oyster,2023-10-12
+949,55.7,fantasy_points_on_maps_1_2,Shunn,ESPORTS, CTBC Flying Oyster,2023-10-12
+950,11.0,kills_in_maps_1_2,Shunn,ESPORTS, CTBC Flying Oyster,2023-10-12
+951,17.5,kills_in_maps_1_2,Kati,ESPORTS,GAM Esports ,2023-10-13
+952,47.9,fantasy_points_on_maps_1_2,Kiaya,ESPORTS,GAM Esports ,2023-10-13
+953,5.5,kills_in_maps_1_2,Kiaya,ESPORTS,GAM Esports ,2023-10-13
+954,55.6,fantasy_points_on_maps_1_2,Levi,ESPORTS,GAM Esports ,2023-10-13
+955,55.5,fantasy_points_on_maps_1_2,Kati,ESPORTS,GAM Esports ,2023-10-13
+956,6.5,kills_in_maps_1_2,Kati,ESPORTS,GAM Esports ,2023-10-13
+957,43.8,fantasy_points_on_maps_1_2,Palette,ESPORTS,GAM Esports ,2023-10-13
+958,1.5,kills_in_maps_1_2,Palette,ESPORTS,GAM Esports ,2023-10-13
+959,61.4,fantasy_points_on_maps_1_2,Slayder,ESPORTS,GAM Esports ,2023-10-13
+960,10.5,kills_in_maps_1_2,Slayder,ESPORTS,GAM Esports ,2023-10-13
+961,13.0,kills_in_maps_1_2,Mireu+Ceo,ESPORTS, Movistar R7,2023-10-13
+962,33.3,fantasy_points_on_maps_1_2,Bong,ESPORTS, Movistar R7,2023-10-13
+963,4.5,kills_in_maps_1_2,Bong,ESPORTS, Movistar R7,2023-10-13
+964,38.5,fantasy_points_on_maps_1_2,Oddie,ESPORTS, Movistar R7,2023-10-13
+965,4.0,kills_in_maps_1_2,Oddie,ESPORTS, Movistar R7,2023-10-13
+966,40.8,fantasy_points_on_maps_1_2,Mireu,ESPORTS, Movistar R7,2023-10-13
+967,7.0,kills_in_maps_1_2,Mireu,ESPORTS, Movistar R7,2023-10-13
+968,31.5,fantasy_points_on_maps_1_2,Lyonz,ESPORTS, Movistar R7,2023-10-13
+969,1.5,kills_in_maps_1_2,Lyonz,ESPORTS, Movistar R7,2023-10-13
+970,43.1,fantasy_points_on_maps_1_2,Ceo,ESPORTS, Movistar R7,2023-10-13
+971,8.0,kills_in_maps_1_2,Ceo,ESPORTS, Movistar R7,2023-10-13
+972,12.5,kills_in_maps_1_2,Route+Tinowns,ESPORTS,LOUD ,2023-10-12
+973,37.4,fantasy_points_on_maps_1_2,Robo,ESPORTS,LOUD ,2023-10-12
+974,4.5,kills_in_maps_1_2,Robo,ESPORTS,LOUD ,2023-10-12
+975,40.7,fantasy_points_on_maps_1_2,Croc,ESPORTS,LOUD ,2023-10-12
+976,3.0,kills_in_maps_1_2,Croc,ESPORTS,LOUD ,2023-10-12
+977,41.3,fantasy_points_on_maps_1_2,Tinowns,ESPORTS,LOUD ,2023-10-12
+978,5.0,kills_in_maps_1_2,Tinowns,ESPORTS,LOUD ,2023-10-12
+979,34.4,fantasy_points_on_maps_1_2,Ceos,ESPORTS,LOUD ,2023-10-12
+980,1.0,kills_in_maps_1_2,Ceos,ESPORTS,LOUD ,2023-10-12
+981,49.9,fantasy_points_on_maps_1_2,Route,ESPORTS,LOUD ,2023-10-12
+982,6.5,kills_in_maps_1_2,Route,ESPORTS,LOUD ,2023-10-12
+983,17.0,kills_in_maps_1_2,Maple+Wako,ESPORTS, PSG Talon,2023-10-12
+984,39.0,fantasy_points_on_maps_1_2,Azhi,ESPORTS, PSG Talon,2023-10-12
+985,5.0,kills_in_maps_1_2,Azhi,ESPORTS, PSG Talon,2023-10-12
+986,51.4,fantasy_points_on_maps_1_2,JunJia,ESPORTS, PSG Talon,2023-10-12
+987,5.5,kills_in_maps_1_2,JunJia,ESPORTS, PSG Talon,2023-10-12
+988,48.0,fantasy_points_on_maps_1_2,Maple,ESPORTS, PSG Talon,2023-10-12
+989,8.5,kills_in_maps_1_2,Maple,ESPORTS, PSG Talon,2023-10-12
+990,36.8,fantasy_points_on_maps_1_2,Woody,ESPORTS, PSG Talon,2023-10-12
+991,1.5,kills_in_maps_1_2,Woody,ESPORTS, PSG Talon,2023-10-12
+992,55.1,fantasy_points_on_maps_1_2,Wako,ESPORTS, PSG Talon,2023-10-12
+993,10.5,kills_in_maps_1_2,Wako,ESPORTS, PSG Talon,2023-10-12
+994,105.3,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+995,105.3,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+996,105.3,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+997,20.0,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+998,20.0,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+999,20.0,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1000,91.2,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1001,91.2,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1002,91.2,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1003,12.5,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1004,12.5,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1005,12.5,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1006,87.6,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1007,87.6,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1008,87.6,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1009,12.0,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1010,12.0,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1011,12.0,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1012,64.9,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1013,64.9,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1014,64.9,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1015,7.0,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1016,7.0,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1017,7.0,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1018,68.9,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1019,68.9,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1020,68.9,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1021,6.0,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1022,6.0,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1023,6.0,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1024,76.0,fantasy_points_in_games_1_2,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1025,76.0,fantasy_points_in_games_1_2,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1026,11.5,MAPS 1-2 Kills,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1027,11.5,MAPS 1-2 Kills,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1028,80.6,fantasy_points_in_games_1_2,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1029,80.6,fantasy_points_in_games_1_2,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1030,15.0,MAPS 1-2 Kills,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1031,15.0,MAPS 1-2 Kills,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1032,63.6,fantasy_points_in_games_1_2,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1033,63.6,fantasy_points_in_games_1_2,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1034,7.0,MAPS 1-2 Kills,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1035,7.0,MAPS 1-2 Kills,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1036,58.1,fantasy_points_in_games_1_2,Antares,ESPORTS,9 Pandas ,2023-10-12
+1037,58.1,fantasy_points_in_games_1_2,Antares,ESPORTS,9 Pandas ,2023-10-12
+1038,4.5,MAPS 1-2 Kills,Antares,ESPORTS,9 Pandas ,2023-10-12
+1039,4.5,MAPS 1-2 Kills,Antares,ESPORTS,9 Pandas ,2023-10-12
+1040,49.7,fantasy_points_in_games_1_2,Solo,ESPORTS,9 Pandas ,2023-10-12
+1041,49.7,fantasy_points_in_games_1_2,Solo,ESPORTS,9 Pandas ,2023-10-12
+1042,4.5,MAPS 1-2 Kills,Solo,ESPORTS,9 Pandas ,2023-10-12
+1043,4.5,MAPS 1-2 Kills,Solo,ESPORTS,9 Pandas ,2023-10-12
+1044,89.1,fantasy_points_in_games_1_2,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1045,89.1,fantasy_points_in_games_1_2,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1046,89.1,fantasy_points_in_games_1_2,Pakazs,ESPORTS,Evil Geniuses ,2023-10-11
+1047,17.0,MAPS 1-2 Kills,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1048,17.0,MAPS 1-2 Kills,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1049,17.0,MAPS 1-2 Kills,Pakazs,ESPORTS,Evil Geniuses ,2023-10-11
+1050,72.5,fantasy_points_in_games_1_2,Dota: Chris,other,Dota: Chris,
+1051,11.5,MAPS 1-2 Kills,Dota: Chris,other,Dota: Chris,
+1052,76.1,fantasy_points_in_games_1_2,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1053,76.1,fantasy_points_in_games_1_2,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1054,76.1,fantasy_points_in_games_1_2,Wisper,ESPORTS,Evil Geniuses ,2023-10-11
+1055,9.5,MAPS 1-2 Kills,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1056,9.5,MAPS 1-2 Kills,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1057,9.5,MAPS 1-2 Kills,Wisper,ESPORTS,Evil Geniuses ,2023-10-11
+1058,67.9,fantasy_points_in_games_1_2,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1059,67.9,fantasy_points_in_games_1_2,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1060,67.9,fantasy_points_in_games_1_2,Matthew,ESPORTS,Evil Geniuses ,2023-10-11
+1061,5.5,MAPS 1-2 Kills,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1062,5.5,MAPS 1-2 Kills,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1063,5.5,MAPS 1-2 Kills,Matthew,ESPORTS,Evil Geniuses ,2023-10-11
+1064,56.2,fantasy_points_in_games_1_2,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1065,56.2,fantasy_points_in_games_1_2,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1066,56.2,fantasy_points_in_games_1_2,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-11
+1067,4.5,MAPS 1-2 Kills,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1068,4.5,MAPS 1-2 Kills,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1069,4.5,MAPS 1-2 Kills,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-11
+1070,98.8,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1071,98.8,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1072,98.8,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1073,17.5,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1074,17.5,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1075,17.5,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1076,93.3,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1077,93.3,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1078,93.3,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1079,11.5,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1080,11.5,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1081,11.5,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1082,89.6,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1083,89.6,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1084,89.6,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1085,9.5,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1086,9.5,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1087,9.5,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1088,78.8,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1089,78.8,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1090,78.8,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1091,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1092,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1093,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1094,72.0,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1095,72.0,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1096,72.0,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1097,5.5,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1098,5.5,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1099,5.5,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1100,57.4,fantasy_points_in_games_1_2,Dota: Knight~,other,Dota: Knight~,
+1101,9.5,MAPS 1-2 Kills,Dota: Knight~,other,Dota: Knight~,
+1102,62.0,fantasy_points_in_games_1_2,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1103,62.0,fantasy_points_in_games_1_2,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1104,10.0,MAPS 1-2 Kills,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1105,10.0,MAPS 1-2 Kills,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1106,44.6,fantasy_points_in_games_1_2,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1107,44.6,fantasy_points_in_games_1_2,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1108,6.0,MAPS 1-2 Kills,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1109,6.0,MAPS 1-2 Kills,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1110,41.3,fantasy_points_in_games_1_2,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1111,41.3,fantasy_points_in_games_1_2,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1112,5.0,MAPS 1-2 Kills,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1113,5.0,MAPS 1-2 Kills,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1114,30.5,fantasy_points_in_games_1_2,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1115,30.5,fantasy_points_in_games_1_2,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1116,2.5,MAPS 1-2 Kills,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1117,2.5,MAPS 1-2 Kills,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1118,109.1,fantasy_points_in_games_1_2,Nightfall,ESPORTS, BetBoom,2023-10-12
+1119,109.1,fantasy_points_in_games_1_2,Nightfall,ESPORTS, BetBoom,2023-10-12
+1120,19.5,MAPS 1-2 Kills,Nightfall,ESPORTS, BetBoom,2023-10-12
+1121,19.5,MAPS 1-2 Kills,Nightfall,ESPORTS, BetBoom,2023-10-12
+1122,101.3,fantasy_points_in_games_1_2,gpk,ESPORTS, BetBoom,2023-10-12
+1123,101.3,fantasy_points_in_games_1_2,gpk,ESPORTS, BetBoom,2023-10-12
+1124,14.5,MAPS 1-2 Kills,gpk,ESPORTS, BetBoom,2023-10-12
+1125,14.5,MAPS 1-2 Kills,gpk,ESPORTS, BetBoom,2023-10-12
+1126,104.8,fantasy_points_in_games_1_2,Pure,ESPORTS, BetBoom,2023-10-12
+1127,104.8,fantasy_points_in_games_1_2,Pure,ESPORTS, BetBoom,2023-10-12
+1128,11.5,MAPS 1-2 Kills,Pure,ESPORTS, BetBoom,2023-10-12
+1129,11.5,MAPS 1-2 Kills,Pure,ESPORTS, BetBoom,2023-10-12
+1130,78.4,fantasy_points_in_games_1_2,Save-,ESPORTS, BetBoom,2023-10-12
+1131,78.4,fantasy_points_in_games_1_2,Save-,ESPORTS, BetBoom,2023-10-12
+1132,7.5,MAPS 1-2 Kills,Save-,ESPORTS, BetBoom,2023-10-12
+1133,7.5,MAPS 1-2 Kills,Save-,ESPORTS, BetBoom,2023-10-12
+1134,85.4,fantasy_points_in_games_1_2,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1135,85.4,fantasy_points_in_games_1_2,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1136,5.0,MAPS 1-2 Kills,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1137,5.0,MAPS 1-2 Kills,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1138,69.9,fantasy_points_in_games_1_2,shiro,ESPORTS,LGD ,2023-10-12
+1139,69.9,fantasy_points_in_games_1_2,shiro,ESPORTS,LGD ,2023-10-12
+1140,11.5,MAPS 1-2 Kills,shiro,ESPORTS,LGD ,2023-10-12
+1141,11.5,MAPS 1-2 Kills,shiro,ESPORTS,LGD ,2023-10-12
+1142,71.9,fantasy_points_in_games_1_2,NothingToSay,ESPORTS,LGD ,2023-10-12
+1143,71.9,fantasy_points_in_games_1_2,NothingToSay,ESPORTS,LGD ,2023-10-12
+1144,11.5,MAPS 1-2 Kills,NothingToSay,ESPORTS,LGD ,2023-10-12
+1145,11.5,MAPS 1-2 Kills,NothingToSay,ESPORTS,LGD ,2023-10-12
+1146,58.1,fantasy_points_in_games_1_2,niu,ESPORTS,LGD ,2023-10-12
+1147,58.1,fantasy_points_in_games_1_2,niu,ESPORTS,LGD ,2023-10-12
+1148,7.0,MAPS 1-2 Kills,niu,ESPORTS,LGD ,2023-10-12
+1149,7.0,MAPS 1-2 Kills,niu,ESPORTS,LGD ,2023-10-12
+1150,56.8,fantasy_points_in_games_1_2,planet,ESPORTS,LGD ,2023-10-12
+1151,56.8,fantasy_points_in_games_1_2,planet,ESPORTS,LGD ,2023-10-12
+1152,5.0,MAPS 1-2 Kills,planet,ESPORTS,LGD ,2023-10-12
+1153,5.0,MAPS 1-2 Kills,planet,ESPORTS,LGD ,2023-10-12
+1154,52.2,fantasy_points_in_games_1_2,Dota: y`,other,Dota: y`,
+1155,4.5,MAPS 1-2 Kills,Dota: y`,other,Dota: y`,
+1156,82.1,fantasy_points_in_games_1_2,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1157,82.1,fantasy_points_in_games_1_2,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1158,14.5,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1159,14.5,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1160,93.9,fantasy_points_in_games_1_2,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1161,93.9,fantasy_points_in_games_1_2,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1162,13.5,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1163,13.5,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1164,86.7,fantasy_points_in_games_1_2,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1165,86.7,fantasy_points_in_games_1_2,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1166,11.0,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1167,11.0,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1168,69.1,fantasy_points_in_games_1_2,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1169,69.1,fantasy_points_in_games_1_2,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1170,7.5,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1171,7.5,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1172,71.2,fantasy_points_in_games_1_2,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1173,71.2,fantasy_points_in_games_1_2,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1174,6.0,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1175,6.0,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1176,65.2,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1177,65.2,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1178,65.2,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1179,10.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1180,10.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1181,10.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1182,66.8,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1183,66.8,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1184,66.8,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1185,11.5,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1186,11.5,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1187,11.5,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1188,53.6,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1189,53.6,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1190,53.6,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1191,6.5,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+1192,6.5,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+1193,6.5,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+1194,49.8,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+1195,49.8,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+1196,49.8,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+1197,4.5,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+1198,4.5,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+1199,4.5,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+1200,49.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+1201,49.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+1202,49.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+1203,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+1204,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+1205,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+1206,86.4,fantasy_points_in_games_1_2,skiter,ESPORTS,Tundra ,2023-10-12
+1207,86.4,fantasy_points_in_games_1_2,skiter,ESPORTS,Tundra ,2023-10-12
+1208,13.5,MAPS 1-2 Kills,skiter,ESPORTS,Tundra ,2023-10-12
+1209,13.5,MAPS 1-2 Kills,skiter,ESPORTS,Tundra ,2023-10-12
+1210,108.0,fantasy_points_in_games_1_2,Topson,ESPORTS,Tundra ,2023-10-12
+1211,108.0,fantasy_points_in_games_1_2,Topson,ESPORTS,Tundra ,2023-10-12
+1212,19.5,MAPS 1-2 Kills,Topson,ESPORTS,Tundra ,2023-10-12
+1213,19.5,MAPS 1-2 Kills,Topson,ESPORTS,Tundra ,2023-10-12
+1214,87.4,fantasy_points_in_games_1_2,33,ESPORTS,Tundra ,2023-10-12
+1215,87.4,fantasy_points_in_games_1_2,33,ESPORTS,Tundra ,2023-10-12
+1216,10.5,MAPS 1-2 Kills,33,ESPORTS,Tundra ,2023-10-12
+1217,10.5,MAPS 1-2 Kills,33,ESPORTS,Tundra ,2023-10-12
+1218,70.4,fantasy_points_in_games_1_2,Nine,ESPORTS,Tundra ,2023-10-12
+1219,70.4,fantasy_points_in_games_1_2,Nine,ESPORTS,Tundra ,2023-10-12
+1220,6.0,MAPS 1-2 Kills,Nine,ESPORTS,Tundra ,2023-10-12
+1221,6.0,MAPS 1-2 Kills,Nine,ESPORTS,Tundra ,2023-10-12
+1222,77.0,fantasy_points_in_games_1_2,Sneyking,ESPORTS,Tundra ,2023-10-12
+1223,77.0,fantasy_points_in_games_1_2,Sneyking,ESPORTS,Tundra ,2023-10-12
+1224,7.0,MAPS 1-2 Kills,Sneyking,ESPORTS,Tundra ,2023-10-12
+1225,7.0,MAPS 1-2 Kills,Sneyking,ESPORTS,Tundra ,2023-10-12
+1226,112.7,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+1227,112.7,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+1228,112.7,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+1229,21.5,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1230,21.5,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1231,21.5,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1232,95.9,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1233,95.9,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1234,95.9,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1235,13.0,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1236,13.0,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1237,13.0,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1238,93.6,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1239,93.6,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1240,93.6,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1241,13.0,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1242,13.0,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1243,13.0,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1244,69.8,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1245,69.8,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1246,69.8,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1247,7.5,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1248,7.5,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1249,7.5,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1250,72.7,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1251,72.7,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1252,72.7,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1253,6.5,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1254,6.5,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1255,6.5,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1256,75.6,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1257,75.6,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1258,75.6,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1259,13.5,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1260,13.5,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1261,13.5,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1262,69.7,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1263,69.7,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1264,69.7,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1265,11.5,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1266,11.5,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1267,11.5,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1268,55.1,fantasy_points_in_games_1_2,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+1269,6.0,MAPS 1-2 Kills,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+1270,49.2,fantasy_points_in_games_1_2,Dota: ah,other,Dota: ah,
+1271,5.0,MAPS 1-2 Kills,Dota: ah,other,Dota: ah,
+1272,58.1,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1273,58.1,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1274,58.1,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1275,5.0,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1276,5.0,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1277,5.0,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1278,104.0,fantasy_points_in_games_1_2,miCKe,ESPORTS,Liquid ,2023-10-12
+1279,104.0,fantasy_points_in_games_1_2,miCKe,ESPORTS,Liquid ,2023-10-12
+1280,18.0,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-10-12
+1281,18.0,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-10-12
+1282,98.4,fantasy_points_in_games_1_2,Nisha,ESPORTS,Liquid ,2023-10-12
+1283,98.4,fantasy_points_in_games_1_2,Nisha,ESPORTS,Liquid ,2023-10-12
+1284,15.0,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-10-12
+1285,15.0,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-10-12
+1286,90.4,fantasy_points_in_games_1_2,zai,ESPORTS,Liquid ,2023-10-12
+1287,90.4,fantasy_points_in_games_1_2,zai,ESPORTS,Liquid ,2023-10-12
+1288,10.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-10-12
+1289,10.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-10-12
+1290,80.5,fantasy_points_in_games_1_2,Boxi,ESPORTS,Liquid ,2023-10-12
+1291,80.5,fantasy_points_in_games_1_2,Boxi,ESPORTS,Liquid ,2023-10-12
+1292,7.5,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-10-12
+1293,7.5,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-10-12
+1294,75.3,fantasy_points_in_games_1_2,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1295,75.3,fantasy_points_in_games_1_2,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1296,6.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1297,6.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1298,67.4,fantasy_points_in_games_1_2,Lou,ESPORTS,Azure Ray ,2023-10-12
+1299,10.0,MAPS 1-2 Kills,Lou,ESPORTS,Azure Ray ,2023-10-12
+1300,76.6,fantasy_points_in_games_1_2,Somnus,ESPORTS,Azure Ray ,2023-10-12
+1301,14.0,MAPS 1-2 Kills,Somnus,ESPORTS,Azure Ray ,2023-10-12
+1302,63.5,fantasy_points_in_games_1_2,Chalice,ESPORTS,Azure Ray ,2023-10-12
+1303,8.5,MAPS 1-2 Kills,Chalice,ESPORTS,Azure Ray ,2023-10-12
+1304,57.8,fantasy_points_in_games_1_2,fy,ESPORTS,Azure Ray ,2023-10-12
+1305,6.0,MAPS 1-2 Kills,fy,ESPORTS,Azure Ray ,2023-10-12
+1306,52.6,fantasy_points_in_games_1_2,Dota: Tian Ming ,other,Dota: Tian Ming ,
+1307,5.5,MAPS 1-2 Kills,Dota: Tian Ming ,other,Dota: Tian Ming ,
+1308,63.5,fantasy_points_in_games_1_2,Dota: Knight~,other,Dota: Knight~,
+1309,10.0,MAPS 1-2 Kills,Dota: Knight~,other,Dota: Knight~,
+1310,68.2,fantasy_points_in_games_1_2,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1311,68.2,fantasy_points_in_games_1_2,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1312,10.5,MAPS 1-2 Kills,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1313,10.5,MAPS 1-2 Kills,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1314,50.9,fantasy_points_in_games_1_2,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1315,50.9,fantasy_points_in_games_1_2,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1316,6.0,MAPS 1-2 Kills,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1317,6.0,MAPS 1-2 Kills,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1318,45.5,fantasy_points_in_games_1_2,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1319,45.5,fantasy_points_in_games_1_2,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1320,5.0,MAPS 1-2 Kills,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1321,5.0,MAPS 1-2 Kills,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1322,37.8,fantasy_points_in_games_1_2,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1323,37.8,fantasy_points_in_games_1_2,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1324,3.0,MAPS 1-2 Kills,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1325,3.0,MAPS 1-2 Kills,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1326,100.9,fantasy_points_in_games_1_2,Arteezy,ESPORTS,Shopify Rebellion ,2023-10-12
+1327,16.5,MAPS 1-2 Kills,Arteezy,ESPORTS,Shopify Rebellion ,2023-10-12
+1328,104.6,fantasy_points_in_games_1_2,Abed,ESPORTS,Shopify Rebellion ,2023-10-12
+1329,18.5,MAPS 1-2 Kills,Abed,ESPORTS,Shopify Rebellion ,2023-10-12
+1330,87.6,fantasy_points_in_games_1_2,SabeRLight-,ESPORTS,Shopify Rebellion ,2023-10-12
+1331,12.0,MAPS 1-2 Kills,SabeRLight-,ESPORTS,Shopify Rebellion ,2023-10-12
+1332,78.2,fantasy_points_in_games_1_2,Cr1t-,ESPORTS,Shopify Rebellion ,2023-10-12
+1333,6.0,MAPS 1-2 Kills,Cr1t-,ESPORTS,Shopify Rebellion ,2023-10-12
+1334,66.5,fantasy_points_in_games_1_2,Fly,ESPORTS,Shopify Rebellion ,2023-10-12
+1335,5.0,MAPS 1-2 Kills,Fly,ESPORTS,Shopify Rebellion ,2023-10-12
+1336,64.7,fantasy_points_in_games_1_2,Dota: K1,other,Dota: K1,
+1337,11.5,MAPS 1-2 Kills,Dota: K1,other,Dota: K1,
+1338,76.0,fantasy_points_in_games_1_2,Gunnar,ESPORTS,nouns ,2023-10-12
+1339,76.0,fantasy_points_in_games_1_2,Gunnar,ESPORTS,nouns ,2023-10-12
+1340,11.0,MAPS 1-2 Kills,Gunnar,ESPORTS,nouns ,2023-10-12
+1341,11.0,MAPS 1-2 Kills,Gunnar,ESPORTS,nouns ,2023-10-12
+1342,66.2,fantasy_points_in_games_1_2,Moo,ESPORTS,nouns ,2023-10-12
+1343,66.2,fantasy_points_in_games_1_2,Moo,ESPORTS,nouns ,2023-10-12
+1344,8.5,MAPS 1-2 Kills,Moo,ESPORTS,nouns ,2023-10-12
+1345,8.5,MAPS 1-2 Kills,Moo,ESPORTS,nouns ,2023-10-12
+1346,62.4,fantasy_points_in_games_1_2,Dota: Lelis,other,Dota: Lelis,
+1347,4.5,MAPS 1-2 Kills,Dota: Lelis,other,Dota: Lelis,
+1348,40.5,fantasy_points_in_games_1_2,Yamsun,ESPORTS,nouns ,2023-10-12
+1349,40.5,fantasy_points_in_games_1_2,Yamsun,ESPORTS,nouns ,2023-10-12
+1350,4.0,MAPS 1-2 Kills,Yamsun,ESPORTS,nouns ,2023-10-12
+1351,4.0,MAPS 1-2 Kills,Yamsun,ESPORTS,nouns ,2023-10-12
+1352,119.6,fantasy_points_in_games_1_2,Parker,ESPORTS, beastcoast,2023-10-12
+1353,119.6,fantasy_points_in_games_1_2,Parker,ESPORTS, beastcoast,2023-10-12
+1354,23.5,MAPS 1-2 Kills,Parker,ESPORTS, beastcoast,2023-10-12
+1355,23.5,MAPS 1-2 Kills,Parker,ESPORTS, beastcoast,2023-10-12
+1356,101.5,fantasy_points_in_games_1_2,DarkMago,ESPORTS, beastcoast,2023-10-12
+1357,101.5,fantasy_points_in_games_1_2,DarkMago,ESPORTS, beastcoast,2023-10-12
+1358,14.5,MAPS 1-2 Kills,DarkMago,ESPORTS, beastcoast,2023-10-12
+1359,14.5,MAPS 1-2 Kills,DarkMago,ESPORTS, beastcoast,2023-10-12
+1360,94.5,fantasy_points_in_games_1_2,Sacred,ESPORTS, beastcoast,2023-10-12
+1361,94.5,fantasy_points_in_games_1_2,Sacred,ESPORTS, beastcoast,2023-10-12
+1362,10.5,MAPS 1-2 Kills,Sacred,ESPORTS, beastcoast,2023-10-12
+1363,10.5,MAPS 1-2 Kills,Sacred,ESPORTS, beastcoast,2023-10-12
+1364,77.1,fantasy_points_in_games_1_2,Dota: Scofield,other,Dota: Scofield,
+1365,5.5,MAPS 1-2 Kills,Dota: Scofield,other,Dota: Scofield,
+1366,77.0,fantasy_points_in_games_1_2,Stinger,ESPORTS, beastcoast,2023-10-12
+1367,77.0,fantasy_points_in_games_1_2,Stinger,ESPORTS, beastcoast,2023-10-12
+1368,4.5,MAPS 1-2 Kills,Stinger,ESPORTS, beastcoast,2023-10-12
+1369,4.5,MAPS 1-2 Kills,Stinger,ESPORTS, beastcoast,2023-10-12
+1370,82.5,fantasy_points_in_games_1_2,skiter,ESPORTS,Tundra ,2023-10-12
+1371,82.5,fantasy_points_in_games_1_2,skiter,ESPORTS,Tundra ,2023-10-12
+1372,12.5,MAPS 1-2 Kills,skiter,ESPORTS,Tundra ,2023-10-12
+1373,12.5,MAPS 1-2 Kills,skiter,ESPORTS,Tundra ,2023-10-12
+1374,102.0,fantasy_points_in_games_1_2,Topson,ESPORTS,Tundra ,2023-10-12
+1375,102.0,fantasy_points_in_games_1_2,Topson,ESPORTS,Tundra ,2023-10-12
+1376,17.5,MAPS 1-2 Kills,Topson,ESPORTS,Tundra ,2023-10-12
+1377,17.5,MAPS 1-2 Kills,Topson,ESPORTS,Tundra ,2023-10-12
+1378,82.6,fantasy_points_in_games_1_2,33,ESPORTS,Tundra ,2023-10-12
+1379,82.6,fantasy_points_in_games_1_2,33,ESPORTS,Tundra ,2023-10-12
+1380,10.0,MAPS 1-2 Kills,33,ESPORTS,Tundra ,2023-10-12
+1381,10.0,MAPS 1-2 Kills,33,ESPORTS,Tundra ,2023-10-12
+1382,67.3,fantasy_points_in_games_1_2,Nine,ESPORTS,Tundra ,2023-10-12
+1383,67.3,fantasy_points_in_games_1_2,Nine,ESPORTS,Tundra ,2023-10-12
+1384,5.5,MAPS 1-2 Kills,Nine,ESPORTS,Tundra ,2023-10-12
+1385,5.5,MAPS 1-2 Kills,Nine,ESPORTS,Tundra ,2023-10-12
+1386,75.0,fantasy_points_in_games_1_2,Sneyking,ESPORTS,Tundra ,2023-10-12
+1387,75.0,fantasy_points_in_games_1_2,Sneyking,ESPORTS,Tundra ,2023-10-12
+1388,6.5,MAPS 1-2 Kills,Sneyking,ESPORTS,Tundra ,2023-10-12
+1389,6.5,MAPS 1-2 Kills,Sneyking,ESPORTS,Tundra ,2023-10-12
+1390,72.9,fantasy_points_in_games_1_2,23savage,ESPORTS, Talon,2023-10-12
+1391,72.9,fantasy_points_in_games_1_2,23savage,ESPORTS, Talon,2023-10-12
+1392,10.5,MAPS 1-2 Kills,23savage,ESPORTS, Talon,2023-10-12
+1393,10.5,MAPS 1-2 Kills,23savage,ESPORTS, Talon,2023-10-12
+1394,78.2,fantasy_points_in_games_1_2,Mikoto,ESPORTS, Talon,2023-10-12
+1395,78.2,fantasy_points_in_games_1_2,Mikoto,ESPORTS, Talon,2023-10-12
+1396,12.0,MAPS 1-2 Kills,Mikoto,ESPORTS, Talon,2023-10-12
+1397,12.0,MAPS 1-2 Kills,Mikoto,ESPORTS, Talon,2023-10-12
+1398,66.2,fantasy_points_in_games_1_2,Jabz,ESPORTS, Talon,2023-10-12
+1399,66.2,fantasy_points_in_games_1_2,Jabz,ESPORTS, Talon,2023-10-12
+1400,7.5,MAPS 1-2 Kills,Jabz,ESPORTS, Talon,2023-10-12
+1401,7.5,MAPS 1-2 Kills,Jabz,ESPORTS, Talon,2023-10-12
+1402,61.6,fantasy_points_in_games_1_2,Q,ESPORTS, Talon,2023-10-12
+1403,61.6,fantasy_points_in_games_1_2,Q,ESPORTS, Talon,2023-10-12
+1404,6.5,MAPS 1-2 Kills,Q,ESPORTS, Talon,2023-10-12
+1405,6.5,MAPS 1-2 Kills,Q,ESPORTS, Talon,2023-10-12
+1406,57.1,fantasy_points_in_games_1_2,Oli~,ESPORTS, Talon,2023-10-12
+1407,57.1,fantasy_points_in_games_1_2,Oli~,ESPORTS, Talon,2023-10-12
+1408,4.5,MAPS 1-2 Kills,Oli~,ESPORTS, Talon,2023-10-12
+1409,4.5,MAPS 1-2 Kills,Oli~,ESPORTS, Talon,2023-10-12
+1410,93.5,fantasy_points_in_games_1_2,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1411,93.5,fantasy_points_in_games_1_2,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1412,14.5,MAPS 1-2 Kills,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1413,14.5,MAPS 1-2 Kills,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1414,102.1,fantasy_points_in_games_1_2,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1415,102.1,fantasy_points_in_games_1_2,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1416,19.0,MAPS 1-2 Kills,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1417,19.0,MAPS 1-2 Kills,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1418,81.8,fantasy_points_in_games_1_2,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1419,81.8,fantasy_points_in_games_1_2,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1420,8.5,MAPS 1-2 Kills,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1421,8.5,MAPS 1-2 Kills,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1422,75.1,fantasy_points_in_games_1_2,Antares,ESPORTS,9 Pandas ,2023-10-12
+1423,75.1,fantasy_points_in_games_1_2,Antares,ESPORTS,9 Pandas ,2023-10-12
+1424,6.5,MAPS 1-2 Kills,Antares,ESPORTS,9 Pandas ,2023-10-12
+1425,6.5,MAPS 1-2 Kills,Antares,ESPORTS,9 Pandas ,2023-10-12
+1426,65.7,fantasy_points_in_games_1_2,Solo,ESPORTS,9 Pandas ,2023-10-12
+1427,65.7,fantasy_points_in_games_1_2,Solo,ESPORTS,9 Pandas ,2023-10-12
+1428,6.0,MAPS 1-2 Kills,Solo,ESPORTS,9 Pandas ,2023-10-12
+1429,6.0,MAPS 1-2 Kills,Solo,ESPORTS,9 Pandas ,2023-10-12
+1430,84.0,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1431,84.0,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1432,84.0,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1433,15.0,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1434,15.0,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1435,15.0,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1436,79.8,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1437,79.8,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1438,79.8,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1439,11.0,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1440,11.0,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1441,11.0,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1442,79.8,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1443,79.8,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1444,79.8,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1445,11.0,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1446,11.0,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1447,11.0,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1448,67.6,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1449,67.6,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1450,67.6,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1451,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1452,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1453,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1454,59.2,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1455,59.2,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1456,59.2,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1457,5.0,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1458,5.0,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1459,5.0,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1460,87.1,fantasy_points_in_games_1_2,miCKe,ESPORTS,Liquid ,2023-10-12
+1461,87.1,fantasy_points_in_games_1_2,miCKe,ESPORTS,Liquid ,2023-10-12
+1462,15.0,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-10-12
+1463,15.0,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-10-12
+1464,84.8,fantasy_points_in_games_1_2,Nisha,ESPORTS,Liquid ,2023-10-12
+1465,84.8,fantasy_points_in_games_1_2,Nisha,ESPORTS,Liquid ,2023-10-12
+1466,13.5,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-10-12
+1467,13.5,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-10-12
+1468,76.1,fantasy_points_in_games_1_2,zai,ESPORTS,Liquid ,2023-10-12
+1469,76.1,fantasy_points_in_games_1_2,zai,ESPORTS,Liquid ,2023-10-12
+1470,9.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-10-12
+1471,9.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-10-12
+1472,64.2,fantasy_points_in_games_1_2,Boxi,ESPORTS,Liquid ,2023-10-12
+1473,64.2,fantasy_points_in_games_1_2,Boxi,ESPORTS,Liquid ,2023-10-12
+1474,6.0,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-10-12
+1475,6.0,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-10-12
+1476,61.2,fantasy_points_in_games_1_2,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1477,61.2,fantasy_points_in_games_1_2,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1478,5.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1479,5.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1480,85.6,fantasy_points_in_games_1_2,Nightfall,ESPORTS, BetBoom,2023-10-12
+1481,85.6,fantasy_points_in_games_1_2,Nightfall,ESPORTS, BetBoom,2023-10-12
+1482,14.5,MAPS 1-2 Kills,Nightfall,ESPORTS, BetBoom,2023-10-12
+1483,14.5,MAPS 1-2 Kills,Nightfall,ESPORTS, BetBoom,2023-10-12
+1484,83.9,fantasy_points_in_games_1_2,gpk,ESPORTS, BetBoom,2023-10-12
+1485,83.9,fantasy_points_in_games_1_2,gpk,ESPORTS, BetBoom,2023-10-12
+1486,12.5,MAPS 1-2 Kills,gpk,ESPORTS, BetBoom,2023-10-12
+1487,12.5,MAPS 1-2 Kills,gpk,ESPORTS, BetBoom,2023-10-12
+1488,83.8,fantasy_points_in_games_1_2,Pure,ESPORTS, BetBoom,2023-10-12
+1489,83.8,fantasy_points_in_games_1_2,Pure,ESPORTS, BetBoom,2023-10-12
+1490,10.0,MAPS 1-2 Kills,Pure,ESPORTS, BetBoom,2023-10-12
+1491,10.0,MAPS 1-2 Kills,Pure,ESPORTS, BetBoom,2023-10-12
+1492,63.9,fantasy_points_in_games_1_2,Save-,ESPORTS, BetBoom,2023-10-12
+1493,63.9,fantasy_points_in_games_1_2,Save-,ESPORTS, BetBoom,2023-10-12
+1494,6.5,MAPS 1-2 Kills,Save-,ESPORTS, BetBoom,2023-10-12
+1495,6.5,MAPS 1-2 Kills,Save-,ESPORTS, BetBoom,2023-10-12
+1496,66.1,fantasy_points_in_games_1_2,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1497,66.1,fantasy_points_in_games_1_2,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1498,4.5,MAPS 1-2 Kills,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1499,4.5,MAPS 1-2 Kills,TORONTOTOKYO,ESPORTS, BetBoom,2023-10-12
+1500,102.1,fantasy_points_in_games_1_2,shiro,ESPORTS,LGD ,2023-10-12
+1501,102.1,fantasy_points_in_games_1_2,shiro,ESPORTS,LGD ,2023-10-12
+1502,17.5,MAPS 1-2 Kills,shiro,ESPORTS,LGD ,2023-10-12
+1503,17.5,MAPS 1-2 Kills,shiro,ESPORTS,LGD ,2023-10-12
+1504,107.2,fantasy_points_in_games_1_2,NothingToSay,ESPORTS,LGD ,2023-10-12
+1505,107.2,fantasy_points_in_games_1_2,NothingToSay,ESPORTS,LGD ,2023-10-12
+1506,16.5,MAPS 1-2 Kills,NothingToSay,ESPORTS,LGD ,2023-10-12
+1507,16.5,MAPS 1-2 Kills,NothingToSay,ESPORTS,LGD ,2023-10-12
+1508,91.3,fantasy_points_in_games_1_2,niu,ESPORTS,LGD ,2023-10-12
+1509,91.3,fantasy_points_in_games_1_2,niu,ESPORTS,LGD ,2023-10-12
+1510,10.5,MAPS 1-2 Kills,niu,ESPORTS,LGD ,2023-10-12
+1511,10.5,MAPS 1-2 Kills,niu,ESPORTS,LGD ,2023-10-12
+1512,86.0,fantasy_points_in_games_1_2,planet,ESPORTS,LGD ,2023-10-12
+1513,86.0,fantasy_points_in_games_1_2,planet,ESPORTS,LGD ,2023-10-12
+1514,6.5,MAPS 1-2 Kills,planet,ESPORTS,LGD ,2023-10-12
+1515,6.5,MAPS 1-2 Kills,planet,ESPORTS,LGD ,2023-10-12
+1516,84.4,fantasy_points_in_games_1_2,Dota: y`,other,Dota: y`,
+1517,6.0,MAPS 1-2 Kills,Dota: y`,other,Dota: y`,
+1518,56.0,fantasy_points_in_games_1_2,Dota: K1,other,Dota: K1,
+1519,9.5,MAPS 1-2 Kills,Dota: K1,other,Dota: K1,
+1520,64.7,fantasy_points_in_games_1_2,Gunnar,ESPORTS,nouns ,2023-10-12
+1521,64.7,fantasy_points_in_games_1_2,Gunnar,ESPORTS,nouns ,2023-10-12
+1522,9.0,MAPS 1-2 Kills,Gunnar,ESPORTS,nouns ,2023-10-12
+1523,9.0,MAPS 1-2 Kills,Gunnar,ESPORTS,nouns ,2023-10-12
+1524,54.1,fantasy_points_in_games_1_2,Moo,ESPORTS,nouns ,2023-10-12
+1525,54.1,fantasy_points_in_games_1_2,Moo,ESPORTS,nouns ,2023-10-12
+1526,6.5,MAPS 1-2 Kills,Moo,ESPORTS,nouns ,2023-10-12
+1527,6.5,MAPS 1-2 Kills,Moo,ESPORTS,nouns ,2023-10-12
+1528,51.3,fantasy_points_in_games_1_2,Dota: Lelis,other,Dota: Lelis,
+1529,4.0,MAPS 1-2 Kills,Dota: Lelis,other,Dota: Lelis,
+1530,33.0,fantasy_points_in_games_1_2,Yamsun,ESPORTS,nouns ,2023-10-12
+1531,33.0,fantasy_points_in_games_1_2,Yamsun,ESPORTS,nouns ,2023-10-12
+1532,3.5,MAPS 1-2 Kills,Yamsun,ESPORTS,nouns ,2023-10-12
+1533,3.5,MAPS 1-2 Kills,Yamsun,ESPORTS,nouns ,2023-10-12
+1534,58.5,fantasy_points_in_games_1_2,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1535,58.5,fantasy_points_in_games_1_2,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1536,8.5,MAPS 1-2 Kills,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1537,8.5,MAPS 1-2 Kills,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1538,64.5,fantasy_points_in_games_1_2,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1539,64.5,fantasy_points_in_games_1_2,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1540,11.5,MAPS 1-2 Kills,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1541,11.5,MAPS 1-2 Kills,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1542,47.8,fantasy_points_in_games_1_2,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1543,47.8,fantasy_points_in_games_1_2,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1544,5.5,MAPS 1-2 Kills,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1545,5.5,MAPS 1-2 Kills,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1546,41.0,fantasy_points_in_games_1_2,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1547,41.0,fantasy_points_in_games_1_2,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1548,4.5,MAPS 1-2 Kills,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1549,4.5,MAPS 1-2 Kills,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1550,31.9,fantasy_points_in_games_1_2,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1551,31.9,fantasy_points_in_games_1_2,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1552,3.5,MAPS 1-2 Kills,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1553,3.5,MAPS 1-2 Kills,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1554,90.9,fantasy_points_in_games_1_2,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1555,90.9,fantasy_points_in_games_1_2,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1556,16.0,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1557,16.0,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1558,100.5,fantasy_points_in_games_1_2,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1559,100.5,fantasy_points_in_games_1_2,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1560,14.0,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1561,14.0,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1562,94.0,fantasy_points_in_games_1_2,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1563,94.0,fantasy_points_in_games_1_2,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1564,11.5,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1565,11.5,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1566,76.0,fantasy_points_in_games_1_2,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1567,76.0,fantasy_points_in_games_1_2,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1568,8.0,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1569,8.0,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1570,79.2,fantasy_points_in_games_1_2,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1571,79.2,fantasy_points_in_games_1_2,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1572,6.5,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1573,6.5,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1574,66.0,fantasy_points_in_games_1_2,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1575,66.0,fantasy_points_in_games_1_2,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1576,10.0,MAPS 1-2 Kills,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1577,10.0,MAPS 1-2 Kills,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1578,60.4,fantasy_points_in_games_1_2,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1579,60.4,fantasy_points_in_games_1_2,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1580,10.0,MAPS 1-2 Kills,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1581,10.0,MAPS 1-2 Kills,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1582,49.9,fantasy_points_in_games_1_2,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1583,49.9,fantasy_points_in_games_1_2,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1584,7.5,MAPS 1-2 Kills,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1585,7.5,MAPS 1-2 Kills,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1586,36.7,fantasy_points_in_games_1_2,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1587,36.7,fantasy_points_in_games_1_2,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1588,4.5,MAPS 1-2 Kills,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1589,4.5,MAPS 1-2 Kills,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1590,36.8,fantasy_points_in_games_1_2,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1591,36.8,fantasy_points_in_games_1_2,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1592,3.5,MAPS 1-2 Kills,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1593,3.5,MAPS 1-2 Kills,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1594,114.5,fantasy_points_in_games_1_2,TA2000,ESPORTS, PSG Quest,2023-10-12
+1595,114.5,fantasy_points_in_games_1_2,TA2000,ESPORTS, PSG Quest,2023-10-12
+1596,17.5,MAPS 1-2 Kills,TA2000,ESPORTS, PSG Quest,2023-10-12
+1597,17.5,MAPS 1-2 Kills,TA2000,ESPORTS, PSG Quest,2023-10-12
+1598,121.0,fantasy_points_in_games_1_2,No!ob,ESPORTS, PSG Quest,2023-10-12
+1599,121.0,fantasy_points_in_games_1_2,No!ob,ESPORTS, PSG Quest,2023-10-12
+1600,15.5,MAPS 1-2 Kills,No!ob,ESPORTS, PSG Quest,2023-10-12
+1601,15.5,MAPS 1-2 Kills,No!ob,ESPORTS, PSG Quest,2023-10-12
+1602,96.8,fantasy_points_in_games_1_2,Tobi,ESPORTS, PSG Quest,2023-10-12
+1603,96.8,fantasy_points_in_games_1_2,Tobi,ESPORTS, PSG Quest,2023-10-12
+1604,9.5,MAPS 1-2 Kills,Tobi,ESPORTS, PSG Quest,2023-10-12
+1605,9.5,MAPS 1-2 Kills,Tobi,ESPORTS, PSG Quest,2023-10-12
+1606,96.5,fantasy_points_in_games_1_2,OmaR,ESPORTS, PSG Quest,2023-10-12
+1607,96.5,fantasy_points_in_games_1_2,OmaR,ESPORTS, PSG Quest,2023-10-12
+1608,8.0,MAPS 1-2 Kills,OmaR,ESPORTS, PSG Quest,2023-10-12
+1609,8.0,MAPS 1-2 Kills,OmaR,ESPORTS, PSG Quest,2023-10-12
+1610,88.5,fantasy_points_in_games_1_2,kaori,ESPORTS, PSG Quest,2023-10-12
+1611,88.5,fantasy_points_in_games_1_2,kaori,ESPORTS, PSG Quest,2023-10-12
+1612,8.0,MAPS 1-2 Kills,kaori,ESPORTS, PSG Quest,2023-10-12
+1613,8.0,MAPS 1-2 Kills,kaori,ESPORTS, PSG Quest,2023-10-12
+1614,112.8,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+1615,112.8,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+1616,112.8,fantasy_points_in_games_1_2,Yatoro,ESPORTS,Spirit ,2023-10-12
+1617,21.5,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1618,21.5,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1619,21.5,MAPS 1-2 Kills,Yatoro,ESPORTS,Spirit ,2023-10-12
+1620,96.7,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1621,96.7,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1622,96.7,fantasy_points_in_games_1_2,Larl,ESPORTS,Spirit ,2023-10-12
+1623,13.0,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1624,13.0,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1625,13.0,MAPS 1-2 Kills,Larl,ESPORTS,Spirit ,2023-10-12
+1626,92.9,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1627,92.9,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1628,92.9,fantasy_points_in_games_1_2,Collapse,ESPORTS,Spirit ,2023-10-12
+1629,12.5,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1630,12.5,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1631,12.5,MAPS 1-2 Kills,Collapse,ESPORTS,Spirit ,2023-10-12
+1632,70.7,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1633,70.7,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1634,70.7,fantasy_points_in_games_1_2,Mira,ESPORTS,Spirit ,2023-10-12
+1635,7.5,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1636,7.5,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1637,7.5,MAPS 1-2 Kills,Mira,ESPORTS,Spirit ,2023-10-12
+1638,75.1,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1639,75.1,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1640,75.1,fantasy_points_in_games_1_2,Miposhka,ESPORTS,Spirit ,2023-10-12
+1641,6.5,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1642,6.5,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1643,6.5,MAPS 1-2 Kills,Miposhka,ESPORTS,Spirit ,2023-10-12
+1644,72.6,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1645,72.6,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1646,72.6,fantasy_points_in_games_1_2,Watson,ESPORTS, Entity,2023-10-12
+1647,13.5,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1648,13.5,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1649,13.5,MAPS 1-2 Kills,Watson,ESPORTS, Entity,2023-10-12
+1650,71.8,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1651,71.8,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1652,71.8,fantasy_points_in_games_1_2,Stormstormer,ESPORTS, Entity,2023-10-12
+1653,10.5,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1654,10.5,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1655,10.5,MAPS 1-2 Kills,Stormstormer,ESPORTS, Entity,2023-10-12
+1656,64.2,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1657,64.2,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1658,64.2,fantasy_points_in_games_1_2,Gabbi,ESPORTS, Entity,2023-10-12
+1659,8.0,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1660,8.0,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1661,8.0,MAPS 1-2 Kills,Gabbi,ESPORTS, Entity,2023-10-12
+1662,58.9,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1663,58.9,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1664,58.9,fantasy_points_in_games_1_2,Kataomi`,ESPORTS, Entity,2023-10-12
+1665,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1666,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1667,6.0,MAPS 1-2 Kills,Kataomi`,ESPORTS, Entity,2023-10-12
+1668,50.8,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1669,50.8,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1670,50.8,fantasy_points_in_games_1_2,Fishman,ESPORTS, Entity,2023-10-12
+1671,5.0,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1672,5.0,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1673,5.0,MAPS 1-2 Kills,Fishman,ESPORTS, Entity,2023-10-12
+1674,93.2,fantasy_points_in_games_1_2,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1675,93.2,fantasy_points_in_games_1_2,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1676,93.2,fantasy_points_in_games_1_2,Pakazs,ESPORTS,Evil Geniuses ,2023-10-11
+1677,17.5,MAPS 1-2 Kills,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1678,17.5,MAPS 1-2 Kills,Pakazs,ESPORTS,Evil Geniuses ,2023-10-12
+1679,17.5,MAPS 1-2 Kills,Pakazs,ESPORTS,Evil Geniuses ,2023-10-11
+1680,78.3,fantasy_points_in_games_1_2,Dota: Chris,other,Dota: Chris,
+1681,12.5,MAPS 1-2 Kills,Dota: Chris,other,Dota: Chris,
+1682,83.1,fantasy_points_in_games_1_2,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1683,83.1,fantasy_points_in_games_1_2,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1684,83.1,fantasy_points_in_games_1_2,Wisper,ESPORTS,Evil Geniuses ,2023-10-11
+1685,10.5,MAPS 1-2 Kills,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1686,10.5,MAPS 1-2 Kills,Wisper,ESPORTS,Evil Geniuses ,2023-10-12
+1687,10.5,MAPS 1-2 Kills,Wisper,ESPORTS,Evil Geniuses ,2023-10-11
+1688,71.3,fantasy_points_in_games_1_2,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1689,71.3,fantasy_points_in_games_1_2,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1690,71.3,fantasy_points_in_games_1_2,Matthew,ESPORTS,Evil Geniuses ,2023-10-11
+1691,5.5,MAPS 1-2 Kills,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1692,5.5,MAPS 1-2 Kills,Matthew,ESPORTS,Evil Geniuses ,2023-10-12
+1693,5.5,MAPS 1-2 Kills,Matthew,ESPORTS,Evil Geniuses ,2023-10-11
+1694,61.5,fantasy_points_in_games_1_2,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1695,61.5,fantasy_points_in_games_1_2,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1696,61.5,fantasy_points_in_games_1_2,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-11
+1697,5.0,MAPS 1-2 Kills,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1698,5.0,MAPS 1-2 Kills,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-12
+1699,5.0,MAPS 1-2 Kills,Pandaboo,ESPORTS,Evil Geniuses ,2023-10-11
+1700,82.7,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1701,82.7,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1702,82.7,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1703,14.0,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1704,14.0,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1705,14.0,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1706,89.5,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1707,89.5,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1708,89.5,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1709,14.0,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1710,14.0,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1711,14.0,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1712,69.1,fantasy_points_in_games_1_2,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+1713,6.5,MAPS 1-2 Kills,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+1714,63.0,fantasy_points_in_games_1_2,Dota: ah,other,Dota: ah,
+1715,5.5,MAPS 1-2 Kills,Dota: ah,other,Dota: ah,
+1716,71.9,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1717,71.9,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1718,71.9,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1719,6.0,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1720,6.0,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1721,6.0,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1722,81.6,fantasy_points_in_games_1_2,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1723,81.6,fantasy_points_in_games_1_2,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1724,12.5,MAPS 1-2 Kills,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1725,12.5,MAPS 1-2 Kills,Kiritych,ESPORTS,Virtus Pro ,2023-10-12
+1726,89.4,fantasy_points_in_games_1_2,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1727,89.4,fantasy_points_in_games_1_2,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1728,15.5,MAPS 1-2 Kills,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1729,15.5,MAPS 1-2 Kills,squad1x,ESPORTS,Virtus Pro ,2023-10-12
+1730,69.1,fantasy_points_in_games_1_2,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1731,69.1,fantasy_points_in_games_1_2,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1732,7.0,MAPS 1-2 Kills,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1733,7.0,MAPS 1-2 Kills,Noticed,ESPORTS,Virtus Pro ,2023-10-12
+1734,61.8,fantasy_points_in_games_1_2,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1735,61.8,fantasy_points_in_games_1_2,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1736,6.0,MAPS 1-2 Kills,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1737,6.0,MAPS 1-2 Kills,sayuw,ESPORTS,Virtus Pro ,2023-10-12
+1738,53.9,fantasy_points_in_games_1_2,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1739,53.9,fantasy_points_in_games_1_2,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1740,5.0,MAPS 1-2 Kills,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1741,5.0,MAPS 1-2 Kills,FNG,ESPORTS,Virtus Pro ,2023-10-12
+1742,110.6,fantasy_points_in_games_1_2,Parker,ESPORTS, beastcoast,2023-10-12
+1743,110.6,fantasy_points_in_games_1_2,Parker,ESPORTS, beastcoast,2023-10-12
+1744,22.0,MAPS 1-2 Kills,Parker,ESPORTS, beastcoast,2023-10-12
+1745,22.0,MAPS 1-2 Kills,Parker,ESPORTS, beastcoast,2023-10-12
+1746,91.2,fantasy_points_in_games_1_2,DarkMago,ESPORTS, beastcoast,2023-10-12
+1747,91.2,fantasy_points_in_games_1_2,DarkMago,ESPORTS, beastcoast,2023-10-12
+1748,13.5,MAPS 1-2 Kills,DarkMago,ESPORTS, beastcoast,2023-10-12
+1749,13.5,MAPS 1-2 Kills,DarkMago,ESPORTS, beastcoast,2023-10-12
+1750,84.9,fantasy_points_in_games_1_2,Sacred,ESPORTS, beastcoast,2023-10-12
+1751,84.9,fantasy_points_in_games_1_2,Sacred,ESPORTS, beastcoast,2023-10-12
+1752,10.0,MAPS 1-2 Kills,Sacred,ESPORTS, beastcoast,2023-10-12
+1753,10.0,MAPS 1-2 Kills,Sacred,ESPORTS, beastcoast,2023-10-12
+1754,68.1,fantasy_points_in_games_1_2,Dota: Scofield,other,Dota: Scofield,
+1755,5.5,MAPS 1-2 Kills,Dota: Scofield,other,Dota: Scofield,
+1756,67.7,fantasy_points_in_games_1_2,Stinger,ESPORTS, beastcoast,2023-10-12
+1757,67.7,fantasy_points_in_games_1_2,Stinger,ESPORTS, beastcoast,2023-10-12
+1758,4.5,MAPS 1-2 Kills,Stinger,ESPORTS, beastcoast,2023-10-12
+1759,4.5,MAPS 1-2 Kills,Stinger,ESPORTS, beastcoast,2023-10-12
+1760,74.1,fantasy_points_in_games_1_2,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1761,74.1,fantasy_points_in_games_1_2,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1762,11.0,MAPS 1-2 Kills,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1763,11.0,MAPS 1-2 Kills,Costabile,ESPORTS,Keyd Stars ,2023-10-12
+1764,71.7,fantasy_points_in_games_1_2,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1765,71.7,fantasy_points_in_games_1_2,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1766,11.0,MAPS 1-2 Kills,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1767,11.0,MAPS 1-2 Kills,4nalog,ESPORTS,Keyd Stars ,2023-10-12
+1768,57.8,fantasy_points_in_games_1_2,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1769,57.8,fantasy_points_in_games_1_2,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1770,8.0,MAPS 1-2 Kills,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1771,8.0,MAPS 1-2 Kills,fcr,ESPORTS,Keyd Stars ,2023-10-12
+1772,47.5,fantasy_points_in_games_1_2,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1773,47.5,fantasy_points_in_games_1_2,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1774,5.0,MAPS 1-2 Kills,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1775,5.0,MAPS 1-2 Kills,Kingrd,ESPORTS,Keyd Stars ,2023-10-12
+1776,45.0,fantasy_points_in_games_1_2,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1777,45.0,fantasy_points_in_games_1_2,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1778,3.5,MAPS 1-2 Kills,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1779,3.5,MAPS 1-2 Kills,KJ,ESPORTS,Keyd Stars ,2023-10-12
+1780,102.8,fantasy_points_in_games_1_2,skiter,ESPORTS,Tundra ,2023-10-12
+1781,102.8,fantasy_points_in_games_1_2,skiter,ESPORTS,Tundra ,2023-10-12
+1782,16.5,MAPS 1-2 Kills,skiter,ESPORTS,Tundra ,2023-10-12
+1783,16.5,MAPS 1-2 Kills,skiter,ESPORTS,Tundra ,2023-10-12
+1784,126.2,fantasy_points_in_games_1_2,Topson,ESPORTS,Tundra ,2023-10-12
+1785,126.2,fantasy_points_in_games_1_2,Topson,ESPORTS,Tundra ,2023-10-12
+1786,22.5,MAPS 1-2 Kills,Topson,ESPORTS,Tundra ,2023-10-12
+1787,22.5,MAPS 1-2 Kills,Topson,ESPORTS,Tundra ,2023-10-12
+1788,100.8,fantasy_points_in_games_1_2,33,ESPORTS,Tundra ,2023-10-12
+1789,100.8,fantasy_points_in_games_1_2,33,ESPORTS,Tundra ,2023-10-12
+1790,12.0,MAPS 1-2 Kills,33,ESPORTS,Tundra ,2023-10-12
+1791,12.0,MAPS 1-2 Kills,33,ESPORTS,Tundra ,2023-10-12
+1792,83.6,fantasy_points_in_games_1_2,Nine,ESPORTS,Tundra ,2023-10-12
+1793,83.6,fantasy_points_in_games_1_2,Nine,ESPORTS,Tundra ,2023-10-12
+1794,6.5,MAPS 1-2 Kills,Nine,ESPORTS,Tundra ,2023-10-12
+1795,6.5,MAPS 1-2 Kills,Nine,ESPORTS,Tundra ,2023-10-12
+1796,85.6,fantasy_points_in_games_1_2,Sneyking,ESPORTS,Tundra ,2023-10-12
+1797,85.6,fantasy_points_in_games_1_2,Sneyking,ESPORTS,Tundra ,2023-10-12
+1798,7.5,MAPS 1-2 Kills,Sneyking,ESPORTS,Tundra ,2023-10-12
+1799,7.5,MAPS 1-2 Kills,Sneyking,ESPORTS,Tundra ,2023-10-12
+1800,70.0,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1801,70.0,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1802,70.0,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1803,11.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1804,11.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1805,11.5,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1806,72.3,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1807,72.3,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1808,72.3,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1809,12.5,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1810,12.5,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1811,12.5,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1812,57.4,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1813,57.4,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1814,57.4,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1815,7.0,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+1816,7.0,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+1817,7.0,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+1818,54.4,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+1819,54.4,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+1820,54.4,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+1821,5.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+1822,5.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+1823,5.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+1824,50.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+1825,50.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+1826,50.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+1827,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+1828,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+1829,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+1830,94.1,fantasy_points_in_games_1_2,23savage,ESPORTS, Talon,2023-10-12
+1831,94.1,fantasy_points_in_games_1_2,23savage,ESPORTS, Talon,2023-10-12
+1832,14.5,MAPS 1-2 Kills,23savage,ESPORTS, Talon,2023-10-12
+1833,14.5,MAPS 1-2 Kills,23savage,ESPORTS, Talon,2023-10-12
+1834,97.2,fantasy_points_in_games_1_2,Mikoto,ESPORTS, Talon,2023-10-12
+1835,97.2,fantasy_points_in_games_1_2,Mikoto,ESPORTS, Talon,2023-10-12
+1836,15.0,MAPS 1-2 Kills,Mikoto,ESPORTS, Talon,2023-10-12
+1837,15.0,MAPS 1-2 Kills,Mikoto,ESPORTS, Talon,2023-10-12
+1838,83.5,fantasy_points_in_games_1_2,Jabz,ESPORTS, Talon,2023-10-12
+1839,83.5,fantasy_points_in_games_1_2,Jabz,ESPORTS, Talon,2023-10-12
+1840,9.0,MAPS 1-2 Kills,Jabz,ESPORTS, Talon,2023-10-12
+1841,9.0,MAPS 1-2 Kills,Jabz,ESPORTS, Talon,2023-10-12
+1842,78.5,fantasy_points_in_games_1_2,Q,ESPORTS, Talon,2023-10-12
+1843,78.5,fantasy_points_in_games_1_2,Q,ESPORTS, Talon,2023-10-12
+1844,7.5,MAPS 1-2 Kills,Q,ESPORTS, Talon,2023-10-12
+1845,7.5,MAPS 1-2 Kills,Q,ESPORTS, Talon,2023-10-12
+1846,73.2,fantasy_points_in_games_1_2,Oli~,ESPORTS, Talon,2023-10-12
+1847,73.2,fantasy_points_in_games_1_2,Oli~,ESPORTS, Talon,2023-10-12
+1848,5.0,MAPS 1-2 Kills,Oli~,ESPORTS, Talon,2023-10-12
+1849,5.0,MAPS 1-2 Kills,Oli~,ESPORTS, Talon,2023-10-12
+1850,96.5,fantasy_points_in_games_1_2,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1851,96.5,fantasy_points_in_games_1_2,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1852,15.0,MAPS 1-2 Kills,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1853,15.0,MAPS 1-2 Kills,RAMZES666,ESPORTS,9 Pandas ,2023-10-12
+1854,105.5,fantasy_points_in_games_1_2,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1855,105.5,fantasy_points_in_games_1_2,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1856,19.5,MAPS 1-2 Kills,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1857,19.5,MAPS 1-2 Kills,Kiyotaka,ESPORTS,9 Pandas ,2023-10-12
+1858,86.0,fantasy_points_in_games_1_2,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1859,86.0,fantasy_points_in_games_1_2,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1860,8.5,MAPS 1-2 Kills,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1861,8.5,MAPS 1-2 Kills,MieRo`,ESPORTS,9 Pandas ,2023-10-12
+1862,76.8,fantasy_points_in_games_1_2,Antares,ESPORTS,9 Pandas ,2023-10-12
+1863,76.8,fantasy_points_in_games_1_2,Antares,ESPORTS,9 Pandas ,2023-10-12
+1864,6.5,MAPS 1-2 Kills,Antares,ESPORTS,9 Pandas ,2023-10-12
+1865,6.5,MAPS 1-2 Kills,Antares,ESPORTS,9 Pandas ,2023-10-12
+1866,67.9,fantasy_points_in_games_1_2,Solo,ESPORTS,9 Pandas ,2023-10-12
+1867,67.9,fantasy_points_in_games_1_2,Solo,ESPORTS,9 Pandas ,2023-10-12
+1868,6.0,MAPS 1-2 Kills,Solo,ESPORTS,9 Pandas ,2023-10-12
+1869,6.0,MAPS 1-2 Kills,Solo,ESPORTS,9 Pandas ,2023-10-12
+1870,71.7,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1871,71.7,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1872,71.7,fantasy_points_in_games_1_2,MidOne,ESPORTS, SMG,2023-10-12
+1873,12.0,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1874,12.0,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1875,12.0,MAPS 1-2 Kills,MidOne,ESPORTS, SMG,2023-10-12
+1876,82.8,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1877,82.8,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1878,82.8,fantasy_points_in_games_1_2,No[o]ne-,ESPORTS, SMG,2023-10-12
+1879,13.0,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1880,13.0,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1881,13.0,MAPS 1-2 Kills,No[o]ne-,ESPORTS, SMG,2023-10-12
+1882,63.7,fantasy_points_in_games_1_2,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+1883,7.0,MAPS 1-2 Kills,Dota: MinD ContRoL,ESPORTS,Dota: MinD ContRoL,
+1884,56.7,fantasy_points_in_games_1_2,Dota: ah,other,Dota: ah,
+1885,5.0,MAPS 1-2 Kills,Dota: ah,other,Dota: ah,
+1886,63.4,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1887,63.4,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1888,63.4,fantasy_points_in_games_1_2,Jaunuel,ESPORTS, SMG,2023-10-12
+1889,5.5,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1890,5.5,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1891,5.5,MAPS 1-2 Kills,Jaunuel,ESPORTS, SMG,2023-10-12
+1892,80.5,fantasy_points_in_games_1_2,Arteezy,ESPORTS,Shopify Rebellion ,2023-10-12
+1893,13.0,MAPS 1-2 Kills,Arteezy,ESPORTS,Shopify Rebellion ,2023-10-12
+1894,85.3,fantasy_points_in_games_1_2,Abed,ESPORTS,Shopify Rebellion ,2023-10-12
+1895,15.0,MAPS 1-2 Kills,Abed,ESPORTS,Shopify Rebellion ,2023-10-12
+1896,68.9,fantasy_points_in_games_1_2,SabeRLight-,ESPORTS,Shopify Rebellion ,2023-10-12
+1897,9.5,MAPS 1-2 Kills,SabeRLight-,ESPORTS,Shopify Rebellion ,2023-10-12
+1898,63.6,fantasy_points_in_games_1_2,Cr1t-,ESPORTS,Shopify Rebellion ,2023-10-12
+1899,5.5,MAPS 1-2 Kills,Cr1t-,ESPORTS,Shopify Rebellion ,2023-10-12
+1900,52.5,fantasy_points_in_games_1_2,Fly,ESPORTS,Shopify Rebellion ,2023-10-12
+1901,4.5,MAPS 1-2 Kills,Fly,ESPORTS,Shopify Rebellion ,2023-10-12
+1902,100.3,fantasy_points_in_games_1_2,miCKe,ESPORTS,Liquid ,2023-10-12
+1903,100.3,fantasy_points_in_games_1_2,miCKe,ESPORTS,Liquid ,2023-10-12
+1904,17.5,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-10-12
+1905,17.5,MAPS 1-2 Kills,miCKe,ESPORTS,Liquid ,2023-10-12
+1906,95.9,fantasy_points_in_games_1_2,Nisha,ESPORTS,Liquid ,2023-10-12
+1907,95.9,fantasy_points_in_games_1_2,Nisha,ESPORTS,Liquid ,2023-10-12
+1908,14.5,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-10-12
+1909,14.5,MAPS 1-2 Kills,Nisha,ESPORTS,Liquid ,2023-10-12
+1910,87.2,fantasy_points_in_games_1_2,zai,ESPORTS,Liquid ,2023-10-12
+1911,87.2,fantasy_points_in_games_1_2,zai,ESPORTS,Liquid ,2023-10-12
+1912,10.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-10-12
+1913,10.0,MAPS 1-2 Kills,zai,ESPORTS,Liquid ,2023-10-12
+1914,74.4,fantasy_points_in_games_1_2,Boxi,ESPORTS,Liquid ,2023-10-12
+1915,74.4,fantasy_points_in_games_1_2,Boxi,ESPORTS,Liquid ,2023-10-12
+1916,6.5,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-10-12
+1917,6.5,MAPS 1-2 Kills,Boxi,ESPORTS,Liquid ,2023-10-12
+1918,72.5,fantasy_points_in_games_1_2,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1919,72.5,fantasy_points_in_games_1_2,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1920,6.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1921,6.5,MAPS 1-2 Kills,iNSaNiA,ESPORTS,Liquid ,2023-10-12
+1922,90.9,fantasy_points_in_games_1_2,Lou,ESPORTS,Azure Ray ,2023-10-12
+1923,13.0,MAPS 1-2 Kills,Lou,ESPORTS,Azure Ray ,2023-10-12
+1924,100.7,fantasy_points_in_games_1_2,Somnus,ESPORTS,Azure Ray ,2023-10-12
+1925,18.0,MAPS 1-2 Kills,Somnus,ESPORTS,Azure Ray ,2023-10-12
+1926,92.3,fantasy_points_in_games_1_2,Chalice,ESPORTS,Azure Ray ,2023-10-12
+1927,12.0,MAPS 1-2 Kills,Chalice,ESPORTS,Azure Ray ,2023-10-12
+1928,85.5,fantasy_points_in_games_1_2,fy,ESPORTS,Azure Ray ,2023-10-12
+1929,8.5,MAPS 1-2 Kills,fy,ESPORTS,Azure Ray ,2023-10-12
+1930,77.7,fantasy_points_in_games_1_2,Dota: Tian Ming ,other,Dota: Tian Ming ,
+1931,7.5,MAPS 1-2 Kills,Dota: Tian Ming ,other,Dota: Tian Ming ,
+1932,65.3,fantasy_points_in_games_1_2,Dota: Knight~,other,Dota: Knight~,
+1933,11.0,MAPS 1-2 Kills,Dota: Knight~,other,Dota: Knight~,
+1934,71.7,fantasy_points_in_games_1_2,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1935,71.7,fantasy_points_in_games_1_2,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1936,11.5,MAPS 1-2 Kills,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1937,11.5,MAPS 1-2 Kills,SLATEM$,ESPORTS,Thunder Awaken ,2023-10-12
+1938,53.4,fantasy_points_in_games_1_2,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1939,53.4,fantasy_points_in_games_1_2,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1940,7.0,MAPS 1-2 Kills,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1941,7.0,MAPS 1-2 Kills,ILICH-,ESPORTS,Thunder Awaken ,2023-10-12
+1942,47.7,fantasy_points_in_games_1_2,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1943,47.7,fantasy_points_in_games_1_2,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1944,5.0,MAPS 1-2 Kills,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1945,5.0,MAPS 1-2 Kills,N1ght,ESPORTS,Thunder Awaken ,2023-10-12
+1946,38.0,fantasy_points_in_games_1_2,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1947,38.0,fantasy_points_in_games_1_2,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1948,3.0,MAPS 1-2 Kills,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1949,3.0,MAPS 1-2 Kills,Mjz,ESPORTS,Thunder Awaken ,2023-10-12
+1950,93.9,fantasy_points_in_games_1_2,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1951,93.9,fantasy_points_in_games_1_2,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1952,16.5,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1953,16.5,MAPS 1-2 Kills,dyrachYO,ESPORTS,Gaimin Gladiators ,2023-10-12
+1954,103.8,fantasy_points_in_games_1_2,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1955,103.8,fantasy_points_in_games_1_2,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1956,14.5,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1957,14.5,MAPS 1-2 Kills,Quinn,ESPORTS,Gaimin Gladiators ,2023-10-12
+1958,97.7,fantasy_points_in_games_1_2,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1959,97.7,fantasy_points_in_games_1_2,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1960,12.0,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1961,12.0,MAPS 1-2 Kills,Ace,ESPORTS,Gaimin Gladiators ,2023-10-12
+1962,77.6,fantasy_points_in_games_1_2,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1963,77.6,fantasy_points_in_games_1_2,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1964,8.0,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1965,8.0,MAPS 1-2 Kills,tOfu,ESPORTS,Gaimin Gladiators ,2023-10-12
+1966,81.4,fantasy_points_in_games_1_2,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1967,81.4,fantasy_points_in_games_1_2,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1968,6.5,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1969,6.5,MAPS 1-2 Kills,Seleri,ESPORTS,Gaimin Gladiators ,2023-10-12
+1970,49.6,fantasy_points_in_games_1_2,Dota: K1,other,Dota: K1,
+1971,8.5,MAPS 1-2 Kills,Dota: K1,other,Dota: K1,
+1972,60.0,fantasy_points_in_games_1_2,Gunnar,ESPORTS,nouns ,2023-10-12
+1973,60.0,fantasy_points_in_games_1_2,Gunnar,ESPORTS,nouns ,2023-10-12
+1974,8.5,MAPS 1-2 Kills,Gunnar,ESPORTS,nouns ,2023-10-12
+1975,8.5,MAPS 1-2 Kills,Gunnar,ESPORTS,nouns ,2023-10-12
+1976,49.0,fantasy_points_in_games_1_2,Moo,ESPORTS,nouns ,2023-10-12
+1977,49.0,fantasy_points_in_games_1_2,Moo,ESPORTS,nouns ,2023-10-12
+1978,7.0,MAPS 1-2 Kills,Moo,ESPORTS,nouns ,2023-10-12
+1979,7.0,MAPS 1-2 Kills,Moo,ESPORTS,nouns ,2023-10-12
+1980,46.6,fantasy_points_in_games_1_2,Dota: Lelis,other,Dota: Lelis,
+1981,4.0,MAPS 1-2 Kills,Dota: Lelis,other,Dota: Lelis,
+1982,27.1,fantasy_points_in_games_1_2,Yamsun,ESPORTS,nouns ,2023-10-12
+1983,27.1,fantasy_points_in_games_1_2,Yamsun,ESPORTS,nouns ,2023-10-12
+1984,3.5,MAPS 1-2 Kills,Yamsun,ESPORTS,nouns ,2023-10-12
+1985,3.5,MAPS 1-2 Kills,Yamsun,ESPORTS,nouns ,2023-10-12
+1986,66.2,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1987,66.2,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1988,66.2,fantasy_points_in_games_1_2,Timado,ESPORTS,TSM ,2023-10-12
+1989,11.0,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1990,11.0,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1991,11.0,MAPS 1-2 Kills,Timado,ESPORTS,TSM ,2023-10-12
+1992,68.0,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1993,68.0,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1994,68.0,fantasy_points_in_games_1_2,Bryle,ESPORTS,TSM ,2023-10-12
+1995,12.0,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1996,12.0,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1997,12.0,MAPS 1-2 Kills,Bryle,ESPORTS,TSM ,2023-10-12
+1998,52.7,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+1999,52.7,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+2000,52.7,fantasy_points_in_games_1_2,kasane,ESPORTS,TSM ,2023-10-12
+2001,6.5,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+2002,6.5,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+2003,6.5,MAPS 1-2 Kills,kasane,ESPORTS,TSM ,2023-10-12
+2004,50.4,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+2005,50.4,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+2006,50.4,fantasy_points_in_games_1_2,Ari,ESPORTS,TSM ,2023-10-12
+2007,5.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+2008,5.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+2009,5.0,MAPS 1-2 Kills,Ari,ESPORTS,TSM ,2023-10-12
+2010,46.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+2011,46.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+2012,46.9,fantasy_points_in_games_1_2,Whitemon,ESPORTS,TSM ,2023-10-12
+2013,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+2014,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+2015,4.5,MAPS 1-2 Kills,Whitemon,ESPORTS,TSM ,2023-10-12
+2016,101.7,fantasy_points_in_games_1_2,TA2000,ESPORTS, PSG Quest,2023-10-12
+2017,101.7,fantasy_points_in_games_1_2,TA2000,ESPORTS, PSG Quest,2023-10-12
+2018,15.5,MAPS 1-2 Kills,TA2000,ESPORTS, PSG Quest,2023-10-12
+2019,15.5,MAPS 1-2 Kills,TA2000,ESPORTS, PSG Quest,2023-10-12
+2020,104.9,fantasy_points_in_games_1_2,No!ob,ESPORTS, PSG Quest,2023-10-12
+2021,104.9,fantasy_points_in_games_1_2,No!ob,ESPORTS, PSG Quest,2023-10-12
+2022,14.0,MAPS 1-2 Kills,No!ob,ESPORTS, PSG Quest,2023-10-12
+2023,14.0,MAPS 1-2 Kills,No!ob,ESPORTS, PSG Quest,2023-10-12
+2024,83.0,fantasy_points_in_games_1_2,Tobi,ESPORTS, PSG Quest,2023-10-12
+2025,83.0,fantasy_points_in_games_1_2,Tobi,ESPORTS, PSG Quest,2023-10-12
+2026,7.5,MAPS 1-2 Kills,Tobi,ESPORTS, PSG Quest,2023-10-12
+2027,7.5,MAPS 1-2 Kills,Tobi,ESPORTS, PSG Quest,2023-10-12
+2028,81.1,fantasy_points_in_games_1_2,OmaR,ESPORTS, PSG Quest,2023-10-12
+2029,81.1,fantasy_points_in_games_1_2,OmaR,ESPORTS, PSG Quest,2023-10-12
+2030,7.5,MAPS 1-2 Kills,OmaR,ESPORTS, PSG Quest,2023-10-12
+2031,7.5,MAPS 1-2 Kills,OmaR,ESPORTS, PSG Quest,2023-10-12
+2032,71.5,fantasy_points_in_games_1_2,kaori,ESPORTS, PSG Quest,2023-10-12
+2033,71.5,fantasy_points_in_games_1_2,kaori,ESPORTS, PSG Quest,2023-10-12
+2034,8.0,MAPS 1-2 Kills,kaori,ESPORTS, PSG Quest,2023-10-12
+2035,8.0,MAPS 1-2 Kills,kaori,ESPORTS, PSG Quest,2023-10-12
+2036,33.5,MAPS 1-2 Kills,DelBisky,ESPORTS,NYX Kyosei ,2023-10-12
+2037,27.5,MAPS 1-2 Kills,Kachow,ESPORTS,NYX Kyosei ,2023-10-12
+2038,28.0,MAPS 1-2 Kills,capriciouS,ESPORTS,NYX Kyosei ,2023-10-12
+2039,34.0,MAPS 1-2 Kills,Kon,ESPORTS,NYX Kyosei ,2023-10-12
+2040,31.5,MAPS 1-2 Kills,PIETY,ESPORTS,NYX Kyosei ,2023-10-12
+2041,27.0,MAPS 1-2 Kills,DDT,ESPORTS, MLT Esports GC,2023-10-12
+2042,34.0,MAPS 1-2 Kills,lunah,ESPORTS, MLT Esports GC,2023-10-12
+2043,35.5,MAPS 1-2 Kills,eluwu,ESPORTS, MLT Esports GC,2023-10-12
+2044,25.0,MAPS 1-2 Kills,Samphire,ESPORTS, MLT Esports GC,2023-10-12
+2045,38.0,MAPS 1-2 Kills,SWERL,ESPORTS,Royal Never Give Up ,2023-10-12
+2046,26.0,MAPS 1-2 Kills,Xiaonuo,ESPORTS,Royal Never Give Up ,2023-10-12
+2047,31.0,MAPS 1-2 Kills,Minimise,ESPORTS,Royal Never Give Up ,2023-10-12
+2048,28.5,MAPS 1-2 Kills,GuanG,ESPORTS,Royal Never Give Up ,2023-10-12
+2049,19.5,MAPS 1-2 Kills,HaTo,ESPORTS,Royal Never Give Up ,2023-10-12
+2050,41.5,MAPS 1-2 Kills,whzy,ESPORTS, Bilibili Gaming,2023-10-12
+2051,34.0,MAPS 1-2 Kills,Yosemite,ESPORTS, Bilibili Gaming,2023-10-12
+2052,28.0,MAPS 1-2 Kills,Knight,ESPORTS, Bilibili Gaming,2023-10-12
+2053,25.0,MAPS 1-2 Kills,rin,ESPORTS, Bilibili Gaming,2023-10-12
+2054,30.0,MAPS 1-2 Kills,Biank,ESPORTS, Bilibili Gaming,2023-10-12
+2055,31.0,MAPS 1-2 Kills,muffinloop,ESPORTS,Global Esports Phoenix ,2023-10-12
+2056,32.5,MAPS 1-2 Kills,Meow16K,ESPORTS,Global Esports Phoenix ,2023-10-12
+2057,27.0,MAPS 1-2 Kills,KiRi,ESPORTS,Global Esports Phoenix ,2023-10-12
+2058,26.5,MAPS 1-2 Kills,Rose,ESPORTS,Global Esports Phoenix ,2023-10-12
+2059,31.5,MAPS 1-2 Kills,oreopheliaa,ESPORTS, SCYTHE NWJ,2023-10-12
+2060,30.0,MAPS 1-2 Kills,crescents,ESPORTS, SCYTHE NWJ,2023-10-12
+2061,33.0,MAPS 1-2 Kills,skyelyse,ESPORTS, SCYTHE NWJ,2023-10-12
+2062,30.0,MAPS 1-2 Kills,yaamorii,ESPORTS, SCYTHE NWJ,2023-10-12
+2063,34.5,MAPS 1-2 Kills,Ninebody,ESPORTS,TYLOO ,2023-10-12
+2064,29.5,MAPS 1-2 Kills,Abo,ESPORTS,TYLOO ,2023-10-12
+2065,32.0,MAPS 1-2 Kills,AAK,ESPORTS,TYLOO ,2023-10-12
+2066,25.0,MAPS 1-2 Kills,LuoK1ng,ESPORTS,TYLOO ,2023-10-12
+2067,28.0,MAPS 1-2 Kills,ICEKING,ESPORTS,TYLOO ,2023-10-12
+2068,37.0,MAPS 1-2 Kills,Yuicaw,ESPORTS, Attacking Soul Esports,2023-10-12
+2069,22.5,MAPS 1-2 Kills,Zero1,ESPORTS, Attacking Soul Esports,2023-10-12
+2070,24.5,MAPS 1-2 Kills,YHchen,ESPORTS, Attacking Soul Esports,2023-10-12
+2071,31.5,MAPS 1-2 Kills,hfmi0dzjc9z7,ESPORTS, Attacking Soul Esports,2023-10-12
+2072,37.5,MAPS 1-2 Kills,Life,ESPORTS, Attacking Soul Esports,2023-10-12
+2073,33.0,MAPS 1-2 Kills,junior,ESPORTS,Evil Geniuses ,2023-10-12
+2074,33.0,MAPS 1-2 Kills,junior,ESPORTS,Evil Geniuses ,2023-10-12
+2075,33.0,MAPS 1-2 Kills,junior,ESPORTS,Evil Geniuses ,2023-10-11
+2076,10.5,headshots_on_maps_1_2,junior,ESPORTS,Evil Geniuses ,2023-10-12
+2077,10.5,headshots_on_maps_1_2,junior,ESPORTS,Evil Geniuses ,2023-10-12
+2078,10.5,headshots_on_maps_1_2,junior,ESPORTS,Evil Geniuses ,2023-10-11
+2079,32.5,MAPS 1-2 Kills,autimatic,ESPORTS,Evil Geniuses ,2023-10-12
+2080,32.5,MAPS 1-2 Kills,autimatic,ESPORTS,Evil Geniuses ,2023-10-12
+2081,32.5,MAPS 1-2 Kills,autimatic,ESPORTS,Evil Geniuses ,2023-10-11
+2082,17.5,headshots_on_maps_1_2,autimatic,ESPORTS,Evil Geniuses ,2023-10-12
+2083,17.5,headshots_on_maps_1_2,autimatic,ESPORTS,Evil Geniuses ,2023-10-12
+2084,17.5,headshots_on_maps_1_2,autimatic,ESPORTS,Evil Geniuses ,2023-10-11
+2085,27.5,MAPS 1-2 Kills,jeorge,ESPORTS,Evil Geniuses ,2023-10-12
+2086,27.5,MAPS 1-2 Kills,jeorge,ESPORTS,Evil Geniuses ,2023-10-12
+2087,27.5,MAPS 1-2 Kills,jeorge,ESPORTS,Evil Geniuses ,2023-10-11
+2088,15.5,headshots_on_maps_1_2,jeorge,ESPORTS,Evil Geniuses ,2023-10-12
+2089,15.5,headshots_on_maps_1_2,jeorge,ESPORTS,Evil Geniuses ,2023-10-12
+2090,15.5,headshots_on_maps_1_2,jeorge,ESPORTS,Evil Geniuses ,2023-10-11
+2091,28.5,MAPS 1-2 Kills,HexT,ESPORTS,Evil Geniuses ,2023-10-12
+2092,28.5,MAPS 1-2 Kills,HexT,ESPORTS,Evil Geniuses ,2023-10-12
+2093,28.5,MAPS 1-2 Kills,HexT,ESPORTS,Evil Geniuses ,2023-10-11
+2094,15.5,headshots_on_maps_1_2,HexT,ESPORTS,Evil Geniuses ,2023-10-12
+2095,15.5,headshots_on_maps_1_2,HexT,ESPORTS,Evil Geniuses ,2023-10-12
+2096,15.5,headshots_on_maps_1_2,HexT,ESPORTS,Evil Geniuses ,2023-10-11
+2097,27.5,MAPS 1-2 Kills,Walco,ESPORTS,Evil Geniuses ,2023-10-12
+2098,27.5,MAPS 1-2 Kills,Walco,ESPORTS,Evil Geniuses ,2023-10-12
+2099,27.5,MAPS 1-2 Kills,Walco,ESPORTS,Evil Geniuses ,2023-10-11
+2100,17.5,headshots_on_maps_1_2,Walco,ESPORTS,Evil Geniuses ,2023-10-12
+2101,17.5,headshots_on_maps_1_2,Walco,ESPORTS,Evil Geniuses ,2023-10-12
+2102,17.5,headshots_on_maps_1_2,Walco,ESPORTS,Evil Geniuses ,2023-10-11
+2103,29.0,MAPS 1-2 Kills,Infinite,ESPORTS, Forsaken,2023-10-11
+2104,16.5,headshots_on_maps_1_2,Infinite,ESPORTS, Forsaken,2023-10-11
+2105,18.5,headshots_on_maps_1_2,jBa,ESPORTS, Forsaken,2023-10-11
+2106,29.0,MAPS 1-2 Kills,wiz,ESPORTS, Forsaken,2023-10-11
+2107,9.5,headshots_on_maps_1_2,wiz,ESPORTS, Forsaken,2023-10-11
+2108,28.0,MAPS 1-2 Kills,cxzi,ESPORTS, Forsaken,2023-10-11
+2109,12.0,headshots_on_maps_1_2,cxzi,ESPORTS, Forsaken,2023-10-11
+2110,27.0,MAPS 1-2 Kills,stanislaw,ESPORTS, Forsaken,2023-10-11
+2111,14.5,headshots_on_maps_1_2,stanislaw,ESPORTS, Forsaken,2023-10-11
+2112,27.0,MAPS 1-2 Kills,Project90,ESPORTS,Badass ,2023-10-11
+2113,17.0,headshots_on_maps_1_2,Project90,ESPORTS,Badass ,2023-10-11
+2114,37.0,MAPS 1-2 Kills,dea,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2115,28.5,MAPS 1-2 Kills,Peeping,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2116,30.5,MAPS 1-2 Kills,Fr3nk1e,ESPORTS,Badass ,2023-10-11
+2117,28.5,MAPS 1-2 Kills,Jason,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2118,30.5,MAPS 1-2 Kills,sacrifice,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2119,28.0,MAPS 1-2 Kills,snav,ESPORTS,Badass ,2023-10-11
+2120,33.0,MAPS 1-2 Kills,dare,ESPORTS,Badass ,2023-10-11
+2121,30.0,MAPS 1-2 Kills,intra,ESPORTS,Badass ,2023-10-11
+2122,25.5,MAPS 1-2 Kills,LEARSI,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2123,18.0,headshots_on_maps_1_2,sacrifice,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2124,18.5,headshots_on_maps_1_2,Peeping,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2125,19.0,headshots_on_maps_1_2,intra,ESPORTS,Badass ,2023-10-11
+2126,15.5,headshots_on_maps_1_2,LEARSI,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2127,15.5,headshots_on_maps_1_2,snav,ESPORTS,Badass ,2023-10-11
+2128,22.5,headshots_on_maps_1_2,Fr3nk1e,ESPORTS,Badass ,2023-10-11
+2129,13.0,headshots_on_maps_1_2,dea,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2130,13.0,headshots_on_maps_1_2,dare,ESPORTS,Badass ,2023-10-11
+2131,15.5,headshots_on_maps_1_2,Jason,ESPORTS,FLUFFY AIMERS ,2023-10-11
+2132,32.5,MAPS 1-2 Kills,Wolffe,ESPORTS, Unjustified,2023-10-11
+2133,32.0,MAPS 1-2 Kills,Cooper,ESPORTS, Mythic,2023-10-11
+2134,25.0,MAPS 1-2 Kills,trucklover86,ESPORTS, Mythic,2023-10-11
+2135,24.5,MAPS 1-2 Kills,Seb,ESPORTS, Unjustified,2023-10-11
+2136,30.5,MAPS 1-2 Kills,Lake,ESPORTS, Unjustified,2023-10-11
+2137,29.5,MAPS 1-2 Kills,Cyrix,ESPORTS, Unjustified,2023-10-11
+2138,27.0,MAPS 1-2 Kills,fl0m,ESPORTS, Mythic,2023-10-11
+2139,30.5,MAPS 1-2 Kills,freakazoid,ESPORTS, Mythic,2023-10-11
+2140,27.5,MAPS 1-2 Kills,hate,ESPORTS, Mythic,2023-10-11
+2141,16.5,headshots_on_maps_1_2,freakazoid,ESPORTS, Mythic,2023-10-11
+2142,13.0,headshots_on_maps_1_2,Cooper,ESPORTS, Mythic,2023-10-11
+2143,10.5,headshots_on_maps_1_2,Cyrix,ESPORTS, Unjustified,2023-10-11
+2144,15.0,headshots_on_maps_1_2,hate,ESPORTS, Mythic,2023-10-11
+2145,19.5,headshots_on_maps_1_2,Wolffe,ESPORTS, Unjustified,2023-10-11
+2146,12.0,headshots_on_maps_1_2,fl0m,ESPORTS, Mythic,2023-10-11
+2147,17.5,headshots_on_maps_1_2,trucklover86,ESPORTS, Mythic,2023-10-11
+2148,16.0,headshots_on_maps_1_2,Lake,ESPORTS, Unjustified,2023-10-11
+2149,12.5,headshots_on_maps_1_2,Seb,ESPORTS, Unjustified,2023-10-11
+2150,4.0,position,Kyle Larson,RACING,b0d9360d-6b0d-4dcd-97fc-80126b4b4140,
+2151,4.5,position,Denny Hamlin,RACING,23543f4d-d305-42e3-861e-c9cc3941f8bf,
+2152,7.5,position,Kyle Busch,RACING,4fbbee2d-3b38-4713-b929-df61d2331aa7,
+2153,9.0,position,Brad Keselowski,RACING,dfebe773-60e1-42a6-9a19-86c647797b0b,
+2154,5.5,position,Martin Truex Jr,other,00e0c7d2-df5e-4bb8-b23b-db6d691df710,
+2155,4.5,position,William Byron,RACING,b3ec612c-da86-4586-957a-69ef59ff3be5,
+2156,7.5,position,Ryan Blaney,RACING,99bfb686-6910-4652-b064-69d19d62d31b,
+2157,6.5,position,Christopher Bell,RACING,21336e69-820d-40ee-a01f-678c633af187,
+2158,9.0,position,Chris Buescher,RACING,0b29f869-ef32-4876-902c-43033c411a95,
+2159,5.0,position,Tyler Reddick,RACING,df276411-6219-461e-87a5-181740d92613,
+2160,9.5,position,Ross Chastain,RACING,91c174ea-6bd6-46d1-94dd-0d0a0d7d05bb,
+2161,8.0,position,Chase Elliott,RACING,d46b1b2a-8dea-4733-b1d9-0acf761add7f,
+2162,10.0,position,Bubba Wallace,RACING,3c46343f-9e6a-4273-b741-08ac2afbe9f0,
+2163,4.0,Goalie Saves,Angus Gunn,SOCCER,Scotland ,2023-10-12
+2164,2.0,Goalie Saves,Unai Simon,SOCCER,Spain,2023-10-12
+2165,0.5,Goals,Alvaro Morata,SOCCER,Spain,2023-10-12
+2166,2.5,Shots,Alvaro Morata,SOCCER,Spain,2023-10-12
+2167,1.5,Shots,Nico Williams,SOCCER,Spain,2023-10-12
+2168,1.5,Shots,Oihan Sancet,SOCCER,Spain,2023-10-12
+2169,0.5,Goals and Assists,Ferran Torres,SOCCER,Spain,2023-10-12
+2170,2.0,Shots,Ferran Torres,SOCCER,Spain,2023-10-12
+2171,2.0,Shots,Mikel Oyarzabal,SOCCER,Spain,2023-10-12
+2172,3.0,Shots,Joselu Shots,other,Joselu Shots,
+2173,2.5,Shots,Ansu Fati,SOCCER,Spain,2023-10-12
+2174,1.5,Shots,Rodri Shots,other,Rodri Shots,
+2175,1.5,Goal Against,Ugurcan Cakir,SOCCER,Ugurcan Cakir,
+2176,1.5,Shots,Baris Yilmaz,SOCCER,Turkey ,2023-10-12
+2177,1.5,Shots,Kerem Akturkoglu,SOCCER,Turkey ,2023-10-12
+2178,2.0,Shots,Hakan Calhanoglu,SOCCER,Hakan Calhanoglu,
+2179,0.5,Goals and Assists,Andrej Kramaric,SOCCER,Andrej Kramaric,
+2180,2.5,Shots,Andrej Kramaric,SOCCER,Andrej Kramaric,
+2181,2.0,Shots,Mario Pasalic,SOCCER,Croatia,2023-10-12
+2182,1.5,Goalie Saves,Orjan Nyland,SOCCER,Orjan Nyland,
+2183,1.5,Goals and Assists,Erling Haaland,SOCCER,Norway ,2023-10-12
+2184,4.5,Shots,Erling Haaland,SOCCER,Norway ,2023-10-12
+2185,3.0,Shots,Martin Odegaard,SOCCER,Martin Odegaard,
+2186,0.5,Goals and Assists,Jorgen Strand Larsen,other,Norway ,2023-10-12
+2187,2.0,Shots,Jorgen Strand Larsen,other,Norway ,2023-10-12
+2188,0.5,Goals and Assists,Antonio Nusa,SOCCER,Norway ,2023-10-12
+2189,2.0,Shots,Antonio Nusa,SOCCER,Norway ,2023-10-12
+2190,2.0,Shots,Alexander Sorloth,SOCCER,Alexander Sorloth,
+2191,2.5,chances_created,Fredrik Aursnes,SOCCER,Norway ,2023-10-12
+2192,4.5,Goalie Saves,Joel Yves,other,Joel Yves,
+2193,0.5,Goal Against,Horatiu Moldovan,SOCCER,Horatiu Moldovan,
+2194,1.5,Goal Against,Maksim Plotnikov,SOCCER,Belarus,2023-10-12
+2195,3.0,Goalie Saves,Sergio Rochet,SOCCER,Uruguay ,2023-10-12
+2196,1.5,Shots,Agustin Canobbio,SOCCER,Uruguay ,2023-10-12
+2197,3.0,Shots,Darwin Nunez,SOCCER,Uruguay ,2023-10-12
+2198,1.5,Shots,Federico Valverde,SOCCER,Uruguay ,2023-10-12
+2199,2.5,Goalie Saves,Camilo Vargas,SOCCER,Colombia,2023-10-12
+2200,2.5,Shots,Luis Diaz,SOCCER,Colombia,2023-10-12
+2201,1.5,Shots,Luis Sinisterra,SOCCER,Colombia,2023-10-12
+2202,1.5,Shots,Rafael Borre,SOCCER,Rafael Borre,
+2203,1.5,chances_created,James Rodriguez,SOCCER,Colombia,2023-10-12
+2204,2.0,Goalie Saves,Emiliano Martinez,SOCCER,Argentina ,2023-10-12
+2205,3.5,Shots,Lionel Messi,SOCCER,Argentina ,2023-10-12
+2206,3.0,Shots,Julian Alvarez,SOCCER,Julian Alvarez,
+2207,1.5,Shots,Alexis Mac Allister,other,Argentina ,2023-10-12
+2208,2.5,Shots,Nicolas Gonzalez,SOCCER,Argentina ,2023-10-12
+2209,1.5,chances_created,Rodrigo De Paul,other,Argentina ,2023-10-12
+2210,4.0,Goalie Saves,Carlos Coronel,SOCCER,Paraguay,2023-10-12
+2211,2.5,Goalie Saves,Hernan Galindez,SOCCER,Hernan Galindez,
+2212,1.5,chances_created,Kendry Paez,SOCCER,Kendry Paez,
+2213,2.5,Shots,Enner Valencia,SOCCER,Ecuador ,2023-10-12
+2214,0.5,Shots,Carlos Gruezo,SOCCER,Ecuador ,2023-10-12
+2215,3.0,Goalie Saves,Guillermo Viscarra,SOCCER,Bolivia,2023-10-12
+2216,2.5,Shots,Marcelo Moreno,SOCCER,Bolivia,2023-10-12
+2217,0.5,chances_created,Rodrigo Ramallo,SOCCER,Bolivia,2023-10-12
+2218,13.5,PTS,Facundo Campazzo,BASKETBALL,Real Madrid,2023-10-12
+2219,6.5,AST,Facundo Campazzo,BASKETBALL,Real Madrid,2023-10-12
+2220,7.5,PTS,Sergio Llull,BASKETBALL,Real Madrid,2023-10-12
+2221,9.5,PTS,Mario Hezonja,BASKETBALL,Real Madrid,2023-10-12
+2222,14.5,PTS,Dzanan Musa,BASKETBALL,Real Madrid,2023-10-12
+2223,11.5,PTS,Guerschon Yabusele,BASKETBALL,Real Madrid,2023-10-12
+2224,4.5,TRB,Guerschon Yabusele,BASKETBALL,Real Madrid,2023-10-12
+2225,3.5,TRB,Mario Hezonja,BASKETBALL,Real Madrid,2023-10-12
+2226,8.5,PTS,Derek Willis,BASKETBALL,Anadolu Efes,2023-10-12
+2227,4.5,TRB,Derek Willis,BASKETBALL,Anadolu Efes,2023-10-12
+2228,14.5,PTS,Shane Larkin,BASKETBALL,Anadolu Efes,2023-10-12
+2229,14.5,PTS,William Clyburn,BASKETBALL,Anadolu Efes,2023-10-12
+2230,8.5,PTS,Ante Zizic,BASKETBALL,Anadolu Efes,2023-10-12
+2231,9.5,PTS,Darius Thompson,BASKETBALL,Anadolu Efes,2023-10-12
+2232,5.5,AST,Darius Thompson,BASKETBALL,Anadolu Efes,2023-10-12
+2233,5.5,AST,Shane Larkin,BASKETBALL,Anadolu Efes,2023-10-12
+2234,4.5,TRB,Ante Zizic,BASKETBALL,Anadolu Efes,2023-10-12
+2235,5.5,TRB,William Clyburn,BASKETBALL,Anadolu Efes,2023-10-12
+2236,18.5,PTS,Markus Howard,BASKETBALL,Baskonia,2023-10-12
+2237,11.5,PTS,Chima Moneke,BASKETBALL,Baskonia,2023-10-12
+2238,7.5,TRB,Chima Moneke,BASKETBALL,Baskonia,2023-10-12
+2239,7.5,PTS,Maik Kotsar,BASKETBALL,Baskonia,2023-10-12
+2240,7.5,PTS,Matt Costello,BASKETBALL,Baskonia,2023-10-12
+2241,6.5,PTS,Tadas Sedekerskis,BASKETBALL,Baskonia,2023-10-12
+2242,5.5,TRB,Tadas Sedekerskis,BASKETBALL,Baskonia,2023-10-12
+2243,3.5,TRB,Matt Costello,BASKETBALL,Baskonia,2023-10-12
+2244,11.5,PTS,Matt Thomas,BASKETBALL,Alba Berlin,2023-10-12
+2245,13.5,PTS,Sterling Brown,BASKETBALL,Alba Berlin,2023-10-12
+2246,9.5,PTS,Louis Olinde,BASKETBALL,Alba Berlin,2023-10-12
+2247,11.5,PTS,Johannes Thiemann,BASKETBALL,Alba Berlin,2023-10-12
+2248,5.5,TRB,Johannes Thiemann,BASKETBALL,Alba Berlin,2023-10-12
+2249,4.5,TRB,Louis Olinde,BASKETBALL,Alba Berlin,2023-10-12
+2250,9.5,PTS,Aleksa Avramovic,BASKETBALL,Partizan,2023-10-12
+2251,9.5,PTS,James Nunnally,BASKETBALL,Partizan,2023-10-12
+2252,11.5,PTS,Zach LeDay,BASKETBALL,Partizan,2023-10-12
+2253,15.5,PTS,Kevin Punter,BASKETBALL,Partizan,2023-10-12
+2254,5.5,TRB,Zach LeDay,BASKETBALL,Partizan,2023-10-12
+2255,2.5,TRB,James Nunnally,BASKETBALL,Partizan,2023-10-12
+2256,8.5,PTS,Mike Scott,BASKETBALL,Lyon-Villeurbanne,2023-10-12
+2257,13.5,PTS,Nando De Colo,other,Lyon-Villeurbanne,2023-10-12
+2258,12.5,PTS,Joffrey Lauvergne,BASKETBALL,Lyon-Villeurbanne,2023-10-12
+2259,3.5,AST,Nando De Colo,other,Lyon-Villeurbanne,2023-10-12
+2260,2.5,TRB,Nando De Colo,other,Lyon-Villeurbanne,2023-10-12
+2261,5.5,TRB,Joffrey Lauvergne,BASKETBALL,Lyon-Villeurbanne,2023-10-12
+2262,8.5,PTS,Paris Lee,BASKETBALL,Lyon-Villeurbanne,2023-10-12
+2263,10.5,PTS,Timothe Luwawu-Cabarrot,BASKETBALL,Lyon-Villeurbanne,2023-10-12
+2264,4.5,AST,Paris Lee,BASKETBALL,Lyon-Villeurbanne,2023-10-12
+2265,10.5,PTS,Carsen Edwards,BASKETBALL,FC Bayern Munich,2023-10-12
+2266,10.5,PTS,Sylvian Francisco,BASKETBALL,FC Bayern Munich,2023-10-12
+2267,10.5,PTS,Isaac Bonga,BASKETBALL,FC Bayern Munich,2023-10-12
+2268,9.5,PTS,Andreas Obst,BASKETBALL,FC Bayern Munich,2023-10-12
+2269,9.5,PTS,Devin Booker,BASKETBALL,FC Bayern Munich,2023-10-12
+2270,5.5,TRB,Devin Booker,BASKETBALL,FC Bayern Munich,2023-10-12
+2271,5.0,TRB,Isaac Bonga,BASKETBALL,FC Bayern Munich,2023-10-12
+2272,9.0,PTS,Jerian Grant,BASKETBALL,Panathinaikos,2023-10-12
+2273,4.5,AST,Jerian Grant,BASKETBALL,Panathinaikos,2023-10-12
+2274,13.5,PTS,Juancho Hernangomez,BASKETBALL,Panathinaikos,2023-10-12
+2275,12.5,PTS,Marius Grigonis,BASKETBALL,Panathinaikos,2023-10-12
+2276,11.5,PTS,Mathias Lessort,BASKETBALL,Panathinaikos,2023-10-12
+2277,7.5,TRB,Mathias Lessort,BASKETBALL,Panathinaikos,2023-10-12
+2278,6.5,TRB,Juancho Hernangomez,BASKETBALL,Panathinaikos,2023-10-12
+2279,29.9,ppg,Shai Gilgeous-Alexander,NBASZN,bcc5d02a-fc93-412a-a211-dec2e3f03a50,
+2280,18.9,ppg,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+2281,30.6,ppg,Luka Doncic,NBASZN,2a05bf35-65bd-45cf-9b33-959e9c99b851,
+2282,18.5,ppg,Victor Wembanyama,NBASZN,27446680-20af-4669-ae5b-4c283b65868e,
+2283,28.9,ppg,Stephen Curry,NBASZN,bc54d8b2-086a-472c-9da4-c3fc58062d44,
+2284,28.7,ppg,Jayson Tatum,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+2285,25.6,ppg,Nikola Jokic,NBASZN,f0caa9a4-5486-43c2-bdc5-3515c62d77d3,
+2286,14.2,ppg,Brandon Miller,NBASZN,1240c34d-9dbd-473e-841e-811444327bb9,
+2287,21.8,ppg,Bradley Beal,NBASZN,bf374cd2-3365-4bb8-972e-fb429353aa56,
+2288,27.1,ppg,LeBron James,NBASZN,b075de5a-578f-417c-8a5c-cf0ff08101b2,
+2289,8.4,rpg,Luka Doncic,NBASZN,2a05bf35-65bd-45cf-9b33-959e9c99b851,
+2290,11.9,rpg,Nikola Jokic,NBASZN,f0caa9a4-5486-43c2-bdc5-3515c62d77d3,
+2291,11.6,rpg,Rudy Gobert,NBASZN,4602be91-097a-4469-89c8-f259dddaec2c,
+2292,8.7,rpg,Kristaps Porzingis,NBASZN,a62c8ca4-6cb6-4c72-9ec1-1bb78a5714be,
+2293,12.1,rpg,Domantas Sabonis,NBASZN,df874a70-5f96-4604-ae98-0b0b7d91d3c7,
+2294,11.1,rpg,Clint Capela,NBASZN,7871efd1-78a9-472f-8694-d2094757c580,
+2295,7.9,rpg,LeBron James,NBASZN,b075de5a-578f-417c-8a5c-cf0ff08101b2,
+2296,9.3,rpg,Bam Adebayo,NBASZN,2fcf2a76-d6fd-408c-84e1-979a539fd98c,
+2297,8.8,rpg,Victor Wembanyama,NBASZN,27446680-20af-4669-ae5b-4c283b65868e,
+2298,9.2,apg,Nikola Jokic,NBASZN,f0caa9a4-5486-43c2-bdc5-3515c62d77d3,
+2299,7.7,apg,Darius Garland,NBASZN,1705b97c-bf42-4394-b608-dba0c5be0d00,
+2300,6.9,apg,LeBron James,NBASZN,b075de5a-578f-417c-8a5c-cf0ff08101b2,
+2301,9.8,apg,Trae Young,NBASZN,7871efd1-78a9-472f-8694-d2094757c580,
+2302,9.7,apg,Tyrese Haliburton,NBASZN,be9576d3-a00f-4b18-ae6c-9aa74ee18181,
+2303,8.5,Pitcher Strikeouts,B. Elder,other,B. Elder,
+2304,26.5,pitch_outs,B. Elder,other,B. Elder,
+2305,4.5,runs_allowed,B. Elder,other,B. Elder,
+2306,8.5,hits_allowed,B. Elder,other,B. Elder,
+2307,16.5,Hitter Fantasy Score,B. Harper + A. Bohm,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2308,17.5,Hitter Fantasy Score,R. Acuna,other,R. Acuna,
+2309,4.0,PTS,B. Harper + A. Bohm,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2310,4.0,PTS,R. Acuna,other,R. Acuna,
+2311,3.0,Total Bases,B. Harper + A. Bohm,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2312,3.0,Total Bases,R. Acuna,other,R. Acuna,
+2313,15.5,Hitter Fantasy Score,M. Olson +  O. Albies,other,517d6be8-f332-4ad4-8bf6-bc9f2f994b7d,
+2314,16.5,Hitter Fantasy Score,T. Turner + N. Castellanos,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2315,3.0,Total Bases,T. Turner + N. Castellanos,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2316,3.0,Total Bases,M. Olson +  O. Albies,other,517d6be8-f332-4ad4-8bf6-bc9f2f994b7d,
+2317,4.0,PTS,T. Turner + N. Castellanos,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2318,3.5,PTS,M. Olson +  O. Albies,other,517d6be8-f332-4ad4-8bf6-bc9f2f994b7d,
+2319,15.5,Hitter Fantasy Score,A. Riley + M. Ozuna,other,517d6be8-f332-4ad4-8bf6-bc9f2f994b7d,
+2320,15.5,Hitter Fantasy Score,K. Schwarber + J. Realmuto,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2321,3.5,PTS,A. Riley + M. Ozuna,other,517d6be8-f332-4ad4-8bf6-bc9f2f994b7d,
+2322,3.0,Total Bases,K. Schwarber + J. Realmuto,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2323,3.0,Total Bases,A. Riley + M. Ozuna,other,517d6be8-f332-4ad4-8bf6-bc9f2f994b7d,
+2324,3.5,PTS,K. Schwarber + J. Realmuto,other,17bb8634-d7d6-4a42-af6e-603155ca1f8f,
+2325,13.5,Hitter Fantasy Score,E. Julien + A. Kirilloff,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2326,8.0,Pitcher Strikeouts,J. Urquidy,other,J. Urquidy,
+2327,3.0,PTS,E. Julien + A. Kirilloff,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2328,25.5,pitch_outs,J. Urquidy,other,J. Urquidy,
+2329,2.5,Total Bases,E. Julien + A. Kirilloff,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2330,7.5,hits_allowed,J. Urquidy,other,J. Urquidy,
+2331,4.0,runs_allowed,J. Urquidy,other,J. Urquidy,
+2332,16.5,Hitter Fantasy Score,Y. Alvarez + J. Pena,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2333,3.5,PTS,Y. Alvarez + J. Pena,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2334,3.0,Total Bases,Y. Alvarez + J. Pena,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2335,15.5,Hitter Fantasy Score,J. Altuve + A. Bregman,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2336,14.5,Hitter Fantasy Score,C. Correa + J. Polanco,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2337,2.5,Total Bases,C. Correa + J. Polanco,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2338,3.5,PTS,C. Correa + J. Polanco,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2339,3.5,PTS,J. Altuve + A. Bregman,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2340,3.0,Total Bases,J. Altuve + A. Bregman,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2341,14.5,Hitter Fantasy Score,K. Tucker + J. Abreu,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2342,15.5,Hitter Fantasy Score,R. Lewis + M. Kepler,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2343,2.5,Total Bases,K. Tucker + J. Abreu,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2344,3.5,PTS,R. Lewis + M. Kepler,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2345,3.0,Total Bases,R. Lewis + M. Kepler,other,b87e727a-1456-4a00-9f78-4712cdbb6b53,
+2346,3.5,PTS,K. Tucker + J. Abreu,other,9f36b764-ed6f-4ee4-b08a-fdc1798eb32a,
+2347,15.5,Hitter Fantasy Score,J.D. Martinez + M. Muncy,MLB,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2348,14.5,Hitter Fantasy Score,W. Smith + D. Peralta,other,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2349,37.5,Hitter Fantasy Score,L. Lynn,other,L. Lynn,
+2350,7.0,Pitcher Strikeouts,L. Lynn,other,L. Lynn,
+2351,3.5,PTS,W. Smith + D. Peralta,other,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2352,3.5,PTS,J.D. Martinez + M. Muncy,MLB,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2353,2.5,Total Bases,W. Smith + D. Peralta,other,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2354,3.0,Total Bases,J.D. Martinez + M. Muncy,MLB,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2355,24.5,pitch_outs,L. Lynn,other,L. Lynn,
+2356,4.0,runs_allowed,L. Lynn,other,L. Lynn,
+2357,8.0,hits_allowed,L. Lynn,other,L. Lynn,
+2358,18.5,Hitter Fantasy Score,C. Carroll + K. Marte,other,db69f844-d6eb-4332-b133-796ce316890a,
+2359,20.5,Hitter Fantasy Score,M. Betts + F. Freeman,other,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2360,4.5,PTS,M. Betts + F. Freeman,other,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2361,3.5,Total Bases,C. Carroll + K. Marte,other,db69f844-d6eb-4332-b133-796ce316890a,
+2362,4.0,Total Bases,M. Betts + F. Freeman,other,3566eb7e-69fd-4f9f-a5ea-6f8db014b027,
+2363,4.0,PTS,C. Carroll + K. Marte,other,db69f844-d6eb-4332-b133-796ce316890a,
+2364,15.5,Hitter Fantasy Score,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+2365,13.5,Hitter Fantasy Score,L. Gurriel Jr. + A. Thomas,other,db69f844-d6eb-4332-b133-796ce316890a,
+2366,3.0,Total Bases,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+2367,2.5,Total Bases,L. Gurriel Jr. + A. Thomas,other,db69f844-d6eb-4332-b133-796ce316890a,
+2368,3.0,PTS,L. Gurriel Jr. + A. Thomas,other,db69f844-d6eb-4332-b133-796ce316890a,
+2369,3.5,PTS,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+2370,37.5,PTS,B. Stewart + S. Ionescu,other,NYL,2023-10-11
+2371,58.5,PTS+TRB+AST,B. Stewart + S. Ionescu,other,NYL,2023-10-11
+2372,13.5,TRB,B. Stewart + S. Ionescu,other,NYL,2023-10-11
+2373,21.0,TRB+AST,B. Stewart + S. Ionescu,other,NYL,2023-10-11
+2374,25.5,PTS,J. Jones + C. Vandersloot,other,NYL,2023-10-11
+2375,49.5,PTS+TRB+AST,J. Jones + C. Vandersloot,other,NYL,2023-10-11
+2376,41.5,PTS,A. Wilson + K. Plum,other,LVA,2023-10-11
+2377,58.5,PTS+TRB+AST,A. Wilson + K. Plum,other,LVA,2023-10-11
+2378,36.5,PTS,C. Gray + J. Young,other,LVA,2023-10-11
+2379,58.5,PTS+TRB+AST,C. Gray + J. Young,other,LVA,2023-10-11
+2380,10.0,TRB,C. Gray + J. Young,other,LVA,2023-10-11
+2381,12.0,AST,C. Gray + J. Young,other,LVA,2023-10-11
+2382,22.0,TRB+AST,C. Gray + J. Young,other,LVA,2023-10-11
