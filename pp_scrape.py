@@ -8,6 +8,7 @@ import requests
 import tls_client
 from unidecode import unidecode
 import sys
+import uuid
 
 
 requests = tls_client.Session(
@@ -73,8 +74,9 @@ df = df.rename(
 
 full = df.copy(deep=True)
 
-# df = df.loc[df.League=='7']
-df["Date"] = df["Date"].apply(lambda x: x.split("T")[0])
+df["Date"] = df["Date"].apply(lambda x: pd.to_datetime(x,utc=True))
+df["Date"] = df["Date"].dt.tz_convert('America/Chicago')
+df['event_time'] = df['Date']
 df["Player"] = df["Player"].apply(lambda x: unidecode(x).replace("_", " "))
 
 syntax = {
@@ -116,5 +118,12 @@ today = dt.datetime.today()
 df["time"] = df['time'] = dt.datetime.now().replace(microsecond=0,second=0)
 df.columns = [x.lower() for x in df.columns]
 
-df.to_csv(f"Lines/pp/pp_{today.year}_{today.month}_{today.day}.csv")
+def create_uuid_from_columns(row):
+    seed = f"{row['player']}_{row['stat']}_{row['event_time']}"
+    id = uuid.uuid5(uuid.NAMESPACE_DNS, seed)
+    return str(id)[0:10]
+
+df['prop_id'] = df.apply(create_uuid_from_columns, axis=1)
+
+df.to_csv(f"Lines/pp/pp_{today.year}_{today.month}_{today.day}_test.csv")
 print(df.head(10))

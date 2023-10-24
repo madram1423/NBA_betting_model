@@ -8,6 +8,9 @@ import numpy as np
 import datetime as dt
 from betting_functions import *
 import tls_client
+import uuid
+import os
+
 
 
 requests = tls_client.Session(
@@ -94,9 +97,9 @@ bt2stat = {'bt77': 'TRB',
             'bt17': 'Pitcher Strikeouts',
             'bt18': 'Home Runs',
             'bt12': 'Rush Yards',
-            'bt11': 'Receiving Yards',
-            'bt68': 'Rush+Rec Yards',
             'bt16': 'Receiving Yards',
+            'bt68': 'Rush+Rec Yards',
+            'bt11': 'Rushing Attempts',
             'bt56': 'Sacks',
             'bt67': 'Rush Attempts',
             'bt61': 'Longest Pass Completion',
@@ -110,7 +113,8 @@ bt2stat = {'bt77': 'TRB',
             'bt13': 'Passing Completions',
             'bt14': 'Passing Yards',
             'bt64': 'Passing And Rush Yards',
-            'bt': '',
+            'bt15': 'Receptions',
+            'bt66': 'Longest Reception',
           }
 
 lines_df['propsMarketSourcesLines'][0].keys()
@@ -160,19 +164,41 @@ now = dt.datetime.now().replace(microsecond=0,second=0)
 today = dt.datetime.today()
 odds = odds.loc[odds.book !='Bookmaker']
 odds = odds.loc[~((odds.stat =='Total Bases') & (odds.points==1.5))]
-odds.to_csv(f'Lines/unabated/unabated_raw_{today.year}_{today.month}_{today.day}.csv')
+odds['time'] = now
+
+odds['event_time'] = odds['event_time'].apply(lambda x: pd.to_datetime(x,utc=True))
+odds['event_time'] = odds['event_time'].dt.tz_convert('America/Chicago')
+
+def create_uuid_from_columns(row):
+    seed = f"{row['player']}_{row['stat']}_{row['event_time']}"
+    id = uuid.uuid5(uuid.NAMESPACE_DNS, seed)
+    return str(id)[0:10]
+
+odds['prop_id'] = odds.apply(create_uuid_from_columns, axis=1)
+
+def update_file(new_file,file_path):
+    if os.path.exists(file_path)== False:
+        new_file.to_csv(file_path)
+    else:
+        old_file = pd.read_csv(file_path,index_col=0,parse_dates=['event_time'])
+        pd.concat((new_file,old_file)).to_csv(file_path)
+        
+
+raw_file_path = f'Lines/unabated/unabated_raw_{today.year}_{today.month}_{today.day}.csv'
+update_file(odds,raw_file_path)
+
 
 
 
 #getting probabilities to hit every posted line for every player
 #probably could use more optimization
 
-columns=['Player','Stat','Line','o_Prob','u_Prob','num_books','means']
+columns=['prop_id','Player','Stat','Line','o_Prob','u_Prob','num_books','means']
 players = odds.player.unique()
 
-odds_agg = odds.groupby(['player','player_id','side','points','stat','league_id','event_time','opp','Team'],as_index=False)['prob'].agg(func=['mean','count']).reset_index()
+odds_agg = odds.groupby(['prop_id','player','player_id','side','points','stat','league_id','event_time','opp','Team'],as_index=False)['prob'].agg(func=['mean','count']).reset_index()
 
-odds_condensed = odds_agg.pivot(index=['player', 'player_id', 'points', 'stat', 'league_id', 'event_time', 'opp', 'Team','count'],
+odds_condensed = odds_agg.pivot(index=['prop_id','player', 'player_id', 'points', 'stat', 'league_id', 'event_time', 'opp', 'Team','count'],
                        columns='side', values='mean').reset_index()
 odds_condensed.rename(columns={'over': 'over_prob', 'under': 'under_prob','points':'line'}, inplace=True)
 odds_condensed['total'] = odds_condensed['over_prob'] + odds_condensed['under_prob']
@@ -187,16 +213,20 @@ def weighted_average(group):
     return weighted_sum / total_weight
 
 # Group by 'player' and 'stat', and apply the custom function
-temp_table = odds_condensed.groupby(['player', 'stat']).apply(weighted_average).reset_index(name='pred')
-final_odds = odds_condensed.merge(temp_table,on=['player','stat'])
+temp_table = odds_condensed.groupby(['prop_id']).apply(weighted_average).reset_index(name='pred')
+final_odds = odds_condensed.merge(temp_table,on=['prop_id'])
 final_odds.drop('mean_pred',inplace=True,axis=1)
 
 
 
 today = dt.datetime.today()
 timestamp = dt.datetime.now().replace(microsecond=0,second=0)
+final_odds['time'] = now
 final_odds = final_odds.reset_index(drop=True)
-final_odds.to_csv(f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv")
+final_file_path = f'Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv'
+update_file(final_odds,final_file_path)
 
+#final_odds.to_csv(f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv")
+print('Success!')
 
 
