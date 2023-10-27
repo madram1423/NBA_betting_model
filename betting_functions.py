@@ -1,9 +1,32 @@
 from scipy.stats import poisson
+import random
+import tls_client
+from bs4 import BeautifulSoup
+import numpy as np
+import pandas as pd
 
-def get_avg(Player,games=26,cat=None,stats = None):
+def get_url_soup(url):
+    client_list = ['chrome_103','chrome_105','chrome_108','chrome_110','chrome_112','firefox_102','firefox_104','opera_90','safari_15_3','safari_16_0','safari_ios_15_5','safari_ios_16_0','okhttp4_android_12','okhttp4_android_13']
+    requests = tls_client.Session(
+        client_identifier=random.choice(client_list),
+        random_tls_extension_order=True
+    )
+    response1 = requests.get(url)
+    return BeautifulSoup(response1.content,features="lxml")
+
+def get_url_json(url):
+    client_list = ['chrome_103','chrome_105','chrome_108','chrome_110','chrome_112','firefox_102','firefox_104','opera_90','safari_15_3','safari_16_0','safari_ios_15_5','safari_ios_16_0','okhttp4_android_12','okhttp4_android_13']
+    requests = tls_client.Session(
+        client_identifier=random.choice(client_list),
+        random_tls_extension_order=True
+    )
+    response1 = requests.get(url)
+    return response1.json()
+
+def get_avg(player,games=26,cat=None,stats = None):
     if stats is None:
         stats = data
-    stats = stats.loc[stats['Player']== Player]
+    stats = stats.loc[stats['player']== player]
     stats = stats.iloc[-games:,10:]
     if cat:
         stats = stats[cat]
@@ -12,10 +35,10 @@ def get_avg(Player,games=26,cat=None,stats = None):
     print(f'Jayson Tatum average {cat} over the last {games} games: ')
     return avg
 
-def get_stat(Player,category,stats=None):
+def get_stat(player,category,stats=None):
     if stats is None:
         stats = data
-    stats = stats.loc[stats['Player']==Player]
+    stats = stats.loc[stats['player']==player]
     x = category.split('+')
     points = stats[x[0]]
     for i in range(len(x)-1):
@@ -23,16 +46,16 @@ def get_stat(Player,category,stats=None):
     return points.to_list()
 
 def get_line(player,pp_stat,lines):
-    guy = lines.loc[lines['Player']== player]
-    pt_lines = guy.loc[guy['Stat']== pp_stat]
+    guy = lines.loc[lines['player']== player]
+    pt_lines = guy.loc[guy['stat']== pp_stat]
     return pt_lines
 
-def moving_avg(Player,cat,window=10,stats=None):
+def moving_avg(player,cat,window=10,stats=None):
     
     #getting relevant stat category series
     if stats is None:
         stats = data
-    stats = stats.loc[stats['Player']== Player]
+    stats = stats.loc[stats['player']== player]
     x = cat.split('+')
     total = stats[x[0]]
     
@@ -156,9 +179,9 @@ def find_dynamic(guy,cat):
 def get_game(player,date,stats = None):
     if stats is None:
         stats = data
-    mask = (stats['Date'] == date)
+    mask = (stats['date'] == date)
     df2 = stats.loc[mask]
-    df2 = df2.loc[stats['Player']==player]
+    df2 = df2.loc[stats['player']==player]
     return df2 
 
 def adjust(player,cat,opp,stats=None):
@@ -180,11 +203,11 @@ def adjust(player,cat,opp,stats=None):
 
 
 def best_odds(lines):
-    date = lines['Date'].iloc[0]
-    home_teams = schedule.loc[schedule['Date']==date]['Home'].values
+    date = lines['date'].iloc[0]
+    home_teams = schedule.loc[schedule['date']==date]['home'].values
     player_lines = lines.iloc[:,0]
-    avail = data.loc[data['Date']< date]
-    player_idx = data['Player'].unique()
+    avail = data.loc[data['date']< date]
+    player_idx = data['player'].unique()
     vals = []
     for i in range(len(player_lines)):
         player = lines.iloc[i,0]
@@ -206,9 +229,9 @@ def best_odds(lines):
             mov_avg = dynamic(player,cat)[-1]
             expected = adjust(player,cat,opp,avail)
             vals.append([player,opp,home,cat,round(avg,1),round(mov_avg,1),round(expected,1),line,l_10,season])
-    odd = pd.DataFrame(vals,columns=['Player','Opp','Home','Stat','Season_avg','mov_avg','expected','line','Last_10','Season'])
+    odd = pd.DataFrame(vals,columns=['player','opp','home','stat','Season_avg','mov_avg','expected','line','Last_10','Season'])
     odd['blend'] = odd[['Last_10', 'Season']].mean(axis=1) 
-    odd['Prob']= 1- poisson.cdf(mu=odd['expected'],k=odd['line'])
+    odd['prob']= 1- poisson.cdf(mu=odd['expected'],k=odd['line'])
             
     return odd
 
@@ -217,14 +240,14 @@ def check(lines):
     val = []
     everything = []
     err = 0
-    date = lines['Date'][0]
-    avail = data.loc[data['Date']== date]
+    date = lines['date'][0]
+    avail = data.loc[data['date']== date]
     for i in range(len(lines)):
         if i%10 == 0:
             print(i)
-        player = lines['Player'][i]
-        date = lines['Date'][i]
-        cat = lines['Stat'][i]
+        player = lines['player'][i]
+        date = lines['date'][i]
+        cat = lines['stat'][i]
         line = lines['Line'][i]
         opp = lines['Team'][i]
         game  = get_game(player,date)
@@ -249,21 +272,21 @@ def check(lines):
 def get_pos(guy,stats=None):
     if stats is None:
         stats = data
-    return stats.loc[stats['Player']==guy]['Pos'].values[0]
+    return stats.loc[stats['player']==guy]['pos'].values[0]
 
 def get_start(guy):
-    return data.loc[data['Player']==guy]['GS'].values[-1]
+    return data.loc[data['player']==guy]['GS'].values[-1]
 
 def season_stats(player):
     stats = data.copy(deep=True)
-    stats = stats.loc[stats['Player']==player]
+    stats = stats.loc[stats['player']==player]
     return stats[stat_columns].mean()
 
 def position_diff(opp,cat):
     stats = data.copy(deep=True)
-    stats = stats.loc[stats['Opp'] ==opp]
+    stats = stats.loc[stats['opp'] ==opp]
     for position in ['PG','SG','SF','PF','C']:
-        frame = stats.loc[stats['Pos']==position]
+        frame = stats.loc[stats['pos']==position]
         print(position,48*frame[cat].mean()/frame['MP'].mean())
     
     return frame.head(5)
@@ -274,16 +297,16 @@ def position_adj(opp,cat,player):
     stats = data.copy(deep=True)
     stats = stats.loc[stats['GS']==start]
 
-    stats2 = stats.loc[stats['Opp'] ==opp]
+    stats2 = stats.loc[stats['opp'] ==opp]
 
     stats2
     
     #frame is that position stats vs everyone
     #frame2 is that position vs this team
-    frame = stats.loc[stats['Pos']==position]
+    frame = stats.loc[stats['pos']==position]
     x = 48*frame[cat].mean()/frame['MP'].mean()
     
-    frame2 = stats2.loc[stats2['Pos']==position]
+    frame2 = stats2.loc[stats2['pos']==position]
     y = 48*frame2[cat].mean()/frame['MP'].mean()
     y = y/x
 
@@ -294,7 +317,7 @@ def home_adjust(guy,cat,home,stats=None):
     final = []
     if stats is None:
         stats = data
-    stats = stats.loc[stats['Player']==guy]
+    stats = stats.loc[stats['player']==guy]
     cat = cat.split('+')
     homestats = stats.loc[stats['H/A']==1][cat].mean()
     awaystats = stats.loc[stats['H/A']==0][cat].mean()
@@ -308,7 +331,7 @@ def home_adjust(guy,cat,home,stats=None):
 def get_KM(player,stats=None):
     if stats is None:
         stats = data
-    return stats.loc[stats.Player==player].KM.values[0]
+    return stats.loc[stats.player==player].KM.values[0]
 
 def km_adj(player,cat,opp,stats=None):
     if stats is None:
@@ -317,7 +340,7 @@ def km_adj(player,cat,opp,stats=None):
     km = get_KM(player,stats=stats)
 
     stats = stats.loc[stats['KM']==km]
-    stats2 = stats.loc[stats['Opp']==opp]
+    stats2 = stats.loc[stats['opp']==opp]
     
     #frame is that cluster vs everyone
     #frame2 is that cluster vs this team

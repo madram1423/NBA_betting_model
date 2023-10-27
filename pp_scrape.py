@@ -4,20 +4,14 @@
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import datetime as dt
-import requests
-import tls_client
 from unidecode import unidecode
-import sys
 import uuid
+from betting_functions import get_url_json
 
 
-requests = tls_client.Session(
-    client_identifier="chrome112",
-)
+pp_url = "https://api.prizepicks.com/projections"
 
-response1 = requests.get("https://api.prizepicks.com/projections")
-
-prizepicks = response1.json()
+prizepicks = get_url_json(pp_url)
 
 df = pd.json_normalize(prizepicks, record_path="data")
 
@@ -125,5 +119,5 @@ def create_uuid_from_columns(row):
 
 df['prop_id'] = df.apply(create_uuid_from_columns, axis=1)
 
-df.to_csv(f"Lines/pp/pp_{today.year}_{today.month}_{today.day}_test.csv")
+df.to_csv(f"Lines/pp/pp_{today.year}_{today.month}_{today.day}.csv")
 print(df.head(10))
