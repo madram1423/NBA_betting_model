@@ -6,7 +6,7 @@ import pandas as pd
 import datetime as dt
 from unidecode import unidecode
 import uuid
-from betting_functions import get_url_json
+from betting_functions import get_url_json,update_csv_file
 
 
 pp_url = "https://api.prizepicks.com/projections"
@@ -94,6 +94,9 @@ syntax = {
     "Steals": "STL",
     "Personal Fouls": "PF",
     "FG Attempted": "FGA",
+    "Offensive Rebounds": "ORB",
+    "Defensive Rebounds": "DRB",
+    "3-PT Attempted": '3PA'
 }
 df = df.replace(syntax)
 df.Stat.unique()
@@ -119,5 +122,8 @@ def create_uuid_from_columns(row):
 
 df['prop_id'] = df.apply(create_uuid_from_columns, axis=1)
 
-df.to_csv(f"Lines/pp/pp_{today.year}_{today.month}_{today.day}.csv")
+
+pp_path = f"Lines/pp/pp_{today.year}_{today.month}_{today.day}.csv"
 print(df.head(10))
+update_csv_file(df,pp_path)
+

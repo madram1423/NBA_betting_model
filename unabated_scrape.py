@@ -184,18 +184,13 @@ def create_uuid_from_columns(row):
 odds["prop_id"] = odds.apply(create_uuid_from_columns, axis=1)
 
 
-def update_file(new_file, file_path):
-    if os.path.exists(file_path) is False:
-        new_file.to_csv(file_path)
-    else:
-        old_file = pd.read_csv(file_path, index_col=0, parse_dates=["event_time"])
-        pd.concat((new_file, old_file)).to_csv(file_path)
+
 
 
 raw_file_path = (
     f"Lines/unabated/unabated_raw_{today.year}_{today.month}_{today.day}.csv"
 )
-update_file(odds, raw_file_path)
+update_csv_file(odds, raw_file_path)
 
 
 # getting probabilities to hit every posted line for every player
@@ -280,7 +275,7 @@ timestamp = dt.datetime.now().replace(microsecond=0, second=0)
 final_odds["time"] = now
 final_odds = final_odds.reset_index(drop=True)
 final_file_path = f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv"
-update_file(final_odds, final_file_path)
+update_csv_file(final_odds, final_file_path)
 
 # final_odds.to_csv(f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv")
 print("Success!")

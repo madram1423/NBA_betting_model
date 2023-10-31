@@ -1,0 +1,1625 @@
+,line,stat,player,league,team,date
+0,251.5,Pass Yards,Jimmy Garoppolo,NFL,LV,2023-10-30
+1,4.5,Rush Yards,Jimmy Garoppolo,NFL,LV,2023-10-30
+2,34.5,passing_att,Jimmy Garoppolo,NFL,LV,2023-10-30
+3,22.5,passing_comps,Jimmy Garoppolo,NFL,LV,2023-10-30
+4,257.5,passing_and_rushing_yds,Jimmy Garoppolo,NFL,LV,2023-10-30
+5,14.95,Hitter Fantasy Score,Jimmy Garoppolo,NFL,LV,2023-10-30
+6,63.5,Rush Yards,Josh Jacobs,NFL,LV,2023-10-30
+7,16.5,rushing_att,Josh Jacobs,NFL,LV,2023-10-30
+8,3.5,receiving_rec,Josh Jacobs,NFL,LV,2023-10-30
+9,19.5,Receiving Yards,Josh Jacobs,NFL,LV,2023-10-30
+10,86.5,rush_rec_yds,Josh Jacobs,NFL,LV,2023-10-30
+11,13.55,Hitter Fantasy Score,Josh Jacobs,NFL,LV,2023-10-30
+12,6.0,receiving_rec,Davante Adams,NFL,LV,2023-10-30
+13,75.5,Receiving Yards,Davante Adams,NFL,LV,2023-10-30
+14,12.65,Hitter Fantasy Score,Davante Adams,NFL,LV,2023-10-30
+15,5.0,receiving_rec,Jakobi Meyers,NFL,LV,2023-10-30
+16,61.5,Receiving Yards,Jakobi Meyers,NFL,LV,2023-10-30
+17,8.5,Receiving Yards,Hunter Renfrow,NFL,LV,2023-10-30
+18,3.0,first_downs,Jakobi Meyers,NFL,LV,2023-10-30
+19,10.55,Hitter Fantasy Score,Jakobi Meyers,NFL,LV,2023-10-30
+20,11.5,Receiving Yards,Austin Hooper,NFL,LV,2023-10-30
+21,5.5,kicking_points,Daniel Carlson,NFL,LV,2023-10-30
+22,21.5,Receiving Yards,Michael Mayer,NFL,LV,2023-10-30
+23,4.0,tackles_and_assists,Marcus Peters,NFL,LV,2023-10-30
+24,4.5,Tackles,Robert Spillane,NFL,LV,2023-10-30
+25,3.0,AST,Robert Spillane,NFL,LV,2023-10-30
+26,7.5,tackles_and_assists,Robert Spillane,NFL,LV,2023-10-30
+27,3.0,Tackles,Marcus Epps,NFL,LV,2023-10-30
+28,1.5,AST,Marcus Epps,NFL,LV,2023-10-30
+29,4.5,tackles_and_assists,Marcus Epps,NFL,LV,2023-10-30
+30,3.0,Tackles,Tre'von Moehrig,NFL,LV,2023-10-30
+31,4.5,tackles_and_assists,Tre'von Moehrig,NFL,LV,2023-10-30
+32,264.5,Pass Yards,Jared Goff,NFL,DET,2023-10-30
+33,1.5,Rush Yards,Jared Goff,NFL,DET,2023-10-30
+34,32.5,passing_att,Jared Goff,NFL,DET,2023-10-30
+35,23.0,passing_comps,Jared Goff,NFL,DET,2023-10-30
+36,2.0,passing_times_sacked,Jared Goff,NFL,DET,2023-10-30
+37,70.1,passing_comp_pct,Jared Goff,NFL,DET,2023-10-30
+38,12.0,passing_first_downs,Jared Goff,NFL,DET,2023-10-30
+39,269.5,passing_and_rushing_yds,Jared Goff,NFL,DET,2023-10-30
+40,20.25,Hitter Fantasy Score,Jared Goff,NFL,DET,2023-10-30
+41,70.5,Rush Yards,Jahmyr Gibbs,NFL,DET,2023-10-30
+42,15.5,rushing_att,Jahmyr Gibbs,NFL,DET,2023-10-30
+43,26.5,Receiving Yards,Jahmyr Gibbs,NFL,DET,2023-10-30
+44,102.5,rush_rec_yds,Jahmyr Gibbs,NFL,DET,2023-10-30
+45,15.75,Hitter Fantasy Score,Jahmyr Gibbs,NFL,DET,2023-10-30
+46,15.85,Hitter Fantasy Score,Amon-Ra St. Brown,other,DET,2023-10-30
+47,26.5,Receiving Yards,Jameson Williams,NFL,DET,2023-10-30
+48,27.5,rush_rec_yds,Jameson Williams,NFL,DET,2023-10-30
+49,4.0,receiving_rec,Sam LaPorta,NFL,DET,2023-10-30
+50,44.5,Receiving Yards,Sam LaPorta,NFL,DET,2023-10-30
+51,6.0,receiving_tgts,Sam LaPorta,NFL,DET,2023-10-30
+52,8.75,Hitter Fantasy Score,Sam LaPorta,NFL,DET,2023-10-30
+53,2.5,receiving_rec,Josh Reynolds,NFL,DET,2023-10-30
+54,35.5,Receiving Yards,Josh Reynolds,NFL,DET,2023-10-30
+55,6.05,Hitter Fantasy Score,Josh Reynolds,NFL,DET,2023-10-30
+56,1.5,field_goals_made,Riley Patterson,NFL,DET,2023-10-30
+57,7.5,kicking_points,Riley Patterson,NFL,DET,2023-10-30
+58,3.5,Tackles,Tracy Walker,NFL,DET,2023-10-30
+59,5.5,tackles_and_assists,Tracy Walker,NFL,DET,2023-10-30
+60,3.0,AST,Alex Anzalone,NFL,DET,2023-10-30
+61,0.5,sacks,Aidan Hutchinson,NFL,DET,2023-10-30
+62,7.5,tackles_and_assists,Alex Anzalone,NFL,DET,2023-10-30
+63,0.5,double_doubles,Jayson Tatum,NBA,BOS,2023-10-30
+64,24.5,PTS,Jayson Tatum,NBA,BOS,2023-10-30
+65,39.5,PTS+TRB+AST,Jayson Tatum,NBA,BOS,2023-10-30
+66,5.0,AST,Jayson Tatum,NBA,BOS,2023-10-30
+67,9.5,TRB,Jayson Tatum,NBA,BOS,2023-10-30
+68,14.5,TRB+AST,Jayson Tatum,NBA,BOS,2023-10-30
+69,34.5,PTS+TRB,Jayson Tatum,NBA,BOS,2023-10-30
+70,29.5,PTS+AST,Jayson Tatum,NBA,BOS,2023-10-30
+71,2.5,TO,Jayson Tatum,NBA,BOS,2023-10-30
+72,18.5,field_goals_att,Jayson Tatum,NBA,BOS,2023-10-30
+73,2.5,personal_fouls,Jayson Tatum,NBA,BOS,2023-10-30
+74,0.5,BLK,Jayson Tatum,NBA,BOS,2023-10-30
+75,8.0,three_points_att,Jayson Tatum,NBA,BOS,2023-10-30
+76,1.5,BLK+STL,Jayson Tatum,NBA,BOS,2023-10-30
+77,20.0,PTS,Jaylen Brown,NBA,BOS,2023-10-30
+78,29.5,PTS+TRB+AST,Jaylen Brown,NBA,BOS,2023-10-30
+79,3.5,AST,Jaylen Brown,NBA,BOS,2023-10-30
+80,6.0,TRB,Jaylen Brown,NBA,BOS,2023-10-30
+81,9.5,TRB+AST,Jaylen Brown,NBA,BOS,2023-10-30
+82,23.5,PTS+AST,Jaylen Brown,NBA,BOS,2023-10-30
+83,25.5,PTS+TRB,Jaylen Brown,NBA,BOS,2023-10-30
+84,2.5,TO,Jaylen Brown,NBA,BOS,2023-10-30
+85,15.5,field_goals_att,Jaylen Brown,NBA,BOS,2023-10-30
+86,3.0,personal_fouls,Jaylen Brown,NBA,BOS,2023-10-30
+87,5.5,three_points_att,Jaylen Brown,NBA,BOS,2023-10-30
+88,20.5,PTS,Kristaps Porzingis,NBA,BOS,2023-10-30
+89,30.5,PTS+TRB+AST,Kristaps Porzingis,NBA,BOS,2023-10-30
+90,2.0,AST,Kristaps Porzingis,NBA,BOS,2023-10-30
+91,8.5,TRB,Kristaps Porzingis,NBA,BOS,2023-10-30
+92,10.5,TRB+AST,Kristaps Porzingis,NBA,BOS,2023-10-30
+93,2.0,3PM,Kristaps Porzingis,NBA,BOS,2023-10-30
+94,28.5,PTS+TRB,Kristaps Porzingis,NBA,BOS,2023-10-30
+95,22.5,PTS+AST,Kristaps Porzingis,NBA,BOS,2023-10-30
+96,1.5,TO,Kristaps Porzingis,NBA,BOS,2023-10-30
+97,6.0,three_points_att,Kristaps Porzingis,NBA,BOS,2023-10-30
+98,14.5,field_goals_att,Kristaps Porzingis,NBA,BOS,2023-10-30
+99,13.5,PTS,Jrue Holiday,NBA,BOS,2023-10-30
+100,25.5,PTS+TRB+AST,Jrue Holiday,NBA,BOS,2023-10-30
+101,6.5,AST,Jrue Holiday,NBA,BOS,2023-10-30
+102,4.5,TRB,Jrue Holiday,NBA,BOS,2023-10-30
+103,11.5,TRB+AST,Jrue Holiday,NBA,BOS,2023-10-30
+104,1.5,3PM,Jrue Holiday,NBA,BOS,2023-10-30
+105,20.5,PTS+AST,Jrue Holiday,NBA,BOS,2023-10-30
+106,18.5,PTS+TRB,Jrue Holiday,NBA,BOS,2023-10-30
+107,4.5,three_points_att,Jrue Holiday,NBA,BOS,2023-10-30
+108,11.5,field_goals_att,Jrue Holiday,NBA,BOS,2023-10-30
+109,2.0,personal_fouls,Jrue Holiday,NBA,BOS,2023-10-30
+110,2.0,TO,Jrue Holiday,NBA,BOS,2023-10-30
+111,12.5,PTS,Derrick White,NBA,BOS,2023-10-30
+112,19.5,PTS+TRB+AST,Derrick White,NBA,BOS,2023-10-30
+113,6.5,TRB+AST,Derrick White,NBA,BOS,2023-10-30
+114,15.5,PTS+AST,Derrick White,NBA,BOS,2023-10-30
+115,16.5,PTS+TRB,Derrick White,NBA,BOS,2023-10-30
+116,5.5,three_points_att,Derrick White,NBA,BOS,2023-10-30
+117,1.5,BLK+STL,Derrick White,NBA,BOS,2023-10-30
+118,2.5,personal_fouls,Derrick White,NBA,BOS,2023-10-30
+119,10.0,field_goals_att,Derrick White,NBA,BOS,2023-10-30
+120,21.5,PTS,Kyle Kuzma,NBA,WAS,2023-10-30
+121,32.5,PTS+TRB+AST,Kyle Kuzma,NBA,WAS,2023-10-30
+122,8.0,TRB,Kyle Kuzma,NBA,WAS,2023-10-30
+123,10.5,TRB+AST,Kyle Kuzma,NBA,WAS,2023-10-30
+124,29.5,PTS+TRB,Kyle Kuzma,NBA,WAS,2023-10-30
+125,23.5,PTS+AST,Kyle Kuzma,NBA,WAS,2023-10-30
+126,18.5,field_goals_att,Kyle Kuzma,NBA,WAS,2023-10-30
+127,7.0,three_points_att,Kyle Kuzma,NBA,WAS,2023-10-30
+128,22.5,PTS,Jordan Poole,NBA,WAS,2023-10-30
+129,30.5,PTS+TRB+AST,Jordan Poole,NBA,WAS,2023-10-30
+130,4.5,AST,Jordan Poole,NBA,WAS,2023-10-30
+131,3.5,TRB,Jordan Poole,NBA,WAS,2023-10-30
+132,8.0,TRB+AST,Jordan Poole,NBA,WAS,2023-10-30
+133,3.0,3PM,Jordan Poole,NBA,WAS,2023-10-30
+134,25.5,PTS+TRB,Jordan Poole,NBA,WAS,2023-10-30
+135,26.5,PTS+AST,Jordan Poole,NBA,WAS,2023-10-30
+136,3.0,personal_fouls,Jordan Poole,NBA,WAS,2023-10-30
+137,8.0,three_points_att,Jordan Poole,NBA,WAS,2023-10-30
+138,17.5,field_goals_att,Jordan Poole,NBA,WAS,2023-10-30
+139,12.5,PTS,Tyus Jones,NBA,WAS,2023-10-30
+140,22.5,PTS+TRB+AST,Tyus Jones,NBA,WAS,2023-10-30
+141,7.0,AST,Tyus Jones,NBA,WAS,2023-10-30
+142,10.5,TRB+AST,Tyus Jones,NBA,WAS,2023-10-30
+143,19.5,PTS+AST,Tyus Jones,NBA,WAS,2023-10-30
+144,15.5,PTS+TRB,Tyus Jones,NBA,WAS,2023-10-30
+145,11.5,field_goals_att,Tyus Jones,NBA,WAS,2023-10-30
+146,5.5,three_points_att,Tyus Jones,NBA,WAS,2023-10-30
+147,1.5,BLK+STL,Tyus Jones,NBA,WAS,2023-10-30
+148,10.5,PTS,Deni Avdija,NBA,WAS,2023-10-30
+149,21.5,PTS+TRB+AST,Deni Avdija,NBA,WAS,2023-10-30
+150,10.5,TRB+AST,Deni Avdija,NBA,WAS,2023-10-30
+151,17.5,PTS+TRB,Deni Avdija,NBA,WAS,2023-10-30
+152,13.5,PTS+AST,Deni Avdija,NBA,WAS,2023-10-30
+153,3.0,personal_fouls,Deni Avdija,NBA,WAS,2023-10-30
+154,8.5,field_goals_att,Deni Avdija,NBA,WAS,2023-10-30
+155,3.0,three_points_att,Deni Avdija,NBA,WAS,2023-10-30
+156,10.0,PTS,Daniel Gafford,NBA,WAS,2023-10-30
+157,18.5,PTS+TRB+AST,Daniel Gafford,NBA,WAS,2023-10-30
+158,6.5,TRB,Daniel Gafford,NBA,WAS,2023-10-30
+159,7.5,TRB+AST,Daniel Gafford,NBA,WAS,2023-10-30
+160,16.5,PTS+TRB,Daniel Gafford,NBA,WAS,2023-10-30
+161,11.5,PTS+AST,Daniel Gafford,NBA,WAS,2023-10-30
+162,0.5,STL,Daniel Gafford,NBA,WAS,2023-10-30
+163,6.5,field_goals_att,Daniel Gafford,NBA,WAS,2023-10-30
+164,1.5,BLK+STL,Daniel Gafford,NBA,WAS,2023-10-30
+165,2.5,personal_fouls,Daniel Gafford,NBA,WAS,2023-10-30
+166,25.5,PTS,Mikal Bridges,NBA,BKN,2023-10-30
+167,33.5,PTS+TRB+AST,Mikal Bridges,NBA,BKN,2023-10-30
+168,2.5,AST,Mikal Bridges,NBA,BKN,2023-10-30
+169,4.5,TRB,Mikal Bridges,NBA,BKN,2023-10-30
+170,7.5,TRB+AST,Mikal Bridges,NBA,BKN,2023-10-30
+171,28.5,PTS+AST,Mikal Bridges,NBA,BKN,2023-10-30
+172,30.5,PTS+TRB,Mikal Bridges,NBA,BKN,2023-10-30
+173,19.5,field_goals_att,Mikal Bridges,NBA,BKN,2023-10-30
+174,1.5,BLK+STL,Mikal Bridges,NBA,BKN,2023-10-30
+175,6.5,three_points_att,Mikal Bridges,NBA,BKN,2023-10-30
+176,16.5,PTS,Spencer Dinwiddie,NBA,BKN,2023-10-30
+177,26.5,PTS+TRB+AST,Spencer Dinwiddie,NBA,BKN,2023-10-30
+178,6.5,AST,Spencer Dinwiddie,NBA,BKN,2023-10-30
+179,3.5,TRB,Spencer Dinwiddie,NBA,BKN,2023-10-30
+180,9.5,TRB+AST,Spencer Dinwiddie,NBA,BKN,2023-10-30
+181,2.0,3PM,Spencer Dinwiddie,NBA,BKN,2023-10-30
+182,23.5,PTS+AST,Spencer Dinwiddie,NBA,BKN,2023-10-30
+183,20.5,PTS+TRB,Spencer Dinwiddie,NBA,BKN,2023-10-30
+184,12.5,field_goals_att,Spencer Dinwiddie,NBA,BKN,2023-10-30
+185,5.0,three_points_att,Spencer Dinwiddie,NBA,BKN,2023-10-30
+186,8.0,PTS,Ben Simmons,NBA,BKN,2023-10-30
+187,24.5,PTS+TRB+AST,Ben Simmons,NBA,BKN,2023-10-30
+188,7.0,AST,Ben Simmons,NBA,BKN,2023-10-30
+189,8.5,TRB,Ben Simmons,NBA,BKN,2023-10-30
+190,16.5,TRB+AST,Ben Simmons,NBA,BKN,2023-10-30
+191,15.5,PTS+AST,Ben Simmons,NBA,BKN,2023-10-30
+192,17.5,PTS+TRB,Ben Simmons,NBA,BKN,2023-10-30
+193,6.5,field_goals_att,Ben Simmons,NBA,BKN,2023-10-30
+194,0.5,BLK,Ben Simmons,NBA,BKN,2023-10-30
+195,2.0,BLK+STL,Ben Simmons,NBA,BKN,2023-10-30
+196,9.5,PTS,Dorian Finney-Smith,NBA,BKN,2023-10-30
+197,16.5,PTS+TRB+AST,Dorian Finney-Smith,NBA,BKN,2023-10-30
+198,5.5,TRB,Dorian Finney-Smith,NBA,BKN,2023-10-30
+199,7.0,TRB+AST,Dorian Finney-Smith,NBA,BKN,2023-10-30
+200,15.5,PTS+TRB,Dorian Finney-Smith,NBA,BKN,2023-10-30
+201,10.5,PTS+AST,Dorian Finney-Smith,NBA,BKN,2023-10-30
+202,7.5,field_goals_att,Dorian Finney-Smith,NBA,BKN,2023-10-30
+203,4.5,three_points_att,Dorian Finney-Smith,NBA,BKN,2023-10-30
+204,0.5,BLK,Dorian Finney-Smith,NBA,BKN,2023-10-30
+205,20.5,PTS,LaMelo Ball,NBA,CHA,2023-10-30
+206,36.5,PTS+TRB+AST,LaMelo Ball,NBA,CHA,2023-10-30
+207,8.5,AST,LaMelo Ball,NBA,CHA,2023-10-30
+208,6.5,TRB,LaMelo Ball,NBA,CHA,2023-10-30
+209,15.0,TRB+AST,LaMelo Ball,NBA,CHA,2023-10-30
+210,3.0,3PM,LaMelo Ball,NBA,CHA,2023-10-30
+211,29.5,PTS+AST,LaMelo Ball,NBA,CHA,2023-10-30
+212,27.5,PTS+TRB,LaMelo Ball,NBA,CHA,2023-10-30
+213,17.5,field_goals_att,LaMelo Ball,NBA,CHA,2023-10-30
+214,8.5,three_points_att,LaMelo Ball,NBA,CHA,2023-10-30
+215,2.5,personal_fouls,LaMelo Ball,NBA,CHA,2023-10-30
+216,19.5,PTS,Terry Rozier,NBA,CHA,2023-10-30
+217,28.5,PTS+TRB+AST,Terry Rozier,NBA,CHA,2023-10-30
+218,4.5,AST,Terry Rozier,NBA,CHA,2023-10-30
+219,3.5,TRB,Terry Rozier,NBA,CHA,2023-10-30
+220,8.0,TRB+AST,Terry Rozier,NBA,CHA,2023-10-30
+221,2.5,3PM,Terry Rozier,NBA,CHA,2023-10-30
+222,24.5,PTS+AST,Terry Rozier,NBA,CHA,2023-10-30
+223,23.5,PTS+TRB,Terry Rozier,NBA,CHA,2023-10-30
+224,16.5,field_goals_att,Terry Rozier,NBA,CHA,2023-10-30
+225,2.0,personal_fouls,Terry Rozier,NBA,CHA,2023-10-30
+226,7.0,three_points_att,Terry Rozier,NBA,CHA,2023-10-30
+227,14.5,PTS,Gordon Hayward,NBA,CHA,2023-10-30
+228,24.5,PTS+TRB+AST,Gordon Hayward,NBA,CHA,2023-10-30
+229,4.5,AST,Gordon Hayward,NBA,CHA,2023-10-30
+230,4.5,TRB,Gordon Hayward,NBA,CHA,2023-10-30
+231,9.5,TRB+AST,Gordon Hayward,NBA,CHA,2023-10-30
+232,19.5,PTS+AST,Gordon Hayward,NBA,CHA,2023-10-30
+233,19.5,PTS+TRB,Gordon Hayward,NBA,CHA,2023-10-30
+234,11.5,field_goals_att,Gordon Hayward,NBA,CHA,2023-10-30
+235,3.0,three_points_att,Gordon Hayward,NBA,CHA,2023-10-30
+236,15.5,PTS,PJ Washington,NBA,CHA,2023-10-30
+237,22.5,PTS+TRB+AST,PJ Washington,NBA,CHA,2023-10-30
+238,4.5,TRB,PJ Washington,NBA,CHA,2023-10-30
+239,6.5,TRB+AST,PJ Washington,NBA,CHA,2023-10-30
+240,2.0,3PM,PJ Washington,NBA,CHA,2023-10-30
+241,20.5,PTS+TRB,PJ Washington,NBA,CHA,2023-10-30
+242,17.5,PTS+AST,PJ Washington,NBA,CHA,2023-10-30
+243,1.5,TO,PJ Washington,NBA,CHA,2023-10-30
+244,12.5,field_goals_att,PJ Washington,NBA,CHA,2023-10-30
+245,5.5,three_points_att,PJ Washington,NBA,CHA,2023-10-30
+246,1.5,BLK+STL,PJ Washington,NBA,CHA,2023-10-30
+247,11.5,PTS,Mark Williams,NBA,CHA,2023-10-30
+248,22.5,PTS+TRB+AST,Mark Williams,NBA,CHA,2023-10-30
+249,0.5,AST,Mark Williams,NBA,CHA,2023-10-30
+250,10.0,TRB,Mark Williams,NBA,CHA,2023-10-30
+251,10.5,TRB+AST,Mark Williams,NBA,CHA,2023-10-30
+252,11.5,PTS+AST,Mark Williams,NBA,CHA,2023-10-30
+253,21.5,PTS+TRB,Mark Williams,NBA,CHA,2023-10-30
+254,0.5,STL,Mark Williams,NBA,CHA,2023-10-30
+255,1.5,BLK+STL,Mark Williams,NBA,CHA,2023-10-30
+256,7.5,field_goals_att,Mark Williams,NBA,CHA,2023-10-30
+257,2.5,personal_fouls,Mark Williams,NBA,CHA,2023-10-30
+258,21.5,PTS,DeMar DeRozan,NBA,CHI,2023-10-30
+259,30.5,PTS+TRB+AST,DeMar DeRozan,NBA,CHI,2023-10-30
+260,4.0,TRB,DeMar DeRozan,NBA,CHI,2023-10-30
+261,9.0,TRB+AST,DeMar DeRozan,NBA,CHI,2023-10-30
+262,0.5,3PM,DeMar DeRozan,NBA,CHI,2023-10-30
+263,25.5,PTS+TRB,DeMar DeRozan,NBA,CHI,2023-10-30
+264,26.5,PTS+AST,DeMar DeRozan,NBA,CHI,2023-10-30
+265,1.5,BLK+STL,DeMar DeRozan,NBA,CHI,2023-10-30
+266,16.5,field_goals_att,DeMar DeRozan,NBA,CHI,2023-10-30
+267,1.5,TO,DeMar DeRozan,NBA,CHI,2023-10-30
+268,2.0,three_points_att,DeMar DeRozan,NBA,CHI,2023-10-30
+269,2.5,personal_fouls,DeMar DeRozan,NBA,CHI,2023-10-30
+270,25.5,PTS,Zach LaVine,NBA,CHI,2023-10-30
+271,34.5,PTS+TRB+AST,Zach LaVine,NBA,CHI,2023-10-30
+272,4.0,AST,Zach LaVine,NBA,CHI,2023-10-30
+273,4.0,TRB,Zach LaVine,NBA,CHI,2023-10-30
+274,8.0,TRB+AST,Zach LaVine,NBA,CHI,2023-10-30
+275,29.5,PTS+TRB,Zach LaVine,NBA,CHI,2023-10-30
+276,30.5,PTS+AST,Zach LaVine,NBA,CHI,2023-10-30
+277,0.5,STL,Zach LaVine,NBA,CHI,2023-10-30
+278,6.5,three_points_att,Zach LaVine,NBA,CHI,2023-10-30
+279,2.0,personal_fouls,Zach LaVine,NBA,CHI,2023-10-30
+280,18.5,field_goals_att,Zach LaVine,NBA,CHI,2023-10-30
+281,0.5,double_doubles,Nikola Vucevic,NBA,CHI,2023-10-30
+282,14.5,PTS,Nikola Vucevic,NBA,CHI,2023-10-30
+283,28.5,PTS+TRB+AST,Nikola Vucevic,NBA,CHI,2023-10-30
+284,2.5,AST,Nikola Vucevic,NBA,CHI,2023-10-30
+285,10.5,TRB,Nikola Vucevic,NBA,CHI,2023-10-30
+286,12.5,TRB+AST,Nikola Vucevic,NBA,CHI,2023-10-30
+287,25.5,PTS+TRB,Nikola Vucevic,NBA,CHI,2023-10-30
+288,17.5,PTS+AST,Nikola Vucevic,NBA,CHI,2023-10-30
+289,0.5,STL,Nikola Vucevic,NBA,CHI,2023-10-30
+290,0.5,BLK,Nikola Vucevic,NBA,CHI,2023-10-30
+291,12.0,field_goals_att,Nikola Vucevic,NBA,CHI,2023-10-30
+292,2.5,three_points_att,Nikola Vucevic,NBA,CHI,2023-10-30
+293,12.5,PTS,Coby White,NBA,CHI,2023-10-30
+294,21.5,PTS+TRB+AST,Coby White,NBA,CHI,2023-10-30
+295,4.5,AST,Coby White,NBA,CHI,2023-10-30
+296,3.5,TRB,Coby White,NBA,CHI,2023-10-30
+297,8.5,TRB+AST,Coby White,NBA,CHI,2023-10-30
+298,17.5,PTS+AST,Coby White,NBA,CHI,2023-10-30
+299,16.5,PTS+TRB,Coby White,NBA,CHI,2023-10-30
+300,2.0,personal_fouls,Coby White,NBA,CHI,2023-10-30
+301,10.5,field_goals_att,Coby White,NBA,CHI,2023-10-30
+302,6.0,three_points_att,Coby White,NBA,CHI,2023-10-30
+303,20.5,PTS,Tyrese Haliburton,NBA,IND,2023-10-30
+304,34.5,PTS+TRB+AST,Tyrese Haliburton,NBA,IND,2023-10-30
+305,10.0,AST,Tyrese Haliburton,NBA,IND,2023-10-30
+306,3.5,TRB,Tyrese Haliburton,NBA,IND,2023-10-30
+307,13.5,TRB+AST,Tyrese Haliburton,NBA,IND,2023-10-30
+308,30.5,PTS+AST,Tyrese Haliburton,NBA,IND,2023-10-30
+309,23.5,PTS+TRB,Tyrese Haliburton,NBA,IND,2023-10-30
+310,1.5,BLK+STL,Tyrese Haliburton,NBA,IND,2023-10-30
+311,7.0,three_points_att,Tyrese Haliburton,NBA,IND,2023-10-30
+312,14.0,field_goals_att,Tyrese Haliburton,NBA,IND,2023-10-30
+313,14.5,PTS,Myles Turner,NBA,IND,2023-10-30
+314,22.5,PTS+TRB+AST,Myles Turner,NBA,IND,2023-10-30
+315,7.0,TRB,Myles Turner,NBA,IND,2023-10-30
+316,8.5,TRB+AST,Myles Turner,NBA,IND,2023-10-30
+317,21.5,PTS+TRB,Myles Turner,NBA,IND,2023-10-30
+318,15.5,PTS+AST,Myles Turner,NBA,IND,2023-10-30
+319,1.5,TO,Myles Turner,NBA,IND,2023-10-30
+320,3.5,three_points_att,Myles Turner,NBA,IND,2023-10-30
+321,2.0,BLK,Myles Turner,NBA,IND,2023-10-30
+322,2.5,BLK+STL,Myles Turner,NBA,IND,2023-10-30
+323,10.0,field_goals_att,Myles Turner,NBA,IND,2023-10-30
+324,13.5,PTS,Bruce Brown,NBA,IND,2023-10-30
+325,19.5,PTS+TRB+AST,Bruce Brown,NBA,IND,2023-10-30
+326,4.0,TRB,Bruce Brown,NBA,IND,2023-10-30
+327,6.0,TRB+AST,Bruce Brown,NBA,IND,2023-10-30
+328,17.5,PTS+TRB,Bruce Brown,NBA,IND,2023-10-30
+329,15.5,PTS+AST,Bruce Brown,NBA,IND,2023-10-30
+330,3.0,three_points_att,Bruce Brown,NBA,IND,2023-10-30
+331,2.5,personal_fouls,Bruce Brown,NBA,IND,2023-10-30
+332,9.5,field_goals_att,Bruce Brown,NBA,IND,2023-10-30
+333,1.5,BLK+STL,Bruce Brown,NBA,IND,2023-10-30
+334,13.5,PTS,Bennedict Mathurin,NBA,IND,2023-10-30
+335,19.5,PTS+TRB+AST,Bennedict Mathurin,NBA,IND,2023-10-30
+336,3.5,TRB,Bennedict Mathurin,NBA,IND,2023-10-30
+337,5.0,TRB+AST,Bennedict Mathurin,NBA,IND,2023-10-30
+338,15.5,PTS+AST,Bennedict Mathurin,NBA,IND,2023-10-30
+339,17.5,PTS+TRB,Bennedict Mathurin,NBA,IND,2023-10-30
+340,0.5,STL,Bennedict Mathurin,NBA,IND,2023-10-30
+341,1.5,TO,Bennedict Mathurin,NBA,IND,2023-10-30
+342,2.0,personal_fouls,Bennedict Mathurin,NBA,IND,2023-10-30
+343,9.5,field_goals_att,Bennedict Mathurin,NBA,IND,2023-10-30
+344,8.5,PTS,Obi Toppin,NBA,IND,2023-10-30
+345,13.5,PTS+TRB+AST,Obi Toppin,NBA,IND,2023-10-30
+346,3.5,TRB,Obi Toppin,NBA,IND,2023-10-30
+347,5.0,TRB+AST,Obi Toppin,NBA,IND,2023-10-30
+348,9.5,PTS+AST,Obi Toppin,NBA,IND,2023-10-30
+349,12.5,PTS+TRB,Obi Toppin,NBA,IND,2023-10-30
+350,3.5,three_points_att,Obi Toppin,NBA,IND,2023-10-30
+351,7.0,field_goals_att,Obi Toppin,NBA,IND,2023-10-30
+352,9.5,PTS,Scoot Henderson,NBA,POR,2023-10-30
+353,18.5,PTS+TRB+AST,Scoot Henderson,NBA,POR,2023-10-30
+354,5.0,AST,Scoot Henderson,NBA,POR,2023-10-30
+355,3.0,TRB,Scoot Henderson,NBA,POR,2023-10-30
+356,8.0,TRB+AST,Scoot Henderson,NBA,POR,2023-10-30
+357,15.5,PTS+AST,Scoot Henderson,NBA,POR,2023-10-30
+358,13.5,PTS+TRB,Scoot Henderson,NBA,POR,2023-10-30
+359,3.0,three_points_att,Scoot Henderson,NBA,POR,2023-10-30
+360,9.0,field_goals_att,Scoot Henderson,NBA,POR,2023-10-30
+361,17.5,PTS,Jerami Grant,NBA,POR,2023-10-30
+362,24.5,PTS+TRB+AST,Jerami Grant,NBA,POR,2023-10-30
+363,2.5,AST,Jerami Grant,NBA,POR,2023-10-30
+364,4.0,TRB,Jerami Grant,NBA,POR,2023-10-30
+365,6.5,TRB+AST,Jerami Grant,NBA,POR,2023-10-30
+366,20.5,PTS+AST,Jerami Grant,NBA,POR,2023-10-30
+367,22.5,PTS+TRB,Jerami Grant,NBA,POR,2023-10-30
+368,13.5,field_goals_att,Jerami Grant,NBA,POR,2023-10-30
+369,5.0,three_points_att,Jerami Grant,NBA,POR,2023-10-30
+370,1.5,BLK+STL,Jerami Grant,NBA,POR,2023-10-30
+371,2.5,personal_fouls,Jerami Grant,NBA,POR,2023-10-30
+372,12.5,PTS,Deandre Ayton,NBA,POR,2023-10-30
+373,23.5,PTS+TRB+AST,Deandre Ayton,NBA,POR,2023-10-30
+374,9.5,TRB,Deandre Ayton,NBA,POR,2023-10-30
+375,10.5,TRB+AST,Deandre Ayton,NBA,POR,2023-10-30
+376,13.5,PTS+AST,Deandre Ayton,NBA,POR,2023-10-30
+377,22.5,PTS+TRB,Deandre Ayton,NBA,POR,2023-10-30
+378,0.5,STL,Deandre Ayton,NBA,POR,2023-10-30
+379,2.5,personal_fouls,Deandre Ayton,NBA,POR,2023-10-30
+380,10.0,field_goals_att,Deandre Ayton,NBA,POR,2023-10-30
+381,19.5,PTS,Shaedon Sharpe,NBA,POR,2023-10-30
+382,27.5,PTS+TRB+AST,Shaedon Sharpe,NBA,POR,2023-10-30
+383,4.0,AST,Shaedon Sharpe,NBA,POR,2023-10-30
+384,4.5,TRB,Shaedon Sharpe,NBA,POR,2023-10-30
+385,8.5,TRB+AST,Shaedon Sharpe,NBA,POR,2023-10-30
+386,2.5,3PM,Shaedon Sharpe,NBA,POR,2023-10-30
+387,23.5,PTS+AST,Shaedon Sharpe,NBA,POR,2023-10-30
+388,23.5,PTS+TRB,Shaedon Sharpe,NBA,POR,2023-10-30
+389,2.5,TO,Shaedon Sharpe,NBA,POR,2023-10-30
+390,16.5,field_goals_att,Shaedon Sharpe,NBA,POR,2023-10-30
+391,7.0,three_points_att,Shaedon Sharpe,NBA,POR,2023-10-30
+392,2.5,personal_fouls,Shaedon Sharpe,NBA,POR,2023-10-30
+393,21.5,PTS,Pascal Siakam,NBA,TOR,2023-10-30
+394,34.5,PTS+TRB+AST,Pascal Siakam,NBA,TOR,2023-10-30
+395,4.5,AST,Pascal Siakam,NBA,TOR,2023-10-30
+396,7.5,TRB,Pascal Siakam,NBA,TOR,2023-10-30
+397,12.5,TRB+AST,Pascal Siakam,NBA,TOR,2023-10-30
+398,1.5,3PM,Pascal Siakam,NBA,TOR,2023-10-30
+399,26.5,PTS+AST,Pascal Siakam,NBA,TOR,2023-10-30
+400,29.5,PTS+TRB,Pascal Siakam,NBA,TOR,2023-10-30
+401,16.5,field_goals_att,Pascal Siakam,NBA,TOR,2023-10-30
+402,1.5,BLK+STL,Pascal Siakam,NBA,TOR,2023-10-30
+403,18.5,PTS,Scottie Barnes,NBA,TOR,2023-10-30
+404,30.5,PTS+TRB+AST,Scottie Barnes,NBA,TOR,2023-10-30
+405,5.0,AST,Scottie Barnes,NBA,TOR,2023-10-30
+406,7.0,TRB,Scottie Barnes,NBA,TOR,2023-10-30
+407,12.5,TRB+AST,Scottie Barnes,NBA,TOR,2023-10-30
+408,25.5,PTS+TRB,Scottie Barnes,NBA,TOR,2023-10-30
+409,23.5,PTS+AST,Scottie Barnes,NBA,TOR,2023-10-30
+410,14.5,field_goals_att,Scottie Barnes,NBA,TOR,2023-10-30
+411,3.0,three_points_att,Scottie Barnes,NBA,TOR,2023-10-30
+412,2.0,BLK+STL,Scottie Barnes,NBA,TOR,2023-10-30
+413,2.5,personal_fouls,Scottie Barnes,NBA,TOR,2023-10-30
+414,9.5,PTS,Jakob Poeltl,NBA,TOR,2023-10-30
+415,19.5,PTS+TRB+AST,Jakob Poeltl,NBA,TOR,2023-10-30
+416,1.5,AST,Jakob Poeltl,NBA,TOR,2023-10-30
+417,8.5,TRB,Jakob Poeltl,NBA,TOR,2023-10-30
+418,10.0,TRB+AST,Jakob Poeltl,NBA,TOR,2023-10-30
+419,17.5,PTS+TRB,Jakob Poeltl,NBA,TOR,2023-10-30
+420,10.5,PTS+AST,Jakob Poeltl,NBA,TOR,2023-10-30
+421,6.5,field_goals_att,Jakob Poeltl,NBA,TOR,2023-10-30
+422,2.0,BLK+STL,Jakob Poeltl,NBA,TOR,2023-10-30
+423,13.5,PTS,Dennis Schroder,NBA,TOR,2023-10-30
+424,24.5,PTS+TRB+AST,Dennis Schroder,NBA,TOR,2023-10-30
+425,7.5,AST,Dennis Schroder,NBA,TOR,2023-10-30
+426,2.5,TRB,Dennis Schroder,NBA,TOR,2023-10-30
+427,10.0,TRB+AST,Dennis Schroder,NBA,TOR,2023-10-30
+428,21.5,PTS+AST,Dennis Schroder,NBA,TOR,2023-10-30
+429,16.5,PTS+TRB,Dennis Schroder,NBA,TOR,2023-10-30
+430,1.5,TO,Dennis Schroder,NBA,TOR,2023-10-30
+431,11.5,field_goals_att,Dennis Schroder,NBA,TOR,2023-10-30
+432,5.0,three_points_att,Dennis Schroder,NBA,TOR,2023-10-30
+433,2.0,personal_fouls,Dennis Schroder,NBA,TOR,2023-10-30
+434,1.5,BLK+STL,Dennis Schroder,NBA,TOR,2023-10-30
+435,26.5,PTS,Anthony Edwards,NBA,MIN,2023-10-30
+436,35.5,PTS+TRB+AST,Anthony Edwards,NBA,MIN,2023-10-30
+437,4.0,AST,Anthony Edwards,NBA,MIN,2023-10-30
+438,5.0,TRB,Anthony Edwards,NBA,MIN,2023-10-30
+439,9.5,TRB+AST,Anthony Edwards,NBA,MIN,2023-10-30
+440,30.5,PTS+AST,Anthony Edwards,NBA,MIN,2023-10-30
+441,31.5,PTS+TRB,Anthony Edwards,NBA,MIN,2023-10-30
+442,9.0,three_points_att,Anthony Edwards,NBA,MIN,2023-10-30
+443,2.5,personal_fouls,Anthony Edwards,NBA,MIN,2023-10-30
+444,2.0,BLK+STL,Anthony Edwards,NBA,MIN,2023-10-30
+445,2.5,TO,Anthony Edwards,NBA,MIN,2023-10-30
+446,20.5,field_goals_att,Anthony Edwards,NBA,MIN,2023-10-30
+447,21.5,PTS,Karl-Anthony Towns,NBA,MIN,2023-10-30
+448,33.5,PTS+TRB+AST,Karl-Anthony Towns,NBA,MIN,2023-10-30
+449,8.0,TRB,Karl-Anthony Towns,NBA,MIN,2023-10-30
+450,11.5,TRB+AST,Karl-Anthony Towns,NBA,MIN,2023-10-30
+451,2.0,3PM,Karl-Anthony Towns,NBA,MIN,2023-10-30
+452,29.5,PTS+TRB,Karl-Anthony Towns,NBA,MIN,2023-10-30
+453,24.5,PTS+AST,Karl-Anthony Towns,NBA,MIN,2023-10-30
+454,14.5,field_goals_att,Karl-Anthony Towns,NBA,MIN,2023-10-30
+455,5.5,three_points_att,Karl-Anthony Towns,NBA,MIN,2023-10-30
+456,1.5,BLK+STL,Karl-Anthony Towns,NBA,MIN,2023-10-30
+457,3.0,personal_fouls,Karl-Anthony Towns,NBA,MIN,2023-10-30
+458,14.5,PTS,Rudy Gobert,NBA,MIN,2023-10-30
+459,27.5,PTS+TRB+AST,Rudy Gobert,NBA,MIN,2023-10-30
+460,1.5,AST,Rudy Gobert,NBA,MIN,2023-10-30
+461,11.0,TRB,Rudy Gobert,NBA,MIN,2023-10-30
+462,12.5,TRB+AST,Rudy Gobert,NBA,MIN,2023-10-30
+463,25.5,PTS+TRB,Rudy Gobert,NBA,MIN,2023-10-30
+464,15.5,PTS+AST,Rudy Gobert,NBA,MIN,2023-10-30
+465,1.5,TO,Rudy Gobert,NBA,MIN,2023-10-30
+466,8.5,field_goals_att,Rudy Gobert,NBA,MIN,2023-10-30
+467,3.0,personal_fouls,Rudy Gobert,NBA,MIN,2023-10-30
+468,2.0,BLK+STL,Rudy Gobert,NBA,MIN,2023-10-30
+469,11.5,PTS,Mike Conley,NBA,MIN,2023-10-30
+470,19.5,PTS+TRB+AST,Mike Conley,NBA,MIN,2023-10-30
+471,5.0,AST,Mike Conley,NBA,MIN,2023-10-30
+472,2.5,TRB,Mike Conley,NBA,MIN,2023-10-30
+473,7.5,TRB+AST,Mike Conley,NBA,MIN,2023-10-30
+474,2.0,3PM,Mike Conley,NBA,MIN,2023-10-30
+475,14.5,PTS+TRB,Mike Conley,NBA,MIN,2023-10-30
+476,16.5,PTS+AST,Mike Conley,NBA,MIN,2023-10-30
+477,8.5,field_goals_att,Mike Conley,NBA,MIN,2023-10-30
+478,5.0,three_points_att,Mike Conley,NBA,MIN,2023-10-30
+479,0.5,double_doubles,Trae Young,NBA,ATL,2023-10-30
+480,24.5,PTS,Trae Young,NBA,ATL,2023-10-30
+481,37.5,PTS+TRB+AST,Trae Young,NBA,ATL,2023-10-30
+482,9.5,AST,Trae Young,NBA,ATL,2023-10-30
+483,3.0,TRB,Trae Young,NBA,ATL,2023-10-30
+484,12.5,TRB+AST,Trae Young,NBA,ATL,2023-10-30
+485,34.5,PTS+AST,Trae Young,NBA,ATL,2023-10-30
+486,27.5,PTS+TRB,Trae Young,NBA,ATL,2023-10-30
+487,18.5,field_goals_att,Trae Young,NBA,ATL,2023-10-30
+488,2.0,personal_fouls,Trae Young,NBA,ATL,2023-10-30
+489,6.0,three_points_att,Trae Young,NBA,ATL,2023-10-30
+490,17.5,PTS,Dejounte Murray,NBA,ATL,2023-10-30
+491,27.5,PTS+TRB+AST,Dejounte Murray,NBA,ATL,2023-10-30
+492,5.0,AST,Dejounte Murray,NBA,ATL,2023-10-30
+493,4.5,TRB,Dejounte Murray,NBA,ATL,2023-10-30
+494,23.5,PTS+AST,Dejounte Murray,NBA,ATL,2023-10-30
+495,22.5,PTS+TRB,Dejounte Murray,NBA,ATL,2023-10-30
+496,15.5,field_goals_att,Dejounte Murray,NBA,ATL,2023-10-30
+497,10.5,PTS,Clint Capela,NBA,ATL,2023-10-30
+498,22.5,PTS+TRB+AST,Clint Capela,NBA,ATL,2023-10-30
+499,0.5,AST,Clint Capela,NBA,ATL,2023-10-30
+500,10.5,TRB,Clint Capela,NBA,ATL,2023-10-30
+501,11.5,TRB+AST,Clint Capela,NBA,ATL,2023-10-30
+502,11.5,PTS+AST,Clint Capela,NBA,ATL,2023-10-30
+503,21.5,PTS+TRB,Clint Capela,NBA,ATL,2023-10-30
+504,0.5,STL,Clint Capela,NBA,ATL,2023-10-30
+505,7.5,field_goals_att,Clint Capela,NBA,ATL,2023-10-30
+506,1.5,BLK+STL,Clint Capela,NBA,ATL,2023-10-30
+507,13.5,PTS,De'Andre Hunter,NBA,ATL,2023-10-30
+508,18.5,PTS+TRB+AST,De'Andre Hunter,NBA,ATL,2023-10-30
+509,4.0,TRB,De'Andre Hunter,NBA,ATL,2023-10-30
+510,5.0,TRB+AST,De'Andre Hunter,NBA,ATL,2023-10-30
+511,17.5,PTS+TRB,De'Andre Hunter,NBA,ATL,2023-10-30
+512,14.5,PTS+AST,De'Andre Hunter,NBA,ATL,2023-10-30
+513,0.5,STL,De'Andre Hunter,NBA,ATL,2023-10-30
+514,11.5,field_goals_att,De'Andre Hunter,NBA,ATL,2023-10-30
+515,4.0,three_points_att,De'Andre Hunter,NBA,ATL,2023-10-30
+516,11.5,PTS,Jalen Johnson,NBA,ATL,2023-10-30
+517,20.5,PTS+TRB+AST,Jalen Johnson,NBA,ATL,2023-10-30
+518,2.0,AST,Jalen Johnson,NBA,ATL,2023-10-30
+519,6.5,TRB,Jalen Johnson,NBA,ATL,2023-10-30
+520,8.5,TRB+AST,Jalen Johnson,NBA,ATL,2023-10-30
+521,13.5,PTS+AST,Jalen Johnson,NBA,ATL,2023-10-30
+522,18.5,PTS+TRB,Jalen Johnson,NBA,ATL,2023-10-30
+523,3.5,personal_fouls,Jalen Johnson,NBA,ATL,2023-10-30
+524,2.0,BLK+STL,Jalen Johnson,NBA,ATL,2023-10-30
+525,1.5,TO,Jalen Johnson,NBA,ATL,2023-10-30
+526,10.0,field_goals_att,Jalen Johnson,NBA,ATL,2023-10-30
+527,3.0,three_points_att,Jalen Johnson,NBA,ATL,2023-10-30
+528,31.5,PTS,Luka Doncic,NBA,DAL,2023-10-30
+529,48.5,PTS+TRB+AST,Luka Doncic,NBA,DAL,2023-10-30
+530,7.5,AST,Luka Doncic,NBA,DAL,2023-10-30
+531,9.5,TRB,Luka Doncic,NBA,DAL,2023-10-30
+532,17.5,TRB+AST,Luka Doncic,NBA,DAL,2023-10-30
+533,41.5,PTS+TRB,Luka Doncic,NBA,DAL,2023-10-30
+534,39.5,PTS+AST,Luka Doncic,NBA,DAL,2023-10-30
+535,22.5,field_goals_att,Luka Doncic,NBA,DAL,2023-10-30
+536,9.5,three_points_att,Luka Doncic,NBA,DAL,2023-10-30
+537,25.5,PTS,Kyrie Irving,NBA,DAL,2023-10-30
+538,36.5,PTS+TRB+AST,Kyrie Irving,NBA,DAL,2023-10-30
+539,5.5,AST,Kyrie Irving,NBA,DAL,2023-10-30
+540,4.5,TRB,Kyrie Irving,NBA,DAL,2023-10-30
+541,10.0,TRB+AST,Kyrie Irving,NBA,DAL,2023-10-30
+542,3.0,3PM,Kyrie Irving,NBA,DAL,2023-10-30
+543,30.5,PTS+TRB,Kyrie Irving,NBA,DAL,2023-10-30
+544,31.5,PTS+AST,Kyrie Irving,NBA,DAL,2023-10-30
+545,7.5,three_points_att,Kyrie Irving,NBA,DAL,2023-10-30
+546,2.0,personal_fouls,Kyrie Irving,NBA,DAL,2023-10-30
+547,1.5,BLK+STL,Kyrie Irving,NBA,DAL,2023-10-30
+548,18.5,field_goals_att,Kyrie Irving,NBA,DAL,2023-10-30
+549,8.5,PTS,Grant Williams,NBA,DAL,2023-10-30
+550,15.5,PTS+TRB+AST,Grant Williams,NBA,DAL,2023-10-30
+551,5.0,TRB,Grant Williams,NBA,DAL,2023-10-30
+552,6.5,TRB+AST,Grant Williams,NBA,DAL,2023-10-30
+553,13.5,PTS+TRB,Grant Williams,NBA,DAL,2023-10-30
+554,10.5,PTS+AST,Grant Williams,NBA,DAL,2023-10-30
+555,0.5,STL,Grant Williams,NBA,DAL,2023-10-30
+556,6.5,field_goals_att,Grant Williams,NBA,DAL,2023-10-30
+557,4.5,three_points_att,Grant Williams,NBA,DAL,2023-10-30
+558,2.5,personal_fouls,Grant Williams,NBA,DAL,2023-10-30
+559,7.5,PTS,Dereck Lively II,other,DAL,2023-10-30
+560,13.5,PTS+TRB+AST,Dereck Lively II,other,DAL,2023-10-30
+561,5.0,TRB,Dereck Lively II,other,DAL,2023-10-30
+562,6.0,TRB+AST,Dereck Lively II,other,DAL,2023-10-30
+563,8.5,PTS+AST,Dereck Lively II,other,DAL,2023-10-30
+564,12.5,PTS+TRB,Dereck Lively II,other,DAL,2023-10-30
+565,0.5,STL,Dereck Lively II,other,DAL,2023-10-30
+566,5.5,field_goals_att,Dereck Lively II,other,DAL,2023-10-30
+567,18.5,PTS,Jaren Jackson Jr.,other,MEM,2023-10-30
+568,27.5,PTS+TRB+AST,Jaren Jackson Jr.,other,MEM,2023-10-30
+569,1.5,AST,Jaren Jackson Jr.,other,MEM,2023-10-30
+570,7.5,TRB,Jaren Jackson Jr.,other,MEM,2023-10-30
+571,9.0,TRB+AST,Jaren Jackson Jr.,other,MEM,2023-10-30
+572,1.5,3PM,Jaren Jackson Jr.,other,MEM,2023-10-30
+573,25.5,PTS+TRB,Jaren Jackson Jr.,other,MEM,2023-10-30
+574,19.5,PTS+AST,Jaren Jackson Jr.,other,MEM,2023-10-30
+575,3.5,personal_fouls,Jaren Jackson Jr.,other,MEM,2023-10-30
+576,2.5,BLK+STL,Jaren Jackson Jr.,other,MEM,2023-10-30
+577,13.5,field_goals_att,Jaren Jackson Jr.,other,MEM,2023-10-30
+578,25.5,PTS,Desmond Bane,NBA,MEM,2023-10-30
+579,35.5,PTS+TRB+AST,Desmond Bane,NBA,MEM,2023-10-30
+580,5.0,AST,Desmond Bane,NBA,MEM,2023-10-30
+581,5.0,TRB,Desmond Bane,NBA,MEM,2023-10-30
+582,10.0,TRB+AST,Desmond Bane,NBA,MEM,2023-10-30
+583,30.5,PTS+TRB,Desmond Bane,NBA,MEM,2023-10-30
+584,30.5,PTS+AST,Desmond Bane,NBA,MEM,2023-10-30
+585,2.5,TO,Desmond Bane,NBA,MEM,2023-10-30
+586,19.5,field_goals_att,Desmond Bane,NBA,MEM,2023-10-30
+587,3.0,personal_fouls,Desmond Bane,NBA,MEM,2023-10-30
+588,8.5,three_points_att,Desmond Bane,NBA,MEM,2023-10-30
+589,13.5,PTS,Marcus Smart,NBA,MEM,2023-10-30
+590,23.5,PTS+TRB+AST,Marcus Smart,NBA,MEM,2023-10-30
+591,3.0,TRB,Marcus Smart,NBA,MEM,2023-10-30
+592,9.5,TRB+AST,Marcus Smart,NBA,MEM,2023-10-30
+593,2.0,3PM,Marcus Smart,NBA,MEM,2023-10-30
+594,20.5,PTS+AST,Marcus Smart,NBA,MEM,2023-10-30
+595,17.5,PTS+TRB,Marcus Smart,NBA,MEM,2023-10-30
+596,11.5,field_goals_att,Marcus Smart,NBA,MEM,2023-10-30
+597,1.5,BLK+STL,Marcus Smart,NBA,MEM,2023-10-30
+598,6.0,three_points_att,Marcus Smart,NBA,MEM,2023-10-30
+599,2.5,personal_fouls,Marcus Smart,NBA,MEM,2023-10-30
+600,11.5,PTS,Xavier Tillman,NBA,MEM,2023-10-30
+601,12.5,PTS,Ziaire Williams,NBA,MEM,2023-10-30
+602,19.5,PTS+TRB+AST,Ziaire Williams,NBA,MEM,2023-10-30
+603,23.5,PTS+TRB+AST,Xavier Tillman,NBA,MEM,2023-10-30
+604,3.0,AST,Xavier Tillman,NBA,MEM,2023-10-30
+605,8.5,TRB,Xavier Tillman,NBA,MEM,2023-10-30
+606,5.0,TRB,Ziaire Williams,NBA,MEM,2023-10-30
+607,11.5,TRB+AST,Xavier Tillman,NBA,MEM,2023-10-30
+608,7.0,TRB+AST,Ziaire Williams,NBA,MEM,2023-10-30
+609,1.5,3PM,Ziaire Williams,NBA,MEM,2023-10-30
+610,0.5,3PM,Xavier Tillman,NBA,MEM,2023-10-30
+611,14.5,PTS+AST,Xavier Tillman,NBA,MEM,2023-10-30
+612,14.5,PTS+AST,Ziaire Williams,NBA,MEM,2023-10-30
+613,17.5,PTS+TRB,Ziaire Williams,NBA,MEM,2023-10-30
+614,20.5,PTS+TRB,Xavier Tillman,NBA,MEM,2023-10-30
+615,0.5,STL,Ziaire Williams,NBA,MEM,2023-10-30
+616,2.5,personal_fouls,Xavier Tillman,NBA,MEM,2023-10-30
+617,0.5,BLK,Xavier Tillman,NBA,MEM,2023-10-30
+618,1.5,TO,Ziaire Williams,NBA,MEM,2023-10-30
+619,5.5,three_points_att,Ziaire Williams,NBA,MEM,2023-10-30
+620,2.5,personal_fouls,Ziaire Williams,NBA,MEM,2023-10-30
+621,2.0,three_points_att,Xavier Tillman,NBA,MEM,2023-10-30
+622,11.5,field_goals_att,Ziaire Williams,NBA,MEM,2023-10-30
+623,9.0,field_goals_att,Xavier Tillman,NBA,MEM,2023-10-30
+624,21.5,PTS,Jimmy Butler,NBA,MIA,2023-10-30
+625,32.5,PTS+TRB+AST,Jimmy Butler,NBA,MIA,2023-10-30
+626,5.0,AST,Jimmy Butler,NBA,MIA,2023-10-30
+627,5.5,TRB,Jimmy Butler,NBA,MIA,2023-10-30
+628,10.5,TRB+AST,Jimmy Butler,NBA,MIA,2023-10-30
+629,26.5,PTS+AST,Jimmy Butler,NBA,MIA,2023-10-30
+630,26.5,PTS+TRB,Jimmy Butler,NBA,MIA,2023-10-30
+631,1.5,TO,Jimmy Butler,NBA,MIA,2023-10-30
+632,1.5,three_points_att,Jimmy Butler,NBA,MIA,2023-10-30
+633,2.0,personal_fouls,Jimmy Butler,NBA,MIA,2023-10-30
+634,16.0,field_goals_att,Jimmy Butler,NBA,MIA,2023-10-30
+635,17.5,PTS,Bam Adebayo,NBA,MIA,2023-10-30
+636,29.5,PTS+TRB+AST,Bam Adebayo,NBA,MIA,2023-10-30
+637,2.5,AST,Bam Adebayo,NBA,MIA,2023-10-30
+638,9.0,TRB,Bam Adebayo,NBA,MIA,2023-10-30
+639,11.5,TRB+AST,Bam Adebayo,NBA,MIA,2023-10-30
+640,26.5,PTS+TRB,Bam Adebayo,NBA,MIA,2023-10-30
+641,20.5,PTS+AST,Bam Adebayo,NBA,MIA,2023-10-30
+642,13.5,field_goals_att,Bam Adebayo,NBA,MIA,2023-10-30
+643,0.5,BLK,Bam Adebayo,NBA,MIA,2023-10-30
+644,1.5,BLK+STL,Bam Adebayo,NBA,MIA,2023-10-30
+645,3.0,personal_fouls,Bam Adebayo,NBA,MIA,2023-10-30
+646,21.5,PTS,Tyler Herro,NBA,MIA,2023-10-30
+647,30.5,PTS+TRB+AST,Tyler Herro,NBA,MIA,2023-10-30
+648,5.0,TRB,Tyler Herro,NBA,MIA,2023-10-30
+649,8.5,TRB+AST,Tyler Herro,NBA,MIA,2023-10-30
+650,3.0,3PM,Tyler Herro,NBA,MIA,2023-10-30
+651,25.5,PTS+AST,Tyler Herro,NBA,MIA,2023-10-30
+652,27.5,PTS+TRB,Tyler Herro,NBA,MIA,2023-10-30
+653,18.5,field_goals_att,Tyler Herro,NBA,MIA,2023-10-30
+654,8.5,three_points_att,Tyler Herro,NBA,MIA,2023-10-30
+655,9.5,PTS,Kyle Lowry,NBA,MIA,2023-10-30
+656,17.5,PTS+TRB+AST,Kyle Lowry,NBA,MIA,2023-10-30
+657,4.5,AST,Kyle Lowry,NBA,MIA,2023-10-30
+658,3.5,TRB,Kyle Lowry,NBA,MIA,2023-10-30
+659,8.5,TRB+AST,Kyle Lowry,NBA,MIA,2023-10-30
+660,1.5,3PM,Kyle Lowry,NBA,MIA,2023-10-30
+661,13.5,PTS+AST,Kyle Lowry,NBA,MIA,2023-10-30
+662,12.5,PTS+TRB,Kyle Lowry,NBA,MIA,2023-10-30
+663,7.5,field_goals_att,Kyle Lowry,NBA,MIA,2023-10-30
+664,4.0,three_points_att,Kyle Lowry,NBA,MIA,2023-10-30
+665,3.0,personal_fouls,Kyle Lowry,NBA,MIA,2023-10-30
+666,25.5,PTS,Zion Williamson,NBA,NOP,2023-10-30
+667,36.5,PTS+TRB+AST,Zion Williamson,NBA,NOP,2023-10-30
+668,3.5,AST,Zion Williamson,NBA,NOP,2023-10-30
+669,7.0,TRB,Zion Williamson,NBA,NOP,2023-10-30
+670,10.5,TRB+AST,Zion Williamson,NBA,NOP,2023-10-30
+671,32.5,PTS+TRB,Zion Williamson,NBA,NOP,2023-10-30
+672,28.5,PTS+AST,Zion Williamson,NBA,NOP,2023-10-30
+673,0.5,three_points_att,Zion Williamson,NBA,NOP,2023-10-30
+674,2.0,personal_fouls,Zion Williamson,NBA,NOP,2023-10-30
+675,15.5,field_goals_att,Zion Williamson,NBA,NOP,2023-10-30
+676,25.5,PTS,Brandon Ingram,NBA,NOP,2023-10-30
+677,37.5,PTS+TRB+AST,Brandon Ingram,NBA,NOP,2023-10-30
+678,5.5,AST,Brandon Ingram,NBA,NOP,2023-10-30
+679,6.0,TRB,Brandon Ingram,NBA,NOP,2023-10-30
+680,11.5,TRB+AST,Brandon Ingram,NBA,NOP,2023-10-30
+681,31.5,PTS+TRB,Brandon Ingram,NBA,NOP,2023-10-30
+682,30.5,PTS+AST,Brandon Ingram,NBA,NOP,2023-10-30
+683,18.5,field_goals_att,Brandon Ingram,NBA,NOP,2023-10-30
+684,17.5,PTS,CJ McCollum,NBA,NOP,2023-10-30
+685,26.5,PTS+TRB+AST,CJ McCollum,NBA,NOP,2023-10-30
+686,5.0,AST,CJ McCollum,NBA,NOP,2023-10-30
+687,9.0,TRB+AST,CJ McCollum,NBA,NOP,2023-10-30
+688,2.5,3PM,CJ McCollum,NBA,NOP,2023-10-30
+689,21.5,PTS+TRB,CJ McCollum,NBA,NOP,2023-10-30
+690,22.5,PTS+AST,CJ McCollum,NBA,NOP,2023-10-30
+691,6.5,three_points_att,CJ McCollum,NBA,NOP,2023-10-30
+692,2.0,personal_fouls,CJ McCollum,NBA,NOP,2023-10-30
+693,15.5,field_goals_att,CJ McCollum,NBA,NOP,2023-10-30
+694,9.5,PTS,Herbert Jones,NBA,NOP,2023-10-30
+695,16.5,PTS+TRB+AST,Herbert Jones,NBA,NOP,2023-10-30
+696,6.5,TRB+AST,Herbert Jones,NBA,NOP,2023-10-30
+697,12.5,PTS+AST,Herbert Jones,NBA,NOP,2023-10-30
+698,14.5,PTS+TRB,Herbert Jones,NBA,NOP,2023-10-30
+699,0.5,BLK,Herbert Jones,NBA,NOP,2023-10-30
+700,7.5,field_goals_att,Herbert Jones,NBA,NOP,2023-10-30
+701,3.0,personal_fouls,Herbert Jones,NBA,NOP,2023-10-30
+702,11.5,PTS,Jonas Valanciunas,NBA,NOP,2023-10-30
+703,23.5,PTS+TRB+AST,Jonas Valanciunas,NBA,NOP,2023-10-30
+704,10.5,TRB,Jonas Valanciunas,NBA,NOP,2023-10-30
+705,11.5,TRB+AST,Jonas Valanciunas,NBA,NOP,2023-10-30
+706,12.5,PTS+AST,Jonas Valanciunas,NBA,NOP,2023-10-30
+707,21.5,PTS+TRB,Jonas Valanciunas,NBA,NOP,2023-10-30
+708,1.5,TO,Jonas Valanciunas,NBA,NOP,2023-10-30
+709,8.5,field_goals_att,Jonas Valanciunas,NBA,NOP,2023-10-30
+710,23.5,PTS,Cade Cunningham,NBA,DET,2023-10-30
+711,34.5,PTS+TRB+AST,Cade Cunningham,NBA,DET,2023-10-30
+712,4.5,TRB,Cade Cunningham,NBA,DET,2023-10-30
+713,11.0,TRB+AST,Cade Cunningham,NBA,DET,2023-10-30
+714,27.5,PTS+TRB,Cade Cunningham,NBA,DET,2023-10-30
+715,30.5,PTS+AST,Cade Cunningham,NBA,DET,2023-10-30
+716,3.5,TO,Cade Cunningham,NBA,DET,2023-10-30
+717,5.5,three_points_att,Cade Cunningham,NBA,DET,2023-10-30
+718,0.5,BLK,Cade Cunningham,NBA,DET,2023-10-30
+719,1.5,BLK+STL,Cade Cunningham,NBA,DET,2023-10-30
+720,3.0,personal_fouls,Cade Cunningham,NBA,DET,2023-10-30
+721,20.5,field_goals_att,Cade Cunningham,NBA,DET,2023-10-30
+722,15.5,PTS,Jalen Duren,NBA,DET,2023-10-30
+723,30.5,PTS+TRB+AST,Jalen Duren,NBA,DET,2023-10-30
+724,2.0,AST,Jalen Duren,NBA,DET,2023-10-30
+725,15.0,TRB+AST,Jalen Duren,NBA,DET,2023-10-30
+726,17.5,PTS+AST,Jalen Duren,NBA,DET,2023-10-30
+727,28.5,PTS+TRB,Jalen Duren,NBA,DET,2023-10-30
+728,10.0,field_goals_att,Jalen Duren,NBA,DET,2023-10-30
+729,3.0,personal_fouls,Jalen Duren,NBA,DET,2023-10-30
+730,9.5,PTS,Killian Hayes,NBA,DET,2023-10-30
+731,16.5,PTS+TRB+AST,Killian Hayes,NBA,DET,2023-10-30
+732,4.0,AST,Killian Hayes,NBA,DET,2023-10-30
+733,2.0,TRB,Killian Hayes,NBA,DET,2023-10-30
+734,6.5,TRB+AST,Killian Hayes,NBA,DET,2023-10-30
+735,13.5,PTS+AST,Killian Hayes,NBA,DET,2023-10-30
+736,11.5,PTS+TRB,Killian Hayes,NBA,DET,2023-10-30
+737,2.5,personal_fouls,Killian Hayes,NBA,DET,2023-10-30
+738,1.5,BLK+STL,Killian Hayes,NBA,DET,2023-10-30
+739,9.5,field_goals_att,Killian Hayes,NBA,DET,2023-10-30
+740,13.5,PTS,Isaiah Stewart,NBA,DET,2023-10-30
+741,8.5,PTS,Ausar Thompson,NBA,DET,2023-10-30
+742,20.5,PTS+TRB+AST,Ausar Thompson,NBA,DET,2023-10-30
+743,23.5,PTS+TRB+AST,Isaiah Stewart,NBA,DET,2023-10-30
+744,3.5,AST,Ausar Thompson,NBA,DET,2023-10-30
+745,8.5,TRB,Isaiah Stewart,NBA,DET,2023-10-30
+746,7.5,TRB,Ausar Thompson,NBA,DET,2023-10-30
+747,9.5,TRB+AST,Isaiah Stewart,NBA,DET,2023-10-30
+748,11.5,TRB+AST,Ausar Thompson,NBA,DET,2023-10-30
+749,0.5,3PM,Ausar Thompson,NBA,DET,2023-10-30
+750,12.5,PTS+AST,Ausar Thompson,NBA,DET,2023-10-30
+751,16.5,PTS+TRB,Ausar Thompson,NBA,DET,2023-10-30
+752,14.5,PTS+AST,Isaiah Stewart,NBA,DET,2023-10-30
+753,21.5,PTS+TRB,Isaiah Stewart,NBA,DET,2023-10-30
+754,0.5,STL,Ausar Thompson,NBA,DET,2023-10-30
+755,3.0,personal_fouls,Isaiah Stewart,NBA,DET,2023-10-30
+756,1.5,TO,Isaiah Stewart,NBA,DET,2023-10-30
+757,10.5,field_goals_att,Isaiah Stewart,NBA,DET,2023-10-30
+758,8.0,field_goals_att,Ausar Thompson,NBA,DET,2023-10-30
+759,2.0,three_points_att,Ausar Thompson,NBA,DET,2023-10-30
+760,28.5,PTS,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+761,40.5,PTS+TRB+AST,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+762,6.0,AST,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+763,5.0,TRB,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+764,11.0,TRB+AST,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+765,34.5,PTS+TRB,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+766,35.5,PTS+AST,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+767,1.5,STL,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+768,2.5,BLK+STL,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+769,20.5,field_goals_att,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+770,3.0,three_points_att,Shai Gilgeous-Alexander,NBA,OKC,2023-10-30
+771,14.5,PTS,Chet Holmgren,NBA,OKC,2023-10-30
+772,21.5,PTS+TRB+AST,Chet Holmgren,NBA,OKC,2023-10-30
+773,1.5,AST,Chet Holmgren,NBA,OKC,2023-10-30
+774,6.0,TRB,Chet Holmgren,NBA,OKC,2023-10-30
+775,7.5,TRB+AST,Chet Holmgren,NBA,OKC,2023-10-30
+776,1.5,3PM,Chet Holmgren,NBA,OKC,2023-10-30
+777,15.5,PTS+AST,Chet Holmgren,NBA,OKC,2023-10-30
+778,20.5,PTS+TRB,Chet Holmgren,NBA,OKC,2023-10-30
+779,9.5,field_goals_att,Chet Holmgren,NBA,OKC,2023-10-30
+780,3.0,personal_fouls,Chet Holmgren,NBA,OKC,2023-10-30
+781,1.5,BLK,Chet Holmgren,NBA,OKC,2023-10-30
+782,2.5,BLK+STL,Chet Holmgren,NBA,OKC,2023-10-30
+783,15.5,PTS,Josh Giddey,NBA,OKC,2023-10-30
+784,28.5,PTS+TRB+AST,Josh Giddey,NBA,OKC,2023-10-30
+785,5.5,AST,Josh Giddey,NBA,OKC,2023-10-30
+786,6.5,TRB,Josh Giddey,NBA,OKC,2023-10-30
+787,12.5,TRB+AST,Josh Giddey,NBA,OKC,2023-10-30
+788,21.5,PTS+AST,Josh Giddey,NBA,OKC,2023-10-30
+789,22.5,PTS+TRB,Josh Giddey,NBA,OKC,2023-10-30
+790,2.5,three_points_att,Josh Giddey,NBA,OKC,2023-10-30
+791,13.5,field_goals_att,Josh Giddey,NBA,OKC,2023-10-30
+792,15.5,PTS,Jalen Williams,NBA,OKC,2023-10-30
+793,23.5,PTS+TRB+AST,Jalen Williams,NBA,OKC,2023-10-30
+794,7.5,TRB+AST,Jalen Williams,NBA,OKC,2023-10-30
+795,18.5,PTS+AST,Jalen Williams,NBA,OKC,2023-10-30
+796,19.5,PTS+TRB,Jalen Williams,NBA,OKC,2023-10-30
+797,1.5,STL,Jalen Williams,NBA,OKC,2023-10-30
+798,11.5,field_goals_att,Jalen Williams,NBA,OKC,2023-10-30
+799,3.0,three_points_att,Jalen Williams,NBA,OKC,2023-10-30
+800,2.5,personal_fouls,Jalen Williams,NBA,OKC,2023-10-30
+801,2.0,BLK+STL,Jalen Williams,NBA,OKC,2023-10-30
+802,11.5,PTS,Luguentz Dort,NBA,OKC,2023-10-30
+803,17.5,PTS+TRB+AST,Luguentz Dort,NBA,OKC,2023-10-30
+804,4.5,TRB,Luguentz Dort,NBA,OKC,2023-10-30
+805,5.5,TRB+AST,Luguentz Dort,NBA,OKC,2023-10-30
+806,1.5,3PM,Luguentz Dort,NBA,OKC,2023-10-30
+807,13.5,PTS+AST,Luguentz Dort,NBA,OKC,2023-10-30
+808,16.5,PTS+TRB,Luguentz Dort,NBA,OKC,2023-10-30
+809,9.5,field_goals_att,Luguentz Dort,NBA,OKC,2023-10-30
+810,4.5,three_points_att,Luguentz Dort,NBA,OKC,2023-10-30
+811,1.5,BLK+STL,Luguentz Dort,NBA,OKC,2023-10-30
+812,2.5,personal_fouls,Luguentz Dort,NBA,OKC,2023-10-30
+813,22.5,PTS,Lauri Markkanen,NBA,UTA,2023-10-30
+814,31.5,PTS+TRB+AST,Lauri Markkanen,NBA,UTA,2023-10-30
+815,1.5,AST,Lauri Markkanen,NBA,UTA,2023-10-30
+816,7.5,TRB,Lauri Markkanen,NBA,UTA,2023-10-30
+817,9.0,TRB+AST,Lauri Markkanen,NBA,UTA,2023-10-30
+818,2.5,3PM,Lauri Markkanen,NBA,UTA,2023-10-30
+819,23.5,PTS+AST,Lauri Markkanen,NBA,UTA,2023-10-30
+820,29.5,PTS+TRB,Lauri Markkanen,NBA,UTA,2023-10-30
+821,2.0,personal_fouls,Lauri Markkanen,NBA,UTA,2023-10-30
+822,7.0,three_points_att,Lauri Markkanen,NBA,UTA,2023-10-30
+823,16.0,field_goals_att,Lauri Markkanen,NBA,UTA,2023-10-30
+824,8.0,PTS,Walker Kessler,NBA,UTA,2023-10-30
+825,15.5,PTS+TRB+AST,Walker Kessler,NBA,UTA,2023-10-30
+826,7.0,TRB,Walker Kessler,NBA,UTA,2023-10-30
+827,7.5,TRB+AST,Walker Kessler,NBA,UTA,2023-10-30
+828,8.5,PTS+AST,Walker Kessler,NBA,UTA,2023-10-30
+829,14.5,PTS+TRB,Walker Kessler,NBA,UTA,2023-10-30
+830,0.5,TO,Walker Kessler,NBA,UTA,2023-10-30
+831,5.5,field_goals_att,Walker Kessler,NBA,UTA,2023-10-30
+832,1.5,BLK,Walker Kessler,NBA,UTA,2023-10-30
+833,2.0,BLK+STL,Walker Kessler,NBA,UTA,2023-10-30
+834,12.5,PTS,John Collins,NBA,UTA,2023-10-30
+835,20.5,PTS+TRB+AST,John Collins,NBA,UTA,2023-10-30
+836,7.0,TRB,John Collins,NBA,UTA,2023-10-30
+837,8.5,TRB+AST,John Collins,NBA,UTA,2023-10-30
+838,13.5,PTS+AST,John Collins,NBA,UTA,2023-10-30
+839,19.5,PTS+TRB,John Collins,NBA,UTA,2023-10-30
+840,0.5,STL,John Collins,NBA,UTA,2023-10-30
+841,3.5,three_points_att,John Collins,NBA,UTA,2023-10-30
+842,9.5,field_goals_att,John Collins,NBA,UTA,2023-10-30
+843,2.5,personal_fouls,John Collins,NBA,UTA,2023-10-30
+844,15.5,PTS,Jordan Clarkson,NBA,UTA,2023-10-30
+845,23.5,PTS+TRB+AST,Jordan Clarkson,NBA,UTA,2023-10-30
+846,3.0,TRB,Jordan Clarkson,NBA,UTA,2023-10-30
+847,8.0,TRB+AST,Jordan Clarkson,NBA,UTA,2023-10-30
+848,20.5,PTS+AST,Jordan Clarkson,NBA,UTA,2023-10-30
+849,18.5,PTS+TRB,Jordan Clarkson,NBA,UTA,2023-10-30
+850,0.5,STL,Jordan Clarkson,NBA,UTA,2023-10-30
+851,2.5,TO,Jordan Clarkson,NBA,UTA,2023-10-30
+852,13.5,field_goals_att,Jordan Clarkson,NBA,UTA,2023-10-30
+853,5.5,three_points_att,Jordan Clarkson,NBA,UTA,2023-10-30
+854,26.5,PTS,Nikola Jokic,NBA,DEN,2023-10-30
+855,47.5,PTS+TRB+AST,Nikola Jokic,NBA,DEN,2023-10-30
+856,12.0,TRB,Nikola Jokic,NBA,DEN,2023-10-30
+857,20.5,TRB+AST,Nikola Jokic,NBA,DEN,2023-10-30
+858,35.5,PTS+AST,Nikola Jokic,NBA,DEN,2023-10-30
+859,38.5,PTS+TRB,Nikola Jokic,NBA,DEN,2023-10-30
+860,3.5,TO,Nikola Jokic,NBA,DEN,2023-10-30
+861,18.5,field_goals_att,Nikola Jokic,NBA,DEN,2023-10-30
+862,3.5,three_points_att,Nikola Jokic,NBA,DEN,2023-10-30
+863,2.0,BLK+STL,Nikola Jokic,NBA,DEN,2023-10-30
+864,3.0,personal_fouls,Nikola Jokic,NBA,DEN,2023-10-30
+865,21.5,PTS,Jamal Murray,NBA,DEN,2023-10-30
+866,32.5,PTS+TRB+AST,Jamal Murray,NBA,DEN,2023-10-30
+867,7.0,AST,Jamal Murray,NBA,DEN,2023-10-30
+868,3.5,TRB,Jamal Murray,NBA,DEN,2023-10-30
+869,10.5,TRB+AST,Jamal Murray,NBA,DEN,2023-10-30
+870,2.5,3PM,Jamal Murray,NBA,DEN,2023-10-30
+871,28.5,PTS+AST,Jamal Murray,NBA,DEN,2023-10-30
+872,25.5,PTS+TRB,Jamal Murray,NBA,DEN,2023-10-30
+873,2.0,TO,Jamal Murray,NBA,DEN,2023-10-30
+874,17.5,field_goals_att,Jamal Murray,NBA,DEN,2023-10-30
+875,2.0,personal_fouls,Jamal Murray,NBA,DEN,2023-10-30
+876,6.5,three_points_att,Jamal Murray,NBA,DEN,2023-10-30
+877,14.5,PTS,Michael Porter Jr.,other,DEN,2023-10-30
+878,23.5,PTS+TRB+AST,Michael Porter Jr.,other,DEN,2023-10-30
+879,1.5,AST,Michael Porter Jr.,other,DEN,2023-10-30
+880,7.5,TRB,Michael Porter Jr.,other,DEN,2023-10-30
+881,9.0,TRB+AST,Michael Porter Jr.,other,DEN,2023-10-30
+882,2.5,3PM,Michael Porter Jr.,other,DEN,2023-10-30
+883,16.5,PTS+AST,Michael Porter Jr.,other,DEN,2023-10-30
+884,22.5,PTS+TRB,Michael Porter Jr.,other,DEN,2023-10-30
+885,0.5,STL,Michael Porter Jr.,other,DEN,2023-10-30
+886,11.5,field_goals_att,Michael Porter Jr.,other,DEN,2023-10-30
+887,2.0,personal_fouls,Michael Porter Jr.,other,DEN,2023-10-30
+888,6.5,three_points_att,Michael Porter Jr.,other,DEN,2023-10-30
+889,13.5,PTS,Aaron Gordon,NBA,DEN,2023-10-30
+890,21.5,PTS+TRB+AST,Aaron Gordon,NBA,DEN,2023-10-30
+891,2.5,AST,Aaron Gordon,NBA,DEN,2023-10-30
+892,5.5,TRB,Aaron Gordon,NBA,DEN,2023-10-30
+893,8.0,TRB+AST,Aaron Gordon,NBA,DEN,2023-10-30
+894,0.5,3PM,Aaron Gordon,NBA,DEN,2023-10-30
+895,18.5,PTS+TRB,Aaron Gordon,NBA,DEN,2023-10-30
+896,15.5,PTS+AST,Aaron Gordon,NBA,DEN,2023-10-30
+897,2.0,three_points_att,Aaron Gordon,NBA,DEN,2023-10-30
+898,3.0,personal_fouls,Aaron Gordon,NBA,DEN,2023-10-30
+899,1.5,BLK+STL,Aaron Gordon,NBA,DEN,2023-10-30
+900,9.5,field_goals_att,Aaron Gordon,NBA,DEN,2023-10-30
+901,10.5,PTS,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+902,14.5,PTS+TRB+AST,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+903,1.5,AST,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+904,2.5,TRB,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+905,4.0,TRB+AST,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+906,13.5,PTS+TRB,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+907,11.5,PTS+AST,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+908,8.0,field_goals_att,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+909,4.5,three_points_att,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+910,2.0,BLK+STL,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+911,0.5,TO,Kentavious Caldwell-Pope,NBA,DEN,2023-10-30
+912,19.5,PTS,Paolo Banchero,NBA,ORL,2023-10-30
+913,30.5,PTS+TRB+AST,Paolo Banchero,NBA,ORL,2023-10-30
+914,3.5,AST,Paolo Banchero,NBA,ORL,2023-10-30
+915,8.0,TRB,Paolo Banchero,NBA,ORL,2023-10-30
+916,11.5,TRB+AST,Paolo Banchero,NBA,ORL,2023-10-30
+917,22.5,PTS+AST,Paolo Banchero,NBA,ORL,2023-10-30
+918,27.5,PTS+TRB,Paolo Banchero,NBA,ORL,2023-10-30
+919,2.5,TO,Paolo Banchero,NBA,ORL,2023-10-30
+920,14.5,field_goals_att,Paolo Banchero,NBA,ORL,2023-10-30
+921,2.5,personal_fouls,Paolo Banchero,NBA,ORL,2023-10-30
+922,2.5,three_points_att,Paolo Banchero,NBA,ORL,2023-10-30
+923,18.5,PTS,Franz Wagner,NBA,ORL,2023-10-30
+924,26.5,PTS+TRB+AST,Franz Wagner,NBA,ORL,2023-10-30
+925,4.0,TRB,Franz Wagner,NBA,ORL,2023-10-30
+926,7.5,TRB+AST,Franz Wagner,NBA,ORL,2023-10-30
+927,21.5,PTS+AST,Franz Wagner,NBA,ORL,2023-10-30
+928,22.5,PTS+TRB,Franz Wagner,NBA,ORL,2023-10-30
+929,5.0,three_points_att,Franz Wagner,NBA,ORL,2023-10-30
+930,2.5,personal_fouls,Franz Wagner,NBA,ORL,2023-10-30
+931,14.0,field_goals_att,Franz Wagner,NBA,ORL,2023-10-30
+932,11.5,PTS,Wendell Carter Jr.,other,ORL,2023-10-30
+933,22.5,PTS+TRB+AST,Wendell Carter Jr.,other,ORL,2023-10-30
+934,8.5,TRB,Wendell Carter Jr.,other,ORL,2023-10-30
+935,10.5,TRB+AST,Wendell Carter Jr.,other,ORL,2023-10-30
+936,20.5,PTS+TRB,Wendell Carter Jr.,other,ORL,2023-10-30
+937,12.5,PTS+AST,Wendell Carter Jr.,other,ORL,2023-10-30
+938,0.5,STL,Wendell Carter Jr.,other,ORL,2023-10-30
+939,9.5,field_goals_att,Wendell Carter Jr.,other,ORL,2023-10-30
+940,3.5,three_points_att,Wendell Carter Jr.,other,ORL,2023-10-30
+941,1.5,TO,Wendell Carter Jr.,other,ORL,2023-10-30
+942,12.5,PTS,Markelle Fultz,NBA,ORL,2023-10-30
+943,21.5,PTS+TRB+AST,Markelle Fultz,NBA,ORL,2023-10-30
+944,5.0,AST,Markelle Fultz,NBA,ORL,2023-10-30
+945,3.5,TRB,Markelle Fultz,NBA,ORL,2023-10-30
+946,8.5,TRB+AST,Markelle Fultz,NBA,ORL,2023-10-30
+947,17.5,PTS+AST,Markelle Fultz,NBA,ORL,2023-10-30
+948,15.5,PTS+TRB,Markelle Fultz,NBA,ORL,2023-10-30
+949,1.5,TO,Markelle Fultz,NBA,ORL,2023-10-30
+950,10.5,field_goals_att,Markelle Fultz,NBA,ORL,2023-10-30
+951,1.5,three_points_att,Markelle Fultz,NBA,ORL,2023-10-30
+952,1.5,BLK+STL,Markelle Fultz,NBA,ORL,2023-10-30
+953,24.5,Hitter Fantasy Score,Max Scherzer,MLB,TEX,2023-10-30
+954,4.5,Pitcher Strikeouts,Max Scherzer,MLB,TEX,2023-10-30
+955,14.5,pitch_outs,Max Scherzer,MLB,TEX,2023-10-30
+956,2.0,runs_allowed,Max Scherzer,MLB,TEX,2023-10-30
+957,9.5,Hitter Fantasy Score,Corey Seager,MLB,TEX,2023-10-30
+958,1.5,Total Bases,Corey Seager,MLB,TEX,2023-10-30
+959,2.0,PTS,Corey Seager,MLB,TEX,2023-10-30
+960,0.5,runs,Corey Seager,MLB,TEX,2023-10-30
+961,0.5,Singles,Corey Seager,MLB,TEX,2023-10-30
+962,7.5,Hitter Fantasy Score,Marcus Semien,MLB,TEX,2023-10-30
+963,1.5,Total Bases,Marcus Semien,MLB,TEX,2023-10-30
+964,2.0,PTS,Marcus Semien,MLB,TEX,2023-10-30
+965,0.5,runs,Marcus Semien,MLB,TEX,2023-10-30
+966,0.5,Singles,Marcus Semien,MLB,TEX,2023-10-30
+967,9.5,Hitter Fantasy Score,Adolis Garcia,MLB,Adolis Garcia,
+968,1.5,Total Bases,Adolis Garcia,MLB,Adolis Garcia,
+969,0.5,runs,Adolis Garcia,MLB,Adolis Garcia,
+970,5.5,Hitter Fantasy Score,Josh Jung,MLB,TEX,2023-10-30
+971,1.5,PTS,Josh Jung,MLB,TEX,2023-10-30
+972,6.5,Hitter Fantasy Score,Nathaniel Lowe,MLB,TEX,2023-10-30
+973,1.5,PTS,Nathaniel Lowe,MLB,TEX,2023-10-30
+974,7.0,Hitter Fantasy Score,Mitch Garver,MLB,TEX,2023-10-30
+975,1.5,PTS,Mitch Garver,MLB,TEX,2023-10-30
+976,7.0,Hitter Fantasy Score,Evan Carter,MLB,TEX,2023-10-30
+977,5.5,Hitter Fantasy Score,Jonah Heim,MLB,TEX,2023-10-30
+978,5.5,Hitter Fantasy Score,Leody Taveras,MLB,TEX,2023-10-30
+979,1.5,PTS,Jonah Heim,MLB,TEX,2023-10-30
+980,1.5,PTS,Leody Taveras,MLB,TEX,2023-10-30
+981,1.5,PTS,Evan Carter,MLB,TEX,2023-10-30
+982,0.5,Singles,Leody Taveras,MLB,TEX,2023-10-30
+983,0.5,Singles,Jonah Heim,MLB,TEX,2023-10-30
+984,0.5,Singles,Evan Carter,MLB,TEX,2023-10-30
+985,23.5,Hitter Fantasy Score,Brandon Pfaadt,MLB,ARI,2023-10-30
+986,4.5,Pitcher Strikeouts,Brandon Pfaadt,MLB,ARI,2023-10-30
+987,13.5,pitch_outs,Brandon Pfaadt,MLB,ARI,2023-10-30
+988,4.0,hits_allowed,Brandon Pfaadt,MLB,ARI,2023-10-30
+989,8.5,Hitter Fantasy Score,Corbin Carroll,MLB,ARI,2023-10-30
+990,1.5,PTS,Corbin Carroll,MLB,ARI,2023-10-30
+991,0.5,runs,Corbin Carroll,MLB,ARI,2023-10-30
+992,7.5,Hitter Fantasy Score,Ketel Marte,MLB,ARI,2023-10-30
+993,0.5,Singles,Ketel Marte,MLB,ARI,2023-10-30
+994,7.0,Hitter Fantasy Score,Christian Walker,MLB,ARI,2023-10-30
+995,1.5,PTS,Christian Walker,MLB,ARI,2023-10-30
+996,6.5,Hitter Fantasy Score,Tommy Pham,MLB,ARI,2023-10-30
+997,1.5,PTS,Tommy Pham,MLB,ARI,2023-10-30
+998,0.5,Singles,Tommy Pham,MLB,ARI,2023-10-30
+999,6.0,Hitter Fantasy Score,Gabriel Moreno,MLB,ARI,2023-10-30
+1000,1.5,PTS,Gabriel Moreno,MLB,ARI,2023-10-30
+1001,5.0,Hitter Fantasy Score,Evan Longoria,MLB,ARI,2023-10-30
+1002,0.5,Total Bases,Evan Longoria,MLB,ARI,2023-10-30
+1003,5.5,Hitter Fantasy Score,Geraldo Perdomo,MLB,ARI,2023-10-30
+1004,5.5,Hitter Fantasy Score,Alek Thomas,MLB,ARI,2023-10-30
+1005,6.0,Hitter Fantasy Score,Lourdes Gurriel Jr.,other,ARI,2023-10-30
+1006,0.5,Total Bases,Geraldo Perdomo,MLB,ARI,2023-10-30
+1007,1.5,PTS,Lourdes Gurriel Jr.,other,ARI,2023-10-30
+1008,0.5,Singles,Lourdes Gurriel Jr.,other,ARI,2023-10-30
+1009,0.5,PTS,Carter Verhaeghe,NHL,FLA,2023-10-30
+1010,0.5,AST,Aleksander Barkov,NHL,FLA,2023-10-30
+1011,2.5,Shots,Sam Reinhart,NHL,FLA,2023-10-30
+1012,0.5,PTS,Evan Rodrigues,NHL,FLA,2023-10-30
+1013,2.5,Shots,Evan Rodrigues,NHL,FLA,2023-10-30
+1014,0.5,Goals,David Pastrnak,NHL,BOS,2023-10-30
+1015,0.5,AST,David Pastrnak,NHL,BOS,2023-10-30
+1016,4.5,Shots,David Pastrnak,NHL,BOS,2023-10-30
+1017,0.5,AST,Brad Marchand,NHL,BOS,2023-10-30
+1018,2.5,Shots,Brad Marchand,NHL,BOS,2023-10-30
+1019,0.5,PTS,Jake DeBrusk,NHL,BOS,2023-10-30
+1020,0.5,AST,Charlie McAvoy,NHL,BOS,2023-10-30
+1021,2.0,Shots,Charlie McAvoy,NHL,BOS,2023-10-30
+1022,2.0,blocked_shots,Charlie McAvoy,NHL,BOS,2023-10-30
+1023,1.5,Shots,Hampus Lindholm,NHL,BOS,2023-10-30
+1024,0.5,PTS,Frank Vatrano,NHL,ANA,2023-10-30
+1025,2.5,Shots,Troy Terry,NHL,ANA,2023-10-30
+1026,0.5,PTS,Trevor Zegras,NHL,ANA,2023-10-30
+1027,2.0,Shots,Mason McTavish,NHL,ANA,2023-10-30
+1028,1.5,Shots,Adam Henrique,NHL,ANA,2023-10-30
+1029,0.5,PTS,Leo Carlsson,NHL,ANA,2023-10-30
+1030,1.5,Shots,Ryan Strome,NHL,ANA,2023-10-30
+1031,1.5,blocked_shots,Radko Gudas,NHL,ANA,2023-10-30
+1032,2.5,blocked_shots,Ilya Lyubushkin,NHL,ANA,2023-10-30
+1033,0.5,AST,Sidney Crosby,NHL,PIT,2023-10-30
+1034,3.0,Shots,Sidney Crosby,NHL,PIT,2023-10-30
+1035,0.5,AST,Evgeni Malkin,NHL,PIT,2023-10-30
+1036,3.0,Shots,Evgeni Malkin,NHL,PIT,2023-10-30
+1037,0.5,AST,Jake Guentzel,NHL,PIT,2023-10-30
+1038,0.5,AST,Erik Karlsson,NHL,PIT,2023-10-30
+1039,2.5,Shots,Erik Karlsson,NHL,PIT,2023-10-30
+1040,0.5,PTS,Rickard Rakell,NHL,PIT,2023-10-30
+1041,2.5,Shots,Rickard Rakell,NHL,PIT,2023-10-30
+1042,0.5,AST,Kris Letang,NHL,PIT,2023-10-30
+1043,2.5,Shots,Kris Letang,NHL,PIT,2023-10-30
+1044,0.5,PTS,Reilly Smith,NHL,PIT,2023-10-30
+1045,2.0,Shots,Reilly Smith,NHL,PIT,2023-10-30
+1046,0.5,PTS,Andrei Svechnikov,NHL,CAR,2023-10-30
+1047,0.5,PTS,Seth Jarvis,NHL,CAR,2023-10-30
+1048,2.5,Shots,Seth Jarvis,NHL,CAR,2023-10-30
+1049,2.0,Shots,Jordan Martinook,NHL,CAR,2023-10-30
+1050,2.0,Shots,Michael Bunting,NHL,CAR,2023-10-30
+1051,0.5,PTS,Travis Konecny,NHL,PHI,2023-10-30
+1052,3.0,Shots,Owen Tippett,NHL,PHI,2023-10-30
+1053,1.5,Shots,Joel Farabee,NHL,PHI,2023-10-30
+1054,0.5,PTS,Sean Couturier,NHL,PHI,2023-10-30
+1055,2.5,Shots,Cam Atkinson,NHL,PHI,2023-10-30
+1056,1.5,Shots,Travis Sanheim,NHL,PHI,2023-10-30
+1057,2.5,blocked_shots,Nick Seeler,NHL,PHI,2023-10-30
+1058,0.5,PTS,Jared McCann,NHL,SEA,2023-10-30
+1059,2.5,Shots,Jared McCann,NHL,SEA,2023-10-30
+1060,0.5,PTS,Oliver Bjorkstrand,NHL,SEA,2023-10-30
+1061,0.5,PTS,Jaden Schwartz,NHL,SEA,2023-10-30
+1062,0.5,PTS,Jordan Eberle,NHL,SEA,2023-10-30
+1063,2.0,Shots,Jordan Eberle,NHL,SEA,2023-10-30
+1064,0.5,PTS,Vince Dunn,NHL,SEA,2023-10-30
+1065,0.5,PTS,Matty Beniers,NHL,SEA,2023-10-30
+1066,3.0,Shots,Nikita Kucherov,NHL,TB,2023-10-30
+1067,0.5,power_play_points,Nikita Kucherov,NHL,TB,2023-10-30
+1068,0.5,AST,Steven Stamkos,NHL,TB,2023-10-30
+1069,2.5,Shots,Brayden Point,NHL,TB,2023-10-30
+1070,0.5,PTS,Victor Hedman,NHL,TB,2023-10-30
+1071,0.5,PTS,Brandon Hagel,NHL,TB,2023-10-30
+1072,0.5,PTS,Mikhail Sergachev,NHL,TB,2023-10-30
+1073,0.5,AST,Mikhail Sergachev,NHL,TB,2023-10-30
+1074,0.5,AST,Mika Zibanejad,NHL,NYR,2023-10-30
+1075,0.5,PTS,Chris Kreider,NHL,NYR,2023-10-30
+1076,2.5,Shots,Chris Kreider,NHL,NYR,2023-10-30
+1077,0.5,AST,Artemi Panarin,NHL,NYR,2023-10-30
+1078,0.5,PTS,Vincent Trocheck,NHL,NYR,2023-10-30
+1079,0.5,AST,Adam Fox,NHL,NYR,2023-10-30
+1080,1.5,blocked_shots,Adam Fox,NHL,NYR,2023-10-30
+1081,0.5,PTS,Nikolaj Ehlers,NHL,WPG,2023-10-30
+1082,0.5,AST,Josh Morrissey,NHL,WPG,2023-10-30
+1083,2.5,Shots,Mark Scheifele,NHL,WPG,2023-10-30
+1084,0.5,PTS,Alex Iafallo,NHL,WPG,2023-10-30
+1085,2.5,Shots,Alex Iafallo,NHL,WPG,2023-10-30
+1086,2.0,Shots,Nino Niederreiter,NHL,WPG,2023-10-30
+1087,1.5,Shots,Neal Pionk,NHL,WPG,2023-10-30
+1088,0.5,AST,Dylan Larkin,NHL,DET,2023-10-30
+1089,3.0,Shots,Alex DeBrincat,NHL,DET,2023-10-30
+1090,2.5,Shots,Daniel Sprong,NHL,DET,2023-10-30
+1091,1.5,blocked_shots,Ben Chiarot,NHL,DET,2023-10-30
+1092,0.5,PTS,Kyle Palmieri,NHL,NYI,2023-10-30
+1093,0.5,PTS,Noah Dobson,NHL,NYI,2023-10-30
+1094,2.5,Shots,Brock Nelson,NHL,NYI,2023-10-30
+1095,1.5,blocked_shots,Adam Pelech,NHL,NYI,2023-10-30
+1096,0.5,AST,Johnny Gaudreau,NHL,CBJ,2023-10-30
+1097,3.0,Shots,Johnny Gaudreau,NHL,CBJ,2023-10-30
+1098,3.0,Shots,Boone Jenner,NHL,CBJ,2023-10-30
+1099,0.5,PTS,Zach Werenski,NHL,CBJ,2023-10-30
+1100,0.5,PTS,Jack Roslovic,NHL,CBJ,2023-10-30
+1101,2.0,Shots,Jack Roslovic,NHL,CBJ,2023-10-30
+1102,2.0,blocked_shots,Erik Gudbranson,NHL,CBJ,2023-10-30
+1103,0.5,PTS,Tyler Seguin,NHL,DAL,2023-10-30
+1104,2.0,Shots,Tyler Seguin,NHL,DAL,2023-10-30
+1105,2.0,Shots,Joe Pavelski,NHL,DAL,2023-10-30
+1106,0.5,PTS,Jamie Benn,NHL,DAL,2023-10-30
+1107,2.0,Shots,Jamie Benn,NHL,DAL,2023-10-30
+1108,0.5,PTS,Wyatt Johnston,NHL,DAL,2023-10-30
+1109,3.5,Shots,Cole Caufield,NHL,MTL,2023-10-30
+1110,2.0,Shots,Nick Suzuki,NHL,MTL,2023-10-30
+1111,0.5,PTS,Michael Matheson,NHL,MTL,2023-10-30
+1112,2.0,Shots,Josh Anderson,NHL,MTL,2023-10-30
+1113,2.0,Shots,Brendan Gallagher,NHL,MTL,2023-10-30
+1114,0.5,PTS,Sean Monahan,NHL,MTL,2023-10-30
+1115,2.0,Shots,Sean Monahan,NHL,MTL,2023-10-30
+1116,1.5,blocked_shots,Jordan Harris,NHL,MTL,2023-10-30
+1117,0.5,AST,Jack Eichel,NHL,VGK,2023-10-30
+1118,3.5,Shots,Jack Eichel,NHL,VGK,2023-10-30
+1119,3.0,Shots,Jonathan Marchessault,NHL,VGK,2023-10-30
+1120,0.5,PTS,Alex Pietrangelo,NHL,VGK,2023-10-30
+1121,2.0,blocked_shots,Alex Pietrangelo,NHL,VGK,2023-10-30
+1122,0.5,PTS,William Karlsson,NHL,VGK,2023-10-30
+1123,0.5,AST,Chandler Stephenson,NHL,VGK,2023-10-30
+1124,2.0,Shots,William Karlsson,NHL,VGK,2023-10-30
+1125,0.5,PTS,Seth Jones,NHL,CHI,2023-10-30
+1126,2.5,Shots,Seth Jones,NHL,CHI,2023-10-30
+1127,1.5,Shots,Corey Perry,NHL,CHI,2023-10-30
+1128,2.0,Shots,Ryan Donato,NHL,CHI,2023-10-30
+1129,0.5,AST,Clayton Keller,NHL,ARI,2023-10-30
+1130,0.5,PTS,Barrett Hayton,NHL,ARI,2023-10-30
+1131,2.5,Shots,Barrett Hayton,NHL,ARI,2023-10-30
+1132,0.5,PTS,Matias Maccelli,NHL,ARI,2023-10-30
+1133,0.5,PTS,Logan Cooley,NHL,ARI,2023-10-30
+1134,0.5,AST,Nick Schmaltz,NHL,ARI,2023-10-30
+1135,2.0,Shots,Sean Durzi,NHL,ARI,2023-10-30
+1136,1.5,blocked_shots,Sean Durzi,NHL,ARI,2023-10-30
+1137,2.5,Goalie Saves,Juan Musso,FIFA,Atalanta,2023-10-30
+1138,0.5,goals_assists,Gianluca Scamacca,FIFA,Atalanta,2023-10-30
+1139,2.0,shots_attempted,Ademola Lookman,FIFA,Atalanta,2023-10-30
+1140,3.0,shots_attempted,Gianluca Scamacca,FIFA,Atalanta,2023-10-30
+1141,2.0,shots_attempted,Teun Koopmeiners,FIFA,Atalanta,2023-10-30
+1142,50.5,passes,Teun Koopmeiners,FIFA,Atalanta,2023-10-30
+1143,3.5,Goalie Saves,Etrit Berisha,FIFA,Empoli,2023-10-30
+1144,1.5,shots_attempted,Francesco Caputo,FIFA,Empoli,2023-10-30
+1145,1.5,shots_attempted,Nicolo Cambiaghi,FIFA,Empoli,2023-10-30
+1146,43.5,passes,Sebastiano Luperto,FIFA,Empoli,2023-10-30
+1147,3.5,Goalie Saves,Pietro Terracciano,FIFA,Fiorentina,2023-10-30
+1148,2.5,shots_attempted,Nicolas Gonzalez,FIFA,Fiorentina,2023-10-30
+1149,1.5,shots_attempted,Giacomo Bonaventura,FIFA,Fiorentina,2023-10-30
+1150,1.5,shots_attempted,M'bala Nzola,FIFA,Fiorentina,2023-10-30
+1151,2.5,Goalie Saves,Ivan Provedel,FIFA,Lazio,2023-10-30
+1152,2.5,shots_attempted,Ciro Immobile,FIFA,Lazio,2023-10-30
+1153,58.5,passes,Luis Alberto,FIFA,Lazio,2023-10-30
+1154,2.5,Goalie Saves,Filip Jorgensen,FIFA,Villarreal,2023-10-30
+1155,0.5,goals_assists,Gerard Moreno,FIFA,Villarreal,2023-10-30
+1156,2.5,shots_attempted,Gerard Moreno,FIFA,Villarreal,2023-10-30
+1157,0.5,goals_assists,Alexander Sorloth,FIFA,Villarreal,2023-10-30
+1158,2.0,shots_attempted,Alexander Sorloth,FIFA,Villarreal,2023-10-30
+1159,1.0,shots_attempted,Etienne Capoue,FIFA,Villarreal,2023-10-30
+1160,33.5,passes,Alfonso Pedraza,FIFA,Villarreal,2023-10-30
+1161,3.0,Goalie Saves,Andre Ferreira,FIFA,Granada,2023-10-30
+1162,2.0,shots_attempted,Bryan Zaragoza Martinez,other,Granada,2023-10-30
+1163,2.0,shots_attempted,Myrto Uzuni,FIFA,Granada,2023-10-30
+1164,3.0,Goalie Saves,Joe Willis,FIFA,Nashville,2023-10-30
+1165,3.0,shots_attempted,Hany Mukhtar,FIFA,Nashville,2023-10-30
+1166,2.0,chances_created,Hany Mukhtar,FIFA,Nashville,2023-10-30
+1167,2.5,Goalie Saves,Pedro Gallese,FIFA,Orlando City,2023-10-30
+1168,1.5,shots_attempted,Ivan Angulo,FIFA,Orlando City,2023-10-30
+1169,2.0,shots_attempted,Facundo Torres,FIFA,Orlando City,2023-10-30
+1170,31.5,passes,Facundo Torres,FIFA,Orlando City,2023-10-30
+1171,3.0,Goalie Saves,Maarten Paes,FIFA,Dallas,2023-10-30
+1172,2.5,shots_attempted,Jesus Ferreira,FIFA,Dallas,2023-10-30
+1173,2.0,shots_attempted,Alan Velasco,FIFA,Dallas,2023-10-30
+1174,28.5,passes,Jesus Ferreira,FIFA,Dallas,2023-10-30
+1175,2.5,Goalie Saves,Stefan Frei,FIFA,Seattle,2023-10-30
+1176,2.0,shots_attempted,Albert Rusnak,FIFA,Seattle,2023-10-30
+1177,1.5,shots_attempted,Cristian Roldan,FIFA,Seattle,2023-10-30
+1178,1.5,shots_attempted,Jordan Morris,FIFA,Seattle,2023-10-30
+1179,1.5,shots_attempted,Leo Chu,FIFA,Seattle,2023-10-30
+1180,65.5,passes, Joao Paulo,other,Seattle,2023-10-30
+1181,6.5,Aces,Gael Monfils,other,Gael Monfils,
+1182,4.5,Aces,Adrian Mannarino,other,Adrian Mannarino,
+1183,6.5,Aces,Grigor Dimitrov,other,Grigor Dimitrov,
+1184,6.5,Aces,Arthur Fils,other,Arthur Fils,
+1185,7.0,Aces,Laslo Djere,other,Laslo Djere,
+1186,5.5,Aces,Dominic Thiem,other,Dominic Thiem,
+1187,9.5,Aces,Jordan Thompson,other,Jordan Thompson,
+1188,7.5,Aces,Sebastian Korda,other,Sebastian Korda,
+1189,3.5,Aces,Miomir Kecmanovic,other,Miomir Kecmanovic,
+1190,2.0,Double Faults,Adrian Mannarino,other,Adrian Mannarino,
+1191,1.5,Double Faults,Taylor Fritz,other,Taylor Fritz,
+1192,2.5,Double Faults,Arthur Fils,other,Arthur Fils,
+1193,2.5,Double Faults,Grigor Dimitrov,other,Grigor Dimitrov,
+1194,3.0,Double Faults,Laslo Djere,other,Laslo Djere,
+1195,1.5,Double Faults,Miomir Kecmanovic,other,Miomir Kecmanovic,
+1196,1.5,Double Faults,Sebastian Korda,other,Sebastian Korda,
+1197,2.5,Double Faults,Dominic Thiem,other,Dominic Thiem,
+1198,3.0,Double Faults,Gael Monfils,other,Gael Monfils,
+1199,0.5,sets_lost,Arthur Fils,other,Arthur Fils,
+1200,0.5,sets_lost,Grigor Dimitrov,other,Grigor Dimitrov,
+1201,45.05,Hitter Fantasy Score,Coco Gauff,other,Coco Gauff,
+1202,53.55,Hitter Fantasy Score,Iga Swiatek,other,Iga Swiatek,
+1203,43.95,Hitter Fantasy Score,Laslo Djere,other,Laslo Djere,
+1204,45.35,Hitter Fantasy Score,Gael Monfils,other,Gael Monfils,
+1205,49.15,Hitter Fantasy Score,Alexander Zverev,other,Alexander Zverev,
+1206,43.95,Hitter Fantasy Score,Mackenzie McDonald,other,Mackenzie McDonald,
+1207,44.25,Hitter Fantasy Score,Benjamin Bonzi,other,Benjamin Bonzi,
+1208,45.65,Hitter Fantasy Score,Ugo Humbert,other,Ugo Humbert,
+1209,45.35,Hitter Fantasy Score,Dominic Thiem,other,Dominic Thiem,
+1210,47.25,Hitter Fantasy Score,Sebastian Korda,other,Sebastian Korda,
+1211,50.35,Hitter Fantasy Score,Taylor Fritz,other,Taylor Fritz,
+1212,45.25,Hitter Fantasy Score,Adrian Mannarino,other,Adrian Mannarino,
+1213,49.15,Hitter Fantasy Score,Grigor Dimitrov,other,Grigor Dimitrov,
+1214,48.55,Hitter Fantasy Score,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+1215,44.65,Hitter Fantasy Score,Miomir Kecmanovic,other,Miomir Kecmanovic,
+1216,50.15,Hitter Fantasy Score,Tommy Paul,other,Tommy Paul,
+1217,48.55,Hitter Fantasy Score,Arthur Fils,other,Arthur Fils,
+1218,45.25,Hitter Fantasy Score,Jordan Thompson,other,Jordan Thompson,
+1219,12.5,Games Won,Tommy Paul,other,Tommy Paul,
+1220,13.0,Games Won,Sebastian Korda,other,Sebastian Korda,
+1221,12.5,Games Won,Grigor Dimitrov,other,Grigor Dimitrov,
+1222,12.5,Games Won,Alexander Zverev,other,Alexander Zverev,
+1223,12.5,Games Won,Benjamin Bonzi,other,Benjamin Bonzi,
+1224,12.5,Games Won,Mackenzie McDonald,other,Mackenzie McDonald,
+1225,12.5,Games Won,Ugo Humbert,other,Ugo Humbert,
+1226,13.0,Games Won,Dominic Thiem,other,Dominic Thiem,
+1227,12.5,Games Won,Adrian Mannarino,other,Adrian Mannarino,
+1228,12.5,Games Won,Laslo Djere,other,Laslo Djere,
+1229,12.5,Games Won,Miomir Kecmanovic,other,Miomir Kecmanovic,
+1230,12.5,Games Won,Jordan Thompson,other,Jordan Thompson,
+1231,13.0,Games Won,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+1232,12.5,Games Won,Gael Monfils,other,Gael Monfils,
+1233,11.5,Games Lost,Coco Gauff,other,Coco Gauff,
+1234,8.0,Games Lost,Iga Swiatek,other,Iga Swiatek,
+1235,10.5,Games Lost,Arthur Fils,other,Arthur Fils,
+1236,12.0,Games Lost,Jordan Thompson,other,Jordan Thompson,
+1237,9.5,Games Lost,Alexander Zverev,other,Alexander Zverev,
+1238,12.5,Games Lost,Sebastian Korda,other,Sebastian Korda,
+1239,11.5,Games Lost,Gael Monfils,other,Gael Monfils,
+1240,12.0,Games Lost,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+1241,12.0,Games Lost,Ugo Humbert,other,Ugo Humbert,
+1242,12.5,Games Lost,Laslo Djere,other,Laslo Djere,
+1243,12.5,Games Lost,Dominic Thiem,other,Dominic Thiem,
+1244,12.5,Games Lost,Mackenzie McDonald,other,Mackenzie McDonald,
+1245,12.0,Games Lost,Adrian Mannarino,other,Adrian Mannarino,
+1246,12.5,Games Lost,Miomir Kecmanovic,other,Miomir Kecmanovic,
+1247,12.5,Games Lost,Benjamin Bonzi,other,Benjamin Bonzi,
+1248,9.0,Games Lost,Taylor Fritz,other,Taylor Fritz,
+1249,10.0,Games Lost,Grigor Dimitrov,other,Grigor Dimitrov,
+1250,9.0,Games Lost,Tommy Paul,other,Tommy Paul,
+1251,20.5,games_played,Coco Gauff,other,Coco Gauff,
+1252,20.0,games_played,Iga Swiatek,other,Iga Swiatek,
+1253,21.5,games_played,Alexander Zverev,other,Alexander Zverev,
+1254,22.0,games_played,Arthur Fils,other,Arthur Fils,
+1255,22.0,games_played,Adrian Mannarino,other,Adrian Mannarino,
+1256,22.5,games_played,Laslo Djere,other,Laslo Djere,
+1257,22.5,games_played,Mackenzie McDonald,other,Mackenzie McDonald,
+1258,22.5,games_played,Felix Auger-Aliassime,other,Felix Auger-Aliassime,
+1259,22.5,games_played,Ugo Humbert,other,Ugo Humbert,
+1260,22.5,games_played,Benjamin Bonzi,other,Benjamin Bonzi,
+1261,22.0,games_played,Gael Monfils,other,Gael Monfils,
+1262,22.5,games_played,Miomir Kecmanovic,other,Miomir Kecmanovic,
+1263,21.5,games_played,Grigor Dimitrov,other,Grigor Dimitrov,
+1264,21.5,games_played,Taylor Fritz,other,Taylor Fritz,
+1265,21.0,games_played,Tommy Paul,other,Tommy Paul,
+1266,22.5,games_played,Jordan Thompson,other,Jordan Thompson,
+1267,23.5,games_played,Sebastian Korda,other,Sebastian Korda,
+1268,23.5,games_played,Dominic Thiem,other,Dominic Thiem,
+1269,31.5,MAPS 1-2 Kills,yuurih,ESPORTS,FURIA ,2023-10-30
+1270,28.0,MAPS 1-2 Kills,arT,ESPORTS,FURIA ,2023-10-30
+1271,27.0,MAPS 1-2 Kills,chelo,ESPORTS,FURIA ,2023-10-30
+1272,31.0,MAPS 1-2 Kills,FalleN,ESPORTS,FURIA ,2023-10-30
+1273,33.0,MAPS 1-2 Kills,KSCERATO,ESPORTS,FURIA ,2023-10-30
+1274,14.5,headshots_on_maps_1_2,arT,ESPORTS,FURIA ,2023-10-30
+1275,19.0,headshots_on_maps_1_2,KSCERATO,ESPORTS,FURIA ,2023-10-30
+1276,16.0,headshots_on_maps_1_2,yuurih,ESPORTS,FURIA ,2023-10-30
+1277,16.0,headshots_on_maps_1_2,chelo,ESPORTS,FURIA ,2023-10-30
+1278,9.5,headshots_on_maps_1_2,FalleN,ESPORTS,FURIA ,2023-10-30
+1279,31.0,MAPS 1-2 Kills,mantuu,ESPORTS, BIG,2023-10-30
+1280,9.0,headshots_on_maps_1_2,mantuu,ESPORTS, BIG,2023-10-30
+1281,29.0,MAPS 1-2 Kills,prosus,ESPORTS, BIG,2023-10-30
+1282,19.0,headshots_on_maps_1_2,prosus,ESPORTS, BIG,2023-10-30
+1283,33.5,MAPS 1-2 Kills,Krimbo,ESPORTS, BIG,2023-10-30
+1284,17.0,headshots_on_maps_1_2,Krimbo,ESPORTS, BIG,2023-10-30
+1285,28.5,MAPS 1-2 Kills,s1n,ESPORTS, BIG,2023-10-30
+1286,17.0,headshots_on_maps_1_2,s1n,ESPORTS, BIG,2023-10-30
+1287,30.0,MAPS 1-2 Kills,tabseN,ESPORTS, BIG,2023-10-30
+1288,17.0,headshots_on_maps_1_2,tabseN,ESPORTS, BIG,2023-10-30
+1289,30.5,MAPS 1-2 Kills,tAk,ESPORTS,AGO ,2023-10-30
+1290,17.0,headshots_on_maps_1_2,tAk,ESPORTS,AGO ,2023-10-30
+1291,28.0,MAPS 1-2 Kills,Dementor,ESPORTS,AGO ,2023-10-30
+1292,31.5,MAPS 1-2 Kills,Svedjehed,ESPORTS,AGO ,2023-10-30
+1293,33.5,MAPS 1-2 Kills,DEPRESHN,ESPORTS,AGO ,2023-10-30
+1294,27.0,MAPS 1-2 Kills,delle,ESPORTS,AGO ,2023-10-30
+1295,16.5,headshots_on_maps_1_2,delle,ESPORTS,AGO ,2023-10-30
+1296,12.0,headshots_on_maps_1_2,DEPRESHN,ESPORTS,AGO ,2023-10-30
+1297,16.0,headshots_on_maps_1_2,Svedjehed,ESPORTS,AGO ,2023-10-30
+1298,14.5,headshots_on_maps_1_2,Dementor,ESPORTS,AGO ,2023-10-30
+1299,27.5,MAPS 1-2 Kills,sAvana1,ESPORTS, Sampi,2023-10-30
+1300,27.5,MAPS 1-2 Kills,CS: The,other,CS: The,
+1301,37.5,MAPS 1-2 Kills,MATYS,ESPORTS, Sampi,2023-10-30
+1302,28.0,MAPS 1-2 Kills,T4gg3D,ESPORTS, Sampi,2023-10-30
+1303,16.0,headshots_on_maps_1_2,T4gg3D,ESPORTS, Sampi,2023-10-30
+1304,15.5,headshots_on_maps_1_2,CS: The,other,CS: The,
+1305,18.5,headshots_on_maps_1_2,sAvana1,ESPORTS, Sampi,2023-10-30
+1306,24.0,headshots_on_maps_1_2,MATYS,ESPORTS, Sampi,2023-10-30
+1307,31.5,MAPS 1-2 Kills,fino,ESPORTS, Sampi,2023-10-30
+1308,13.0,headshots_on_maps_1_2,fino,ESPORTS, Sampi,2023-10-30
+1309,29.0,MAPS 1-2 Kills,meyern,ESPORTS,BESTIA ,2023-10-30
+1310,29.0,MAPS 1-2 Kills,Noktse,ESPORTS,BESTIA ,2023-10-30
+1311,34.5,MAPS 1-2 Kills,luchov,ESPORTS,BESTIA ,2023-10-30
+1312,29.0,MAPS 1-2 Kills,deco,ESPORTS,BESTIA ,2023-10-30
+1313,16.5,headshots_on_maps_1_2,meyern,ESPORTS,BESTIA ,2023-10-30
+1314,17.0,headshots_on_maps_1_2,deco,ESPORTS,BESTIA ,2023-10-30
+1315,21.0,headshots_on_maps_1_2,luchov,ESPORTS,BESTIA ,2023-10-30
+1316,18.5,headshots_on_maps_1_2,tomaszin,ESPORTS,BESTIA ,2023-10-30
+1317,11.5,headshots_on_maps_1_2,Noktse,ESPORTS,BESTIA ,2023-10-30
+1318,32.5,MAPS 1-2 Kills,Ponter,ESPORTS,ODDIK ,2023-10-30
+1319,18.5,headshots_on_maps_1_2,Ponter,ESPORTS,ODDIK ,2023-10-30
+1320,31.0,MAPS 1-2 Kills,naitte,ESPORTS,ODDIK ,2023-10-30
+1321,28.5,MAPS 1-2 Kills,matios,ESPORTS,ODDIK ,2023-10-30
+1322,30.5,MAPS 1-2 Kills,Tuurtle,ESPORTS,ODDIK ,2023-10-30
+1323,29.5,MAPS 1-2 Kills,WOOD7,ESPORTS,ODDIK ,2023-10-30
+1324,19.5,headshots_on_maps_1_2,Tuurtle,ESPORTS,ODDIK ,2023-10-30
+1325,18.0,headshots_on_maps_1_2,matios,ESPORTS,ODDIK ,2023-10-30
+1326,20.5,headshots_on_maps_1_2,naitte,ESPORTS,ODDIK ,2023-10-30
+1327,11.0,headshots_on_maps_1_2,WOOD7,ESPORTS,ODDIK ,2023-10-30
+1328,25.5,MAPS 1-2 Kills,nasher,ESPORTS, WINDINGO,2023-10-30
+1329,23.5,MAPS 1-2 Kills,PREDI,ESPORTS, WINDINGO,2023-10-30
+1330,30.0,MAPS 1-2 Kills,CS: righi,other,CS: righi,
+1331,23.5,MAPS 1-2 Kills,bichop,ESPORTS, WINDINGO,2023-10-30
+1332,26.5,MAPS 1-2 Kills,restikk,ESPORTS, WINDINGO,2023-10-30
+1333,15.0,headshots_on_maps_1_2,restikk,ESPORTS, WINDINGO,2023-10-30
+1334,12.5,headshots_on_maps_1_2,PREDI,ESPORTS, WINDINGO,2023-10-30
+1335,15.0,headshots_on_maps_1_2,bichop,ESPORTS, WINDINGO,2023-10-30
+1336,19.0,headshots_on_maps_1_2,CS: righi,other,CS: righi,
+1337,10.0,headshots_on_maps_1_2,nasher,ESPORTS, WINDINGO,2023-10-30
+1338,29.5,MAPS 1-2 Kills,zmb,ESPORTS,Case ,2023-10-30
+1339,17.5,headshots_on_maps_1_2,zmb,ESPORTS,Case ,2023-10-30
+1340,27.5,MAPS 1-2 Kills,souz4h,ESPORTS,Case ,2023-10-30
+1341,31.0,MAPS 1-2 Kills,Snow,ESPORTS,Case ,2023-10-30
+1342,27.0,MAPS 1-2 Kills,yepz,ESPORTS,Case ,2023-10-30
+1343,33.5,MAPS 1-2 Kills,RCF,ESPORTS,Case ,2023-10-30
+1344,15.5,headshots_on_maps_1_2,Snow,ESPORTS,Case ,2023-10-30
+1345,13.0,headshots_on_maps_1_2,RCF,ESPORTS,Case ,2023-10-30
+1346,15.0,headshots_on_maps_1_2,souz4h,ESPORTS,Case ,2023-10-30
+1347,16.5,headshots_on_maps_1_2,yepz,ESPORTS,Case ,2023-10-30
+1348,32.5,MAPS 1-2 Kills,supLexN1,ESPORTS, Meta,2023-10-30
+1349,32.5,MAPS 1-2 Kills,supLexN1,ESPORTS, Meta,2023-10-30
+1350,29.0,MAPS 1-2 Kills,CutzMeretz,ESPORTS, Meta,2023-10-30
+1351,29.0,MAPS 1-2 Kills,CutzMeretz,ESPORTS, Meta,2023-10-30
+1352,27.0,MAPS 1-2 Kills,Leomonster,ESPORTS, Meta,2023-10-30
+1353,27.0,MAPS 1-2 Kills,Leomonster,ESPORTS, Meta,2023-10-30
+1354,31.0,MAPS 1-2 Kills,abr,ESPORTS, Meta,2023-10-30
+1355,31.0,MAPS 1-2 Kills,abr,ESPORTS, Meta,2023-10-30
+1356,27.0,MAPS 1-2 Kills,Alisson,ESPORTS, Meta,2023-10-30
+1357,27.0,MAPS 1-2 Kills,Alisson,ESPORTS, Meta,2023-10-30
+1358,17.5,headshots_on_maps_1_2,abr,ESPORTS, Meta,2023-10-30
+1359,17.5,headshots_on_maps_1_2,abr,ESPORTS, Meta,2023-10-30
+1360,13.0,headshots_on_maps_1_2,supLexN1,ESPORTS, Meta,2023-10-30
+1361,13.0,headshots_on_maps_1_2,supLexN1,ESPORTS, Meta,2023-10-30
+1362,14.5,headshots_on_maps_1_2,Alisson,ESPORTS, Meta,2023-10-30
+1363,14.5,headshots_on_maps_1_2,Alisson,ESPORTS, Meta,2023-10-30
+1364,14.5,headshots_on_maps_1_2,CutzMeretz,ESPORTS, Meta,2023-10-30
+1365,14.5,headshots_on_maps_1_2,CutzMeretz,ESPORTS, Meta,2023-10-30
+1366,15.5,headshots_on_maps_1_2,Leomonster,ESPORTS, Meta,2023-10-30
+1367,15.5,headshots_on_maps_1_2,Leomonster,ESPORTS, Meta,2023-10-30
+1368,25.0,MAPS 1-2 Kills,magixx,ESPORTS,Spirit ,2023-10-30
+1369,28.0,MAPS 1-2 Kills,zont1x,ESPORTS,Spirit ,2023-10-30
+1370,24.0,MAPS 1-2 Kills,chopper,ESPORTS,Spirit ,2023-10-30
+1371,30.0,MAPS 1-2 Kills,ArtFr0st,ESPORTS,Spirit ,2023-10-30
+1372,38.0,MAPS 1-2 Kills,donk,ESPORTS,Spirit ,2023-10-30
+1373,14.5,headshots_on_maps_1_2,magixx,ESPORTS,Spirit ,2023-10-30
+1374,14.0,headshots_on_maps_1_2,zont1x,ESPORTS,Spirit ,2023-10-30
+1375,9.0,headshots_on_maps_1_2,ArtFr0st,ESPORTS,Spirit ,2023-10-30
+1376,14.5,headshots_on_maps_1_2,chopper,ESPORTS,Spirit ,2023-10-30
+1377,25.0,headshots_on_maps_1_2,donk,ESPORTS,Spirit ,2023-10-30
+1378,30.0,MAPS 1-2 Kills,Jimpphat,ESPORTS, MOUZ,2023-10-30
+1379,30.5,MAPS 1-2 Kills,xertioN,ESPORTS, MOUZ,2023-10-30
+1380,27.0,MAPS 1-2 Kills,siuhy,ESPORTS, MOUZ,2023-10-30
+1381,31.5,MAPS 1-2 Kills,frozen,ESPORTS, MOUZ,2023-10-30
+1382,33.5,MAPS 1-2 Kills,torzsi,ESPORTS, MOUZ,2023-10-30
+1383,14.0,headshots_on_maps_1_2,siuhy,ESPORTS, MOUZ,2023-10-30
+1384,18.0,headshots_on_maps_1_2,frozen,ESPORTS, MOUZ,2023-10-30
+1385,12.0,headshots_on_maps_1_2,torzsi,ESPORTS, MOUZ,2023-10-30
+1386,18.0,headshots_on_maps_1_2,xertioN,ESPORTS, MOUZ,2023-10-30
+1387,17.0,headshots_on_maps_1_2,Jimpphat,ESPORTS, MOUZ,2023-10-30
+1388,26.5,MAPS 1-2 Kills,drg,ESPORTS,Sharks ,2023-10-30
+1389,31.5,MAPS 1-2 Kills,doc,ESPORTS,Sharks ,2023-10-30
+1390,32.0,MAPS 1-2 Kills,rdnzao,ESPORTS,Sharks ,2023-10-30
+1391,30.5,MAPS 1-2 Kills,Gafolo,ESPORTS,Sharks ,2023-10-30
+1392,33.0,MAPS 1-2 Kills,togs,ESPORTS,Sharks ,2023-10-30
+1393,12.0,headshots_on_maps_1_2,Gafolo,ESPORTS,Sharks ,2023-10-30
+1394,19.0,headshots_on_maps_1_2,rdnzao,ESPORTS,Sharks ,2023-10-30
+1395,17.0,headshots_on_maps_1_2,togs,ESPORTS,Sharks ,2023-10-30
+1396,17.5,headshots_on_maps_1_2,doc,ESPORTS,Sharks ,2023-10-30
+1397,16.0,headshots_on_maps_1_2,drg,ESPORTS,Sharks ,2023-10-30
+1398,24.5,MAPS 1-2 Kills,TACO,ESPORTS, Selecao do bt0,2023-10-30
+1399,29.0,MAPS 1-2 Kills,t9rnay,ESPORTS, Selecao do bt0,2023-10-30
+1400,28.0,MAPS 1-2 Kills,history,ESPORTS, Selecao do bt0,2023-10-30
+1401,29.5,MAPS 1-2 Kills,JOTA,ESPORTS, Selecao do bt0,2023-10-30
+1402,16.5,headshots_on_maps_1_2,t9rnay,ESPORTS, Selecao do bt0,2023-10-30
+1403,11.5,headshots_on_maps_1_2,history,ESPORTS, Selecao do bt0,2023-10-30
+1404,14.0,headshots_on_maps_1_2,TACO,ESPORTS, Selecao do bt0,2023-10-30
+1405,15.5,headshots_on_maps_1_2,JOTA,ESPORTS, Selecao do bt0,2023-10-30
+1406,22.5,MAPS 1-2 Kills,bt0,ESPORTS, Selecao do bt0,2023-10-30
+1407,10.0,headshots_on_maps_1_2,bt0,ESPORTS, Selecao do bt0,2023-10-30
+1408,33.5,MAPS 1-2 Kills,dumau,ESPORTS,Legacy ,2023-10-30
+1409,16.5,headshots_on_maps_1_2,dumau,ESPORTS,Legacy ,2023-10-30
+1410,32.0,MAPS 1-2 Kills,coldzera,ESPORTS,Legacy ,2023-10-30
+1411,15.5,headshots_on_maps_1_2,coldzera,ESPORTS,Legacy ,2023-10-30
+1412,31.0,MAPS 1-2 Kills,latto,ESPORTS,Legacy ,2023-10-30
+1413,18.5,headshots_on_maps_1_2,latto,ESPORTS,Legacy ,2023-10-30
+1414,27.5,MAPS 1-2 Kills,NEKIZ,ESPORTS,Legacy ,2023-10-30
+1415,14.5,headshots_on_maps_1_2,NEKIZ,ESPORTS,Legacy ,2023-10-30
+1416,29.5,MAPS 1-2 Kills,b4rtiN,ESPORTS,Legacy ,2023-10-30
+1417,18.0,headshots_on_maps_1_2,b4rtiN,ESPORTS,Legacy ,2023-10-30
+1418,26.0,MAPS 1-2 Kills,diozera,ESPORTS, MIBR Academy,2023-10-30
+1419,26.5,MAPS 1-2 Kills,nicks,ESPORTS, MIBR Academy,2023-10-30
+1420,26.0,MAPS 1-2 Kills,brn$,ESPORTS, MIBR Academy,2023-10-30
+1421,21.0,MAPS 1-2 Kills,BobZ,ESPORTS, MIBR Academy,2023-10-30
+1422,29.5,MAPS 1-2 Kills,card,ESPORTS, MIBR Academy,2023-10-30
+1423,10.0,headshots_on_maps_1_2,card,ESPORTS, MIBR Academy,2023-10-30
+1424,10.5,headshots_on_maps_1_2,BobZ,ESPORTS, MIBR Academy,2023-10-30
+1425,15.5,headshots_on_maps_1_2,nicks,ESPORTS, MIBR Academy,2023-10-30
+1426,13.0,headshots_on_maps_1_2,brn$,ESPORTS, MIBR Academy,2023-10-30
+1427,14.5,headshots_on_maps_1_2,diozera,ESPORTS, MIBR Academy,2023-10-30
+1428,30.5,MAPS 1-2 Kills,DemQQ,ESPORTS, Monte ,2023-10-30
+1429,33.0,MAPS 1-2 Kills,Woro2k,ESPORTS, Monte ,2023-10-30
+1430,27.5,MAPS 1-2 Kills,br0,ESPORTS, Monte ,2023-10-30
+1431,30.0,MAPS 1-2 Kills,kRaSnaL,ESPORTS, Monte ,2023-10-30
+1432,31.0,MAPS 1-2 Kills,sdy,ESPORTS, Monte ,2023-10-30
+1433,14.0,headshots_on_maps_1_2,Woro2k,ESPORTS, Monte ,2023-10-30
+1434,16.5,headshots_on_maps_1_2,sdy,ESPORTS, Monte ,2023-10-30
+1435,16.5,headshots_on_maps_1_2,br0,ESPORTS, Monte ,2023-10-30
+1436,15.5,headshots_on_maps_1_2,kRaSnaL,ESPORTS, Monte ,2023-10-30
+1437,17.5,headshots_on_maps_1_2,DemQQ,ESPORTS, Monte ,2023-10-30
+1438,31.0,MAPS 1-2 Kills,leri511,ESPORTS, Space,2023-10-30
+1439,11.5,headshots_on_maps_1_2,leri511,ESPORTS, Space,2023-10-30
+1440,31.0,MAPS 1-2 Kills,TruNiQ,ESPORTS, Space,2023-10-30
+1441,18.0,headshots_on_maps_1_2,TruNiQ,ESPORTS, Space,2023-10-30
+1442,29.5,MAPS 1-2 Kills,fozil,ESPORTS, Space,2023-10-30
+1443,19.0,headshots_on_maps_1_2,fozil,ESPORTS, Space,2023-10-30
+1444,26.5,MAPS 1-2 Kills,enzero,ESPORTS, Space,2023-10-30
+1445,15.5,headshots_on_maps_1_2,enzero,ESPORTS, Space,2023-10-30
+1446,24.5,MAPS 1-2 Kills,vert,ESPORTS, Space,2023-10-30
+1447,13.5,headshots_on_maps_1_2,vert,ESPORTS, Space,2023-10-30
+1448,31.5,MAPS 1-2 Kills,xureba,ESPORTS,Solid ,2023-10-30
+1449,29.0,MAPS 1-2 Kills,CSO,ESPORTS,Solid ,2023-10-30
+1450,33.0,MAPS 1-2 Kills,gbb,ESPORTS,Solid ,2023-10-30
+1451,27.0,MAPS 1-2 Kills,Lcm,ESPORTS,Solid ,2023-10-30
+1452,29.0,MAPS 1-2 Kills,nolkz,ESPORTS,Solid ,2023-10-30
+1453,17.0,headshots_on_maps_1_2,nolkz,ESPORTS,Solid ,2023-10-30
+1454,17.5,headshots_on_maps_1_2,gbb,ESPORTS,Solid ,2023-10-30
+1455,17.5,headshots_on_maps_1_2,xureba,ESPORTS,Solid ,2023-10-30
+1456,16.0,headshots_on_maps_1_2,CSO,ESPORTS,Solid ,2023-10-30
+1457,11.0,headshots_on_maps_1_2,Lcm,ESPORTS,Solid ,2023-10-30
+1458,31.0,MAPS 1-2 Kills,Ponter,ESPORTS,ODDIK ,2023-10-30
+1459,17.5,headshots_on_maps_1_2,Ponter,ESPORTS,ODDIK ,2023-10-30
+1460,27.5,MAPS 1-2 Kills,matios,ESPORTS,ODDIK ,2023-10-30
+1461,29.0,MAPS 1-2 Kills,WOOD7,ESPORTS,ODDIK ,2023-10-30
+1462,29.0,MAPS 1-2 Kills,naitte,ESPORTS,ODDIK ,2023-10-30
+1463,30.0,MAPS 1-2 Kills,Tuurtle,ESPORTS,ODDIK ,2023-10-30
+1464,18.5,headshots_on_maps_1_2,Tuurtle,ESPORTS,ODDIK ,2023-10-30
+1465,17.0,headshots_on_maps_1_2,matios,ESPORTS,ODDIK ,2023-10-30
+1466,11.5,headshots_on_maps_1_2,WOOD7,ESPORTS,ODDIK ,2023-10-30
+1467,19.5,headshots_on_maps_1_2,naitte,ESPORTS,ODDIK ,2023-10-30
+1468,29.5,MAPS 1-2 Kills,boltz,ESPORTS,Imperial ,2023-10-30
+1469,29.5,MAPS 1-2 Kills,VINI,ESPORTS,Imperial ,2023-10-30
+1470,30.5,MAPS 1-2 Kills,HEN1,ESPORTS,Imperial ,2023-10-30
+1471,33.0,MAPS 1-2 Kills,felps,ESPORTS,Imperial ,2023-10-30
+1472,15.0,headshots_on_maps_1_2,felps,ESPORTS,Imperial ,2023-10-30
+1473,15.0,headshots_on_maps_1_2,VINI,ESPORTS,Imperial ,2023-10-30
+1474,12.0,headshots_on_maps_1_2,boltz,ESPORTS,Imperial ,2023-10-30
+1475,12.5,headshots_on_maps_1_2,HEN1,ESPORTS,Imperial ,2023-10-30
+1476,31.5,MAPS 1-2 Kills,noway,ESPORTS,Imperial ,2023-10-30
+1477,18.0,headshots_on_maps_1_2,noway,ESPORTS,Imperial ,2023-10-30
+1478,23.0,MAPS 1-2 Kills,lealzinho,ESPORTS, Intense,2023-10-30
+1479,22.5,MAPS 1-2 Kills,lich,ESPORTS, Intense,2023-10-30
+1480,11.5,headshots_on_maps_1_2,lealzinho,ESPORTS, Intense,2023-10-30
+1481,14.5,headshots_on_maps_1_2,lich,ESPORTS, Intense,2023-10-30
+1482,26.0,MAPS 1-2 Kills,bsd,ESPORTS, Intense,2023-10-30
+1483,24.0,MAPS 1-2 Kills,suNday,ESPORTS, Intense,2023-10-30
+1484,23.5,MAPS 1-2 Kills,roz,ESPORTS, Intense,2023-10-30
+1485,12.0,headshots_on_maps_1_2,roz,ESPORTS, Intense,2023-10-30
+1486,9.5,headshots_on_maps_1_2,bsd,ESPORTS, Intense,2023-10-30
+1487,15.0,headshots_on_maps_1_2,suNday,ESPORTS, Intense,2023-10-30
+1488,33.5,MAPS 1-2 Kills,decenty,ESPORTS,O PLANO ,2023-10-30
+1489,29.5,MAPS 1-2 Kills,kNgV-,ESPORTS,O PLANO ,2023-10-30
+1490,30.5,MAPS 1-2 Kills,piriajr,ESPORTS,O PLANO ,2023-10-30
+1491,19.5,headshots_on_maps_1_2,decenty,ESPORTS,O PLANO ,2023-10-30
+1492,10.5,headshots_on_maps_1_2,kNgV-,ESPORTS,O PLANO ,2023-10-30
+1493,17.5,headshots_on_maps_1_2,piriajr,ESPORTS,O PLANO ,2023-10-30
+1494,32.0,MAPS 1-2 Kills,realz1n,ESPORTS, Flamengo,2023-10-30
+1495,31.5,MAPS 1-2 Kills,ALLE,ESPORTS, Flamengo,2023-10-30
+1496,32.0,MAPS 1-2 Kills,danoco,ESPORTS, Flamengo,2023-10-30
+1497,28.5,MAPS 1-2 Kills,RICIOLI,ESPORTS, Flamengo,2023-10-30
+1498,28.5,MAPS 1-2 Kills,remix,ESPORTS, Flamengo,2023-10-30
+1499,17.5,headshots_on_maps_1_2,ALLE,ESPORTS, Flamengo,2023-10-30
+1500,12.0,headshots_on_maps_1_2,RICIOLI,ESPORTS, Flamengo,2023-10-30
+1501,10.0,headshots_on_maps_1_2,remix,ESPORTS, Flamengo,2023-10-30
+1502,18.0,headshots_on_maps_1_2,realz1n,ESPORTS, Flamengo,2023-10-30
+1503,18.5,headshots_on_maps_1_2,danoco,ESPORTS, Flamengo,2023-10-30
+1504,30.0,MAPS 1-2 Kills,cass1n,ESPORTS,paiN ,2023-10-30
+1505,31.5,MAPS 1-2 Kills,biguzera,ESPORTS,paiN ,2023-10-30
+1506,33.0,MAPS 1-2 Kills,zevy,ESPORTS,Fluxo ,2023-10-30
+1507,34.0,MAPS 1-2 Kills,Lucaozy,ESPORTS,Fluxo ,2023-10-30
+1508,32.5,MAPS 1-2 Kills,lux,ESPORTS,paiN ,2023-10-30
+1509,28.5,MAPS 1-2 Kills,nyezin,ESPORTS,paiN ,2023-10-30
+1510,30.5,MAPS 1-2 Kills,kauez,ESPORTS,paiN ,2023-10-30
+1511,24.5,MAPS 1-2 Kills,PKL,ESPORTS,Fluxo ,2023-10-30
+1512,31.0,MAPS 1-2 Kills,vsm,ESPORTS,Fluxo ,2023-10-30
+1513,10.0,headshots_on_maps_1_2,cass1n,ESPORTS,paiN ,2023-10-30
+1514,14.0,headshots_on_maps_1_2,PKL,ESPORTS,Fluxo ,2023-10-30
+1515,19.5,headshots_on_maps_1_2,vsm,ESPORTS,Fluxo ,2023-10-30
+1516,17.0,headshots_on_maps_1_2,biguzera,ESPORTS,paiN ,2023-10-30
+1517,20.0,headshots_on_maps_1_2,Lucaozy,ESPORTS,Fluxo ,2023-10-30
+1518,14.0,headshots_on_maps_1_2,zevy,ESPORTS,Fluxo ,2023-10-30
+1519,19.5,headshots_on_maps_1_2,kauez,ESPORTS,paiN ,2023-10-30
+1520,17.0,headshots_on_maps_1_2,lux,ESPORTS,paiN ,2023-10-30
+1521,14.0,headshots_on_maps_1_2,nyezin,ESPORTS,paiN ,2023-10-30
+1522,25.5,MAPS 1-2 Kills,beg0d,ESPORTS, BeBold,2023-10-30
+1523,29.5,MAPS 1-2 Kills,supLexN1,ESPORTS, Meta,2023-10-30
+1524,29.5,MAPS 1-2 Kills,supLexN1,ESPORTS, Meta,2023-10-30
+1525,28.0,MAPS 1-2 Kills,cerolzin,ESPORTS, BeBold,2023-10-30
+1526,24.0,MAPS 1-2 Kills,Leomonster,ESPORTS, Meta,2023-10-30
+1527,24.0,MAPS 1-2 Kills,Leomonster,ESPORTS, Meta,2023-10-30
+1528,24.5,MAPS 1-2 Kills,Alisson,ESPORTS, Meta,2023-10-30
+1529,24.5,MAPS 1-2 Kills,Alisson,ESPORTS, Meta,2023-10-30
+1530,27.5,MAPS 1-2 Kills,bnc,ESPORTS, BeBold,2023-10-30
+1531,28.0,MAPS 1-2 Kills,abr,ESPORTS, Meta,2023-10-30
+1532,28.0,MAPS 1-2 Kills,abr,ESPORTS, Meta,2023-10-30
+1533,22.0,MAPS 1-2 Kills,leleo,ESPORTS, BeBold,2023-10-30
+1534,26.5,MAPS 1-2 Kills,CutzMeretz,ESPORTS, Meta,2023-10-30
+1535,26.5,MAPS 1-2 Kills,CutzMeretz,ESPORTS, Meta,2023-10-30
+1536,14.0,headshots_on_maps_1_2,beg0d,ESPORTS, BeBold,2023-10-30
+1537,12.5,headshots_on_maps_1_2,leleo,ESPORTS, BeBold,2023-10-30
+1538,11.5,headshots_on_maps_1_2,cerolzin,ESPORTS, BeBold,2023-10-30
+1539,14.5,headshots_on_maps_1_2,bnc,ESPORTS, BeBold,2023-10-30
+1540,16.0,headshots_on_maps_1_2,abr,ESPORTS, Meta,2023-10-30
+1541,16.0,headshots_on_maps_1_2,abr,ESPORTS, Meta,2023-10-30
+1542,13.5,headshots_on_maps_1_2,CutzMeretz,ESPORTS, Meta,2023-10-30
+1543,13.5,headshots_on_maps_1_2,CutzMeretz,ESPORTS, Meta,2023-10-30
+1544,13.0,headshots_on_maps_1_2,Alisson,ESPORTS, Meta,2023-10-30
+1545,13.0,headshots_on_maps_1_2,Alisson,ESPORTS, Meta,2023-10-30
+1546,13.5,headshots_on_maps_1_2,Leomonster,ESPORTS, Meta,2023-10-30
+1547,13.5,headshots_on_maps_1_2,Leomonster,ESPORTS, Meta,2023-10-30
+1548,12.0,headshots_on_maps_1_2,supLexN1,ESPORTS, Meta,2023-10-30
+1549,12.0,headshots_on_maps_1_2,supLexN1,ESPORTS, Meta,2023-10-30
+1550,521.5,Pass Yards,J. Garoppolo,other,J. Garoppolo,
+1551,67.5,passing_att,J. Garoppolo,other,J. Garoppolo,
+1552,46.5,passing_comps,J. Garoppolo,other,J. Garoppolo,
+1553,532.5,total_yds,J. Garoppolo,other,J. Garoppolo,
+1554,136.5,Rush Yards,J. Jacobs,other,J. Jacobs,
+1555,32.5,rushing_att,J. Jacobs,other,J. Jacobs,
+1556,47.5,Receiving Yards,J. Jacobs,other,J. Jacobs,
+1557,191.5,rush_rec_yds,J. Jacobs,other,J. Jacobs,
+1558,130.5,Receiving Yards,A. St. Brown + S. LaPorta,other,0406484f-54a9-46ea-9beb-129cec48f70f,
+1559,139.5,Receiving Yards,D. Adams + J. Meyers,other,fd08fe40-68ea-454c-a4cb-86594c0dc0ac,
+1560,35.5,Receiving Yards,M. Mayer + A. Hooper,other,fd08fe40-68ea-454c-a4cb-86594c0dc0ac,
+1561,60.5,Receiving Yards,J. Williams + J. Reynolds,other,0406484f-54a9-46ea-9beb-129cec48f70f,
+1562,40.5,PTS,L. Ball + T. Rozier,other,cb8b8955-a786-4bb3-8fd0-5b438e61d3d1,
+1563,43.5,PTS,M. Bridges + S. Dinwiddie,other,f9e6a8f5-1bc7-465d-8a67-b0182fbea96d,
+1564,64.5,PTS+TRB+AST,L. Ball + T. Rozier,other,cb8b8955-a786-4bb3-8fd0-5b438e61d3d1,
+1565,61.5,PTS+TRB+AST,M. Bridges + S. Dinwiddie,other,f9e6a8f5-1bc7-465d-8a67-b0182fbea96d,
+1566,18.5,PTS,B. Simmons + D. Finney-Smith,other,f9e6a8f5-1bc7-465d-8a67-b0182fbea96d,
+1567,30.5,PTS,G. Hayward + P. Washington,other,cb8b8955-a786-4bb3-8fd0-5b438e61d3d1,
+1568,41.5,PTS+TRB+AST,B. Simmons + D. Finney-Smith,other,f9e6a8f5-1bc7-465d-8a67-b0182fbea96d,
+1569,46.5,PTS+TRB+AST,G. Hayward + P. Washington,other,cb8b8955-a786-4bb3-8fd0-5b438e61d3d1,
+1570,35.5,PTS,T. Haliburton + M. Turner,other,19c1f655-2d42-4292-9a84-d272157471d6,
+1571,57.5,PTS+TRB+AST,T. Haliburton + M. Turner,other,19c1f655-2d42-4292-9a84-d272157471d6,
+1572,47.5,PTS,D. DeRozan + Z. LaVine,other,4f81112a-f71c-4846-a1a7-6c3988117e7a,
+1573,65.5,PTS+TRB+AST,D. DeRozan + Z. LaVine,other,4f81112a-f71c-4846-a1a7-6c3988117e7a,
+1574,27.5,PTS,B. Brown + B. Mathurin,other,19c1f655-2d42-4292-9a84-d272157471d6,
+1575,38.5,PTS+TRB+AST,B. Brown + B. Mathurin,other,19c1f655-2d42-4292-9a84-d272157471d6,
+1576,27.5,PTS,N. Vucevic + C. White,other,4f81112a-f71c-4846-a1a7-6c3988117e7a,
+1577,50.5,PTS+TRB+AST,N. Vucevic + C. White,other,4f81112a-f71c-4846-a1a7-6c3988117e7a,
+1578,44.5,PTS,J. Tatum + J. Brown,other,eac43be5-e0f6-4ab6-8bb9-84a6c9cf717a,
+1579,44.5,PTS,K. Kuzma + J. Poole,other,d0b0f5c2-28f0-4e06-af18-89c84dc17b72,
+1580,69.5,PTS+TRB+AST,J. Tatum + J. Brown,other,eac43be5-e0f6-4ab6-8bb9-84a6c9cf717a,
+1581,63.5,PTS+TRB+AST,K. Kuzma + J. Poole,other,d0b0f5c2-28f0-4e06-af18-89c84dc17b72,
+1582,22.5,PTS,T. Jones + D. Gafford,other,d0b0f5c2-28f0-4e06-af18-89c84dc17b72,
+1583,34.5,PTS,K. Porzingis + J. Holiday,other,eac43be5-e0f6-4ab6-8bb9-84a6c9cf717a,
+1584,41.5,PTS+TRB+AST,T. Jones + D. Gafford,other,d0b0f5c2-28f0-4e06-af18-89c84dc17b72,
+1585,57.5,PTS+TRB+AST,K. Porzingis + J. Holiday,other,eac43be5-e0f6-4ab6-8bb9-84a6c9cf717a,
+1586,48.5,PTS,A. Edwards + K. Towns,other,822eff88-71e1-4dae-a718-edbdf8331b12,
+1587,42.5,PTS,T. Young + D. Murray,other,37cbb4fc-d4f4-4afd-b2b9-940715fcf818,
+1588,69.5,PTS+TRB+AST,A. Edwards + K. Towns,other,822eff88-71e1-4dae-a718-edbdf8331b12,
+1589,64.5,PTS+TRB+AST,T. Young + D. Murray,other,37cbb4fc-d4f4-4afd-b2b9-940715fcf818,
+1590,26.5,PTS,R. Gobert + M. Conley,other,822eff88-71e1-4dae-a718-edbdf8331b12,
+1591,47.5,PTS+TRB+AST,R. Gobert + M. Conley,other,822eff88-71e1-4dae-a718-edbdf8331b12,
+1592,25.5,PTS,C. Capela + D. Hunter,other,37cbb4fc-d4f4-4afd-b2b9-940715fcf818,
+1593,42.5,PTS+TRB+AST,C. Capela + D. Hunter,other,37cbb4fc-d4f4-4afd-b2b9-940715fcf818,
+1594,44.5,PTS,S. Gilgeous-Alexander + C. Holmgren,other,1f986483-bf9d-4a39-a113-2c57ee3de697,
+1595,62.5,PTS+TRB+AST,S. Gilgeous-Alexander + C. Holmgren,other,1f986483-bf9d-4a39-a113-2c57ee3de697,
+1596,39.5,PTS,C. Cunningham + J. Duren,other,81961de1-1a9c-4f87-a145-668a926bf026,
+1597,64.5,PTS+TRB+AST,C. Cunningham + J. Duren,other,81961de1-1a9c-4f87-a145-668a926bf026,
+1598,29.5,PTS,J. Giddey + J. Williams,other,1f986483-bf9d-4a39-a113-2c57ee3de697,
+1599,51.5,PTS+TRB+AST,J. Giddey + J. Williams,other,1f986483-bf9d-4a39-a113-2c57ee3de697,
+1600,23.5,PTS,K. Hayes + I. Stewart,other,81961de1-1a9c-4f87-a145-668a926bf026,
+1601,39.5,PTS+TRB+AST,K. Hayes + I. Stewart,other,81961de1-1a9c-4f87-a145-668a926bf026,
+1602,49.5,PTS,N. Jokic + J. Murray,other,4670173a-7cab-4176-84ee-9a8f7abbbf8f,
+1603,81.5,PTS+TRB+AST,N. Jokic + J. Murray,other,4670173a-7cab-4176-84ee-9a8f7abbbf8f,
+1604,31.5,PTS,L. Markkanen + W. Kessler,other,795ca3b1-c7f6-42bd-8f9a-9923b0366380,
+1605,47.5,PTS+TRB+AST,L. Markkanen + W. Kessler,other,795ca3b1-c7f6-42bd-8f9a-9923b0366380,
+1606,28.5,PTS,M. Porter Jr. + A. Gordon,other,4670173a-7cab-4176-84ee-9a8f7abbbf8f,
+1607,45.5,PTS+TRB+AST,M. Porter Jr. + A. Gordon,other,4670173a-7cab-4176-84ee-9a8f7abbbf8f,
+1608,27.5,PTS,J. Collins + J. Clarkson,other,795ca3b1-c7f6-42bd-8f9a-9923b0366380,
+1609,45.5,PTS+TRB+AST,J. Collins + J. Clarkson,other,795ca3b1-c7f6-42bd-8f9a-9923b0366380,
+1610,57.5,PTS,L. Doncic + K. Irving,other,b2f2c06d-df25-441b-9200-c63810aa3f54,
+1611,85.5,PTS+TRB+AST,L. Doncic + K. Irving,other,b2f2c06d-df25-441b-9200-c63810aa3f54,
+1612,43.5,PTS,J. Jackson Jr. + D. Bane,other,8e8c7b4f-96d9-456a-88bc-3577bc6cb594,
+1613,63.5,PTS+TRB+AST,J. Jackson Jr. + D. Bane,other,8e8c7b4f-96d9-456a-88bc-3577bc6cb594,
+1614,16.5,PTS,G. Williams + D. Lively II,other,b2f2c06d-df25-441b-9200-c63810aa3f54,
+1615,29.5,PTS+TRB+AST,G. Williams + D. Lively II,other,b2f2c06d-df25-441b-9200-c63810aa3f54,
+1616,27.5,PTS,M. Smart + Z. Williams,other,8e8c7b4f-96d9-456a-88bc-3577bc6cb594,
+1617,43.5,PTS+TRB+AST,M. Smart + Z. Williams,other,8e8c7b4f-96d9-456a-88bc-3577bc6cb594,
+1618,16.5,Hitter Fantasy Score,C. Carroll + G. Moreno,other,db69f844-d6eb-4332-b133-796ce316890a,
+1619,17.5,Hitter Fantasy Score,C. Seager + M. Semien,other,976becd7-ee88-4db5-9ae6-d1bb6b2b16a8,
+1620,14.5,Hitter Fantasy Score,K. Marte + L. Gurriel Jr.,other,db69f844-d6eb-4332-b133-796ce316890a,
+1621,14.5,Hitter Fantasy Score,C. Walker + T. Pham,other,db69f844-d6eb-4332-b133-796ce316890a,
+1622,13.5,Hitter Fantasy Score,J. Jung + J. Heim,other,976becd7-ee88-4db5-9ae6-d1bb6b2b16a8,
+1623,17.5,Hitter Fantasy Score,A. Garcia + N. Lowe,other,976becd7-ee88-4db5-9ae6-d1bb6b2b16a8,
