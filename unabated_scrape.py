@@ -8,8 +8,10 @@ import datetime as dt
 from betting_functions import *
 import uuid
 import os
+import random
 
-unabated_url = "https://content.unabated.com/markets/b_playerprops.json?"
+id = uuid.uuid5(uuid.NAMESPACE_DNS,str(random.random()))
+unabated_url = f"https://content.unabated.com/markets/b_playerprops.json?uuid=f{str(id)}"
 data = get_url_json(unabated_url)
 
 

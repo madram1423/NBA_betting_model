@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def load_current_line(path,key,time) -> pd.DataFrame:
     df = pd.read_csv(path,index_col=0).sort_values(by=time,ascending=False)
-    return df.groupby(key).first().reset_index()
+    return df.loc[df[time]== df[time].max()].reset_index(drop=True)
 
 def get_line(player, pp_stat, lines):
     guy = lines.loc[lines["player"] == player]
@@ -16,7 +16,9 @@ class GameLog:
         self.game_log = df
         self.game_log["date"] = pd.to_datetime(self.game_log["date"], format="%Y-%m-%d")
         self.game_log["rest"] = self.game_log.groupby("player")["date"].diff().dt.days
-        self.game_log = self.game_log.fillna(5)
+        self.game_log['rest'] = self.game_log['rest'].fillna(5)
+        self.game_log['series'] = self.game_log['series'].fillna('RS')
+        self.game_log['season'] = self.game_log['season'].astype(str)
 
     def get_stat(self, player, category) -> list[float]:
         stats = self.game_log
@@ -65,30 +67,60 @@ class GameLog:
         return
 
     def graph_stat(self, player, cat, window, lines) -> None:
-        print(cat)
+        #color and marker keys for graph
+        season_colors = {
+            0: "#FFB632",
+            1: "#007F94",
+            2: "#EED78D",
+            3: "#C22B26",
+            4: "#7D48B2",
+        }
+
+        series_markers = {
+            "WC1": "^",  # Circle marker
+            "WCS": "^",  # Triangle marker
+            "WCF": "^",  # Square marker
+            "FIN": "^",  # X marker
+            'RS"': "o",
+        }
+        num_games = 82
+
         mov = self.moving_avg(player, cat, window)
         points = self.get_stat(player, cat)
-        print(player,cat)
-        display(lines)
         player_lines = get_line(player, cat, lines)
+        player_df = self.game_log.loc[self.game_log.player == player].reset_index(drop=True)
+        player_df['stat_val'] = points.values
+        player_df['mov'] = mov.values
+        player_df= player_df.iloc[-num_games:].reset_index(drop=True)
+
+        print(cat)
         if player_lines.empty == False:
-            line = player_lines['line'].iloc[0]
+            line = player_lines["line"].iloc[0]
             print("line:", line)
             self.print_prob(player, line, cat)
             self.print_prob(player, line, cat, games=10)
             plt.axhline(line, color="r", linestyle="--", label="line")
+        print("avg:", round(points.mean(), 1))
         x = range(len(points))
-        plt.scatter(x, points, color="g", label=f"{cat}")  # games
-        plt.plot(x, points, color="g", linestyle=(0, (3, 6)))  # game line
-        plt.plot(x, mov, label="moving average")  # moving average
-        plt.axhline(points.mean(), color="y", linestyle="-", label="season average")
+
+        #plotting different marker and color by season/playoffs
+        for (season, series), group in player_df.groupby(["season", "series"]):
+            color = season_colors.get(int(season) % 5, "blue")
+            marker = series_markers.get(series, "^")
+            plt.scatter(group.index, group["stat_val"], color=color, marker=marker)
+
+        #plotting moving avg, line, season avg.
+        plt.plot(player_df.index, player_df.stat_val, color="g", linestyle=(0, (1, 6)))  # game line
+        plt.plot(player_df.index, player_df.mov, label="moving average")  # moving average
+        plt.axhline(player_df.loc[player_df.season=='2024'].stat_val.mean(), color="y", linestyle="-", label="season average")
         plt.ylabel(cat)
         plt.xlabel("Game #")
         plt.title(player)
         plt.legend()
+        plt.style.use('dark_background')
         plt.show()
-        print("avg:", round(points.mean(), 1))
-
+        return
+    
     def dynamic(self, guy, cat, span=8) -> pd.Series:
         stats = self.game_log
         series = self.get_stat(guy, cat, stats)

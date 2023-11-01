@@ -6,7 +6,7 @@ import pandas as pd
 import datetime as dt
 from unidecode import unidecode
 import uuid
-from betting_functions import get_url_json,update_csv_file
+from betting_functions import get_url_json, update_csv_file
 
 
 pp_url = "https://api.prizepicks.com/projections"
@@ -20,58 +20,50 @@ df2.drop(
     df2.columns[df2.columns.str.contains("unnamed", case=False)], axis=1, inplace=True
 )
 
-names = df2[["type", "id", "attributes.name"]]
-names = names.loc[names["type"] == "new_player"]
-names = names[["id", "attributes.name"]]
-
-name = names["attributes.name"].tolist()
-id = names["id"].tolist()
-
-names_dict = {id[i]: name[i] for i in range(len(name))}
-
-ids = df["relationships.new_player.data.id"].unique()
-
-base = df[:-1]
-# trimming excess columns and adding actual player names
-df = base[
+names = df2.loc[df2["type"] == "new_player"]
+names = names[
+    [
+        "id",
+        "attributes.name",
+        "attributes.team",
+        "attributes.league",
+        "relationships.league.data.id",
+    ]
+]
+new = df.merge(names, left_on="relationships.new_player.data.id", right_on="id")
+new = new[
     [
         "attributes.description",
         "attributes.line_score",
-        "attributes.stat_type",
-        "relationships.new_player.data.id",
-        "relationships.league.data.id",
         "attributes.start_time",
+        "attributes.stat_type",
+        "id_y",
+        "attributes.name",
+        "attributes.team",
+        "attributes.league",
+        "relationships.league.data.id_y",
     ]
 ]
 
-df["Player"] = df["relationships.new_player.data.id"].map(names_dict)
-df = df[
-    [
-        "Player",
-        "attributes.description",
-        "attributes.line_score",
-        "attributes.stat_type",
-        "relationships.league.data.id",
-        "attributes.start_time",
-    ]
-]
-
-df = df.rename(
+df = new.rename(
     columns={
-        "attributes.description": "Team",
-        "attributes.line_score": "Line",
-        "attributes.stat_type": "Stat",
-        "relationships.league.data.id": "League",
-        "attributes.start_time": "Date",
+        "attributes.description": "opp",
+        "attributes.line_score": "line",
+        "attributes.stat_type": "stat",
+        "attributes.team": "team",
+        "attributes.league": "league_name",
+        "relationships.league.data.id_y": "league_id",
+        "attributes.start_time": "event_time",
+        "attributes.name": "player",
+        "id_y": "pp_player_id",
     }
 )
 
 full = df.copy(deep=True)
-
-df["Date"] = df["Date"].apply(lambda x: pd.to_datetime(x,utc=True))
-df["Date"] = df["Date"].dt.tz_convert('America/Chicago')
-df['event_time'] = df['Date']
-df["Player"] = df["Player"].apply(lambda x: unidecode(x).replace("_", " "))
+df["event_time"] = df["event_time"].apply(lambda x: pd.to_datetime(x, utc=True))
+df["event_time"] = df["event_time"].dt.tz_convert("America/Chicago")
+df["date"] = df["event_time"]
+df["player"] = df["player"].apply(lambda x: unidecode(x).replace("_", " "))
 
 syntax = {
     "Points": "PTS",
@@ -96,12 +88,12 @@ syntax = {
     "FG Attempted": "FGA",
     "Offensive Rebounds": "ORB",
     "Defensive Rebounds": "DRB",
-    "3-PT Attempted": '3PA'
+    "3-PT Attempted": "3PA",
 }
 df = df.replace(syntax)
-df.Stat.unique()
+df.stat.unique()
 
-df = df[df.Stat != "Fantasy Score"]
+df = df[df.stat != "Fantasy Score"]
 
 df = df.replace("Fred VanVleet\t", "Fred VanVleet")
 df = df.replace("Nicolas Claxton", "Nic Claxton")
@@ -112,18 +104,35 @@ df = df.replace("Xavier Tillman", "Xavier Tillman Sr.")
 df = df.reset_index(drop=True)
 
 today = dt.datetime.today()
-df["time"] = df['time'] = dt.datetime.now().replace(microsecond=0,second=0)
+df["time"] = df["time"] = dt.datetime.now().replace(microsecond=0, second=0)
 df.columns = [x.lower() for x in df.columns]
+
 
 def create_uuid_from_columns(row):
     seed = f"{row['player']}_{row['stat']}_{row['event_time']}"
     id = uuid.uuid5(uuid.NAMESPACE_DNS, seed)
     return str(id)[0:10]
 
-df['prop_id'] = df.apply(create_uuid_from_columns, axis=1)
 
+df["prop_id"] = df.apply(create_uuid_from_columns, axis=1)
+df = df[
+    [
+        "player",
+        "team",
+        "line",
+        "stat",
+        "opp",
+        "league_id",
+        "league_name",
+        "event_time",
+        "pp_player_id",
+        "date",
+        "time",
+        "prop_id",
+    ]
+]
 
 pp_path = f"Lines/pp/pp_{today.year}_{today.month}_{today.day}.csv"
-print(df.head(10))
-update_csv_file(df,pp_path)
-
+print(df.sample(5))
+update_csv_file(df, pp_path)
+print("Success!")

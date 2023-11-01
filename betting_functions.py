@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import os
 
+
 def update_csv_file(new_file, file_path):
     if os.path.exists(file_path) is False:
         new_file.to_csv(file_path)
@@ -17,7 +18,7 @@ def update_csv_file(new_file, file_path):
     return
 
 
-def get_url_soup(url):
+def tls_get(url):
     client_list = [
         "chrome_103",
         "chrome_105",
@@ -37,45 +38,17 @@ def get_url_soup(url):
     requests = tls_client.Session(
         client_identifier=random.choice(client_list), random_tls_extension_order=True
     )
-    response1 = requests.get(url)
-    return BeautifulSoup(response1.content, features="lxml")
+    return requests.get(url)
+
+
+def get_url_soup(url):
+    response = tls_get(url)
+    return BeautifulSoup(response.content, features="lxml")
 
 
 def get_url_json(url):
-    client_list = [
-        "chrome_103",
-        "chrome_105",
-        "chrome_108",
-        "chrome_110",
-        "chrome_112",
-        "firefox_102",
-        "firefox_104",
-        "opera_90",
-        "safari_15_3",
-        "safari_16_0",
-        "safari_ios_15_5",
-        "safari_ios_16_0",
-        "okhttp4_android_12",
-        "okhttp4_android_13",
-    ]
-    requests = tls_client.Session(
-        client_identifier=random.choice(client_list), random_tls_extension_order=True
-    )
-    response1 = requests.get(url)
-    return response1.json()
-
-
-def get_avg(player, games=26, cat=None, stats=None):
-    if stats is None:
-        stats = data
-    stats = stats.loc[stats["player"] == player]
-    stats = stats.iloc[-games:, 10:]
-    if cat:
-        stats = stats[cat]
-
-    avg = stats.mean()
-    print(f"Jayson Tatum average {cat} over the last {games} games: ")
-    return avg
+    response = tls_get(url)
+    return response.json()
 
 
 def get_stat(player, category, stats=None):
