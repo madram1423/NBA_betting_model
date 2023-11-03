@@ -81,6 +81,10 @@ class GameLog:
             "WCS": "^",  # Triangle marker
             "WCF": "^",  # Square marker
             "FIN": "^",  # X marker
+            "EC1": "^",  # Circle marker
+            "ECS": "^",  # Triangle marker
+            "ECF": "^",  # Square marker
+            "FIN": "^",  # X marker
             'RS"': "o",
         }
         num_games = 82
@@ -106,7 +110,7 @@ class GameLog:
         #plotting different marker and color by season/playoffs
         for (season, series), group in player_df.groupby(["season", "series"]):
             color = season_colors.get(int(season) % 5, "blue")
-            marker = series_markers.get(series, "^")
+            marker = series_markers.get(series, "o")
             plt.scatter(group.index, group["stat_val"], color=color, marker=marker)
 
         #plotting moving avg, line, season avg.
@@ -118,7 +122,6 @@ class GameLog:
         plt.title(player)
         plt.legend()
         plt.style.use('dark_background')
-        plt.show()
         return
     
     def dynamic(self, guy, cat, span=8) -> pd.Series:

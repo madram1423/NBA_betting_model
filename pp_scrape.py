@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import datetime as dt
 from unidecode import unidecode
+import time
 import uuid
 from betting_functions import get_url_json, update_csv_file
 

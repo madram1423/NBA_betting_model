@@ -8,6 +8,8 @@ exclude = [
     ".git-rewrite",
     ".hg",
     ".mypy_cache",
+    ".idea",
+    ".ipynb_checkpoints",
     ".nox",
     ".pants.d",
     ".pytype",

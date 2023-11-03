@@ -1,0 +1,521 @@
+,team,player,position,height,weight,birth_date,country,years_exp,college,date
+0,CHO,P.J. Washington,PF,6-7,230,"August 23, 1998",us,4,Kentucky,2023-10-27
+1,CHO,Terry Rozier,SG,6-1,190,"March 17, 1994",us,8,Louisville,2023-10-27
+2,CHO,LaMelo Ball,PG,6-7,180,"August 22, 2001",us,3,,2023-10-27
+3,CHO,Mark Williams,C,7-1,241,"December 16, 2001",us,1,Duke,2023-10-27
+4,CHO,Brandon Miller,SF,6-9,201,"November 22, 2002",us,R,Alabama,2023-10-27
+5,CHO,Gordon Hayward,SF,6-7,225,"March 23, 1990",us,13,Butler,2023-10-27
+6,CHO,Nick Richards,C,7-0,245,"November 29, 1997",jm,3,Kentucky,2023-10-27
+7,CHO,JT Thor,PF,6-10,205,"August 26, 2002",us,2,Auburn,2023-10-27
+8,CHO,Théo Maledon  (TW),PG,6-4,175,"June 12, 2001",fr,3,,2023-10-27
+9,CHO,Nick Smith Jr.,SG,6-5,185,"April 18, 2004",us,R,Arkansas,2023-10-27
+10,CHO,Bryce McGowens,SG,6-7,179,"November 8, 2002",us,1,Nebraska,2023-10-27
+11,CHO,Miles Bridges,SF,6-6,225,"March 21, 1998",us,4,Michigan State,2023-10-27
+12,CHO,Amari Bailey  (TW),PG,6-5,185,"February 17, 2004",us,R,UCLA,2023-10-27
+13,CHO,Leaky Black  (TW),SF,6-9,205,"June 14, 1999",us,R,UNC,2023-10-27
+14,CHO,Frank Ntilikina,PG,6-4,200,"July 28, 1998",be,6,,2023-10-27
+15,CHO,Cody Martin,SF,6-5,205,"September 28, 1995",us,4,"NC State, Nevada",2023-10-27
+16,CHO,James Bouknight,SG,6-5,190,"September 18, 2000",us,2,UConn,2023-10-27
+17,CHO,Ish Smith,PG,6-0,175,"July 5, 1988",us,13,Wake Forest,2023-10-27
+18,BRK,Cam Thomas,SG,6-4,210,"October 13, 2001",jp,2,LSU,2023-10-27
+19,BRK,Mikal Bridges,SG,6-6,209,"August 30, 1996",us,5,Villanova,2023-10-27
+20,BRK,Cameron Johnson,PF,6-8,210,"March 3, 1996",us,4,"Pitt, UNC",2023-10-27
+21,BRK,Dorian Finney-Smith,PF,6-7,220,"May 4, 1993",us,7,Florida,2023-10-27
+22,BRK,Dennis Smith Jr.,PG,6-2,205,"November 25, 1997",us,6,NC State,2023-10-27
+23,BRK,Nic Claxton,C,6-11,215,"April 17, 1999",us,4,Georgia,2023-10-27
+24,BRK,Royce O'Neale,SF,6-4,226,"June 5, 1993",us,6,"Denver, Baylor",2023-10-27
+25,BRK,Spencer Dinwiddie,PG,6-5,215,"April 6, 1993",us,9,Colorado,2023-10-27
+26,BRK,Day'Ron Sharpe,C,6-11,265,"November 6, 2001",us,2,UNC,2023-10-27
+27,BRK,Ben Simmons,PG,6-10,240,"July 20, 1996",au,5,LSU,2023-10-27
+28,BRK,Harry Giles,C,6-11,240,"April 22, 1998",us,3,Duke,2023-10-27
+29,BRK,Trendon Watford,PF,6-9,240,"November 9, 2000",us,2,LSU,2023-10-27
+30,BRK,Armoni Brooks  (TW),PG,6-3,195,"June 5, 1998",us,2,Houston,2023-10-27
+31,BRK,Dariq Whitehead,SF,6-7,220,"August 1, 2004",us,R,Duke,2023-10-27
+32,BRK,Lonnie Walker IV,SG,6-4,204,"December 14, 1998",us,5,Miami (FL),2023-10-27
+33,BRK,Noah Clowney,PF,6-10,210,"July 14, 2004",us,R,Alabama,2023-10-27
+34,BRK,Jalen Wilson  (TW),PF,6-8,225,"November 4, 2000",us,R,Kansas,2023-10-27
+35,PHO,Kevin Durant,PF,6-10,240,"September 29, 1988",us,15,Texas,2023-10-27
+36,PHO,Josh Okogie,SG,6-4,213,"September 1, 1998",ng,5,Georgia Tech,2023-10-27
+37,PHO,Eric Gordon,SG,6-3,215,"December 25, 1988",us,15,Indiana,2023-10-27
+38,PHO,Jusuf Nurkić,C,6-11,290,"August 23, 1994",ba,9,,2023-10-27
+39,PHO,Jordan Goodwin,PG,6-3,200,"October 23, 1998",us,2,Saint Louis,2023-10-27
+40,PHO,Yuta Watanabe,SF,6-9,215,"October 13, 1994",jp,5,George Washington,2023-10-27
+41,PHO,Drew Eubanks,C,6-9,245,"February 1, 1997",us,5,Oregon State,2023-10-27
+42,PHO,Grayson Allen,SG,6-4,198,"October 8, 1995",us,5,Duke,2023-10-27
+43,PHO,Nassir Little,PF,6-5,220,"February 11, 2000",us,4,UNC,2023-10-27
+44,PHO,Devin Booker,SG,6-5,206,"October 30, 1996",us,8,Kentucky,2023-10-27
+45,PHO,Chimezie Metu,C,6-9,225,"March 22, 1997",us,5,USC,2023-10-27
+46,PHO,Keita Bates-Diop,SF,6-8,229,"January 23, 1996",us,5,Ohio State,2023-10-27
+47,PHO,Bradley Beal,SG,6-4,207,"June 28, 1993",us,11,Florida,2023-10-27
+48,PHO,Damion Lee,SG,6-5,210,"October 21, 1992",us,6,"Drexel, Louisville",2023-10-27
+49,PHO,Saben Lee  (TW),PG,6-2,183,"June 23, 1999",us,3,Vanderbilt,2023-10-27
+50,PHO,Bol Bol,PF,7-2,220,"November 16, 1999",sd,4,Oregon,2023-10-27
+51,PHO,Udoka Azubuike  (TW),C,6-10,280,"September 17, 1999",ng,3,Kansas,2023-10-27
+52,ATL,Trae Young,PG,6-1,164,"September 19, 1998",us,5,Oklahoma,2023-10-27
+53,ATL,Jalen Johnson,SF,6-9,220,"December 18, 2001",us,2,Duke,2023-10-27
+54,ATL,Saddiq Bey,SF,6-7,215,"April 9, 1999",us,3,Villanova,2023-10-27
+55,ATL,Clint Capela,C,6-10,240,"May 18, 1994",ch,9,,2023-10-27
+56,ATL,Dejounte Murray,SG,6-4,180,"September 19, 1996",us,6,Washington,2023-10-27
+57,ATL,De'Andre Hunter,SF,6-8,225,"December 2, 1997",us,4,Virginia,2023-10-27
+58,ATL,Onyeka Okongwu,C,6-8,235,"December 11, 2000",us,3,USC,2023-10-27
+59,ATL,Bogdan Bogdanović,SG,6-6,220,"August 18, 1992",rs,6,,2023-10-27
+60,ATL,AJ Griffin,SF,6-6,222,"August 25, 2003",us,1,Duke,2023-10-27
+61,ATL,Jarkel Joiner,G,6-1,180,"May 20, 1999",us,R,"Cal State-Bakersfield, Ole Miss, NC State",2023-10-27
+62,ATL,Trent Forrest  (TW),SG,6-4,210,"June 12, 1998",us,3,Florida State,2023-10-27
+63,ATL,Wesley Matthews,SG,6-4,220,"October 14, 1986",us,14,Marquette,2023-10-27
+64,ATL,Seth Lundy  (TW),SF,6-6,220,"April 2, 2000",us,R,Penn State,2023-10-27
+65,ATL,Miles Norris  (TW),PF,6-10,220,"April 15, 2000",us,R,"Oregon, City College of San Francisco, UC Santa Barbara",2023-10-27
+66,ATL,Kobe Bufkin,SG,6-4,195,"September 21, 2003",us,R,Michigan,2023-10-27
+67,ATL,Mouhamed Gueye,PF,6-11,210,"November 9, 2002",sn,R,Washington State,2023-10-27
+68,ATL,Bruno Fernando,C,6-9,240,"August 15, 1998",ao,4,Maryland,2023-10-27
+69,ATL,Patty Mills,PG,6-1,180,"August 11, 1988",au,14,Saint Mary's,2023-10-27
+70,ATL,Garrison Mathews,SG,6-5,215,"October 24, 1996",us,4,Lipscomb,2023-10-27
+71,BOS,Jayson Tatum,SF,6-8,210,"March 3, 1998",us,6,Duke,2023-10-27
+72,BOS,Kristaps Porziņģis,PF,7-3,240,"August 2, 1995",lv,7,,2023-10-27
+73,BOS,Derrick White,SG,6-4,190,"July 2, 1994",us,6,"Colorado-Colorado Springs, Colorado",2023-10-27
+74,BOS,Jaylen Brown,SF,6-6,223,"October 24, 1996",us,7,California,2023-10-27
+75,BOS,Jrue Holiday,PG,6-4,205,"June 12, 1990",us,14,UCLA,2023-10-27
+76,BOS,Al Horford,C,6-9,240,"June 3, 1986",do,16,Florida,2023-10-27
+77,BOS,Payton Pritchard,PG,6-1,195,"January 28, 1998",us,3,Oregon,2023-10-27
+78,BOS,Luke Kornet,C,7-2,250,"July 15, 1995",us,6,Vanderbilt,2023-10-27
+79,BOS,Sam Hauser,SF,6-8,215,"December 8, 1997",us,2,"Marquette, Virginia",2023-10-27
+80,BOS,Oshae Brissett,SF,6-7,210,"June 20, 1998",ca,4,Syracuse,2023-10-27
+81,BOS,Jordan Walsh,SF,6-7,205,"March 3, 2004",us,R,Arkansas,2023-10-27
+82,BOS,JD Davison  (TW),SG,6-3,195,"October 3, 2002",us,1,Alabama,2023-10-27
+83,BOS,Dalano Banton,PG,6-9,204,"November 7, 1999",ca,2,Nebraska,2023-10-27
+84,BOS,Svi Mykhailiuk,SF,6-7,205,"June 10, 1997",ua,5,Kansas,2023-10-27
+85,BOS,Neemias Queta  (TW),C,7-0,245,"July 13, 1999",pt,2,Utah State University,2023-10-27
+86,BOS,Lamar Stevens,PF,6-6,230,"July 9, 1997",us,3,Penn State,2023-10-27
+87,BOS,Nathan Knight  (TW),PF,6-10,253,"September 20, 1997",us,3,William & Mary,2023-10-27
+88,CHI,DeMar DeRozan,SF,6-6,220,"August 7, 1989",us,14,USC,2023-10-27
+89,CHI,Zach LaVine,SG,6-5,200,"March 10, 1995",us,9,UCLA,2023-10-27
+90,CHI,Coby White,SG,6-5,195,"February 16, 2000",us,4,UNC,2023-10-27
+91,CHI,Nikola Vučević,C,6-10,260,"October 24, 1990",ch,12,USC,2023-10-27
+92,CHI,Torrey Craig,SF,6-7,221,"December 19, 1990",us,6,USC Upstate,2023-10-27
+93,CHI,Patrick Williams,PF,6-7,215,"August 26, 2001",us,3,Florida State,2023-10-27
+94,CHI,Ayo Dosunmu,SG,6-5,200,"January 17, 2000",us,2,Illinois,2023-10-27
+95,CHI,Alex Caruso,PG,6-4,186,"February 28, 1994",us,6,Texas A&M,2023-10-27
+96,CHI,Andre Drummond,C,6-10,279,"August 10, 1993",us,11,UConn,2023-10-27
+97,CHI,Jevon Carter,PG,6-1,200,"September 14, 1995",us,5,West Virginia,2023-10-27
+98,CHI,Dalen Terry,SG,6-7,195,"July 12, 2002",us,1,Arizona,2023-10-27
+99,CHI,Julian Phillips,SF,6-8,198,"November 5, 2003",us,R,Tennessee,2023-10-27
+100,CHI,Lonzo Ball,PG,6-6,190,"October 27, 1997",us,5,UCLA,2023-10-27
+101,CHI,Adama Sanogo  (TW),PF,6-9,245,"February 12, 2002",ml,R,UConn,2023-10-27
+102,CHI,Onuralp Bitim  (TW),SG,6-6,215,"March 31, 1999",tr,R,,2023-10-27
+103,CHI,Terry Taylor,PF,6-5,230,"September 23, 1999",us,2,Austin Peay State University,2023-10-27
+104,CLE,Donovan Mitchell,SG,6-1,215,"September 7, 1996",us,6,Louisville,2023-10-27
+105,CLE,Max Strus,SF,6-5,215,"March 28, 1996",us,4,"Lewis (IL), DePaul",2023-10-27
+106,CLE,Isaac Okoro,SF,6-5,225,"January 26, 2001",us,3,Auburn,2023-10-27
+107,CLE,Darius Garland,PG,6-1,192,"January 26, 2000",us,4,Vanderbilt,2023-10-27
+108,CLE,Caris LeVert,SG,6-6,205,"August 25, 1994",us,7,Michigan,2023-10-27
+109,CLE,Evan Mobley,PF,7-0,215,"June 18, 2001",us,2,USC,2023-10-27
+110,CLE,Damian Jones,C,6-11,245,"June 30, 1995",us,7,Vanderbilt,2023-10-27
+111,CLE,Ty Jerome,SG,6-5,195,"July 8, 1997",us,4,Virginia,2023-10-27
+112,CLE,Georges Niang,PF,6-7,230,"June 17, 1993",us,7,Iowa State,2023-10-27
+113,CLE,Tristan Thompson,PF,6-9,254,"March 13, 1991",ca,12,Texas,2023-10-27
+114,CLE,Emoni Bates  (TW),SF,6-10,170,"January 28, 2004",us,R,"Memphis, Eastern Michigan",2023-10-27
+115,CLE,Isaiah Mobley  (TW),PF,6-10,240,"September 24, 1999",us,1,USC,2023-10-27
+116,CLE,Craig Porter Jr.  (TW),PG,6-2,186,"February 26, 2000",us,R,"Vincennes University, Wichita State",2023-10-27
+117,CLE,Sam Merrill,SG,6-4,205,"May 15, 1996",us,3,Utah State University,2023-10-27
+118,CLE,Dean Wade,PF,6-9,228,"November 20, 1996",us,4,Kansas State,2023-10-27
+119,CLE,Ricky Rubio,PG,6-2,190,"October 21, 1990",es,12,,2023-10-27
+120,CLE,Jarrett Allen,C,6-11,243,"April 21, 1998",us,6,Texas,2023-10-27
+121,DAL,Luka Dončić,PG,6-7,230,"February 28, 1999",si,5,,2023-10-27
+122,DAL,Kyrie Irving,SG,6-2,195,"March 23, 1992",au,12,Duke,2023-10-27
+123,DAL,Tim Hardaway Jr.,SF,6-5,205,"March 16, 1992",us,10,Michigan,2023-10-27
+124,DAL,Grant Williams,PF,6-6,236,"November 30, 1998",us,4,Tennessee,2023-10-27
+125,DAL,Dereck Lively II,C,7-1,230,"February 12, 2004",us,R,Duke,2023-10-27
+126,DAL,Josh Green,SG,6-5,200,"November 16, 2000",au,3,Arizona,2023-10-27
+127,DAL,Maxi Kleber,PF,6-10,240,"January 29, 1992",de,6,,2023-10-27
+128,DAL,Dante Exum,PG,6-5,214,"July 13, 1995",au,6,,2023-10-27
+129,DAL,Derrick Jones Jr.,SF,6-5,210,"February 15, 1997",us,7,UNLV,2023-10-27
+130,DAL,Seth Curry,SG,6-2,185,"August 23, 1990",us,9,"Liberty, Duke",2023-10-27
+131,DAL,Dwight Powell,C,6-10,240,"July 20, 1991",ca,9,Stanford,2023-10-27
+132,DAL,Dexter Dennis,SG,6-5,210,"February 9, 1999",us,R,"Wichita State, Texas A&M",2023-10-27
+133,DAL,Markieff Morris,PF,6-9,245,"September 2, 1989",us,12,Kansas,2023-10-27
+134,DAL,Greg Brown III,PF,6-9,205,"September 1, 2001",us,2,Texas,2023-10-27
+135,DAL,Olivier-Maxence Prosper,PF,6-8,230,"July 3, 2002",ca,R,"Clemson, Marquette",2023-10-27
+136,DAL,Jaden Hardy,SG,6-4,198,"July 5, 2002",us,1,,2023-10-27
+137,DAL,Richaun Holmes,PF,6-10,235,"October 15, 1993",us,8,Bowling Green,2023-10-27
+138,DEN,Nikola Jokić,C,6-11,284,"February 19, 1995",rs,8,,2023-10-27
+139,DEN,Jamal Murray,PG,6-4,215,"February 23, 1997",ca,6,Kentucky,2023-10-27
+140,DEN,Kentavious Caldwell-Pope,SG,6-5,204,"February 18, 1993",us,10,Georgia,2023-10-27
+141,DEN,Aaron Gordon,PF,6-8,235,"September 16, 1995",us,9,Arizona,2023-10-27
+142,DEN,Michael Porter Jr.,SF,6-10,218,"June 29, 1998",us,4,Missouri,2023-10-27
+143,DEN,Reggie Jackson,PG,6-2,208,"April 16, 1990",it,12,Boston College,2023-10-27
+144,DEN,Christian Braun,SG,6-7,218,"April 17, 2001",us,1,Kansas,2023-10-27
+145,DEN,Zeke Nnaji,PF,6-9,240,"January 9, 2001",us,3,Arizona,2023-10-27
+146,DEN,Peyton Watson,SG,6-8,200,"September 11, 2002",us,1,UCLA,2023-10-27
+147,DEN,Jalen Pickett,SG,6-4,209,"October 22, 1999",us,R,"Siena College, Penn State",2023-10-27
+148,DEN,Collin Gillespie  (TW),PG,6-3,195,"June 25, 1999",us,R,Villanova,2023-10-27
+149,DEN,Braxton Key  (TW),SF,6-8,230,"February 14, 1997",us,2,"Alabama, Virginia",2023-10-27
+150,DEN,DeAndre Jordan,C,6-11,265,"July 21, 1988",us,15,Texas A&M,2023-10-27
+151,DEN,Jay Huff  (TW),C,7-1,240,"August 25, 1998",us,2,Virginia,2023-10-27
+152,DEN,Justin Holiday,SG,6-6,180,"April 5, 1989",us,10,Washington,2023-10-27
+153,DEN,Julian Strawther,SF,6-7,205,"April 18, 2002",us,R,Gonzaga,2023-10-27
+154,DEN,Hunter Tyson,PF,6-8,215,"June 13, 2000",us,R,Clemson,2023-10-27
+155,DEN,Vlatko Čančar,PF,6-8,236,"April 10, 1997",si,4,,2023-10-27
+156,DET,Cade Cunningham,PG,6-6,220,"September 25, 2001",us,2,Oklahoma State,2023-10-27
+157,DET,Jalen Duren,C,6-10,250,"November 18, 2003",us,1,Memphis,2023-10-27
+158,DET,Isaiah Stewart,C,6-8,250,"May 22, 2001",us,3,Washington,2023-10-27
+159,DET,Killian Hayes,PG,6-5,195,"July 27, 2001",us,3,,2023-10-27
+160,DET,Marcus Sasser,PG,6-2,195,"September 21, 2000",us,R,Houston,2023-10-27
+161,DET,Marvin Bagley III,C,6-11,235,"March 14, 1999",us,5,Duke,2023-10-27
+162,DET,Alec Burks,SG,6-6,214,"July 20, 1991",us,12,Colorado,2023-10-27
+163,DET,Jaden Ivey,SG,6-4,195,"February 13, 2002",us,1,Purdue,2023-10-27
+164,DET,Ausar Thompson,SF,6-7,215,"January 30, 2003",us,R,,2023-10-27
+165,DET,Joe Harris,SG,6-6,220,"September 6, 1991",us,9,Virginia,2023-10-27
+166,DET,Stanley Umude,SG,6-6,210,"April 12, 1999",us,1,"South Dakota, Arkansas",2023-10-27
+167,DET,Jared Rhoden  (TW),SG,6-6,210,"August 27, 1999",us,1,Seton Hall,2023-10-27
+168,DET,Malcolm Cazalon  (TW),SG,6-6,212,"August 27, 2001",fr,R,,2023-10-27
+169,DET,Bojan Bogdanović,PF,6-7,226,"April 18, 1989",ba,9,,2023-10-27
+170,DET,Isaiah Livers,PF,6-7,230,"July 28, 1998",us,2,Michigan,2023-10-27
+171,DET,Monte Morris,PG,6-2,183,"June 27, 1995",us,6,Iowa State,2023-10-27
+172,DET,James Wiseman,C,7-0,240,"March 31, 2001",us,2,Memphis,2023-10-27
+173,GSW,Stephen Curry,PG,6-2,185,"March 14, 1988",us,14,Davidson,2023-10-27
+174,GSW,Klay Thompson,SF,6-6,215,"February 8, 1990",us,10,Washington State,2023-10-27
+175,GSW,Chris Paul,PG,6-0,175,"May 6, 1985",us,18,Wake Forest,2023-10-27
+176,GSW,Jonathan Kuminga,PF,6-8,210,"October 6, 2002",cd,2,,2023-10-27
+177,GSW,Moses Moody,SG,6-6,205,"May 31, 2002",us,2,Arkansas,2023-10-27
+178,GSW,Andrew Wiggins,SF,6-7,197,"February 23, 1995",ca,9,Kansas,2023-10-27
+179,GSW,Kevon Looney,C,6-9,222,"February 6, 1996",us,8,UCLA,2023-10-27
+180,GSW,Dario Šarić,PF,6-10,225,"April 8, 1994",hr,6,,2023-10-27
+181,GSW,Gary Payton II,SG,6-3,190,"December 1, 1992",us,7,Oregon State,2023-10-27
+182,GSW,Cory Joseph,PG,6-3,200,"August 20, 1991",ca,12,Texas,2023-10-27
+183,GSW,Brandin Podziemski,SG,6-5,205,"February 25, 2003",us,R,"Illinois, Santa Clara",2023-10-27
+184,GSW,Trayce Jackson-Davis,PF,6-9,245,"February 22, 2000",us,R,Indiana,2023-10-27
+185,GSW,Draymond Green,PF,6-6,230,"March 4, 1990",us,11,Michigan State,2023-10-27
+186,GSW,Lester Quinones  (TW),SG,6-5,208,"November 16, 2000",us,1,Memphis,2023-10-27
+187,GSW,Usman Garuba  (TW),PF,6-8,220,"March 9, 2002",es,2,,2023-10-27
+188,GSW,Jerome Robinson  (TW),SG,6-4,190,"February 22, 1997",us,3,Boston College,2023-10-27
+189,HOU,Alperen Şengün,C,6-9,235,"July 25, 2002",tr,2,,2023-10-27
+190,HOU,Dillon Brooks,SG,6-7,225,"January 22, 1996",ca,6,Oregon,2023-10-27
+191,HOU,Fred VanVleet,PG,6-1,197,"February 25, 1994",us,7,Wichita State,2023-10-27
+192,HOU,Jalen Green,SG,6-4,178,"February 9, 2002",us,2,,2023-10-27
+193,HOU,Amen Thompson,SF,6-7,209,"January 30, 2003",us,R,,2023-10-27
+194,HOU,Jabari Smith Jr.,PF,6-10,220,"May 13, 2003",us,1,Auburn,2023-10-27
+195,HOU,Jae'Sean Tate,SF,6-4,230,"October 28, 1995",us,3,Ohio State,2023-10-27
+196,HOU,Jeenathan Williams,SG,6-5,205,"February 12, 1999",us,1,Buffalo,2023-10-27
+197,HOU,Jeff Green,PF,6-8,235,"August 28, 1986",us,15,Georgetown,2023-10-27
+198,HOU,Jock Landale,C,6-11,256,"October 25, 1995",au,2,Saint Mary's,2023-10-27
+199,HOU,Reggie Bullock,SF,6-6,205,"March 16, 1991",us,10,UNC,2023-10-27
+200,HOU,Cam Whitmore,SF,6-7,232,"July 8, 2004",us,R,Villanova,2023-10-27
+201,HOU,Aaron Holiday,PG,6-0,185,"September 30, 1996",us,5,UCLA,2023-10-27
+202,HOU,Jermaine Samuels  (TW),SF,6-7,230,"November 13, 1998",us,R,Villanova,2023-10-27
+203,HOU,Victor Oladipo,SG,6-4,213,"May 4, 1992",us,10,Indiana,2023-10-27
+204,HOU,Boban Marjanović,C,7-3,290,"August 15, 1988",rs,8,,2023-10-27
+205,HOU,Tari Eason,PF,6-8,216,"May 10, 2001",us,1,"Cincinnati, LSU",2023-10-27
+206,HOU,Nate Hinton  (TW),SG,6-5,210,"June 8, 1999",us,2,Houston,2023-10-27
+207,IND,Bruce Brown,PG,6-4,202,"August 15, 1996",us,5,Miami (FL),2023-10-27
+208,IND,Tyrese Haliburton,PG,6-5,185,"February 29, 2000",us,3,Iowa State,2023-10-27
+209,IND,Bennedict Mathurin,SG,6-6,210,"June 19, 2002",ca,1,Arizona,2023-10-27
+210,IND,Buddy Hield,SF,6-4,220,"December 17, 1992",bs,7,Oklahoma,2023-10-27
+211,IND,Jalen Smith,C,6-10,215,"March 16, 2000",us,3,Maryland,2023-10-27
+212,IND,Andrew Nembhard,SG,6-5,193,"January 16, 2000",ca,1,"Florida, Gonzaga",2023-10-27
+213,IND,Obi Toppin,PF,6-9,220,"March 4, 1998",us,3,Dayton,2023-10-27
+214,IND,Myles Turner,C,6-11,250,"March 24, 1996",us,8,Texas,2023-10-27
+215,IND,Aaron Nesmith,SF,6-5,215,"October 16, 1999",us,3,Vanderbilt,2023-10-27
+216,IND,Jordan Nwora,SF,6-8,225,"September 9, 1998",us,3,Louisville,2023-10-27
+217,IND,Isaiah Jackson,C,6-10,206,"January 10, 2002",us,2,Kentucky,2023-10-27
+218,IND,T.J. McConnell,PG,6-1,190,"March 25, 1992",us,8,"Duquesne, Arizona",2023-10-27
+219,IND,Jarace Walker,PF,6-8,240,"September 4, 2003",us,R,Houston,2023-10-27
+220,IND,Ben Sheppard,SG,6-6,190,"July 16, 2001",us,R,Belmont,2023-10-27
+221,IND,Daniel Theis,C,6-8,245,"April 4, 1992",de,6,,2023-10-27
+222,IND,Isaiah Wong  (TW),SG,6-4,184,"January 28, 2001",us,R,Miami (FL),2023-10-27
+223,IND,Oscar Tshiebwe  (TW),PF,6-9,260,"November 27, 1999",cd,R,"West Virginia, Kentucky",2023-10-27
+224,IND,Kendall Brown  (TW),SG,6-8,205,"May 11, 2003",us,1,Baylor,2023-10-27
+225,LAC,Paul George,SF,6-8,220,"May 2, 1990",us,13,Fresno State,2023-10-27
+226,LAC,Kawhi Leonard,SF,6-7,225,"June 29, 1991",us,11,San Diego State,2023-10-27
+227,LAC,Ivica Zubac,C,7-0,240,"March 18, 1997",ba,7,,2023-10-27
+228,LAC,Bones Hyland,PG,6-3,173,"September 14, 2000",us,2,VCU,2023-10-27
+229,LAC,Russell Westbrook,PG,6-3,200,"November 12, 1988",us,15,UCLA,2023-10-27
+230,LAC,Norman Powell,SG,6-3,215,"May 25, 1993",us,8,UCLA,2023-10-27
+231,LAC,Mason Plumlee,C,6-11,254,"March 5, 1990",us,10,Duke,2023-10-27
+232,LAC,Robert Covington,PF,6-7,209,"December 14, 1990",us,10,Tennessee State,2023-10-27
+233,LAC,Jordan Miller,SF,6-7,195,"January 23, 2000",us,R,"George Mason, Miami (FL)",2023-10-27
+234,LAC,Moussa Diabaté  (TW),C,6-11,210,"January 21, 2002",fr,1,Michigan,2023-10-27
+235,LAC,Amir Coffey,SF,6-7,210,"June 17, 1997",us,4,Minnesota,2023-10-27
+236,LAC,Kenyon Martin Jr.,SF,6-6,215,"January 6, 2001",us,3,,2023-10-27
+237,LAC,Kobe Brown,PF,6-7,250,"January 1, 2000",us,R,Missouri,2023-10-27
+238,LAC,Nicolas Batum,PF,6-8,230,"December 14, 1988",fr,15,,2023-10-27
+239,LAC,Terance Mann,SG,6-5,215,"October 18, 1996",us,4,Florida State,2023-10-27
+240,LAC,Brandon Boston Jr.,SF,6-7,185,"November 28, 2001",us,2,Kentucky,2023-10-27
+241,LAC,Marcus Morris,PF,6-8,218,"September 2, 1989",us,12,Kansas,2023-10-27
+242,LAC,Joshua Primo  (TW),SG,6-6,190,"December 24, 2002",ca,2,Alabama,2023-10-27
+243,LAL,Anthony Davis,C,6-10,253,"March 11, 1993",us,11,Kentucky,2023-10-27
+244,LAL,LeBron James,PF,6-9,250,"December 30, 1984",us,20,,2023-10-27
+245,LAL,D'Angelo Russell,PG,6-4,193,"February 23, 1996",us,8,Ohio State,2023-10-27
+246,LAL,Austin Reaves,SG,6-5,206,"May 29, 1998",us,2,"Wichita State, Oklahoma",2023-10-27
+247,LAL,Taurean Prince,PF,6-7,218,"March 22, 1994",us,7,Baylor,2023-10-27
+248,LAL,Christian Wood,PF,6-10,214,"September 27, 1995",us,7,UNLV,2023-10-27
+249,LAL,Rui Hachimura,PF,6-8,230,"February 8, 1998",jp,4,Gonzaga,2023-10-27
+250,LAL,Gabe Vincent,PG,6-3,195,"June 14, 1996",us,4,UC Santa Barbara,2023-10-27
+251,LAL,Cam Reddish,SF,6-8,218,"September 1, 1999",us,4,Duke,2023-10-27
+252,LAL,Jaxson Hayes,C,6-11,220,"May 23, 2000",us,4,Texas,2023-10-27
+253,LAL,Max Christie,SG,6-6,190,"February 10, 2003",us,1,Michigan State,2023-10-27
+254,LAL,Maxwell Lewis,SF,6-7,195,"July 27, 2002",us,R,Pepperdine,2023-10-27
+255,LAL,Colin Castleton  (TW),C,6-11,250,"May 25, 2000",us,R,"Michigan, Florida",2023-10-27
+256,LAL,D'Moi Hodge  (TW),SG,6-4,188,"December 20, 1998",vg,R,"State College of Florida, Manatee-Sarasota, Cleveland State University, Missouri",2023-10-27
+257,LAL,Jalen Hood-Schifino,SG,6-6,215,"June 19, 2003",us,R,Indiana,2023-10-27
+258,LAL,Alex Fudge  (TW),SF,6-8,200,"May 6, 2003",us,R,"LSU, Florida",2023-10-27
+259,LAL,Jarred Vanderbilt,PF,6-9,214,"April 3, 1999",us,5,Kentucky,2023-10-27
+260,MEM,Desmond Bane,SG,6-5,215,"June 25, 1998",us,3,TCU,2023-10-27
+261,MEM,Xavier Tillman Sr.,C,6-8,245,"January 12, 1999",us,3,Michigan State,2023-10-27
+262,MEM,Marcus Smart,PG,6-3,220,"March 6, 1994",us,9,Oklahoma State,2023-10-27
+263,MEM,Ziaire Williams,SF,6-8,215,"September 12, 2001",us,2,Stanford,2023-10-27
+264,MEM,David Roddy,PF,6-6,255,"March 27, 2001",us,1,Colorado State,2023-10-27
+265,MEM,Jaren Jackson Jr.,C,6-11,242,"September 15, 1999",us,5,Michigan State,2023-10-27
+266,MEM,Derrick Rose,PG,6-3,200,"October 4, 1988",us,14,Memphis,2023-10-27
+267,MEM,Luke Kennard,SG,6-5,206,"June 24, 1996",us,6,Duke,2023-10-27
+268,MEM,Jake LaRavia,PF,6-8,235,"November 3, 2001",us,1,"Indiana State University, Wake Forest",2023-10-27
+269,MEM,John Konchar,SF,6-5,210,"March 22, 1996",us,4,Purdue-Fort Wayne,2023-10-27
+270,MEM,Santi Aldama,PF,6-11,224,"January 10, 2001",es,2,Loyola (MD),2023-10-27
+271,MEM,Ja Morant,PG,6-3,174,"August 10, 1999",us,4,Murray State,2023-10-27
+272,MEM,Steven Adams,C,6-11,265,"July 20, 1993",nz,10,Pitt,2023-10-27
+273,MEM,Brandon Clarke,PF,6-8,215,"September 19, 1996",ca,4,"San Jose State, Gonzaga",2023-10-27
+274,MEM,Kenneth Lofton Jr.,PF,6-7,275,"August 14, 2002",us,1,Louisiana Tech,2023-10-27
+275,MEM,Gregory Jackson II  (TW),PF,6-9,215,"December 17, 2004",us,R,South Carolina,2023-10-27
+276,MIA,Bam Adebayo,C,6-9,255,"July 18, 1997",us,6,Kentucky,2023-10-27
+277,MIA,Jimmy Butler,PF,6-7,230,"September 14, 1989",us,12,Marquette,2023-10-27
+278,MIA,Tyler Herro,SG,6-5,195,"January 20, 2000",us,4,Kentucky,2023-10-27
+279,MIA,Duncan Robinson,SF,6-7,215,"April 22, 1994",us,5,"Williams, Michigan",2023-10-27
+280,MIA,Kevin Love,PF,6-8,251,"September 7, 1988",us,15,UCLA,2023-10-27
+281,MIA,Thomas Bryant,C,6-10,248,"July 31, 1997",us,6,Indiana,2023-10-27
+282,MIA,Jaime Jaquez Jr.,SF,6-7,225,"February 18, 2001",us,R,UCLA,2023-10-27
+283,MIA,Caleb Martin,SF,6-5,205,"September 28, 1995",us,4,"NC State, Nevada",2023-10-27
+284,MIA,Dru Smith  (TW),SG,6-3,203,"December 30, 1997",us,1,"University of Evansville, Missouri",2023-10-27
+285,MIA,Kyle Lowry,PG,6-0,196,"March 25, 1986",us,17,Villanova,2023-10-27
+286,MIA,Josh Richardson,SG,6-5,200,"September 15, 1993",us,8,Tennessee,2023-10-27
+287,MIA,Orlando Robinson,C,7-0,235,"July 10, 2000",us,1,Fresno State,2023-10-27
+288,MIA,Nikola Jović,PF,6-10,209,"June 9, 2003",gb,1,,2023-10-27
+289,MIA,Haywood Highsmith,PF,6-7,220,"December 9, 1996",us,3,Wheeling University,2023-10-27
+290,MIA,Jamal Cain  (TW),PF,6-7,191,"March 20, 1999",us,1,"Marquette, Oakland",2023-10-27
+291,MIA,Cole Swider,SF,6-9,220,"May 8, 1999",us,1,"Villanova, Syracuse",2023-10-27
+292,MIA,R.J. Hampton  (TW),PG,6-4,175,"February 7, 2001",us,3,,2023-10-27
+293,MIL,Damian Lillard,PG,6-2,195,"July 15, 1990",us,11,Weber State,2023-10-27
+294,MIL,Giannis Antetokounmpo,PF,7-0,242,"December 6, 1994",gr,10,,2023-10-27
+295,MIL,Brook Lopez,C,7-0,282,"April 1, 1988",us,15,Stanford,2023-10-27
+296,MIL,Bobby Portis,PF,6-10,250,"February 10, 1995",us,8,Arkansas,2023-10-27
+297,MIL,Jae Crowder,PF,6-6,235,"July 6, 1990",us,11,Marquette,2023-10-27
+298,MIL,Pat Connaughton,SF,6-5,209,"January 6, 1993",us,8,Notre Dame,2023-10-27
+299,MIL,Khris Middleton,SF,6-7,222,"August 12, 1991",us,11,Texas A&M,2023-10-27
+300,MIL,Malik Beasley,SG,6-4,187,"November 26, 1996",us,7,Florida State,2023-10-27
+301,MIL,MarJon Beauchamp,SF,6-6,199,"October 12, 2000",us,1,Yakima Valley Community College,2023-10-27
+302,MIL,Cameron Payne,PG,6-1,183,"August 8, 1994",us,8,Murray State,2023-10-27
+303,MIL,Robin Lopez,C,7-0,281,"April 1, 1988",us,15,Stanford,2023-10-27
+304,MIL,Andre Jackson Jr.,SG,6-6,210,"November 13, 2001",us,R,UConn,2023-10-27
+305,MIL,A.J. Green,SG,6-4,200,"September 27, 1999",us,1,University of Northern Iowa,2023-10-27
+306,MIL,Chris Livingston,SF,6-6,220,"October 15, 2003",us,R,Kentucky,2023-10-27
+307,MIL,Thanasis Antetokounmpo,PF,6-6,219,"July 18, 1992",gr,5,,2023-10-27
+308,MIL,TyTy Washington Jr.  (TW),PG,6-3,197,"November 15, 2001",us,1,Kentucky,2023-10-27
+309,MIL,Marques Bolden,C,6-10,249,"April 17, 1998",us,2,Duke,2023-10-27
+310,MIN,Anthony Edwards,SG,6-4,225,"August 5, 2001",us,3,Georgia,2023-10-27
+311,MIN,Karl-Anthony Towns,PF,6-11,248,"November 15, 1995",us,8,Kentucky,2023-10-27
+312,MIN,Rudy Gobert,C,7-1,258,"June 26, 1992",fr,10,,2023-10-27
+313,MIN,Mike Conley,PG,6-1,175,"October 11, 1987",us,16,Ohio State,2023-10-27
+314,MIN,Naz Reid,C,6-9,264,"August 26, 1999",us,4,LSU,2023-10-27
+315,MIN,Kyle Anderson,PF,6-9,230,"September 20, 1993",us,9,UCLA,2023-10-27
+316,MIN,Shake Milton,SG,6-5,205,"September 26, 1996",us,5,SMU,2023-10-27
+317,MIN,Nickeil Alexander-Walker,SG,6-6,205,"September 2, 1998",ca,4,Virginia Tech,2023-10-27
+318,MIN,Troy Brown Jr.,SF,6-6,215,"July 28, 1999",us,5,Oregon,2023-10-27
+319,MIN,Josh Minott,SF,6-8,205,"November 25, 2002",us,1,Memphis,2023-10-27
+320,MIN,Daishen Nix,PG,6-5,224,"February 13, 2002",us,2,,2023-10-27
+321,MIN,Leonard Miller,SF,6-10,210,"November 26, 2003",ca,R,,2023-10-27
+322,MIN,Jaylen Clark  (TW),SG,6-5,205,"October 13, 2001",us,R,UCLA,2023-10-27
+323,MIN,Luka Garza  (TW),C,6-11,235,"December 27, 1998",us,2,Iowa,2023-10-27
+324,MIN,Wendell Moore Jr.,SG,6-5,213,"September 18, 2001",us,1,Duke,2023-10-27
+325,MIN,Jordan McLaughlin,PG,5-11,185,"April 9, 1996",us,4,USC,2023-10-27
+326,MIN,Jaden McDaniels,SF,6-9,185,"September 29, 2000",us,3,Washington,2023-10-27
+327,NOP,CJ McCollum,SG,6-3,190,"September 19, 1991",us,10,Lehigh,2023-10-27
+328,NOP,Zion Williamson,PF,6-6,284,"July 6, 2000",us,3,Duke,2023-10-27
+329,NOP,Brandon Ingram,SF,6-8,190,"September 2, 1997",us,7,Duke,2023-10-27
+330,NOP,Herbert Jones,PF,6-8,210,"October 6, 1998",us,2,Alabama,2023-10-27
+331,NOP,Jonas Valančiūnas,C,6-11,265,"May 6, 1992",lt,11,,2023-10-27
+332,NOP,Matt Ryan  (TW),SF,6-7,215,"April 17, 1997",us,2,"Notre Dame, Vanderbilt, Chattanooga",2023-10-27
+333,NOP,Dyson Daniels,PG,6-8,199,"March 17, 2003",au,1,,2023-10-27
+334,NOP,Jordan Hawkins,SG,6-5,195,"April 29, 2002",us,R,UConn,2023-10-27
+335,NOP,Larry Nance Jr.,C,6-7,245,"January 1, 1993",us,8,Wyoming,2023-10-27
+336,NOP,Kira Lewis Jr.,PG,6-1,170,"April 6, 2001",us,3,Alabama,2023-10-27
+337,NOP,Jose Alvarado,PG,6-0,179,"April 12, 1998",us,2,Georgia Tech,2023-10-27
+338,NOP,Willy Hernangómez,C,6-11,250,"May 27, 1994",es,7,,2023-10-27
+339,NOP,Cody Zeller,C,6-11,240,"October 5, 1992",us,10,Indiana,2023-10-27
+340,NOP,Trey Murphy III,SF,6-9,206,"June 18, 2000",us,2,"Rice University, Virginia",2023-10-27
+341,NOP,E.J. Liddell,PF,6-7,240,"December 18, 2000",us,R,Ohio State,2023-10-27
+342,NOP,Naji Marshall,SF,6-7,220,"January 24, 1998",us,3,Xavier,2023-10-27
+343,NOP,Kaiser Gates  (TW),SF,6-8,217,"November 8, 1996",us,R,Xavier,2023-10-27
+344,NYK,Immanuel Quickley,SG,6-3,190,"June 17, 1999",us,3,Kentucky,2023-10-27
+345,NYK,RJ Barrett,SG,6-6,214,"June 14, 2000",ca,4,Duke,2023-10-27
+346,NYK,Jalen Brunson,PG,6-2,190,"August 31, 1996",us,5,Villanova,2023-10-27
+347,NYK,Julius Randle,PF,6-8,250,"November 29, 1994",us,9,Kentucky,2023-10-27
+348,NYK,Quentin Grimes,SG,6-5,205,"May 8, 2000",us,2,"Kansas, Houston",2023-10-27
+349,NYK,Josh Hart,SF,6-5,215,"March 6, 1995",us,6,Villanova,2023-10-27
+350,NYK,Isaiah Hartenstein,C,7-0,250,"May 5, 1998",us,5,,2023-10-27
+351,NYK,Mitchell Robinson,C,7-0,240,"April 1, 1998",us,5,Western Kentucky,2023-10-27
+352,NYK,Donte DiVincenzo,SG,6-4,203,"January 31, 1997",us,5,Villanova,2023-10-27
+353,NYK,Duane Washington Jr.  (TW),SG,6-3,210,"March 24, 2000",de,2,Ohio State,2023-10-27
+354,NYK,Ryan Arcidiacono,PG,6-3,195,"March 26, 1994",us,6,Villanova,2023-10-27
+355,NYK,Charlie Brown Jr.,SG,6-6,199,"February 2, 1997",us,3,Saint Joseph's,2023-10-27
+356,NYK,Dylan Windler  (TW),SF,6-6,196,"September 22, 1996",us,3,Belmont,2023-10-27
+357,NYK,Jacob Toppin,SF,6-9,205,"May 8, 2000",us,R,"Rhode Island, Kentucky",2023-10-27
+358,NYK,DaQuan Jeffries,SG,6-5,230,"August 30, 1997",us,4,"Oral Roberts, Tulsa",2023-10-27
+359,NYK,Jericho Sims,C,6-10,245,"October 20, 1998",us,2,Texas,2023-10-27
+360,NYK,Evan Fournier,SG,6-7,205,"October 29, 1992",fr,11,,2023-10-27
+361,NYK,Miles McBride,PG,6-2,200,"September 8, 2000",us,2,West Virginia,2023-10-27
+362,OKC,Shai Gilgeous-Alexander,PG,6-6,180,"July 12, 1998",ca,5,Kentucky,2023-10-27
+363,OKC,Josh Giddey,PF,6-8,210,"October 10, 2002",au,2,,2023-10-27
+364,OKC,Jalen Williams,SG,6-6,195,"April 14, 2001",us,1,Santa Clara,2023-10-27
+365,OKC,Isaiah Joe,SG,6-4,165,"July 2, 1999",us,3,Arkansas,2023-10-27
+366,OKC,Cason Wallace,SG,6-4,193,"November 7, 2003",us,R,Kentucky,2023-10-27
+367,OKC,Chet Holmgren,PF,7-0,195,"May 1, 2002",us,R,Gonzaga,2023-10-27
+368,OKC,Ousmane Dieng,PF,6-10,216,"May 21, 2003",fr,1,,2023-10-27
+369,OKC,Luguentz Dort,SF,6-3,215,"April 19, 1999",ca,4,Arizona State,2023-10-27
+370,OKC,Olivier Sarr  (TW),C,7-0,237,"February 20, 1999",fr,2,"Wake Forest, Kentucky",2023-10-27
+371,OKC,Aaron Wiggins,SG,6-6,200,"January 2, 1999",us,2,Maryland,2023-10-27
+372,OKC,Lindy Waters III  (TW),SG,6-6,215,"July 28, 1997",us,2,Oklahoma State,2023-10-27
+373,OKC,Tre Mann,PG,6-3,178,"February 3, 2001",us,2,Florida,2023-10-27
+374,OKC,Aleksej Pokusevski,PF,7-0,190,"December 26, 2001",rs,3,,2023-10-27
+375,OKC,Kenrich Williams,PF,6-6,210,"December 2, 1994",us,5,TCU,2023-10-27
+376,OKC,Jaylin Williams,C,6-10,240,"June 29, 2002",us,1,Arkansas,2023-10-27
+377,OKC,Keyontae Johnson  (TW),SF,6-5,230,"May 24, 2000",us,R,"Florida, Kansas State",2023-10-27
+378,OKC,Vasilije Micić,PG,6-5,200,"January 13, 1994",rs,R,,2023-10-27
+379,OKC,Dāvis Bertāns,PF,6-10,225,"November 12, 1992",lv,7,,2023-10-27
+380,ORL,Cole Anthony,PG,6-2,185,"May 15, 2000",us,3,UNC,2023-10-27
+381,ORL,Franz Wagner,SF,6-9,225,"August 27, 2001",de,2,Michigan,2023-10-27
+382,ORL,Paolo Banchero,PF,6-10,250,"November 12, 2002",us,1,Duke,2023-10-27
+383,ORL,Jonathan Isaac,PF,6-11,230,"October 3, 1997",us,4,Florida State,2023-10-27
+384,ORL,Gary Harris,SG,6-4,210,"September 14, 1994",us,9,Michigan State,2023-10-27
+385,ORL,Markelle Fultz,PG,6-3,209,"May 29, 1998",us,6,Washington,2023-10-27
+386,ORL,Jalen Suggs,SG,6-4,205,"June 3, 2001",us,2,Gonzaga,2023-10-27
+387,ORL,Wendell Carter Jr.,C,6-10,270,"April 16, 1999",us,5,Duke,2023-10-27
+388,ORL,Goga Bitadze,C,6-11,250,"July 20, 1999",ge,4,,2023-10-27
+389,ORL,Anthony Black,PG,6-7,198,"January 20, 2004",us,R,Arkansas,2023-10-27
+390,ORL,Caleb Houstan,SF,6-8,205,"January 9, 2003",ca,1,Michigan,2023-10-27
+391,ORL,Moritz Wagner,C,6-11,245,"April 26, 1997",de,5,Michigan,2023-10-27
+392,ORL,Jett Howard,SF,6-8,215,"September 14, 2003",us,R,Michigan,2023-10-27
+393,ORL,Chuma Okeke,SF,6-6,229,"August 18, 1998",us,3,Auburn,2023-10-27
+394,ORL,Joe Ingles,SF,6-8,220,"October 2, 1987",au,9,,2023-10-27
+395,ORL,Admiral Schofield  (TW),PF,6-5,241,"March 30, 1997",gb,3,Tennessee,2023-10-27
+396,ORL,Trevelin Queen,SG,6-6,190,"February 25, 1997",us,2,"College of Marin, New Mexico Military Institute, New Mexico State",2023-10-27
+397,PHI,Tyrese Maxey,SG,6-2,200,"November 4, 2000",us,3,Kentucky,2023-10-27
+398,PHI,Kelly Oubre Jr.,SF,6-7,203,"December 9, 1995",us,8,Kansas,2023-10-27
+399,PHI,Joel Embiid,C,7-0,280,"March 16, 1994",cm,7,Kansas,2023-10-27
+400,PHI,Tobias Harris,SF,6-8,226,"July 15, 1992",us,12,Tennessee,2023-10-27
+401,PHI,De'Anthony Melton,SG,6-2,200,"May 28, 1998",us,5,USC,2023-10-27
+402,PHI,Paul Reed,C,6-9,210,"June 14, 1999",us,3,DePaul,2023-10-27
+403,PHI,Patrick Beverley,PG,6-1,180,"July 12, 1988",us,11,Arkansas,2023-10-27
+404,PHI,Jaden Springer,SG,6-4,204,"September 25, 2002",us,2,Tennessee,2023-10-27
+405,PHI,P.J. Tucker,PF,6-5,245,"May 5, 1985",us,12,Texas,2023-10-27
+406,PHI,Danny Green,SG,6-6,215,"June 22, 1987",us,14,UNC,2023-10-27
+407,PHI,Ricky Council IV  (TW),SG,6-6,205,"August 3, 2001",us,R,"Wichita State, Arkansas",2023-10-27
+408,PHI,Javonte Smart,PG,6-4,205,"June 3, 1999",us,1,LSU,2023-10-27
+409,PHI,Filip Petrušev,C,6-11,234,"April 15, 2000",rs,R,Gonzaga,2023-10-27
+410,PHI,Mo Bamba,C,7-0,231,"May 12, 1998",us,5,Texas,2023-10-27
+411,PHI,Terquavion Smith  (TW),PG,6-4,165,"December 31, 2002",us,R,NC State,2023-10-27
+412,PHI,Dewayne Dedmon,C,7-0,245,"August 12, 1989",us,10,USC,2023-10-27
+413,PHI,James Harden,PG,6-5,220,"August 26, 1989",us,14,Arizona State,2023-10-27
+414,PHI,Danuel House Jr.,SF,6-6,220,"June 7, 1993",us,7,Texas A&M,2023-10-27
+415,PHI,Furkan Korkmaz,SG,6-7,202,"July 24, 1997",tr,6,,2023-10-27
+416,POR,Malcolm Brogdon,PG,6-5,229,"December 11, 1992",us,7,Virginia,2023-10-27
+417,POR,Anfernee Simons,SG,6-3,181,"June 8, 1999",us,5,,2023-10-27
+418,POR,Shaedon Sharpe,SG,6-6,200,"May 30, 2003",ca,1,Kentucky,2023-10-27
+419,POR,Jerami Grant,PF,6-8,210,"March 12, 1994",us,9,Syracuse,2023-10-27
+420,POR,Scoot Henderson,PG,6-3,202,"February 3, 2004",us,R,,2023-10-27
+421,POR,Robert Williams,C,6-9,237,"October 17, 1997",us,5,Texas A&M,2023-10-27
+422,POR,Matisse Thybulle,SG,6-5,201,"March 4, 1997",us,4,Washington,2023-10-27
+423,POR,Toumani Camara,PF,6-8,220,"May 8, 2000",be,R,Dayton,2023-10-27
+424,POR,Jabari Walker,SF,6-9,215,"July 30, 2002",us,1,Colorado,2023-10-27
+425,POR,Deandre Ayton,C,6-11,250,"July 23, 1998",bs,5,Arizona,2023-10-27
+426,POR,Kris Murray,SF,6-8,220,"August 19, 2000",us,R,Iowa,2023-10-27
+427,POR,Rayan Rupert,SG,6-6,205,"May 31, 2004",fr,R,,2023-10-27
+428,POR,Ish Wainright,SF,6-6,250,"September 12, 1994",us,2,Baylor,2023-10-27
+429,POR,Justin Minaya,SF,6-5,210,"March 26, 1999",us,1,,2023-10-27
+430,POR,Skylar Mays  (TW),PG,6-4,205,"September 5, 1997",us,3,LSU,2023-10-27
+431,POR,Duop Reath  (TW),C,6-11,245,"June 26, 1996",ss,R,"Lee College, LSU",2023-10-27
+432,SAC,Harrison Barnes,PF,6-8,225,"May 30, 1992",us,11,UNC,2023-10-27
+433,SAC,Domantas Sabonis,C,6-11,240,"May 3, 1996",us,7,Gonzaga,2023-10-27
+434,SAC,De'Aaron Fox,PG,6-3,185,"December 20, 1997",us,6,Kentucky,2023-10-27
+435,SAC,Keegan Murray,SF,6-8,215,"August 19, 2000",us,1,Iowa,2023-10-27
+436,SAC,Malik Monk,SG,6-3,200,"February 4, 1998",us,6,Kentucky,2023-10-27
+437,SAC,Chris Duarte,SF,6-6,190,"June 13, 1997",do,2,Oregon,2023-10-27
+438,SAC,Sasha Vezenkov,PF,6-9,225,"August 6, 1995",cy,R,,2023-10-27
+439,SAC,JaVale McGee,C,7-0,270,"January 19, 1988",us,15,Nevada,2023-10-27
+440,SAC,Kevin Huerter,SG,6-7,190,"August 27, 1998",us,5,Maryland,2023-10-27
+441,SAC,Kessler Edwards,SF,6-8,215,"August 9, 2000",us,2,Pepperdine,2023-10-27
+442,SAC,Davion Mitchell,PG,6-2,205,"September 5, 1998",us,2,"Auburn, Baylor",2023-10-27
+443,SAC,Colby Jones,SG,6-6,205,"May 28, 2002",us,R,Xavier,2023-10-27
+444,SAC,Keon Ellis  (TW),SG,6-6,175,"January 8, 2000",us,1,"Florida SouthWestern State College, Alabama",2023-10-27
+445,SAC,Alex Len,C,7-0,250,"June 16, 1993",ua,10,Maryland,2023-10-27
+446,SAC,Jordan Ford  (TW),PG,6-1,175,"May 26, 1998",us,R,Saint Mary's,2023-10-27
+447,SAC,Jalen Slawson  (TW),SF,6-7,215,"October 22, 1999",us,R,Furman University,2023-10-27
+448,SAC,Trey Lyles,PF,6-9,234,"November 5, 1995",ca,8,Kentucky,2023-10-27
+449,SAS,Devin Vassell,SG,6-5,200,"August 23, 2000",us,3,Florida State,2023-10-27
+450,SAS,Keldon Johnson,SF,6-5,220,"October 11, 1999",us,4,Kentucky,2023-10-27
+451,SAS,Tre Jones,PG,6-1,185,"January 8, 2000",us,3,Duke,2023-10-27
+452,SAS,Victor Wembanyama,PF,7-4,209,"January 4, 2004",fr,R,,2023-10-27
+453,SAS,Zach Collins,C,6-11,250,"November 19, 1997",us,5,Gonzaga,2023-10-27
+454,SAS,Jeremy Sochan,PF,6-9,230,"May 20, 2003",us,1,Baylor,2023-10-27
+455,SAS,Cedi Osman,SF,6-7,230,"April 8, 1995",mk,6,,2023-10-27
+456,SAS,Malaki Branham,SG,6-5,180,"May 12, 2003",us,1,Ohio State,2023-10-27
+457,SAS,Charles Bassey,C,6-11,235,"October 28, 2000",ng,2,Western Kentucky,2023-10-27
+458,SAS,Doug McDermott,SF,6-7,225,"January 3, 1992",us,9,Creighton,2023-10-27
+459,SAS,Blake Wesley,SG,6-5,185,"March 16, 2003",us,1,Notre Dame,2023-10-27
+460,SAS,Sir'Jabari Rice  (TW),PG,6-4,180,"December 28, 1998",us,R,"New Mexico State, Texas",2023-10-27
+461,SAS,Julian Champagnie,SF,6-8,220,"June 29, 2001",us,1,St. John's,2023-10-27
+462,SAS,Devonte' Graham,PG,6-1,195,"February 22, 1995",us,5,Kansas,2023-10-27
+463,SAS,Sandro Mamukelashvili,C,6-11,240,"May 23, 1999",us,2,Seton Hall,2023-10-27
+464,SAS,Sidy Cissoko,SF,6-8,200,"April 2, 2004",fr,R,,2023-10-27
+465,SAS,Dominick Barlow  (TW),PF,6-9,221,"May 26, 2003",us,1,,2023-10-27
+466,SAS,Charles Bediako,C,7-0,225,"March 10, 2002",ca,R,Alabama,2023-10-27
+467,TOR,Dennis Schröder,PG,6-3,172,"September 15, 1993",de,10,,2023-10-27
+468,TOR,OG Anunoby,SF,6-7,232,"July 17, 1997",gb,6,Indiana,2023-10-27
+469,TOR,Scottie Barnes,SF,6-9,227,"August 1, 2001",us,2,Florida State,2023-10-27
+470,TOR,Pascal Siakam,PF,6-9,230,"April 2, 1994",cm,7,New Mexico State,2023-10-27
+471,TOR,Precious Achiuwa,C,6-8,225,"September 19, 1999",ng,3,Memphis,2023-10-27
+472,TOR,Jakob Poeltl,C,7-1,245,"October 15, 1995",at,7,Utah,2023-10-27
+473,TOR,Gary Trent Jr.,SG,6-5,209,"January 18, 1999",us,5,Duke,2023-10-27
+474,TOR,Malachi Flynn,PG,6-1,175,"May 10, 1998",us,3,"Washington State, San Diego State",2023-10-27
+475,TOR,Jalen McDaniels,SF,6-9,205,"January 31, 1998",us,4,San Diego State,2023-10-27
+476,TOR,Gradey Dick,SG,6-8,205,"November 20, 2003",us,R,Kansas,2023-10-27
+477,TOR,Garrett Temple,SG,6-5,195,"May 8, 1986",us,13,LSU,2023-10-27
+478,TOR,Javon Freeman-Liberty  (TW),PG,6-4,180,"October 20, 1999",us,R,"Valparaiso, DePaul",2023-10-27
+479,TOR,Ron Harper Jr.  (TW),PF,6-6,245,"April 12, 2000",us,1,Rutgers University,2023-10-27
+480,TOR,Markquis Nowell  (TW),SG,5-8,160,"December 25, 1999",us,R,"Little Rock, Kansas State",2023-10-27
+481,TOR,Christian Koloko,C,7-1,230,"June 20, 2000",cm,1,Arizona,2023-10-27
+482,TOR,Thaddeus Young,PF,6-8,235,"June 21, 1988",us,16,Georgia Tech,2023-10-27
+483,TOR,Chris Boucher,PF,6-9,200,"January 11, 1993",lc,6,Oregon,2023-10-27
+484,TOR,Otto Porter Jr.,SF,6-8,198,"June 3, 1993",us,10,Georgetown,2023-10-27
+485,UTA,Jordan Clarkson,SG,6-4,194,"June 7, 1992",us,9,"Tulsa, Missouri",2023-10-27
+486,UTA,Lauri Markkanen,PF,7-0,240,"May 22, 1997",fi,6,Arizona,2023-10-27
+487,UTA,John Collins,PF,6-9,235,"September 23, 1997",us,6,Wake Forest,2023-10-27
+488,UTA,Collin Sexton,PG,6-1,190,"January 4, 1999",us,5,Alabama,2023-10-27
+489,UTA,Talen Horton-Tucker,SG,6-4,234,"November 25, 2000",us,4,Iowa State,2023-10-27
+490,UTA,Keyonte George,SG,6-4,185,"November 8, 2003",us,R,Baylor,2023-10-27
+491,UTA,Walker Kessler,C,7-1,245,"July 26, 2001",us,1,"UNC, Auburn",2023-10-27
+492,UTA,Kris Dunn,PG,6-3,205,"March 18, 1994",us,7,Providence,2023-10-27
+493,UTA,Kelly Olynyk,C,6-11,240,"April 19, 1991",ca,10,Gonzaga,2023-10-27
+494,UTA,Ochai Agbaji,SG,6-5,215,"April 20, 2000",us,1,Kansas,2023-10-27
+495,UTA,Simone Fontecchio,SF,6-8,209,"December 9, 1995",it,1,,2023-10-27
+496,UTA,Luka Šamanić,PF,6-10,227,"January 9, 2000",hr,3,,2023-10-27
+497,UTA,Taylor Hendricks,PF,6-9,210,"November 22, 2003",us,R,Central Florida,2023-10-27
+498,UTA,Brice Sensabaugh,SF,6-6,235,"October 30, 2003",us,R,Ohio State,2023-10-27
+499,UTA,Omer Yurtseven,C,7-0,264,"June 19, 1998",tr,2,"NC State, Georgetown",2023-10-27
+500,UTA,Johnny Juzang  (TW),SG,6-7,215,"March 17, 2001",us,1,"Kentucky, UCLA",2023-10-27
+501,UTA,Josh Christopher  (TW),SG,6-5,215,"December 8, 2001",us,2,Arizona State,2023-10-27
+502,WAS,Kyle Kuzma,PF,6-9,221,"July 24, 1995",us,6,Utah,2023-10-27
+503,WAS,Jordan Poole,SG,6-4,194,"June 19, 1999",us,4,Michigan,2023-10-27
+504,WAS,Danilo Gallinari,SF,6-10,233,"August 8, 1988",it,13,,2023-10-27
+505,WAS,Tyus Jones,PG,6-0,196,"May 10, 1996",us,8,Duke,2023-10-27
+506,WAS,Corey Kispert,SF,6-7,220,"March 3, 1999",us,2,Gonzaga,2023-10-27
+507,WAS,Deni Avdija,SF,6-9,210,"January 3, 2001",il,3,,2023-10-27
+508,WAS,Delon Wright,PG,6-5,185,"April 26, 1992",us,8,Utah,2023-10-27
+509,WAS,Daniel Gafford,C,6-10,234,"October 1, 1998",us,4,Arkansas,2023-10-27
+510,WAS,Eugene Omoruyi  (TW),SF,6-7,244,"February 14, 1997",ng,2,"Rutgers University, Oregon",2023-10-27
+511,WAS,Bilal Coulibaly,SF,6-6,195,"July 26, 2004",fr,R,,2023-10-27
+512,WAS,Jared Butler  (TW),SG,6-3,195,"August 25, 2000",us,2,Baylor,2023-10-27
+513,WAS,Ryan Rollins,PG,6-4,180,"July 3, 2002",us,1,Toledo,2023-10-27
+514,WAS,Patrick Baldwin Jr.,SF,6-9,220,"November 18, 2002",us,1,UW-Milwaukee,2023-10-27
+515,WAS,Mike Muscala,C,6-10,240,"July 1, 1991",us,10,Bucknell,2023-10-27
+516,WAS,Anthony Gill,PF,6-7,230,"October 17, 1992",us,3,"South Carolina, Virginia",2023-10-27
+517,WAS,Johnny Davis,SG,6-5,196,"February 27, 2002",us,1,Wisconsin,2023-10-27
+518,WAS,Landry Shamet,SG,6-4,190,"March 13, 1997",us,5,Wichita State,2023-10-27
+519,WAS,John Butler  (TW),C,7-1,175,"December 4, 2002",us,1,Florida State,2023-10-27
