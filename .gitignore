@@ -2,3 +2,8 @@ secrets.json
 .idea
 .ipynb_checkpoints
 .idea/workspace.xml
+pbp/box_scores
+pbp/pbp_raw
+pbp/pbp_events
+pbp/parsed_pbp
+Lines

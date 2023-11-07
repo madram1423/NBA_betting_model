@@ -14,7 +14,7 @@ def get_box_score(box_url,headers,game_id):
     col_names = data['resultSets'][0]['headers']
     box.columns = col_names
     box.columns = box.columns.str.lower()
-    box.to_csv(f'box_scores/box_{game_id}.csv')
+    box.to_csv(f'pbp/box_scores/box_{game_id}.csv')
     return box
 
 
@@ -144,29 +144,31 @@ class Game():
         self.pbp['h_lineup'] = self.pbp['h_lineup'].apply(lambda x: tuple(x))
         return 
 
-game_ids = pd.read_csv('pbp/game_ids.csv')
+import os
+game_ids = pd.read_csv('pbp/game_ids.csv',dtype={'game_id':'str'})
 #dubs = game_ids.loc[(game_ids.home=='GSW') | (game_ids.away=='GSW')]['game_id'].to_list()
-season = '2023-24'
+
 season_type = 'Regular+Season'
 
 failed = []
-for id in game_ids[0:2]:
-    game_id = '00'+str(id)
-    path = f'pbp_raw/{game_id}_pbp.csv'
-    if os.path.isfile(path):
+for n in range(len(game_ids)):  #range(len(game_ids)):
+    game_id = game_ids.loc[n,'game_id']
+    path = f'pbp/pbp_raw/{game_id}_pbp.csv'
+    year = game_ids.loc[n,'season']
+    season = '20'+str(year-1)+'-'+str(year)
+    print(game_id)
+    if not os.path.isfile(path):
         try:
-            print(game_id)
             start_range = '0'
-            box_url = f'https://stats.nba.com/stats/boxscoretraditionalv2?EndPeriod=10&EndRange=28800&GameID={game_id}&RangeType=0&Season={season}&SeasonType={season_type}&StartPeriod=1&StartRange={start_range}'
-            pbp_url = f'https://stats.nba.com/stats/playbyplayv2?EndPeriod=10&EndRange=55800&GameID={game_id}&RangeType=2&Season={season}&SeasonType={season_type}&StartPeriod=1&StartRange={start_range}'
+            box_url = f'https://stats.nba.com/stats/boxscoretraditionalv2?EndPeriod=10&EndRange=28800&GameID={game_id}&RangeType=0&Season=20{year-1}-{year}&SeasonType={season_type}&StartPeriod=1&StartRange={start_range}'
+            pbp_url = f'https://stats.nba.com/stats/playbyplayv2?EndPeriod=10&EndRange=55800&GameID={game_id}&RangeType=2&Season=20{year-1}-{year}&SeasonType={season_type}&StartPeriod=1&StartRange={start_range}'
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36', 'x-nba-stats-origin': 'stats', 'x-nba-stats-token': 'true', 'Host':'stats.nba.com', 'Referer':f'https://stats.nba.com/game/{game_id}/'}
-            print(pbp_url)
             x = Game(game_id=game_id,pbp_url=pbp_url,box_url=box_url,headers=headers)
             x.compute_lineups()
             print(f'{game_id} is done')
-            x.pbp.to_csv(f'pbp_raw/{game_id}_pbp.csv')
+            x.pbp.to_csv(f'pbp/pbp_raw/{game_id}_pbp.csv')
         except:
             failed.append(game_id)
-
+            print(game_id+'failed')
 failed_ids = pd.DataFrame(failed)
 failed_ids.to_csv('failed_ids.csv',index=False)

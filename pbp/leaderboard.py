@@ -52,4 +52,4 @@ df = pd.DataFrame([east,west]).T
 df.columns = ['East','West']
 print(df)
 
-df.to_csv('data/current_standings.csv',index=False)
+df.to_csv('pbp/data/current_standings.csv',index=False)

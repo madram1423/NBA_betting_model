@@ -1,12 +1,10 @@
 import pandas as pd
 import numpy as np
 import re
+import glob
+import os
 
-df = pd.read_csv("pbp_raw\\0022200002_pbp.csv", index_col=0)
-game_id = "0022200002"
-
-
-def str_to_tuple(s):
+def str_to_tuple(s) -> tuple:
     return tuple(s.strip("() ").replace(" ", "").split(","))
 
 
@@ -25,13 +23,9 @@ eventdict = {
     18: "REPLAY",
 }
 
-df["h_lineup"] = df.h_lineup.apply(lambda x: str_to_tuple(x))
-df["a_lineup"] = df.a_lineup.apply(lambda x: str_to_tuple(x))
 
-
-def get_rebound_types(
-    df,
-):  # adds rebound_type column to df so ORB and DRB can be distinguished
+def get_rebound_types(df) -> pd.DataFrame:  
+    # adds rebound_type column to df so ORB and DRB can be distinguished
     # allll this ugly stuff just to get a column called 'rebound_type'
     mask = (df.eventmsgtype == 4) & (
         ~df.homedescription.isnull() | ~df.visitordescription.isnull()
@@ -63,10 +57,10 @@ def get_rebound_types(
 
     # comparing reb total to previous to check what type of rebound occurred
     df["def_reb_previous"] = (
-        df[mask].groupby("player1_id")["defensive_rebounds"].shift(fill_value=0)
+        df.loc[mask].groupby("player1_id")["defensive_rebounds"].shift(fill_value=0)
     )
     df["off_reb_previous"] = (
-        df[mask].groupby("player1_id")["offensive_rebounds"].shift(fill_value=0)
+        df.loc[mask].groupby("player1_id")["offensive_rebounds"].shift(fill_value=0)
     )
     df.sort_values(by=["period", "total_elapsed_time", "eventnum"], inplace=True)
     df["rebound_type"] = ""
@@ -90,9 +84,9 @@ def get_rebound_types(
     return df
 
 
-def get_time_credit_list(df):
+def get_time_credit_list(df) -> list:
     game_id = df.game_id[0]
-    box_score = pd.read_csv(f"box_scores/box_00{game_id}.csv", index_col=0)
+    box_score = pd.read_csv(f"pbp/box_scores/box_{game_id}.csv", index_col=0)
     box = box_score[["player_id", "player_name"]].values.tolist()
     id_to_name = {id: name for id, name in box}
 
@@ -121,7 +115,8 @@ def get_time_credit_list(df):
     return time_credit
 
 
-def get_play_credit_df(df):  # returns data frame with one row per stat credited
+def get_play_credit_df(df) -> pd.DataFrame:  
+    '''returns dataframe with one row per stat credited'''
     # filters to get all rows of specific stat type
     fga_filter = (df.eventmsgtype == 1) | (df.eventmsgtype == 2)
     two_pt_filter = (df.eventmsgtype == 1) & ~(
@@ -157,7 +152,7 @@ def get_play_credit_df(df):  # returns data frame with one row per stat credited
                 "eventnum",
                 f"player{player_num}_id",
                 f"player{player_num}_name",
-                "h_lineup",
+                "h_lineup",    ##### BROKEN. Needs an argument for which is the players team and which is the opponent
             ]
         ]
         filtered_df["stat"] = stat_type
@@ -165,20 +160,26 @@ def get_play_credit_df(df):  # returns data frame with one row per stat credited
         return filtered_df.values.tolist()
 
     # getting a list of every stat earned
-    results = get_stat_df(df, two_pt_filter, "PTS", 2)
+    results = get_stat_df(df, fga_filter, "FGA", 1)    
+    results += get_stat_df(df, two_pt_filter, "PTS", 2)
+    results += get_stat_df(df, two_pt_filter, "FG", 1)
+    results += get_stat_df(df, three_a_filter, "3PA", 1)
+    results += get_stat_df(df, three_pt_filter, "FG", 1)  
+    results += get_stat_df(df, three_pt_filter, "3P", 1)  
     results += get_stat_df(df, three_pt_filter, "PTS", 3)
     results += get_stat_df(df, ft_filter, "PTS", 1)
-    results += get_stat_df(df, assist_filter, "AST", 1, player_num="2")
 
-    results += get_stat_df(df, fga_filter, "FGA", 1)
+
     results += get_stat_df(df, fta_filter, "FTA", 1)
-    results += get_stat_df(df, three_a_filter, "3PA", 1)
 
+
+    results += get_stat_df(df, assist_filter, "AST", 1, player_num=2)
     results += get_stat_df(df, stl_filter, "STL", 1, player_num=2)
     results += get_stat_df(df, blk_filter, "BLK", 1, player_num=3)
     results += get_stat_df(df, to_filter, "TOV", 1, player_num=1)
     results += get_stat_df(df, foul_filter, "PF", 1)
     results += get_time_credit_list(df)
+    ####ADD rebounds
 
     play_credit_df = pd.DataFrame(
         results,
@@ -195,8 +196,9 @@ def get_play_credit_df(df):  # returns data frame with one row per stat credited
     return play_credit_df
 
 
-def get_poss_counts(df):  # adds home_poss and away_poss column
-    made_last_ft_pattern = r"(1 of 1|2 of 2|3 of 3).*PTS"
+def get_poss_counts(df) -> pd.DataFrame:  
+    '''adds home_poss and away_poss column'''
+    made_last_ft_pattern = r"(?:1 of 1|2 of 2|3 of 3).*PTS"
     visitor_poss_filter = (
         ((df.rebound_type == "DRB") & ~(df.homedescription.isna()))
         | (  # home team drb means visitor poss ends
@@ -207,7 +209,7 @@ def get_poss_counts(df):  # adds home_poss and away_poss column
         )
         | (  # visitor team makes shot means visitor poss ends
             (df.eventmsgtype == 3)
-            & df.visitordescription.str.contains(made_last_ft_pattern)
+            & (df.visitordescription.str.contains(made_last_ft_pattern))
         )
         | (  # visitor team MAKES last ft means poss ends
             (df.eventmsgtype == 5) & (df.homedescription.isna())
@@ -229,7 +231,7 @@ def get_poss_counts(df):  # adds home_poss and away_poss column
     df.loc[home_poss_filter, "home_poss"] = 1
 
     def who_has_ball(df):
-        # Determine the most recent possession
+        '''Determine the most recent possession'''
         def determine_possession(row):
             if row["home_poss"] == 1:
                 return "home"
@@ -242,13 +244,17 @@ def get_poss_counts(df):  # adds home_poss and away_poss column
 
     return who_has_ball(df)
 
-
-df = get_rebound_types(df)
-df = get_poss_counts(df)
-
-
-play_credit_df = get_play_credit_df(df)
-
-play_credit_df.to_csv(f"play_credits/play_creds_{game_id}.csv")
-
-df.to_csv(f"fully_parsed_pbp.csv_{game_id}")
+raw_pbp_paths = glob.glob(f'.\\pbp/pbp_raw/*')
+for file in raw_pbp_paths:      
+    #if not os.path.isfile(file):
+        df = pd.read_csv(file, index_col=0,dtype={'game_id':'str'})
+        df["h_lineup"] = df.h_lineup.apply(lambda x: str_to_tuple(x))
+        df["a_lineup"] = df.a_lineup.apply(lambda x: str_to_tuple(x))
+        game_id = df['game_id'][0]
+        if int(game_id) %5 == 0:
+            print(game_id)
+        df = get_rebound_types(df)
+        df = get_poss_counts(df)
+        play_credit_df = get_play_credit_df(df).sort_values(by=['game_id','eventnum']).reset_index(drop=True)
+        play_credit_df.to_csv(f"pbp/pbp_events/pbp_events_{game_id}.csv")
+        df.to_csv(f"pbp/parsed_pbp/fully_parsed_pbp_{game_id}.csv")

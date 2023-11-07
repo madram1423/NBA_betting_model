@@ -3,8 +3,13 @@ from scipy.stats import poisson
 import matplotlib.pyplot as plt
 
 def load_current_line(path,key,time) -> pd.DataFrame:
-    df = pd.read_csv(path,index_col=0).sort_values(by=time,ascending=False)
-    return df.loc[df[time]== df[time].max()].reset_index(drop=True)
+    df = pd.read_csv(path,index_col=0)
+
+    if key in df.columns and time in df.columns:
+        df = df.sort_values(by=time,ascending=False)
+        return df.loc[df[time]== df[time].max()].reset_index(drop=True)
+    else:
+        return df
 
 def get_line(player, pp_stat, lines):
     guy = lines.loc[lines["player"] == player]
