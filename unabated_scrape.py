@@ -52,9 +52,9 @@ lines_df["person_name"] = lines_df.personId.apply(lambda x: i2p[x])
 # replacing team id with team name
 teams = pd.json_normalize(lines_df.eventTeams)
 teams[["1.id", "0.id"]]
-teams["Team"] = teams["0.id"].apply(lambda x: teamdict[x])
-teams["opp"] = teams["1.id"].apply(lambda x: teamdict[x])
-teams = teams[["Team", "opp"]]
+teams["home"] = teams["1.id"].apply(lambda x: teamdict[x])
+teams["away"] = teams["0.id"].apply(lambda x: teamdict[x])
+teams = teams[["home", "away"]]
 
 # renaming stats
 bt2stat = {
@@ -97,7 +97,6 @@ bt2stat = {
     "bt66": "Longest Reception",
 }
 
-lines_df["propsMarketSourcesLines"][0].keys()
 
 
 def get_odds(row):
@@ -152,8 +151,15 @@ def get_odds(row):
     results_df["prob"] = results_df["price"].apply(
         lambda x: (-x / (100 - x)) if x < 0 else 100 / (x + 100)
     )
-    results_df["opp"] = teams["opp"][row]
-    results_df["Team"] = teams["Team"][row]
+    team = teamdict.get(lines_df.teamId.iloc[row])
+    results_df['team'] = team
+    if team == teams["home"][row]:
+        results_df['opp'] = teams["away"][row]
+        results_df['home'] = 1
+    else:
+        results_df['opp'] = teams["home"][row]
+        results_df['home'] = 0
+        
     return results_df
 
 
@@ -222,7 +228,7 @@ odds_agg = (
             "league_id",
             "event_time",
             "opp",
-            "Team",
+            "team",
         ],
         as_index=False,
     )["prob"]
@@ -240,7 +246,7 @@ odds_condensed = odds_agg.pivot(
         "league_id",
         "event_time",
         "opp",
-        "Team",
+        "team",
         "count",
     ],
     columns="side",

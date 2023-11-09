@@ -4,7 +4,8 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import os.path
-
+import os
+import logging
 
 def get_box_score(box_url,headers,game_id):
 
@@ -144,10 +145,8 @@ class Game():
         self.pbp['h_lineup'] = self.pbp['h_lineup'].apply(lambda x: tuple(x))
         return 
 
-import os
-game_ids = pd.read_csv('pbp/game_ids.csv',dtype={'game_id':'str'})
-#dubs = game_ids.loc[(game_ids.home=='GSW') | (game_ids.away=='GSW')]['game_id'].to_list()
 
+game_ids = pd.read_csv('pbp/game_ids.csv',dtype={'game_id':'str'})
 season_type = 'Regular+Season'
 
 failed = []
@@ -168,6 +167,7 @@ for n in range(len(game_ids)):  #range(len(game_ids)):
             print(f'{game_id} is done')
             x.pbp.to_csv(f'pbp/pbp_raw/{game_id}_pbp.csv')
         except:
+            logging.exception('')
             failed.append(game_id)
             print(game_id+'failed')
 failed_ids = pd.DataFrame(failed)
