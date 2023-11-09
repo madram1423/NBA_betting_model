@@ -26,6 +26,7 @@ def get_pbp(pbp_url,headers):
     pbp = pd.DataFrame.from_dict(data['resultSets'][0]['rowSet'])
     col_names = data['resultSets'][0]['headers']
     pbp.columns = col_names
+    print(pbp.columns)
     pbp.columns = pbp.columns.str.lower()
     pbp_times = pbp['pctimestring'].str.split(':', expand=True)
     pbp_times[0] = pbp_times[0].astype(str).astype(int)

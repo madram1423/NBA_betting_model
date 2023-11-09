@@ -43,7 +43,7 @@ def get_possession_counts(df) -> pd.DataFrame:
     made_last_ft_pattern = r'(?:1 of 1|2 of 2|3 of 3).*PTS'
     visitor_poss_filter = (
     ((df.rebound_type == 'DRB') & ~(df.homedescription.isna())) | # home team drb means visitor poss ends
-    ((df.eventmsgtype == 4) & ~(df.eventmsgactiontype==1) & (~df.homedescription.isna())) | # team rebound
+    ((df.eventmsgtype == 4) & (df.eventmsgactiontype==1) & (~df.homedescription.isna())) | # team rebound
     (df.homedescription.str.contains('STEAL',na=False)) | # home team steal means visitor poss ends
     ((df.eventmsgtype==1) & ~(df.visitordescription.isna())) | # visitor team makes shot means visitor poss ends
     ((df.eventmsgtype==3) & df.visitordescription.str.contains(made_last_ft_pattern)) | #visitor team MAKES last ft means poss ends
@@ -51,7 +51,7 @@ def get_possession_counts(df) -> pd.DataFrame:
     ) 
     home_poss_filter = (
     ((df.rebound_type == 'DRB') & ~(df.visitordescription.isna())) | # home team drb means visitor poss ends
-    ((df.eventmsgtype == 4) & ~(df.eventmsgactiontype==1) & (~df.visitordescription.isna())) |
+    ((df.eventmsgtype == 4) & (df.eventmsgactiontype==1) & (~df.visitordescription.isna())) |
     (df.visitordescription.str.contains('STEAL',na=False)) |
     ((df.eventmsgtype==1) & ~(df.homedescription.isna())) |
     ((df.eventmsgtype==3) & df.homedescription.str.contains(made_last_ft_pattern)) |
@@ -93,6 +93,26 @@ def get_possession_counts(df) -> pd.DataFrame:
     # Use the correct DataFrame column to assign values
     df.loc[away_mask, 'away_poss'] = away_counter
     return df
+
+def get_time_credit(df):
+    game_id = df.game_id[0]
+    box_score = pd.read_csv(f"pbp/box_scores/box_{game_id}.csv", index_col=0)
+    box = box_score[["player_id", "player_name"]].values.tolist()
+    id_to_name = {id: name for id, name in box}
+    play_times = df.groupby(['game_id','home_poss','away_poss','h_lineup','a_lineup'])["play_elapsed_time"].sum().reset_index()
+    play_times['play_end_time'] = df.groupby(['game_id','home_poss','away_poss','h_lineup','a_lineup'])["total_elapsed_time"].max().reset_index()['total_elapsed_time']
+    h_expl = play_times.explode('h_lineup').reset_index(drop=True)
+    h_expl.rename(columns={'h_lineup':'player_id'},inplace=True)
+
+    a_expl = play_times.explode('a_lineup').reset_index(drop=True)
+    a_expl.rename(columns={'a_lineup':'player_id'},inplace=True)
+
+    h_expl = h_expl.merge(play_times,on= ['game_id','home_poss','away_poss','a_lineup','play_elapsed_time','play_end_time'])
+    a_expl = a_expl.merge(play_times,on= ['game_id','home_poss','away_poss','h_lineup','play_elapsed_time','play_end_time'])
+    time_credits = pd.concat((h_expl,a_expl))
+    time_credits['player_name'] = time_credits['player_id'].apply(lambda x: id_to_name[int(x)])
+    time_credits['player_id'] = time_credits['player_id'].astype(int)
+    return time_credits
 
 def aggregate_stats(df):
     def get_stat_df(pbp_df,filter,stat_type,stat_value,player_num='1'):
@@ -142,19 +162,48 @@ def aggregate_stats(df):
     results =pd.concat((results, get_stat_df(df,foul_filter,'PF',1)))
 
     results =pd.concat((results, get_stat_df(df,assist_filter,'AST',1,player_num='2')))
-
-    #results += get_time_credit_list(df)
+    time_credits = get_time_credit(df)
+    results = pd.concat((results,time_credits))
     results = results.groupby(['game_id','home_poss','away_poss','player_id','player_name','h_lineup','a_lineup']).sum().reset_index()
     return results
 
-game_ids = ['0022300142','0022300143']
+def get_team_names(results,game_id):
+    box = pd.read_csv(f"pbp/box_scores/box_{game_id}.csv", index_col=0)
+    away_team_name = box['team_abbreviation'].iloc[0]
+    home_team_name = box['team_abbreviation'].iloc[-1]
+    opp_team_dict = {away_team_name:home_team_name,
+                    home_team_name:away_team_name}
+    team_to_id_list = box[['team_abbreviation','player_id']].values
+    player_team_dict = {player_id:team for (team,player_id) in team_to_id_list}
+    results['team'] = results['player_id'].apply(lambda x: player_team_dict.get(x,0))
+    results['opp'] = results['team'].apply(lambda x: opp_team_dict.get(x,'N/A'))
+    results['H/A'] = results['team'].apply(lambda x: 1 if x == home_team_name else 0)
+    results['off_poss'] = np.NaN
+    results['def_poss'] = np.NaN
+    results.loc[((results['H/A']==1) & (results.home_poss != 0)), 'off_poss'] = results['home_poss']  # player is on home team, home team has ball, therefore offensive
+    results.loc[((results['H/A']==0) & (results.away_poss != 0)), 'off_poss'] = results['away_poss']  # player is on visitor team, visitor team has ball, therefore offensive
+
+    results.loc[((results['H/A']==1) & (results.away_poss != 0)), 'def_poss'] = results['away_poss']  #player is on home team, away team has ball, therefore defensive
+    results.loc[((results['H/A']==0) & (results.home_poss != 0)), 'def_poss'] = results['home_poss']  #player is on away team, home team has ball, therefore defensive
+    results['off_poss'].fillna(0,inplace=True)
+    results['def_poss'].fillna(0,inplace=True)
+    results = results[['game_id','player_id', 'player_name', 'home_poss', 'away_poss', 'play_elapsed_time','play_end_time', 'team', 'opp', 'H/A', 'off_poss', 'def_poss',
+        'h_lineup', 'a_lineup', 'FGM', '3PM', 'FTM', 'FGA',
+        'FTA', '3PA', 'TRB', 'DRB', 'ORB', 'STL', 'BLK', 'TOV', 'PF', 'AST','PTS'
+        ]]#dropping eventnum, home_poss,away_poss as well as reordering
+
+    return results
+import os
+
+#for file in ['pbp/pbp_raw/0022300142_pbp.csv']:
 raw_pbp_paths = glob(f'.\\pbp/pbp_raw/*')
 for file in raw_pbp_paths:
     df = get_raw_pbp(file)
     game_id = df['game_id'].iloc[0]
-    print(game_id)
     df = get_rebound_type(df)
     df = get_possession_counts(df)
     results = aggregate_stats(df)
+    results = get_team_names(results,game_id)
     df.to_csv(f'pbp/parsed_pbp/transformed_{game_id}.csv')
     results.to_csv(f'pbp/pbp_events/pbp_events_{game_id}.csv')
+    print(game_id)
