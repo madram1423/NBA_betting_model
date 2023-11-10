@@ -40,22 +40,30 @@ def get_rebound_type(df) -> pd.DataFrame:
 
 
 def get_possession_counts(df) -> pd.DataFrame:
+    missed_last_home_shot = (df['eventmsgtype'].shift() == 2) & (~df['homedescription'].shift().isna())
+    missed_last_away_shot = (df['eventmsgtype'].shift() == 2) & (~df['homedescription'].shift().isna())
+    home_rebound = (df['eventmsgtype'] ==4 ) & (~df['homedescription'].isna())
+    away_rebound = (df['eventmsgtype'] ==4 ) & (~df['homedescription'].isna())
+
+
     made_last_ft_pattern = r'(?:1 of 1|2 of 2|3 of 3).*PTS'
     visitor_poss_filter = (
     ((df.rebound_type == 'DRB') & ~(df.homedescription.isna())) | # home team drb means visitor poss ends
-    ((df.eventmsgtype == 4) & (df.eventmsgactiontype==1) & (~df.homedescription.isna())) | # team rebound
+    ((df.eventmsgtype == 4) & (df.player1_name.isna()) & (df.visitordescription.isna())) | # team rebound
     (df.homedescription.str.contains('STEAL',na=False)) | # home team steal means visitor poss ends
     ((df.eventmsgtype==1) & ~(df.visitordescription.isna())) | # visitor team makes shot means visitor poss ends
     ((df.eventmsgtype==3) & df.visitordescription.str.contains(made_last_ft_pattern)) | #visitor team MAKES last ft means poss ends
-    ((df.eventmsgtype == 5) & (df.homedescription.isna())) #unforced visitor turnover
+    ((df.eventmsgtype == 5) & (df.homedescription.isna())) |#unforced visitor turnover
+    (home_rebound & missed_last_away_shot)
     ) 
     home_poss_filter = (
     ((df.rebound_type == 'DRB') & ~(df.visitordescription.isna())) | # home team drb means visitor poss ends
-    ((df.eventmsgtype == 4) & (df.eventmsgactiontype==1) & (~df.visitordescription.isna())) |
+    ((df.eventmsgtype == 4) & (df.player1_name.isna()) & (df.homedescription.isna())) |
     (df.visitordescription.str.contains('STEAL',na=False)) |
     ((df.eventmsgtype==1) & ~(df.homedescription.isna())) |
     ((df.eventmsgtype==3) & df.homedescription.str.contains(made_last_ft_pattern)) |
-    ((df.eventmsgtype == 5) & (df.visitordescription.isna()))
+    ((df.eventmsgtype == 5) & (df.visitordescription.isna()))|
+    (away_rebound & missed_last_home_shot)
     ) 
 
     df['home_poss'],df['away_poss'] = 0,0
@@ -95,6 +103,7 @@ def get_possession_counts(df) -> pd.DataFrame:
     return df
 
 def get_time_credit(df):
+    df = df.loc[(~df.homedescription.str.contains('SUB',na=False)) & (~df.visitordescription.str.contains('SUB',na=False))]
     game_id = df.game_id[0]
     box_score = pd.read_csv(f"pbp/box_scores/box_{game_id}.csv", index_col=0)
     box = box_score[["player_id", "player_name"]].values.tolist()
@@ -196,14 +205,41 @@ def get_team_names(results,game_id):
 import os
 
 #for file in ['pbp/pbp_raw/0022300142_pbp.csv']:
-raw_pbp_paths = glob(f'.\\pbp/pbp_raw/*')
-for file in raw_pbp_paths:
-    df = get_raw_pbp(file)
-    game_id = df['game_id'].iloc[0]
+
+game_ids = pd.read_csv('pbp/game_ids.csv',dtype={'game_id':'str'})
+
+def prod():
+    for n in range(len(game_ids)):  #range(len(game_ids)):
+        game_id = game_ids.loc[n,'game_id']
+        raw_pbp_path = f'pbp/pbp_raw/{game_id}_pbp.csv'
+        event_path = f'pbp/pbp_events/pbp_events_{game_id}.csv'
+        if not os.path.isfile(event_path):
+            print(game_id,'Processing')
+            df = get_raw_pbp(raw_pbp_path)
+            game_id = df['game_id'].iloc[0]
+            df = get_rebound_type(df)
+            df = get_possession_counts(df)
+            results = aggregate_stats(df)
+            results = get_team_names(results,game_id)
+            df.to_csv(f'pbp/parsed_pbp/transformed_{game_id}.csv')
+            results.to_csv(f'pbp/pbp_events/pbp_events_{game_id}.csv')
+        else:
+            print(f'{game_id} already processed')
+    return
+
+def test_game_id(game_id):
+    raw_pbp_path = f'pbp/pbp_raw/{game_id}_pbp.csv'
+    print(game_id,'Processing')
+    df = get_raw_pbp(raw_pbp_path)
     df = get_rebound_type(df)
     df = get_possession_counts(df)
     results = aggregate_stats(df)
     results = get_team_names(results,game_id)
+    transformed_path = f'pbp/parsed_pbp/transformed_{game_id}'
     df.to_csv(f'pbp/parsed_pbp/transformed_{game_id}.csv')
     results.to_csv(f'pbp/pbp_events/pbp_events_{game_id}.csv')
-    print(game_id)
+    os.system(f"start EXCEL.EXE {transformed_path}")
+    return
+
+prod()
+#test_game_id('0022200002')
