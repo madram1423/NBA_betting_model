@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3c076a1-ba28-492d-baef-b49060c433ea" name="Changes" comment="" />
+    <list default="true" id="a3c076a1-ba28-492d-baef-b49060c433ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/box_failed_ids.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/failed_ids.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/data/current_standings.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/failed_ids.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/get_scores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/leaderboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/lineup_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/parsed_pbp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/play_creds.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gamelog_scrape copy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/acronyms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantasy_compare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fantasy_compare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_logs/data_2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/game_logs/data_2024.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/game.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/game_ids.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pbp/game_ids.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/get_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/pbp/get_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/lineup_attr.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pbp/lineup_attr.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/parse_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/pbp/parse_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/pbp_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbp/stat_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend_finder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/trend_finder.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,20 +37,20 @@
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
-  "associatedIndex": -1
+  "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2TyrywT0eKSqpBd5GmobM6WMmQc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

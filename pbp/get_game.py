@@ -2,10 +2,30 @@ import requests
 import json
 import pandas as pd
 import numpy as np
-import datetime as dt
 import os.path
-import os
-import logging
+import datetime as dt
+
+def fetch_game_ids(years) -> pd.DataFrame:
+    df = pd.DataFrame()
+    for year in years:
+        url = f'https://stats.nba.com/stats/leaguegamelog?Counter=1000&DateFrom=&DateTo=&Direction=DESC&ISTRound=&LeagueID=00&PlayerOrTeam=T&Season=20{year-1}-{year}&SeasonType=Regular%20Season&Sorter=DATE'
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64)', 'x-nba-stats-origin': 'stats', 'x-nba-stats-token': 'true', 'Host':'stats.nba.com', 'Referer':f'https://www.nba.com/'}
+        r= requests.get(url, headers=headers, timeout = 7)
+        data = json.loads(r.text)
+        games = data['resultSets'][0]['rowSet']
+        ids = [[info[4],info[5],info[6].split(' @ ')[0],info[6].split(' @ ')[1]] for info in games if '@' in info[6]]
+        ids = sorted(ids)
+        temp_df = pd.DataFrame.from_dict(ids)
+        temp_df.columns=[['game_id','date','home','away']]
+        temp_df['season'] = year
+        if df.empty:
+            df = temp_df.copy(deep=True)
+        else:
+            df = pd.concat((df,temp_df))
+    df
+    df['game_id'] = df['game_id'].astype(str)
+    df.to_csv('pbp/game_ids.csv',index=False)
+    return df
 
 def get_box_score(box_url,headers,game_id):
 
@@ -145,12 +165,16 @@ class Game():
         self.pbp['h_lineup'] = self.pbp['h_lineup'].apply(lambda x: tuple(x))
         return 
 
-
-game_ids = pd.read_csv('pbp/game_ids.csv',dtype={'game_id':'str'})
+update_date = dt.date.fromtimestamp(os.path.getmtime('pbp/game_ids.csv'))
+if update_date != dt.date.today():
+    game_ids = fetch_game_ids(range(20,25))
+    game_ids = game_ids.loc[game_ids.season > 22].reset_index(drop=True)
+else:
+    game_ids = pd.read_csv('pbp/game_ids.csv',dtype={'game_id':'str'})
+    game_ids = game_ids.loc[game_ids.season > 22].reset_index(drop=True)
 season_type = 'Regular+Season'
 
-failed = []
-for n in range(len(game_ids)):  #range(len(game_ids)):
+for n in range(len(game_ids)):
     game_id = game_ids.loc[n,'game_id']
     path = f'pbp/pbp_raw/{game_id}_pbp.csv'
     year = game_ids.loc[n,'season']
@@ -167,8 +191,4 @@ for n in range(len(game_ids)):  #range(len(game_ids)):
             print(f'{game_id} is done')
             x.pbp.to_csv(f'pbp/pbp_raw/{game_id}_pbp.csv')
         except:
-            logging.exception('')
-            failed.append(game_id)
-            print(game_id+'failed')
-failed_ids = pd.DataFrame(failed)
-failed_ids.to_csv('failed_ids.csv',index=False)
+            print(game_id+' failed') 
