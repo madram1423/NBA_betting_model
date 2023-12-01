@@ -1,4 +1,4 @@
-,player,player_id,points,price,side,stat,book,league_id,event_time,prob,opp,Team,time
+,player,player_id,points,price,side,stat,book,league_id,event_time,prob,opp,Team,scrape_time
 0,D'Andre Swift,38710,64.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-29T17:00:00,0.574468085106383,WAS,PHI,2023-10-23 16:04:00
 1,D'Andre Swift,38710,66.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-29T17:00:00,0.574468085106383,WAS,PHI,2023-10-23 16:04:00
 2,D'Andre Swift,38710,64.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-29T17:00:00,0.574468085106383,WAS,PHI,2023-10-23 16:04:00

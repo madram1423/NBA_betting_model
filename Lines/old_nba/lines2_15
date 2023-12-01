@@ -1,599 +1,599 @@
-,Player,Team,Line,Stat,id,Date
-0,Nikola Vucevic,IND,1.5,3P,3-PT Made,2023-02-15
-1,Nikola Vucevic,IND,34.5,PTS+TRB,Pts+Rebs,2023-02-15
-2,Nikola Vucevic,IND,1.5,TOV,Turnovers,2023-02-15
-3,Nikola Vucevic,IND,0.5,BLK,Blocked Shots,2023-02-15
-4,Nikola Vucevic,IND,12.5,TRB,Rebounds,2023-02-15
-5,Nikola Vucevic,IND,21.5,PTS,Points,2023-02-15
-7,Nikola Vucevic,IND,38.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-8,Nikola Vucevic,IND,1.5,BLK+STL,Blks+Stls,2023-02-15
-9,Nikola Vucevic,IND,16.5,TRB+AST,Rebs+Asts,2023-02-15
-10,Nikola Vucevic,IND,26.0,PTS+AST,Pts+Asts,2023-02-15
-11,Tyrese Haliburton,CHI,30.5,PTS+AST,Pts+Asts,2023-02-15
-12,Tyrese Haliburton,CHI,2.5,3P,3-PT Made,2023-02-15
-13,Tyrese Haliburton,CHI,24.5,PTS+TRB,Pts+Rebs,2023-02-15
-14,Tyrese Haliburton,CHI,20.5,PTS,Points,2023-02-15
-15,Tyrese Haliburton,CHI,1.5,STL,STL,2023-02-15
-16,Tyrese Haliburton,CHI,2.5,TOV,Turnovers,2023-02-15
-17,Tyrese Haliburton,CHI,9.5,AST,Assists,2023-02-15
-19,Tyrese Haliburton,CHI,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-20,Zach LaVine,IND,4.0,AST,Assists,2023-02-15
-21,Zach LaVine,IND,5.5,TRB,Rebounds,2023-02-15
-22,Zach LaVine,IND,37.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-23,Zach LaVine,IND,3.0,TOV,Turnovers,2023-02-15
-24,Zach LaVine,IND,9.5,TRB+AST,Rebs+Asts,2023-02-15
-25,Zach LaVine,IND,32.5,PTS+AST,Pts+Asts,2023-02-15
-26,Zach LaVine,IND,27.5,PTS,Points,2023-02-15
-27,Zach LaVine,IND,2.5,3P,3-PT Made,2023-02-15
-28,Zach LaVine,IND,33.5,PTS+TRB,Pts+Rebs,2023-02-15
-30,Buddy Hield,CHI,7.5,TRB+AST,Rebs+Asts,2023-02-15
-31,Buddy Hield,CHI,1.5,TOV,Turnovers,2023-02-15
-32,Buddy Hield,CHI,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-33,Buddy Hield,CHI,18.5,PTS+AST,Pts+Asts,2023-02-15
-35,Buddy Hield,CHI,16.0,PTS,Points,2023-02-15
-36,Buddy Hield,CHI,4.5,TRB,Rebounds,2023-02-15
-37,Buddy Hield,CHI,20.5,PTS+TRB,Pts+Rebs,2023-02-15
-38,Ayo Dosunmu,IND,10.5,PTS,Points,2023-02-15
-39,Ayo Dosunmu,IND,1.5,TOV,Turnovers,2023-02-15
-40,Ayo Dosunmu,IND,13.5,PTS+TRB,Pts+Rebs,2023-02-15
-41,Ayo Dosunmu,IND,14.0,PTS+AST,Pts+Asts,2023-02-15
-43,Ayo Dosunmu,IND,17.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-44,Ayo Dosunmu,IND,4.0,AST,Assists,2023-02-15
-45,Aaron Nesmith,CHI,0.5,STL,STL,2023-02-15
-46,Aaron Nesmith,CHI,4.0,TRB,Rebounds,2023-02-15
-47,Aaron Nesmith,CHI,11.5,PTS+AST,Pts+Asts,2023-02-15
-48,Aaron Nesmith,CHI,15.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-50,Aaron Nesmith,CHI,10.5,PTS,Points,2023-02-15
-51,Aaron Nesmith,CHI,14.5,PTS+TRB,Pts+Rebs,2023-02-15
-52,Patrick Williams,IND,13.5,PTS+AST,Pts+Asts,2023-02-15
-54,Patrick Williams,IND,17.5,PTS+TRB,Pts+Rebs,2023-02-15
-55,Patrick Williams,IND,1.5,BLK+STL,Blks+Stls,2023-02-15
-56,Patrick Williams,IND,5.0,TRB,Rebounds,2023-02-15
-57,Patrick Williams,IND,19.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-58,Patrick Williams,IND,12.5,PTS,Points,2023-02-15
-59,Bennedict Mathurin,CHI,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-60,Bennedict Mathurin,CHI,4.5,TRB,Rebounds,2023-02-15
-61,Bennedict Mathurin,CHI,16.5,PTS,Points,2023-02-15
-62,Bennedict Mathurin,CHI,18.5,PTS+AST,Pts+Asts,2023-02-15
-63,Bennedict Mathurin,CHI,21.5,PTS+TRB,Pts+Rebs,2023-02-15
-64,Andrew Nembhard,CHI,7.5,PTS,Points,2023-02-15
-65,Andrew Nembhard,CHI,14.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-66,Andrew Nembhard,CHI,11.5,PTS+AST,Pts+Asts,2023-02-15
-67,Andrew Nembhard,CHI,3.5,AST,Assists,2023-02-15
-68,Andrew Nembhard,CHI,10.5,PTS+TRB,Pts+Rebs,2023-02-15
-69,Andrew Nembhard,CHI,2.5,TRB,Rebounds,2023-02-15
-70,Tyrese Haliburton,CHI,2.5,FT,Free Throws Made,2023-02-15
-71,Zach LaVine,IND,6.0,FT,Free Throws Made,2023-02-15
-72,Buddy Hield,CHI,0.5,FT,Free Throws Made,2023-02-15
-73,Nikola Vucevic,IND,0.5,FT,Free Throws Made,2023-02-15
-74,Patrick Williams,IND,0.5,FT,Free Throws Made,2023-02-15
-75,Coby White,IND,0.5,FT,Free Throws Made,2023-02-15
-76,Andre Drummond,IND,0.5,FT,Free Throws Made,2023-02-15
-77,Ayo Dosunmu,IND,0.5,FT,Free Throws Made,2023-02-15
-78,Gordon Hayward,SAS,1.5,TOV,Turnovers,2023-02-15
-79,Gordon Hayward,SAS,4.5,TRB,Rebounds,2023-02-15
-80,Gordon Hayward,SAS,19.5,PTS+AST,Pts+Asts,2023-02-15
-81,Gordon Hayward,SAS,19.5,PTS+TRB,Pts+Rebs,2023-02-15
-82,Gordon Hayward,SAS,15.5,PTS,Points,2023-02-15
-83,Gordon Hayward,SAS,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-85,Jeremy Sochan,CHA,13.5,PTS,Points,2023-02-15
-86,Jeremy Sochan,CHA,20.5,PTS+TRB,Pts+Rebs,2023-02-15
-87,Jeremy Sochan,CHA,9.5,TRB+AST,Rebs+Asts,2023-02-15
-89,Jeremy Sochan,CHA,0.5,STL,STL,2023-02-15
-90,Jeremy Sochan,CHA,6.0,TRB,Rebounds,2023-02-15
-91,Jeremy Sochan,CHA,17.5,PTS+AST,Pts+Asts,2023-02-15
-92,Jeremy Sochan,CHA,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-93,LaMelo Ball,SAS,7.5,TRB,Rebounds,2023-02-15
-94,LaMelo Ball,SAS,1.5,STL,STL,2023-02-15
-96,LaMelo Ball,SAS,9.5,AST,Assists,2023-02-15
-97,LaMelo Ball,SAS,34.5,PTS+AST,Pts+Asts,2023-02-15
-98,LaMelo Ball,SAS,16.5,TRB+AST,Rebs+Asts,2023-02-15
-99,LaMelo Ball,SAS,32.5,PTS+TRB,Pts+Rebs,2023-02-15
-100,LaMelo Ball,SAS,25.5,PTS,Points,2023-02-15
-101,LaMelo Ball,SAS,42.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-102,Keldon Johnson,CHA,5.0,TRB,Rebounds,2023-02-15
-103,Keldon Johnson,CHA,29.5,PTS+TRB,Pts+Rebs,2023-02-15
-104,Keldon Johnson,CHA,24.5,PTS,Points,2023-02-15
-106,Keldon Johnson,CHA,32.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-107,Keldon Johnson,CHA,1.5,3P,3-PT Made,2023-02-15
-108,Keldon Johnson,CHA,27.5,PTS+AST,Pts+Asts,2023-02-15
-109,P.J. Washington,SAS,21.5,PTS+TRB,Pts+Rebs,2023-02-15
-110,P.J. Washington,SAS,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-111,P.J. Washington,SAS,5.5,TRB,Rebounds,2023-02-15
-112,P.J. Washington,SAS,2.5,AST,Assists,2023-02-15
-113,P.J. Washington,SAS,7.5,TRB+AST,Rebs+Asts,2023-02-15
-114,P.J. Washington,SAS,18.5,PTS+AST,Pts+Asts,2023-02-15
-115,P.J. Washington,SAS,15.5,PTS,Points,2023-02-15
-117,Malaki Branham,CHA,20.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-118,Malaki Branham,CHA,17.5,PTS+TRB,Pts+Rebs,2023-02-15
-119,Malaki Branham,CHA,13.5,PTS,Points,2023-02-15
-120,Malaki Branham,CHA,16.5,PTS+AST,Pts+Asts,2023-02-15
-121,Malaki Branham,CHA,1.5,3P,3-PT Made,2023-02-15
-123,Terry Rozier,SAS,32.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-124,Terry Rozier,SAS,4.0,TRB,Rebounds,2023-02-15
-125,Terry Rozier,SAS,22.5,PTS,Points,2023-02-15
-126,Terry Rozier,SAS,4.5,AST,Assists,2023-02-15
-127,Terry Rozier,SAS,27.5,PTS+AST,Pts+Asts,2023-02-15
-129,Terry Rozier,SAS,27.5,PTS+TRB,Pts+Rebs,2023-02-15
-130,Terry Rozier,SAS,1.5,BLK+STL,Blks+Stls,2023-02-15
-131,Terry Rozier,SAS,2.5,3P,3-PT Made,2023-02-15
-132,Zach Collins,CHA,0.5,BLK,Blocked Shots,2023-02-15
-133,Zach Collins,CHA,23.5,PTS+TRB,Pts+Rebs,2023-02-15
-134,Zach Collins,CHA,18.5,PTS+AST,Pts+Asts,2023-02-15
-135,Zach Collins,CHA,8.5,TRB,Rebounds,2023-02-15
-136,Zach Collins,CHA,14.5,PTS,Points,2023-02-15
-137,Zach Collins,CHA,3.5,AST,Assists,2023-02-15
-138,Zach Collins,CHA,0.5,STL,STL,2023-02-15
-139,Zach Collins,CHA,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-140,Zach Collins,CHA,12.5,TRB+AST,Rebs+Asts,2023-02-15
-141,Zach Collins,CHA,0.5,3P,3-PT Made,2023-02-15
-144,Mark Williams,SAS,0.5,AST,Assists,2023-02-15
-145,Mark Williams,SAS,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-146,Mark Williams,SAS,21.5,PTS+TRB,Pts+Rebs,2023-02-15
-147,Mark Williams,SAS,9.0,TRB,Rebounds,2023-02-15
-148,Mark Williams,SAS,2.5,BLK+STL,Blks+Stls,2023-02-15
-149,Mark Williams,SAS,12.5,PTS,Points,2023-02-15
-150,Nick Richards,SAS,6.0,TRB,Rebounds,2023-02-15
-151,Nick Richards,SAS,7.5,PTS,Points,2023-02-15
-152,Dennis Smith Jr.,SAS,9.5,PTS,Points,2023-02-15
-153,LaMelo Ball,SAS,2.5,FT,Free Throws Made,2023-02-15
-154,Keldon Johnson,CHA,5.0,FT,Free Throws Made,2023-02-15
-155,Terry Rozier,SAS,3.5,FT,Free Throws Made,2023-02-15
-156,Jeremy Sochan,CHA,1.5,FT,Free Throws Made,2023-02-15
-157,Gordon Hayward,SAS,2.5,FT,Free Throws Made,2023-02-15
-158,P.J. Washington,SAS,1.5,FT,Free Throws Made,2023-02-15
-159,Trae Young,NYK,10.5,AST,Assists,2023-02-15
-160,Trae Young,NYK,13.5,TRB+AST,Rebs+Asts,2023-02-15
-162,Trae Young,NYK,39.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-163,Trae Young,NYK,36.5,PTS+AST,Pts+Asts,2023-02-15
-164,Trae Young,NYK,26.5,PTS,Points,2023-02-15
-165,Trae Young,NYK,29.5,PTS+TRB,Pts+Rebs,2023-02-15
-166,Jalen Brunson,ATL,3.5,TRB,Rebounds,2023-02-15
-168,Jalen Brunson,ATL,35.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-169,Jalen Brunson,ATL,31.5,PTS+AST,Pts+Asts,2023-02-15
-170,Jalen Brunson,ATL,5.5,AST,Assists,2023-02-15
-171,Jalen Brunson,ATL,26.5,PTS,Points,2023-02-15
-172,Jalen Brunson,ATL,29.5,PTS+TRB,Pts+Rebs,2023-02-15
-173,Jalen Brunson,ATL,9.5,TRB+AST,Rebs+Asts,2023-02-15
-175,Dejounte Murray,NYK,1.5,BLK+STL,Blks+Stls,2023-02-15
-176,Dejounte Murray,NYK,31.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-177,Dejounte Murray,NYK,25.5,PTS+TRB,Pts+Rebs,2023-02-15
-178,Dejounte Murray,NYK,5.5,AST,Assists,2023-02-15
-179,Dejounte Murray,NYK,11.5,TRB+AST,Rebs+Asts,2023-02-15
-180,Dejounte Murray,NYK,20.5,PTS,Points,2023-02-15
-181,Dejounte Murray,NYK,26.5,PTS+AST,Pts+Asts,2023-02-15
-182,Dejounte Murray,NYK,5.5,TRB,Rebounds,2023-02-15
-183,Julius Randle,ATL,31.5,PTS+AST,Pts+Asts,2023-02-15
-184,Julius Randle,ATL,26.5,PTS,Points,2023-02-15
-185,Julius Randle,ATL,4.5,AST,Assists,2023-02-15
-186,Julius Randle,ATL,37.5,PTS+TRB,Pts+Rebs,2023-02-15
-187,Julius Randle,ATL,0.5,STL,STL,2023-02-15
-188,Julius Randle,ATL,10.5,TRB,Rebounds,2023-02-15
-189,Julius Randle,ATL,41.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-190,Julius Randle,ATL,14.5,TRB+AST,Rebs+Asts,2023-02-15
-192,De'Andre Hunter,NYK,21.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-193,De'Andre Hunter,NYK,19.5,PTS+TRB,Pts+Rebs,2023-02-15
-195,De'Andre Hunter,NYK,0.5,STL,STL,2023-02-15
-196,De'Andre Hunter,NYK,16.5,PTS+AST,Pts+Asts,2023-02-15
-197,De'Andre Hunter,NYK,15.5,PTS,Points,2023-02-15
-198,De'Andre Hunter,NYK,1.5,3P,3-PT Made,2023-02-15
-199,De'Andre Hunter,NYK,4.5,TRB,Rebounds,2023-02-15
-200,RJ Barrett,ATL,0.5,BLK+STL,Blks+Stls,2023-02-15
-201,RJ Barrett,ATL,25.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-202,RJ Barrett,ATL,18.5,PTS,Points,2023-02-15
-204,RJ Barrett,ATL,4.5,TRB,Rebounds,2023-02-15
-205,RJ Barrett,ATL,21.5,PTS+AST,Pts+Asts,2023-02-15
-206,RJ Barrett,ATL,23.5,PTS+TRB,Pts+Rebs,2023-02-15
-207,Clint Capela,NYK,10.5,TRB,Rebounds,2023-02-15
-208,Clint Capela,NYK,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-209,Clint Capela,NYK,23.5,PTS+TRB,Pts+Rebs,2023-02-15
-210,Clint Capela,NYK,0.5,STL,STL,2023-02-15
-211,Clint Capela,NYK,12.5,PTS,Points,2023-02-15
-213,Julius Randle,ATL,5.0,FT,Free Throws Made,2023-02-15
-214,Trae Young,NYK,7.5,FT,Free Throws Made,2023-02-15
-215,Jalen Brunson,ATL,5.5,FT,Free Throws Made,2023-02-15
-216,Dejounte Murray,NYK,2.0,FT,Free Throws Made,2023-02-15
-217,RJ Barrett,ATL,3.0,FT,Free Throws Made,2023-02-15
-218,Onyeka Okongwu,NYK,0.5,FT,Free Throws Made,2023-02-15
-219,Josh Hart,ATL,2.5,FT,Free Throws Made,2023-02-15
-220,Quentin Grimes,ATL,0.5,FT,Free Throws Made,2023-02-15
-222,Bam Adebayo,BKN,22.5,PTS,Points,2023-02-15
-223,Bam Adebayo,BKN,36.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-224,Bam Adebayo,BKN,10.5,TRB,Rebounds,2023-02-15
-225,Bam Adebayo,BKN,25.5,PTS+AST,Pts+Asts,2023-02-15
-226,Bam Adebayo,BKN,33.5,PTS+TRB,Pts+Rebs,2023-02-15
-227,Bam Adebayo,BKN,0.5,BLK,Blocked Shots,2023-02-15
-228,Bam Adebayo,BKN,2.5,TOV,Turnovers,2023-02-15
-229,Mikal Bridges,MIA,1.5,TOV,Turnovers,2023-02-15
-230,Mikal Bridges,MIA,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-231,Mikal Bridges,MIA,21.5,PTS+TRB,Pts+Rebs,2023-02-15
-232,Mikal Bridges,MIA,17.5,PTS,Points,2023-02-15
-233,Mikal Bridges,MIA,20.5,PTS+AST,Pts+Asts,2023-02-15
-234,Mikal Bridges,MIA,1.5,BLK+STL,Blks+Stls,2023-02-15
-235,Mikal Bridges,MIA,1.5,3P,3-PT Made,2023-02-15
-236,Mikal Bridges,MIA,4.0,TRB,Rebounds,2023-02-15
-238,Jimmy Butler,BKN,28.5,PTS+TRB,Pts+Rebs,2023-02-15
-240,Jimmy Butler,BKN,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-241,Jimmy Butler,BKN,22.5,PTS,Points,2023-02-15
-242,Jimmy Butler,BKN,28.5,PTS+AST,Pts+Asts,2023-02-15
-243,Jimmy Butler,BKN,12.5,TRB+AST,Rebs+Asts,2023-02-15
-244,Jimmy Butler,BKN,6.5,TRB,Rebounds,2023-02-15
-245,Jimmy Butler,BKN,6.0,AST,Assists,2023-02-15
-246,Nic Claxton,MIA,20.5,PTS+TRB,Pts+Rebs,2023-02-15
-247,Nic Claxton,MIA,21.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-248,Nic Claxton,MIA,9.5,TRB,Rebounds,2023-02-15
-249,Nic Claxton,MIA,12.5,PTS+AST,Pts+Asts,2023-02-15
-250,Nic Claxton,MIA,10.5,TRB+AST,Rebs+Asts,2023-02-15
-251,Nic Claxton,MIA,11.5,PTS,Points,2023-02-15
-253,Gabe Vincent,BKN,2.5,3P,3-PT Made,2023-02-15
-254,Gabe Vincent,BKN,3.5,AST,Assists,2023-02-15
-255,Gabe Vincent,BKN,17.5,PTS+AST,Pts+Asts,2023-02-15
-256,Gabe Vincent,BKN,16.5,PTS+TRB,Pts+Rebs,2023-02-15
-257,Gabe Vincent,BKN,20.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-259,Gabe Vincent,BKN,13.5,PTS,Points,2023-02-15
-260,Spencer Dinwiddie,MIA,8.5,TRB+AST,Rebs+Asts,2023-02-15
-262,Spencer Dinwiddie,MIA,5.0,AST,Assists,2023-02-15
-263,Spencer Dinwiddie,MIA,23.5,PTS+AST,Pts+Asts,2023-02-15
-264,Spencer Dinwiddie,MIA,18.5,PTS,Points,2023-02-15
-265,Spencer Dinwiddie,MIA,22.5,PTS+TRB,Pts+Rebs,2023-02-15
-266,Spencer Dinwiddie,MIA,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-267,Caleb Martin,BKN,5.5,TRB,Rebounds,2023-02-15
-269,Caleb Martin,BKN,17.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-270,Caleb Martin,BKN,11.5,PTS+AST,Pts+Asts,2023-02-15
-271,Caleb Martin,BKN,9.5,PTS,Points,2023-02-15
-272,Caleb Martin,BKN,7.0,TRB+AST,Rebs+Asts,2023-02-15
-273,Caleb Martin,BKN,15.5,PTS+TRB,Pts+Rebs,2023-02-15
-275,Cameron Johnson,MIA,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-276,Cameron Johnson,MIA,12.5,PTS,Points,2023-02-15
-277,Cameron Johnson,MIA,4.0,TRB,Rebounds,2023-02-15
-278,Cameron Johnson,MIA,16.5,PTS+TRB,Pts+Rebs,2023-02-15
-279,Cameron Johnson,MIA,14.5,PTS+AST,Pts+Asts,2023-02-15
-280,Cameron Johnson,MIA,1.5,AST,Assists,2023-02-15
-281,Max Strus,BKN,7.5,TRB+AST,Rebs+Asts,2023-02-15
-282,Max Strus,BKN,4.0,TRB,Rebounds,2023-02-15
-283,Max Strus,BKN,19.5,PTS+TRB,Pts+Rebs,2023-02-15
-284,Max Strus,BKN,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-285,Max Strus,BKN,18.5,PTS+AST,Pts+Asts,2023-02-15
-287,Max Strus,BKN,15.5,PTS,Points,2023-02-15
-288,Dorian Finney-Smith,MIA,5.0,TRB,Rebounds,2023-02-15
-290,Dorian Finney-Smith,MIA,0.5,STL,STL,2023-02-15
-291,Dorian Finney-Smith,MIA,1.5,3P,3-PT Made,2023-02-15
-292,Dorian Finney-Smith,MIA,8.5,PTS,Points,2023-02-15
-293,Dorian Finney-Smith,MIA,1.5,AST,Assists,2023-02-15
-294,Dorian Finney-Smith,MIA,15.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-295,Dorian Finney-Smith,MIA,13.5,PTS+TRB,Pts+Rebs,2023-02-15
-296,Dorian Finney-Smith,MIA,10.0,PTS+AST,Pts+Asts,2023-02-15
-297,Cam Thomas,MIA,13.5,PTS+TRB,Pts+Rebs,2023-02-15
-298,Cam Thomas,MIA,13.5,PTS+AST,Pts+Asts,2023-02-15
-299,Cam Thomas,MIA,11.5,PTS,Points,2023-02-15
-300,Jimmy Butler,BKN,7.0,FT,Free Throws Made,2023-02-15
-301,Spencer Dinwiddie,MIA,5.0,FT,Free Throws Made,2023-02-15
-302,Bam Adebayo,BKN,4.0,FT,Free Throws Made,2023-02-15
-303,Max Strus,BKN,0.5,FT,Free Throws Made,2023-02-15
-304,Mikal Bridges,MIA,2.5,FT,Free Throws Made,2023-02-15
-305,Caleb Martin,BKN,0.5,FT,Free Throws Made,2023-02-15
-306,Bojan Bogdanovic,BOS,0.5,BLK+STL,Blks+Stls,2023-02-15
-308,Bojan Bogdanovic,BOS,23.5,PTS+AST,Pts+Asts,2023-02-15
-309,Bojan Bogdanovic,BOS,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-310,Bojan Bogdanovic,BOS,3.5,TRB,Rebounds,2023-02-15
-311,Bojan Bogdanovic,BOS,21.5,PTS,Points,2023-02-15
-312,Bojan Bogdanovic,BOS,25.5,PTS+TRB,Pts+Rebs,2023-02-15
-314,Jayson Tatum,DET,44.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-315,Jayson Tatum,DET,2.5,TOV,Turnovers,2023-02-15
-316,Jayson Tatum,DET,35.5,PTS+AST,Pts+Asts,2023-02-15
-317,Jayson Tatum,DET,31.0,PTS,Points,2023-02-15
-318,Jayson Tatum,DET,4.0,AST,Assists,2023-02-15
-319,Jayson Tatum,DET,13.5,TRB+AST,Rebs+Asts,2023-02-15
-320,Jayson Tatum,DET,9.0,TRB,Rebounds,2023-02-15
-321,Jayson Tatum,DET,40.5,PTS+TRB,Pts+Rebs,2023-02-15
-322,Jaden Ivey,BOS,18.5,PTS+TRB,Pts+Rebs,2023-02-15
-323,Jaden Ivey,BOS,14.5,PTS,Points,2023-02-15
-324,Jaden Ivey,BOS,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-326,Jaden Ivey,BOS,4.5,AST,Assists,2023-02-15
-327,Jaden Ivey,BOS,19.5,PTS+AST,Pts+Asts,2023-02-15
-328,Jaden Ivey,BOS,8.0,TRB+AST,Rebs+Asts,2023-02-15
-329,Derrick White,DET,22.5,PTS+TRB,Pts+Rebs,2023-02-15
-330,Derrick White,DET,22.5,PTS+AST,Pts+Asts,2023-02-15
-332,Derrick White,DET,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-333,Derrick White,DET,4.5,AST,Assists,2023-02-15
-334,Derrick White,DET,4.5,TRB,Rebounds,2023-02-15
-335,Derrick White,DET,18.5,PTS,Points,2023-02-15
-336,Killian Hayes,BOS,5.0,AST,Assists,2023-02-15
-337,Killian Hayes,BOS,13.5,PTS+TRB,Pts+Rebs,2023-02-15
-338,Killian Hayes,BOS,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-339,Killian Hayes,BOS,16.5,PTS+AST,Pts+Asts,2023-02-15
-340,Killian Hayes,BOS,10.5,PTS,Points,2023-02-15
-341,Killian Hayes,BOS,2.5,TRB,Rebounds,2023-02-15
-343,Killian Hayes,BOS,7.5,TRB+AST,Rebs+Asts,2023-02-15
-344,Al Horford,DET,8.5,PTS,Points,2023-02-15
-345,Al Horford,DET,15.5,PTS+TRB,Pts+Rebs,2023-02-15
-346,Al Horford,DET,1.5,3P,3-PT Made,2023-02-15
-347,Al Horford,DET,6.0,TRB,Rebounds,2023-02-15
-348,Al Horford,DET,8.5,TRB+AST,Rebs+Asts,2023-02-15
-350,Al Horford,DET,11.5,PTS+AST,Pts+Asts,2023-02-15
-351,Jayson Tatum,DET,8.5,FT,Free Throws Made,2023-02-15
-352,Bojan Bogdanovic,BOS,5.0,FT,Free Throws Made,2023-02-15
-353,Derrick White,DET,1.5,FT,Free Throws Made,2023-02-15
-354,Jaden Ivey,BOS,3.5,FT,Free Throws Made,2023-02-15
-355,Marcus Smart,DET,0.5,FT,Free Throws Made,2023-02-15
-356,Jalen Duren,BOS,1.5,FT,Free Throws Made,2023-02-15
-357,Killian Hayes,BOS,0.5,FT,Free Throws Made,2023-02-15
-358,Darius Garland,PHI,20.5,PTS,Points,2023-02-15
-359,Darius Garland,PHI,23.5,PTS+TRB,Pts+Rebs,2023-02-15
-360,Darius Garland,PHI,30.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-361,Darius Garland,PHI,2.5,TRB,Rebounds,2023-02-15
-362,Darius Garland,PHI,7.5,AST,Assists,2023-02-15
-363,Darius Garland,PHI,27.5,PTS+AST,Pts+Asts,2023-02-15
-365,Joel Embiid,CLE,41.5,PTS+TRB,Pts+Rebs,2023-02-15
-366,Joel Embiid,CLE,13.5,TRB+AST,Rebs+Asts,2023-02-15
-367,Joel Embiid,CLE,44.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-368,Joel Embiid,CLE,10.0,TRB,Rebounds,2023-02-15
-370,Joel Embiid,CLE,2.5,BLK+STL,Blks+Stls,2023-02-15
-371,Joel Embiid,CLE,30.5,PTS,Points,2023-02-15
-372,Joel Embiid,CLE,34.5,PTS+AST,Pts+Asts,2023-02-15
-373,Donovan Mitchell,PHI,4.0,TRB,Rebounds,2023-02-15
-374,Donovan Mitchell,PHI,1.5,BLK+STL,Blks+Stls,2023-02-15
-375,Donovan Mitchell,PHI,30.5,PTS+AST,Pts+Asts,2023-02-15
-376,Donovan Mitchell,PHI,30.5,PTS+TRB,Pts+Rebs,2023-02-15
-377,Donovan Mitchell,PHI,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-378,Donovan Mitchell,PHI,2.5,TOV,Turnovers,2023-02-15
-380,Donovan Mitchell,PHI,4.5,AST,Assists,2023-02-15
-381,Donovan Mitchell,PHI,25.5,PTS,Points,2023-02-15
-382,James Harden,CLE,10.0,AST,Assists,2023-02-15
-383,James Harden,CLE,35.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-384,James Harden,CLE,1.5,BLK+STL,Blks+Stls,2023-02-15
-385,James Harden,CLE,19.5,PTS,Points,2023-02-15
-387,James Harden,CLE,5.0,TRB,Rebounds,2023-02-15
-388,James Harden,CLE,15.5,TRB+AST,Rebs+Asts,2023-02-15
-389,James Harden,CLE,30.5,PTS+AST,Pts+Asts,2023-02-15
-390,Isaac Okoro,PHI,10.5,PTS+TRB,Pts+Rebs,2023-02-15
-391,Evan Mobley,PHI,11.5,TRB+AST,Rebs+Asts,2023-02-15
-392,Evan Mobley,PHI,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-394,Evan Mobley,PHI,18.5,PTS+AST,Pts+Asts,2023-02-15
-395,Evan Mobley,PHI,15.5,PTS,Points,2023-02-15
-396,Evan Mobley,PHI,9.0,TRB,Rebounds,2023-02-15
-397,Evan Mobley,PHI,2.5,BLK+STL,Blks+Stls,2023-02-15
-398,Evan Mobley,PHI,25.5,PTS+TRB,Pts+Rebs,2023-02-15
-399,Evan Mobley,PHI,1.5,BLK,Blocked Shots,2023-02-15
-400,Tobias Harris,CLE,15.5,PTS+AST,Pts+Asts,2023-02-15
-401,Tobias Harris,CLE,18.5,PTS+TRB,Pts+Rebs,2023-02-15
-402,Tobias Harris,CLE,5.0,TRB,Rebounds,2023-02-15
-403,Tobias Harris,CLE,7.5,TRB+AST,Rebs+Asts,2023-02-15
-404,Tobias Harris,CLE,20.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-406,Tobias Harris,CLE,13.5,PTS,Points,2023-02-15
-407,Jarrett Allen,PHI,16.5,PTS+AST,Pts+Asts,2023-02-15
-408,Jarrett Allen,PHI,15.0,PTS,Points,2023-02-15
-409,Jarrett Allen,PHI,26.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-411,Jarrett Allen,PHI,0.5,STL,STL,2023-02-15
-412,Jarrett Allen,PHI,11.5,TRB+AST,Rebs+Asts,2023-02-15
-413,Jarrett Allen,PHI,25.5,PTS+TRB,Pts+Rebs,2023-02-15
-414,Jarrett Allen,PHI,10.5,TRB,Rebounds,2023-02-15
-415,Isaac Okoro,PHI,7.5,PTS,Points,2023-02-15
-416,Isaac Okoro,PHI,12.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-418,Joel Embiid,CLE,8.5,FT,Free Throws Made,2023-02-15
-419,Donovan Mitchell,PHI,3.5,FT,Free Throws Made,2023-02-15
-420,James Harden,CLE,5.0,FT,Free Throws Made,2023-02-15
-421,Darius Garland,PHI,3.5,FT,Free Throws Made,2023-02-15
-422,Evan Mobley,PHI,2.5,FT,Free Throws Made,2023-02-15
-423,Tyrese Maxey,CLE,3.5,FT,Free Throws Made,2023-02-15
-424,Isaac Okoro,PHI,0.5,FT,Free Throws Made,2023-02-15
-425,Jarrett Allen,PHI,2.5,FT,Free Throws Made,2023-02-15
-426,Ricky Rubio,PHI,1.5,FT,Free Throws Made,2023-02-15
-427,Alperen Sengun,OKC,17.5,PTS,Points,2023-02-15
-428,Alperen Sengun,OKC,5.0,AST,Assists,2023-02-15
-429,Alperen Sengun,OKC,32.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-430,Alperen Sengun,OKC,22.5,PTS+AST,Pts+Asts,2023-02-15
-431,Alperen Sengun,OKC,9.5,TRB,Rebounds,2023-02-15
-433,Alperen Sengun,OKC,26.5,PTS+TRB,Pts+Rebs,2023-02-15
-434,Alperen Sengun,OKC,14.5,TRB+AST,Rebs+Asts,2023-02-15
-435,Jalen Williams,HOU,7.5,TRB+AST,Rebs+Asts,2023-02-15
-436,Jalen Williams,HOU,14.5,PTS,Points,2023-02-15
-437,Jalen Williams,HOU,0.5,BLK,Blocked Shots,2023-02-15
-438,Jalen Williams,HOU,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-439,Jalen Williams,HOU,17.5,PTS+AST,Pts+Asts,2023-02-15
-440,Jalen Williams,HOU,19.5,PTS+TRB,Pts+Rebs,2023-02-15
-442,Jalen Williams,HOU,1.5,TOV,Turnovers,2023-02-15
-443,Jalen Williams,HOU,4.5,TRB,Rebounds,2023-02-15
-444,Jabari Smith Jr.,OKC,1.5,BLK+STL,Blks+Stls,2023-02-15
-445,Jabari Smith Jr.,OKC,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-447,Jabari Smith Jr.,OKC,0.5,STL,STL,2023-02-15
-448,Jabari Smith Jr.,OKC,7.5,TRB,Rebounds,2023-02-15
-449,Jabari Smith Jr.,OKC,9.5,TRB+AST,Rebs+Asts,2023-02-15
-450,Jabari Smith Jr.,OKC,14.5,PTS,Points,2023-02-15
-451,Jabari Smith Jr.,OKC,16.5,PTS+AST,Pts+Asts,2023-02-15
-452,Jabari Smith Jr.,OKC,1.5,BLK+STL,Blks+Stls,2023-02-15
-453,Jabari Smith Jr.,OKC,1.5,3P,3-PT Made,2023-02-15
-454,Jabari Smith Jr.,OKC,1.5,TOV,Turnovers,2023-02-15
-455,Jabari Smith Jr.,OKC,22.5,PTS+TRB,Pts+Rebs,2023-02-15
-456,Josh Giddey,HOU,6.5,AST,Assists,2023-02-15
-457,Josh Giddey,HOU,18.5,PTS,Points,2023-02-15
-458,Josh Giddey,HOU,24.5,PTS+AST,Pts+Asts,2023-02-15
-459,Josh Giddey,HOU,31.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-461,Josh Giddey,HOU,13.5,TRB+AST,Rebs+Asts,2023-02-15
-462,Josh Giddey,HOU,7.5,TRB,Rebounds,2023-02-15
-463,Josh Giddey,HOU,25.5,PTS+TRB,Pts+Rebs,2023-02-15
-464,Jalen Green,OKC,23.5,PTS,Points,2023-02-15
-466,Jalen Green,OKC,27.5,PTS+AST,Pts+Asts,2023-02-15
-467,Jalen Green,OKC,4.0,TRB,Rebounds,2023-02-15
-468,Jalen Green,OKC,4.0,AST,Assists,2023-02-15
-469,Jalen Green,OKC,27.5,PTS+TRB,Pts+Rebs,2023-02-15
-470,Jalen Green,OKC,31.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-471,Shai Gilgeous-Alexander,HOU,10.5,TRB+AST,Rebs+Asts,2023-02-15
-472,Shai Gilgeous-Alexander,HOU,5.5,AST,Assists,2023-02-15
-473,Shai Gilgeous-Alexander,HOU,4.5,TRB,Rebounds,2023-02-15
-474,Shai Gilgeous-Alexander,HOU,43.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-476,Shai Gilgeous-Alexander,HOU,37.5,PTS+TRB,Pts+Rebs,2023-02-15
-477,Shai Gilgeous-Alexander,HOU,2.5,BLK+STL,Blks+Stls,2023-02-15
-478,Shai Gilgeous-Alexander,HOU,1.5,STL,STL,2023-02-15
-479,Shai Gilgeous-Alexander,HOU,38.5,PTS+AST,Pts+Asts,2023-02-15
-480,Shai Gilgeous-Alexander,HOU,32.5,PTS,Points,2023-02-15
-481,KJ Martin Jr.,OKC,6.5,TRB,Rebounds,2023-02-15
-482,KJ Martin Jr.,OKC,0.5,BLK,Blocked Shots,2023-02-15
-483,KJ Martin Jr.,OKC,0.5,STL,STL,2023-02-15
-484,KJ Martin Jr.,OKC,8.5,TRB+AST,Rebs+Asts,2023-02-15
-485,KJ Martin Jr.,OKC,16.5,PTS+AST,Pts+Asts,2023-02-15
-486,KJ Martin Jr.,OKC,21.5,PTS+TRB,Pts+Rebs,2023-02-15
-487,KJ Martin Jr.,OKC,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-489,KJ Martin Jr.,OKC,14.5,PTS,Points,2023-02-15
-490,Jae'Sean Tate,OKC,4.5,TRB,Rebounds,2023-02-15
-492,Jae'Sean Tate,OKC,16.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-493,Jae'Sean Tate,OKC,2.5,AST,Assists,2023-02-15
-494,Jae'Sean Tate,OKC,7.5,TRB+AST,Rebs+Asts,2023-02-15
-495,Jae'Sean Tate,OKC,9.5,PTS,Points,2023-02-15
-496,Jae'Sean Tate,OKC,12.5,PTS+AST,Pts+Asts,2023-02-15
-497,Jae'Sean Tate,OKC,13.5,PTS+TRB,Pts+Rebs,2023-02-15
-498,Shai Gilgeous-Alexander,HOU,9.5,FT,Free Throws Made,2023-02-15
-499,Jalen Green,OKC,3.5,FT,Free Throws Made,2023-02-15
-500,Josh Giddey,HOU,0.5,FT,Free Throws Made,2023-02-15
-501,Alperen Sengun,OKC,2.5,FT,Free Throws Made,2023-02-15
-502,Jabari Smith Jr.,OKC,2.5,FT,Free Throws Made,2023-02-15
-503,Collin Sexton,MEM,8.5,TRB+AST,Rebs+Asts,2023-02-15
-505,Collin Sexton,MEM,5.0,AST,Assists,2023-02-15
-506,Collin Sexton,MEM,18.5,PTS,Points,2023-02-15
-507,Collin Sexton,MEM,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-508,Collin Sexton,MEM,24.5,PTS+AST,Pts+Asts,2023-02-15
-509,Collin Sexton,MEM,22.5,PTS+TRB,Pts+Rebs,2023-02-15
-510,Desmond Bane,UTA,4.0,AST,Assists,2023-02-15
-511,Desmond Bane,UTA,5.0,TRB,Rebounds,2023-02-15
-512,Desmond Bane,UTA,21.5,PTS,Points,2023-02-15
-514,Desmond Bane,UTA,26.5,PTS+TRB,Pts+Rebs,2023-02-15
-515,Desmond Bane,UTA,9.5,TRB+AST,Rebs+Asts,2023-02-15
-516,Desmond Bane,UTA,30.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-517,Desmond Bane,UTA,1.5,BLK+STL,Blks+Stls,2023-02-15
-518,Desmond Bane,UTA,25.5,PTS+AST,Pts+Asts,2023-02-15
-519,Ja Morant,UTA,1.5,3P,3-PT Made,2023-02-15
-520,Ja Morant,UTA,6.5,TRB,Rebounds,2023-02-15
-521,Ja Morant,UTA,8.0,AST,Assists,2023-02-15
-522,Ja Morant,UTA,36.5,PTS+AST,Pts+Asts,2023-02-15
-523,Ja Morant,UTA,34.5,PTS+TRB,Pts+Rebs,2023-02-15
-525,Ja Morant,UTA,42.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-526,Ja Morant,UTA,14.5,TRB+AST,Rebs+Asts,2023-02-15
-527,Ja Morant,UTA,28.5,PTS,Points,2023-02-15
-528,Jaren Jackson Jr.,UTA,17.5,PTS+AST,Pts+Asts,2023-02-15
-529,Jaren Jackson Jr.,UTA,16.5,PTS,Points,2023-02-15
-530,Jaren Jackson Jr.,UTA,8.5,TRB+AST,Rebs+Asts,2023-02-15
-531,Jaren Jackson Jr.,UTA,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-532,Jaren Jackson Jr.,UTA,23.5,PTS+TRB,Pts+Rebs,2023-02-15
-534,Jaren Jackson Jr.,UTA,7.5,TRB,Rebounds,2023-02-15
-535,Jordan Clarkson,MEM,29.5,PTS+AST,Pts+Asts,2023-02-15
-536,Jordan Clarkson,MEM,29.5,PTS+TRB,Pts+Rebs,2023-02-15
-537,Jordan Clarkson,MEM,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-538,Jordan Clarkson,MEM,24.5,PTS,Points,2023-02-15
-539,Jordan Clarkson,MEM,4.5,TRB,Rebounds,2023-02-15
-540,Jordan Clarkson,MEM,9.5,TRB+AST,Rebs+Asts,2023-02-15
-542,Jordan Clarkson,MEM,5.0,AST,Assists,2023-02-15
-543,Kelly Olynyk,MEM,1.5,BLK+STL,Blks+Stls,2023-02-15
-544,Kelly Olynyk,MEM,11.5,PTS,Points,2023-02-15
-545,Jaren Jackson Jr.,UTA,4.0,BLK+STL,Blks+Stls,2023-02-15
-547,Kelly Olynyk,MEM,6.0,TRB,Rebounds,2023-02-15
-548,Kelly Olynyk,MEM,21.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-549,Kelly Olynyk,MEM,17.5,PTS+TRB,Pts+Rebs,2023-02-15
-550,Kelly Olynyk,MEM,15.5,PTS+AST,Pts+Asts,2023-02-15
-551,Kelly Olynyk,MEM,9.5,TRB+AST,Rebs+Asts,2023-02-15
-553,Walker Kessler,MEM,12.5,TRB+AST,Rebs+Asts,2023-02-15
-554,Walker Kessler,MEM,11.5,PTS,Points,2023-02-15
-555,Walker Kessler,MEM,22.5,PTS+TRB,Pts+Rebs,2023-02-15
-556,Dillon Brooks,UTA,14.5,PTS+TRB,Pts+Rebs,2023-02-15
-557,Dillon Brooks,UTA,2.5,TRB,Rebounds,2023-02-15
-558,Walker Kessler,MEM,11.0,TRB,Rebounds,2023-02-15
-559,Walker Kessler,MEM,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-560,Walker Kessler,MEM,2.5,BLK+STL,Blks+Stls,2023-02-15
-561,Walker Kessler,MEM,12.5,PTS+AST,Pts+Asts,2023-02-15
-562,Dillon Brooks,UTA,11.5,PTS,Points,2023-02-15
-564,Dillon Brooks,UTA,14.5,PTS+AST,Pts+Asts,2023-02-15
-565,Xavier Tillman,UTA,15.5,PTS+TRB,Pts+Rebs,2023-02-15
-566,Xavier Tillman,UTA,7.0,TRB,Rebounds,2023-02-15
-567,Xavier Tillman,UTA,10.5,PTS+AST,Pts+Asts,2023-02-15
-568,Xavier Tillman,UTA,8.5,PTS,Points,2023-02-15
-570,Ja Morant,UTA,6.0,FT,Free Throws Made,2023-02-15
-571,Jaren Jackson Jr.,UTA,3.5,FT,Free Throws Made,2023-02-15
-572,Jordan Clarkson,MEM,2.5,FT,Free Throws Made,2023-02-15
-573,Desmond Bane,UTA,2.5,FT,Free Throws Made,2023-02-15
-574,Collin Sexton,MEM,3.5,FT,Free Throws Made,2023-02-15
-575,Walker Kessler,MEM,1.5,FT,Free Throws Made,2023-02-15
-576,Kyrie Irving,DEN,36.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-577,Kyrie Irving,DEN,31.5,PTS+TRB,Pts+Rebs,2023-02-15
-578,Kyrie Irving,DEN,9.5,TRB+AST,Rebs+Asts,2023-02-15
-580,Kyrie Irving,DEN,1.5,BLK+STL,Blks+Stls,2023-02-15
-581,Kyrie Irving,DEN,5.5,AST,Assists,2023-02-15
-582,Kyrie Irving,DEN,4.0,TRB,Rebounds,2023-02-15
-583,Kyrie Irving,DEN,32.5,PTS+AST,Pts+Asts,2023-02-15
-584,Kyrie Irving,DEN,26.5,PTS,Points,2023-02-15
-585,Luka Doncic,DEN,31.5,PTS,Points,2023-02-15
-586,Luka Doncic,DEN,1.5,BLK+STL,Blks+Stls,2023-02-15
-587,Luka Doncic,DEN,2.5,3P,3-PT Made,2023-02-15
-588,Luka Doncic,DEN,8.5,TRB,Rebounds,2023-02-15
-589,Luka Doncic,DEN,47.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-590,Nikola Jokic,DAL,0.5,BLK,Blocked Shots,2023-02-15
-591,Luka Doncic,DEN,40.5,PTS+TRB,Pts+Rebs,2023-02-15
-592,Luka Doncic,DEN,7.0,AST,Assists,2023-02-15
-593,Luka Doncic,DEN,38.5,PTS+AST,Pts+Asts,2023-02-15
-594,Luka Doncic,DEN,15.5,TRB+AST,Rebs+Asts,2023-02-15
-596,Nikola Jokic,DAL,0.5,3P,3-PT Made,2023-02-15
-597,Nikola Jokic,DAL,36.5,PTS+AST,Pts+Asts,2023-02-15
-598,Nikola Jokic,DAL,38.5,PTS+TRB,Pts+Rebs,2023-02-15
-599,Nikola Jokic,DAL,23.5,TRB+AST,Rebs+Asts,2023-02-15
-600,Nikola Jokic,DAL,12.5,TRB,Rebounds,2023-02-15
-601,Nikola Jokic,DAL,10.5,AST,Assists,2023-02-15
-603,Nikola Jokic,DAL,26.5,PTS,Points,2023-02-15
-604,Nikola Jokic,DAL,49.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-606,Michael Porter Jr.,DAL,17.5,PTS,Points,2023-02-15
-607,Michael Porter Jr.,DAL,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-608,Michael Porter Jr.,DAL,2.5,3P,3-PT Made,2023-02-15
-609,Michael Porter Jr.,DAL,5.0,TRB,Rebounds,2023-02-15
-610,Michael Porter Jr.,DAL,22.5,PTS+TRB,Pts+Rebs,2023-02-15
-611,Josh Green,DEN,4.0,TRB,Rebounds,2023-02-15
-612,Josh Green,DEN,12.5,PTS,Points,2023-02-15
-613,Josh Green,DEN,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-615,Josh Green,DEN,14.5,PTS+AST,Pts+Asts,2023-02-15
-616,Josh Green,DEN,16.5,PTS+TRB,Pts+Rebs,2023-02-15
-617,Kentavious Caldwell-Pope,DAL,17.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-618,Kentavious Caldwell-Pope,DAL,1.5,3P,3-PT Made,2023-02-15
-619,Kentavious Caldwell-Pope,DAL,14.5,PTS+TRB,Pts+Rebs,2023-02-15
-620,Kentavious Caldwell-Pope,DAL,11.5,PTS,Points,2023-02-15
-621,Kentavious Caldwell-Pope,DAL,14.5,PTS+AST,Pts+Asts,2023-02-15
-623,Reggie Bullock,DEN,11.5,PTS+TRB,Pts+Rebs,2023-02-15
-624,Reggie Bullock,DEN,8.5,PTS,Points,2023-02-15
-625,Reggie Bullock,DEN,1.5,AST,Assists,2023-02-15
-626,Reggie Bullock,DEN,3.5,TRB,Rebounds,2023-02-15
-627,Reggie Bullock,DEN,13.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-628,Luka Doncic,DEN,7.5,FT,Free Throws Made,2023-02-15
-629,Michael Porter Jr.,DAL,1.5,FT,Free Throws Made,2023-02-15
-630,Nikola Jokic,DAL,5.0,FT,Free Throws Made,2023-02-15
-631,Kyrie Irving,DEN,3.5,FT,Free Throws Made,2023-02-15
-632,Kentavious Caldwell-Pope,DAL,1.0,FT,Free Throws Made,2023-02-15
-633,Brandon Ingram,LAL,31.5,PTS+AST,Pts+Asts,2023-02-15
-634,Brandon Ingram,LAL,25.5,PTS,Points,2023-02-15
-635,Brandon Ingram,LAL,5.5,AST,Assists,2023-02-15
-637,Brandon Ingram,LAL,30.5,PTS+TRB,Pts+Rebs,2023-02-15
-638,Brandon Ingram,LAL,10.5,TRB+AST,Rebs+Asts,2023-02-15
-639,Brandon Ingram,LAL,5.0,TRB,Rebounds,2023-02-15
-640,Brandon Ingram,LAL,36.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-641,LeBron James	,NOP,34.5,PTS+TRB,Pts+Rebs,2023-02-15
-642,LeBron James	,NOP,27.5,PTS,Points,2023-02-15
-643,LeBron James	,NOP,41.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-644,LeBron James	,NOP,7.5,TRB,Rebounds,2023-02-15
-645,LeBron James	,NOP,14.5,TRB+AST,Rebs+Asts,2023-02-15
-646,LeBron James	,NOP,1.5,BLK+STL,Blks+Stls,2023-02-15
-647,LeBron James	,NOP,6.5,AST,Assists,2023-02-15
-648,LeBron James	,NOP,34.5,PTS+AST,Pts+Asts,2023-02-15
-649,Jonas Valanciunas,LAL,25.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-650,Jonas Valanciunas,LAL,14.0,PTS,Points,2023-02-15
-652,Jonas Valanciunas,LAL,11.5,TRB+AST,Rebs+Asts,2023-02-15
-653,Jonas Valanciunas,LAL,15.5,PTS+AST,Pts+Asts,2023-02-15
-654,Jonas Valanciunas,LAL,10.0,TRB,Rebounds,2023-02-15
-655,Jonas Valanciunas,LAL,23.5,PTS+TRB,Pts+Rebs,2023-02-15
-656,Trey Murphy III,LAL,1.5,BLK+STL,Blks+Stls,2023-02-15
-657,Trey Murphy III,LAL,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15
-658,Trey Murphy III,LAL,14.5,PTS+AST,Pts+Asts,2023-02-15
-659,Trey Murphy III,LAL,3.5,TRB,Rebounds,2023-02-15
-660,Trey Murphy III,LAL,17.5,PTS+TRB,Pts+Rebs,2023-02-15
-661,Trey Murphy III,LAL,13.5,PTS,Points,2023-02-15
-663,Herbert Jones,LAL,0.5,3P,3-PT Made,2023-02-15
-664,Herbert Jones,LAL,11.5,PTS+AST,Pts+Asts,2023-02-15
-665,Herbert Jones,LAL,0.5,BLK,Blocked Shots,2023-02-15
-666,Herbert Jones,LAL,13.5,PTS+TRB,Pts+Rebs,2023-02-15
-668,Herbert Jones,LAL,9.5,PTS,Points,2023-02-15
-669,LeBron James	,NOP,4.5,FT,Free Throws Made,2023-02-15
-670,Brandon Ingram,LAL,5.0,FT,Free Throws Made,2023-02-15
-671,,,,,,2023-02-15
+,player,opp,line,stat,id,date,league_id
+0,Nikola Vucevic,IND,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+1,Nikola Vucevic,IND,34.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+2,Nikola Vucevic,IND,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+3,Nikola Vucevic,IND,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+4,Nikola Vucevic,IND,12.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+5,Nikola Vucevic,IND,21.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+7,Nikola Vucevic,IND,38.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+8,Nikola Vucevic,IND,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+9,Nikola Vucevic,IND,16.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+10,Nikola Vucevic,IND,26.0,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+11,Tyrese Haliburton,CHI,30.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+12,Tyrese Haliburton,CHI,2.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+13,Tyrese Haliburton,CHI,24.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+14,Tyrese Haliburton,CHI,20.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+15,Tyrese Haliburton,CHI,1.5,STL,STL,2023-02-15 00:00:00-06:00,7
+16,Tyrese Haliburton,CHI,2.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+17,Tyrese Haliburton,CHI,9.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+19,Tyrese Haliburton,CHI,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+20,Zach LaVine,IND,4.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+21,Zach LaVine,IND,5.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+22,Zach LaVine,IND,37.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+23,Zach LaVine,IND,3.0,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+24,Zach LaVine,IND,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+25,Zach LaVine,IND,32.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+26,Zach LaVine,IND,27.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+27,Zach LaVine,IND,2.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+28,Zach LaVine,IND,33.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+30,Buddy Hield,CHI,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+31,Buddy Hield,CHI,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+32,Buddy Hield,CHI,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+33,Buddy Hield,CHI,18.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+35,Buddy Hield,CHI,16.0,PTS,Points,2023-02-15 00:00:00-06:00,7
+36,Buddy Hield,CHI,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+37,Buddy Hield,CHI,20.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+38,Ayo Dosunmu,IND,10.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+39,Ayo Dosunmu,IND,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+40,Ayo Dosunmu,IND,13.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+41,Ayo Dosunmu,IND,14.0,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+43,Ayo Dosunmu,IND,17.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+44,Ayo Dosunmu,IND,4.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+45,Aaron Nesmith,CHI,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+46,Aaron Nesmith,CHI,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+47,Aaron Nesmith,CHI,11.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+48,Aaron Nesmith,CHI,15.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+50,Aaron Nesmith,CHI,10.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+51,Aaron Nesmith,CHI,14.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+52,Patrick Williams,IND,13.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+54,Patrick Williams,IND,17.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+55,Patrick Williams,IND,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+56,Patrick Williams,IND,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+57,Patrick Williams,IND,19.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+58,Patrick Williams,IND,12.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+59,Bennedict Mathurin,CHI,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+60,Bennedict Mathurin,CHI,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+61,Bennedict Mathurin,CHI,16.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+62,Bennedict Mathurin,CHI,18.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+63,Bennedict Mathurin,CHI,21.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+64,Andrew Nembhard,CHI,7.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+65,Andrew Nembhard,CHI,14.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+66,Andrew Nembhard,CHI,11.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+67,Andrew Nembhard,CHI,3.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+68,Andrew Nembhard,CHI,10.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+69,Andrew Nembhard,CHI,2.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+70,Tyrese Haliburton,CHI,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+71,Zach LaVine,IND,6.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+72,Buddy Hield,CHI,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+73,Nikola Vucevic,IND,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+74,Patrick Williams,IND,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+75,Coby White,IND,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+76,Andre Drummond,IND,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+77,Ayo Dosunmu,IND,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+78,Gordon Hayward,SAS,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+79,Gordon Hayward,SAS,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+80,Gordon Hayward,SAS,19.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+81,Gordon Hayward,SAS,19.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+82,Gordon Hayward,SAS,15.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+83,Gordon Hayward,SAS,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+85,Jeremy Sochan,CHA,13.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+86,Jeremy Sochan,CHA,20.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+87,Jeremy Sochan,CHA,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+89,Jeremy Sochan,CHA,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+90,Jeremy Sochan,CHA,6.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+91,Jeremy Sochan,CHA,17.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+92,Jeremy Sochan,CHA,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+93,LaMelo Ball,SAS,7.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+94,LaMelo Ball,SAS,1.5,STL,STL,2023-02-15 00:00:00-06:00,7
+96,LaMelo Ball,SAS,9.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+97,LaMelo Ball,SAS,34.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+98,LaMelo Ball,SAS,16.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+99,LaMelo Ball,SAS,32.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+100,LaMelo Ball,SAS,25.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+101,LaMelo Ball,SAS,42.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+102,Keldon Johnson,CHA,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+103,Keldon Johnson,CHA,29.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+104,Keldon Johnson,CHA,24.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+106,Keldon Johnson,CHA,32.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+107,Keldon Johnson,CHA,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+108,Keldon Johnson,CHA,27.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+109,P.J. Washington,SAS,21.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+110,P.J. Washington,SAS,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+111,P.J. Washington,SAS,5.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+112,P.J. Washington,SAS,2.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+113,P.J. Washington,SAS,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+114,P.J. Washington,SAS,18.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+115,P.J. Washington,SAS,15.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+117,Malaki Branham,CHA,20.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+118,Malaki Branham,CHA,17.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+119,Malaki Branham,CHA,13.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+120,Malaki Branham,CHA,16.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+121,Malaki Branham,CHA,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+123,Terry Rozier,SAS,32.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+124,Terry Rozier,SAS,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+125,Terry Rozier,SAS,22.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+126,Terry Rozier,SAS,4.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+127,Terry Rozier,SAS,27.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+129,Terry Rozier,SAS,27.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+130,Terry Rozier,SAS,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+131,Terry Rozier,SAS,2.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+132,Zach Collins,CHA,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+133,Zach Collins,CHA,23.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+134,Zach Collins,CHA,18.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+135,Zach Collins,CHA,8.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+136,Zach Collins,CHA,14.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+137,Zach Collins,CHA,3.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+138,Zach Collins,CHA,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+139,Zach Collins,CHA,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+140,Zach Collins,CHA,12.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+141,Zach Collins,CHA,0.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+144,Mark Williams,SAS,0.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+145,Mark Williams,SAS,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+146,Mark Williams,SAS,21.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+147,Mark Williams,SAS,9.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+148,Mark Williams,SAS,2.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+149,Mark Williams,SAS,12.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+150,Nick Richards,SAS,6.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+151,Nick Richards,SAS,7.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+152,Dennis Smith Jr.,SAS,9.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+153,LaMelo Ball,SAS,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+154,Keldon Johnson,CHA,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+155,Terry Rozier,SAS,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+156,Jeremy Sochan,CHA,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+157,Gordon Hayward,SAS,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+158,P.J. Washington,SAS,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+159,Trae Young,NYK,10.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+160,Trae Young,NYK,13.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+162,Trae Young,NYK,39.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+163,Trae Young,NYK,36.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+164,Trae Young,NYK,26.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+165,Trae Young,NYK,29.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+166,Jalen Brunson,ATL,3.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+168,Jalen Brunson,ATL,35.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+169,Jalen Brunson,ATL,31.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+170,Jalen Brunson,ATL,5.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+171,Jalen Brunson,ATL,26.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+172,Jalen Brunson,ATL,29.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+173,Jalen Brunson,ATL,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+175,Dejounte Murray,NYK,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+176,Dejounte Murray,NYK,31.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+177,Dejounte Murray,NYK,25.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+178,Dejounte Murray,NYK,5.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+179,Dejounte Murray,NYK,11.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+180,Dejounte Murray,NYK,20.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+181,Dejounte Murray,NYK,26.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+182,Dejounte Murray,NYK,5.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+183,Julius Randle,ATL,31.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+184,Julius Randle,ATL,26.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+185,Julius Randle,ATL,4.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+186,Julius Randle,ATL,37.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+187,Julius Randle,ATL,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+188,Julius Randle,ATL,10.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+189,Julius Randle,ATL,41.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+190,Julius Randle,ATL,14.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+192,De'Andre Hunter,NYK,21.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+193,De'Andre Hunter,NYK,19.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+195,De'Andre Hunter,NYK,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+196,De'Andre Hunter,NYK,16.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+197,De'Andre Hunter,NYK,15.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+198,De'Andre Hunter,NYK,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+199,De'Andre Hunter,NYK,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+200,RJ Barrett,ATL,0.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+201,RJ Barrett,ATL,25.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+202,RJ Barrett,ATL,18.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+204,RJ Barrett,ATL,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+205,RJ Barrett,ATL,21.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+206,RJ Barrett,ATL,23.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+207,Clint Capela,NYK,10.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+208,Clint Capela,NYK,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+209,Clint Capela,NYK,23.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+210,Clint Capela,NYK,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+211,Clint Capela,NYK,12.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+213,Julius Randle,ATL,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+214,Trae Young,NYK,7.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+215,Jalen Brunson,ATL,5.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+216,Dejounte Murray,NYK,2.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+217,RJ Barrett,ATL,3.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+218,Onyeka Okongwu,NYK,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+219,Josh Hart,ATL,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+220,Quentin Grimes,ATL,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+222,Bam Adebayo,BKN,22.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+223,Bam Adebayo,BKN,36.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+224,Bam Adebayo,BKN,10.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+225,Bam Adebayo,BKN,25.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+226,Bam Adebayo,BKN,33.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+227,Bam Adebayo,BKN,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+228,Bam Adebayo,BKN,2.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+229,Mikal Bridges,MIA,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+230,Mikal Bridges,MIA,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+231,Mikal Bridges,MIA,21.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+232,Mikal Bridges,MIA,17.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+233,Mikal Bridges,MIA,20.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+234,Mikal Bridges,MIA,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+235,Mikal Bridges,MIA,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+236,Mikal Bridges,MIA,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+238,Jimmy Butler,BKN,28.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+240,Jimmy Butler,BKN,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+241,Jimmy Butler,BKN,22.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+242,Jimmy Butler,BKN,28.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+243,Jimmy Butler,BKN,12.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+244,Jimmy Butler,BKN,6.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+245,Jimmy Butler,BKN,6.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+246,Nic Claxton,MIA,20.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+247,Nic Claxton,MIA,21.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+248,Nic Claxton,MIA,9.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+249,Nic Claxton,MIA,12.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+250,Nic Claxton,MIA,10.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+251,Nic Claxton,MIA,11.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+253,Gabe Vincent,BKN,2.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+254,Gabe Vincent,BKN,3.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+255,Gabe Vincent,BKN,17.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+256,Gabe Vincent,BKN,16.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+257,Gabe Vincent,BKN,20.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+259,Gabe Vincent,BKN,13.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+260,Spencer Dinwiddie,MIA,8.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+262,Spencer Dinwiddie,MIA,5.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+263,Spencer Dinwiddie,MIA,23.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+264,Spencer Dinwiddie,MIA,18.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+265,Spencer Dinwiddie,MIA,22.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+266,Spencer Dinwiddie,MIA,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+267,Caleb Martin,BKN,5.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+269,Caleb Martin,BKN,17.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+270,Caleb Martin,BKN,11.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+271,Caleb Martin,BKN,9.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+272,Caleb Martin,BKN,7.0,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+273,Caleb Martin,BKN,15.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+275,Cameron Johnson,MIA,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+276,Cameron Johnson,MIA,12.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+277,Cameron Johnson,MIA,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+278,Cameron Johnson,MIA,16.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+279,Cameron Johnson,MIA,14.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+280,Cameron Johnson,MIA,1.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+281,Max Strus,BKN,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+282,Max Strus,BKN,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+283,Max Strus,BKN,19.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+284,Max Strus,BKN,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+285,Max Strus,BKN,18.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+287,Max Strus,BKN,15.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+288,Dorian Finney-Smith,MIA,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+290,Dorian Finney-Smith,MIA,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+291,Dorian Finney-Smith,MIA,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+292,Dorian Finney-Smith,MIA,8.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+293,Dorian Finney-Smith,MIA,1.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+294,Dorian Finney-Smith,MIA,15.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+295,Dorian Finney-Smith,MIA,13.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+296,Dorian Finney-Smith,MIA,10.0,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+297,Cam Thomas,MIA,13.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+298,Cam Thomas,MIA,13.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+299,Cam Thomas,MIA,11.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+300,Jimmy Butler,BKN,7.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+301,Spencer Dinwiddie,MIA,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+302,Bam Adebayo,BKN,4.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+303,Max Strus,BKN,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+304,Mikal Bridges,MIA,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+305,Caleb Martin,BKN,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+306,Bojan Bogdanovic,BOS,0.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+308,Bojan Bogdanovic,BOS,23.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+309,Bojan Bogdanovic,BOS,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+310,Bojan Bogdanovic,BOS,3.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+311,Bojan Bogdanovic,BOS,21.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+312,Bojan Bogdanovic,BOS,25.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+314,Jayson Tatum,DET,44.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+315,Jayson Tatum,DET,2.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+316,Jayson Tatum,DET,35.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+317,Jayson Tatum,DET,31.0,PTS,Points,2023-02-15 00:00:00-06:00,7
+318,Jayson Tatum,DET,4.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+319,Jayson Tatum,DET,13.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+320,Jayson Tatum,DET,9.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+321,Jayson Tatum,DET,40.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+322,Jaden Ivey,BOS,18.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+323,Jaden Ivey,BOS,14.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+324,Jaden Ivey,BOS,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+326,Jaden Ivey,BOS,4.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+327,Jaden Ivey,BOS,19.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+328,Jaden Ivey,BOS,8.0,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+329,Derrick White,DET,22.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+330,Derrick White,DET,22.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+332,Derrick White,DET,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+333,Derrick White,DET,4.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+334,Derrick White,DET,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+335,Derrick White,DET,18.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+336,Killian Hayes,BOS,5.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+337,Killian Hayes,BOS,13.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+338,Killian Hayes,BOS,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+339,Killian Hayes,BOS,16.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+340,Killian Hayes,BOS,10.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+341,Killian Hayes,BOS,2.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+343,Killian Hayes,BOS,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+344,Al Horford,DET,8.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+345,Al Horford,DET,15.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+346,Al Horford,DET,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+347,Al Horford,DET,6.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+348,Al Horford,DET,8.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+350,Al Horford,DET,11.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+351,Jayson Tatum,DET,8.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+352,Bojan Bogdanovic,BOS,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+353,Derrick White,DET,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+354,Jaden Ivey,BOS,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+355,Marcus Smart,DET,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+356,Jalen Duren,BOS,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+357,Killian Hayes,BOS,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+358,Darius Garland,PHI,20.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+359,Darius Garland,PHI,23.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+360,Darius Garland,PHI,30.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+361,Darius Garland,PHI,2.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+362,Darius Garland,PHI,7.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+363,Darius Garland,PHI,27.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+365,Joel Embiid,CLE,41.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+366,Joel Embiid,CLE,13.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+367,Joel Embiid,CLE,44.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+368,Joel Embiid,CLE,10.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+370,Joel Embiid,CLE,2.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+371,Joel Embiid,CLE,30.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+372,Joel Embiid,CLE,34.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+373,Donovan Mitchell,PHI,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+374,Donovan Mitchell,PHI,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+375,Donovan Mitchell,PHI,30.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+376,Donovan Mitchell,PHI,30.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+377,Donovan Mitchell,PHI,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+378,Donovan Mitchell,PHI,2.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+380,Donovan Mitchell,PHI,4.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+381,Donovan Mitchell,PHI,25.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+382,James Harden,CLE,10.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+383,James Harden,CLE,35.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+384,James Harden,CLE,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+385,James Harden,CLE,19.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+387,James Harden,CLE,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+388,James Harden,CLE,15.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+389,James Harden,CLE,30.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+390,Isaac Okoro,PHI,10.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+391,Evan Mobley,PHI,11.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+392,Evan Mobley,PHI,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+394,Evan Mobley,PHI,18.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+395,Evan Mobley,PHI,15.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+396,Evan Mobley,PHI,9.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+397,Evan Mobley,PHI,2.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+398,Evan Mobley,PHI,25.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+399,Evan Mobley,PHI,1.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+400,Tobias Harris,CLE,15.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+401,Tobias Harris,CLE,18.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+402,Tobias Harris,CLE,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+403,Tobias Harris,CLE,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+404,Tobias Harris,CLE,20.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+406,Tobias Harris,CLE,13.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+407,Jarrett Allen,PHI,16.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+408,Jarrett Allen,PHI,15.0,PTS,Points,2023-02-15 00:00:00-06:00,7
+409,Jarrett Allen,PHI,26.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+411,Jarrett Allen,PHI,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+412,Jarrett Allen,PHI,11.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+413,Jarrett Allen,PHI,25.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+414,Jarrett Allen,PHI,10.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+415,Isaac Okoro,PHI,7.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+416,Isaac Okoro,PHI,12.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+418,Joel Embiid,CLE,8.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+419,Donovan Mitchell,PHI,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+420,James Harden,CLE,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+421,Darius Garland,PHI,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+422,Evan Mobley,PHI,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+423,Tyrese Maxey,CLE,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+424,Isaac Okoro,PHI,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+425,Jarrett Allen,PHI,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+426,Ricky Rubio,PHI,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+427,Alperen Sengun,OKC,17.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+428,Alperen Sengun,OKC,5.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+429,Alperen Sengun,OKC,32.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+430,Alperen Sengun,OKC,22.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+431,Alperen Sengun,OKC,9.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+433,Alperen Sengun,OKC,26.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+434,Alperen Sengun,OKC,14.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+435,Jalen Williams,HOU,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+436,Jalen Williams,HOU,14.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+437,Jalen Williams,HOU,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+438,Jalen Williams,HOU,22.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+439,Jalen Williams,HOU,17.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+440,Jalen Williams,HOU,19.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+442,Jalen Williams,HOU,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+443,Jalen Williams,HOU,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+444,Jabari Smith Jr.,OKC,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+445,Jabari Smith Jr.,OKC,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+447,Jabari Smith Jr.,OKC,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+448,Jabari Smith Jr.,OKC,7.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+449,Jabari Smith Jr.,OKC,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+450,Jabari Smith Jr.,OKC,14.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+451,Jabari Smith Jr.,OKC,16.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+452,Jabari Smith Jr.,OKC,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+453,Jabari Smith Jr.,OKC,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+454,Jabari Smith Jr.,OKC,1.5,TOV,Turnovers,2023-02-15 00:00:00-06:00,7
+455,Jabari Smith Jr.,OKC,22.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+456,Josh Giddey,HOU,6.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+457,Josh Giddey,HOU,18.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+458,Josh Giddey,HOU,24.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+459,Josh Giddey,HOU,31.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+461,Josh Giddey,HOU,13.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+462,Josh Giddey,HOU,7.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+463,Josh Giddey,HOU,25.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+464,Jalen Green,OKC,23.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+466,Jalen Green,OKC,27.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+467,Jalen Green,OKC,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+468,Jalen Green,OKC,4.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+469,Jalen Green,OKC,27.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+470,Jalen Green,OKC,31.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+471,Shai Gilgeous-Alexander,HOU,10.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+472,Shai Gilgeous-Alexander,HOU,5.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+473,Shai Gilgeous-Alexander,HOU,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+474,Shai Gilgeous-Alexander,HOU,43.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+476,Shai Gilgeous-Alexander,HOU,37.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+477,Shai Gilgeous-Alexander,HOU,2.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+478,Shai Gilgeous-Alexander,HOU,1.5,STL,STL,2023-02-15 00:00:00-06:00,7
+479,Shai Gilgeous-Alexander,HOU,38.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+480,Shai Gilgeous-Alexander,HOU,32.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+481,KJ Martin Jr.,OKC,6.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+482,KJ Martin Jr.,OKC,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+483,KJ Martin Jr.,OKC,0.5,STL,STL,2023-02-15 00:00:00-06:00,7
+484,KJ Martin Jr.,OKC,8.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+485,KJ Martin Jr.,OKC,16.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+486,KJ Martin Jr.,OKC,21.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+487,KJ Martin Jr.,OKC,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+489,KJ Martin Jr.,OKC,14.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+490,Jae'Sean Tate,OKC,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+492,Jae'Sean Tate,OKC,16.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+493,Jae'Sean Tate,OKC,2.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+494,Jae'Sean Tate,OKC,7.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+495,Jae'Sean Tate,OKC,9.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+496,Jae'Sean Tate,OKC,12.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+497,Jae'Sean Tate,OKC,13.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+498,Shai Gilgeous-Alexander,HOU,9.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+499,Jalen Green,OKC,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+500,Josh Giddey,HOU,0.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+501,Alperen Sengun,OKC,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+502,Jabari Smith Jr.,OKC,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+503,Collin Sexton,MEM,8.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+505,Collin Sexton,MEM,5.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+506,Collin Sexton,MEM,18.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+507,Collin Sexton,MEM,27.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+508,Collin Sexton,MEM,24.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+509,Collin Sexton,MEM,22.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+510,Desmond Bane,UTA,4.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+511,Desmond Bane,UTA,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+512,Desmond Bane,UTA,21.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+514,Desmond Bane,UTA,26.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+515,Desmond Bane,UTA,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+516,Desmond Bane,UTA,30.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+517,Desmond Bane,UTA,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+518,Desmond Bane,UTA,25.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+519,Ja Morant,UTA,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+520,Ja Morant,UTA,6.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+521,Ja Morant,UTA,8.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+522,Ja Morant,UTA,36.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+523,Ja Morant,UTA,34.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+525,Ja Morant,UTA,42.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+526,Ja Morant,UTA,14.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+527,Ja Morant,UTA,28.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+528,Jaren Jackson Jr.,UTA,17.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+529,Jaren Jackson Jr.,UTA,16.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+530,Jaren Jackson Jr.,UTA,8.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+531,Jaren Jackson Jr.,UTA,24.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+532,Jaren Jackson Jr.,UTA,23.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+534,Jaren Jackson Jr.,UTA,7.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+535,Jordan Clarkson,MEM,29.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+536,Jordan Clarkson,MEM,29.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+537,Jordan Clarkson,MEM,34.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+538,Jordan Clarkson,MEM,24.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+539,Jordan Clarkson,MEM,4.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+540,Jordan Clarkson,MEM,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+542,Jordan Clarkson,MEM,5.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+543,Kelly Olynyk,MEM,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+544,Kelly Olynyk,MEM,11.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+545,Jaren Jackson Jr.,UTA,4.0,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+547,Kelly Olynyk,MEM,6.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+548,Kelly Olynyk,MEM,21.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+549,Kelly Olynyk,MEM,17.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+550,Kelly Olynyk,MEM,15.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+551,Kelly Olynyk,MEM,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+553,Walker Kessler,MEM,12.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+554,Walker Kessler,MEM,11.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+555,Walker Kessler,MEM,22.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+556,Dillon Brooks,UTA,14.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+557,Dillon Brooks,UTA,2.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+558,Walker Kessler,MEM,11.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+559,Walker Kessler,MEM,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+560,Walker Kessler,MEM,2.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+561,Walker Kessler,MEM,12.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+562,Dillon Brooks,UTA,11.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+564,Dillon Brooks,UTA,14.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+565,Xavier Tillman,UTA,15.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+566,Xavier Tillman,UTA,7.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+567,Xavier Tillman,UTA,10.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+568,Xavier Tillman,UTA,8.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+570,Ja Morant,UTA,6.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+571,Jaren Jackson Jr.,UTA,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+572,Jordan Clarkson,MEM,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+573,Desmond Bane,UTA,2.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+574,Collin Sexton,MEM,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+575,Walker Kessler,MEM,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+576,Kyrie Irving,DEN,36.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+577,Kyrie Irving,DEN,31.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+578,Kyrie Irving,DEN,9.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+580,Kyrie Irving,DEN,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+581,Kyrie Irving,DEN,5.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+582,Kyrie Irving,DEN,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+583,Kyrie Irving,DEN,32.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+584,Kyrie Irving,DEN,26.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+585,Luka Doncic,DEN,31.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+586,Luka Doncic,DEN,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+587,Luka Doncic,DEN,2.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+588,Luka Doncic,DEN,8.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+589,Luka Doncic,DEN,47.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+590,Nikola Jokic,DAL,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+591,Luka Doncic,DEN,40.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+592,Luka Doncic,DEN,7.0,AST,Assists,2023-02-15 00:00:00-06:00,7
+593,Luka Doncic,DEN,38.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+594,Luka Doncic,DEN,15.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+596,Nikola Jokic,DAL,0.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+597,Nikola Jokic,DAL,36.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+598,Nikola Jokic,DAL,38.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+599,Nikola Jokic,DAL,23.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+600,Nikola Jokic,DAL,12.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+601,Nikola Jokic,DAL,10.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+603,Nikola Jokic,DAL,26.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+604,Nikola Jokic,DAL,49.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+606,Michael Porter Jr.,DAL,17.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+607,Michael Porter Jr.,DAL,23.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+608,Michael Porter Jr.,DAL,2.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+609,Michael Porter Jr.,DAL,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+610,Michael Porter Jr.,DAL,22.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+611,Josh Green,DEN,4.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+612,Josh Green,DEN,12.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+613,Josh Green,DEN,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+615,Josh Green,DEN,14.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+616,Josh Green,DEN,16.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+617,Kentavious Caldwell-Pope,DAL,17.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+618,Kentavious Caldwell-Pope,DAL,1.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+619,Kentavious Caldwell-Pope,DAL,14.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+620,Kentavious Caldwell-Pope,DAL,11.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+621,Kentavious Caldwell-Pope,DAL,14.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+623,Reggie Bullock,DEN,11.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+624,Reggie Bullock,DEN,8.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+625,Reggie Bullock,DEN,1.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+626,Reggie Bullock,DEN,3.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+627,Reggie Bullock,DEN,13.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+628,Luka Doncic,DEN,7.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+629,Michael Porter Jr.,DAL,1.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+630,Nikola Jokic,DAL,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+631,Kyrie Irving,DEN,3.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+632,Kentavious Caldwell-Pope,DAL,1.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+633,Brandon Ingram,LAL,31.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+634,Brandon Ingram,LAL,25.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+635,Brandon Ingram,LAL,5.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+637,Brandon Ingram,LAL,30.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+638,Brandon Ingram,LAL,10.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+639,Brandon Ingram,LAL,5.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+640,Brandon Ingram,LAL,36.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+641,LeBron James	,NOP,34.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+642,LeBron James	,NOP,27.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+643,LeBron James	,NOP,41.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+644,LeBron James	,NOP,7.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+645,LeBron James	,NOP,14.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+646,LeBron James	,NOP,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+647,LeBron James	,NOP,6.5,AST,Assists,2023-02-15 00:00:00-06:00,7
+648,LeBron James	,NOP,34.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+649,Jonas Valanciunas,LAL,25.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+650,Jonas Valanciunas,LAL,14.0,PTS,Points,2023-02-15 00:00:00-06:00,7
+652,Jonas Valanciunas,LAL,11.5,TRB+AST,Rebs+Asts,2023-02-15 00:00:00-06:00,7
+653,Jonas Valanciunas,LAL,15.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+654,Jonas Valanciunas,LAL,10.0,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+655,Jonas Valanciunas,LAL,23.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+656,Trey Murphy III,LAL,1.5,BLK+STL,Blks+Stls,2023-02-15 00:00:00-06:00,7
+657,Trey Murphy III,LAL,18.5,PTS+TRB+AST,Pts+Rebs+Asts,2023-02-15 00:00:00-06:00,7
+658,Trey Murphy III,LAL,14.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+659,Trey Murphy III,LAL,3.5,TRB,Rebounds,2023-02-15 00:00:00-06:00,7
+660,Trey Murphy III,LAL,17.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+661,Trey Murphy III,LAL,13.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+663,Herbert Jones,LAL,0.5,3P,3-PT Made,2023-02-15 00:00:00-06:00,7
+664,Herbert Jones,LAL,11.5,PTS+AST,Pts+Asts,2023-02-15 00:00:00-06:00,7
+665,Herbert Jones,LAL,0.5,BLK,Blocked Shots,2023-02-15 00:00:00-06:00,7
+666,Herbert Jones,LAL,13.5,PTS+TRB,Pts+Rebs,2023-02-15 00:00:00-06:00,7
+668,Herbert Jones,LAL,9.5,PTS,Points,2023-02-15 00:00:00-06:00,7
+669,LeBron James	,NOP,4.5,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+670,Brandon Ingram,LAL,5.0,FT,Free Throws Made,2023-02-15 00:00:00-06:00,7
+671,,,,,,2023-02-15 00:00:00-06:00,7

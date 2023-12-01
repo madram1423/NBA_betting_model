@@ -178,13 +178,14 @@ today = dt.datetime.today()
 odds = odds.loc[odds.book != "Bookmaker"]
 odds = odds.loc[~((odds.stat == "Total Bases") & (odds.points == 1.5))]
 odds["time"] = now
+odds["time"] = pd.to_datetime(odds["time"]).dt.tz_localize('US/Central')
 
 odds["event_time"] = odds["event_time"].apply(lambda x: pd.to_datetime(x, utc=True))
 odds["event_time"] = odds["event_time"].dt.tz_convert("America/Chicago")
 
 
 def create_uuid_from_columns(row):
-    seed = f"{row['player']}_{row['stat']}_{row['event_time']}"
+    seed = f"{row['player']}_{row['stat']}_{pd.to_datetime(row['event_time']).floor('h')}"
     id = uuid.uuid5(uuid.NAMESPACE_DNS, seed)
     return str(id)[0:10]
 
@@ -280,10 +281,11 @@ final_odds.drop("mean_pred", inplace=True, axis=1)
 
 today = dt.datetime.today()
 timestamp = dt.datetime.now().replace(microsecond=0, second=0)
-final_odds["time"] = now
+final_odds["scrape_time"] = now
+final_odds["scrape_time"] = pd.to_datetime(final_odds["scrape_time"]).dt.tz_localize('US/Central')
+
 final_odds = final_odds.reset_index(drop=True)
 final_file_path = f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv"
 update_csv_file(final_odds, final_file_path)
 
-# final_odds.to_csv(f"Lines/unabated/unabated_{today.year}_{today.month}_{today.day}.csv")
 print("Success!")

@@ -90,6 +90,7 @@ syntax = {
     "Offensive Rebounds": "ORB",
     "Defensive Rebounds": "DRB",
     "3-PT Attempted": "3PA",
+    "FG Made": "FG"
 }
 df = df.replace(syntax)
 df.stat.unique()
@@ -105,16 +106,16 @@ df = df.replace("Xavier Tillman", "Xavier Tillman Sr.")
 df = df.reset_index(drop=True)
 
 today = dt.datetime.today()
-df["time"] = df["time"] = dt.datetime.now().replace(microsecond=0, second=0)
+df["scrape_time"] = df["scrape_time"] = dt.datetime.now().replace(microsecond=0, second=0)
 df.columns = [x.lower() for x in df.columns]
 
 
 def create_uuid_from_columns(row):
-    seed = f"{row['player']}_{row['stat']}_{row['event_time']}"
+    seed = f"{row['player']}_{row['stat']}_{pd.to_datetime(row['event_time']).floor('h')}"
     id = uuid.uuid5(uuid.NAMESPACE_DNS, seed)
     return str(id)[0:10]
 
-
+df['event_time'] = pd.to_datetime(df['event_time']).dt.floor('h')
 df["prop_id"] = df.apply(create_uuid_from_columns, axis=1)
 df = df[
     [
@@ -128,11 +129,12 @@ df = df[
         "event_time",
         "pp_player_id",
         "date",
-        "time",
+        "scrape_time",
         "prop_id",
     ]
 ]
 
+df["scrape_time"] = pd.to_datetime(df["scrape_time"]).dt.tz_localize('US/Central')
 pp_path = f"Lines/pp/pp_{today.year}_{today.month}_{today.day}.csv"
 print(df.sample(5))
 update_csv_file(df, pp_path)
