@@ -172,11 +172,11 @@
 0,DeVonta Smith,35599,59.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 1,DeVonta Smith,35599,59.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 0,Jalen Hurts,34413,42.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-1,Jalen Hurts,34413,258.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-2,Jalen Hurts,34413,252.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+1,Jalen Hurts,34413,258.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+2,Jalen Hurts,34413,252.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 3,Jalen Hurts,34413,42.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-4,Jalen Hurts,34413,258.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-5,Jalen Hurts,34413,252.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+4,Jalen Hurts,34413,258.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+5,Jalen Hurts,34413,252.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 0,Jaylen Waddle,36153,62.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 1,Jaylen Waddle,36153,62.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 0,A.J. Brown,38856,81.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
@@ -187,32 +187,32 @@
 1,Tyreek Hill,38949,94.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 2,Tyreek Hill,38949,95.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 3,Tyreek Hill,38949,94.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-0,Tua Tagovailoa,35383,282.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-1,Tua Tagovailoa,35383,282.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-2,Tua Tagovailoa,35383,282.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
-3,Tua Tagovailoa,35383,282.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+0,Tua Tagovailoa,35383,282.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+1,Tua Tagovailoa,35383,282.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+2,Tua Tagovailoa,35383,282.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
+3,Tua Tagovailoa,35383,282.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-23T00:20:00,0.574468085106383,PHI,MIA
 0,T.J. Hockenson,243134,57.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-24T00:15:00,0.574468085106383,MIN,SF
 1,T.J. Hockenson,243134,57.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-24T00:15:00,0.574468085106383,MIN,SF
-0,Lamar Jackson,36635,219.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
+0,Lamar Jackson,36635,219.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 1,Lamar Jackson,36635,45.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 2,Lamar Jackson,36635,45.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
-3,Lamar Jackson,36635,219.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
+3,Lamar Jackson,36635,219.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 0,Amon-Ra St. Brown,34156,78.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 1,Amon-Ra St. Brown,34156,78.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 0,Zay Flowers,410752,55.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 1,Zay Flowers,410752,55.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 0,Sam LaPorta,410788,47.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 1,Sam LaPorta,410788,47.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
-0,Jared Goff,38695,243.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
-1,Jared Goff,38695,241.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
-2,Jared Goff,38695,243.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
-3,Jared Goff,38695,241.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
+0,Jared Goff,38695,243.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
+1,Jared Goff,38695,241.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
+2,Jared Goff,38695,243.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
+3,Jared Goff,38695,241.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 0,Mark Andrews,38773,55.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 1,Mark Andrews,38773,52.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 2,Mark Andrews,38773,55.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
 3,Mark Andrews,38773,52.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,BAL,DET
-0,Desmond Ridder,38580,203.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
-1,Desmond Ridder,38580,203.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
+0,Desmond Ridder,38580,203.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
+1,Desmond Ridder,38580,203.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 0,Kyle Pitts,35678,38.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 1,Kyle Pitts,35678,38.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 0,Chris Godwin,35809,59.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
@@ -225,18 +225,18 @@
 1,Drake London,34766,49.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 0,Rachaad White,37510,45.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 1,Rachaad White,37510,45.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
-0,Baker Mayfield,37483,220.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
-1,Baker Mayfield,37483,225.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
-2,Baker Mayfield,37483,220.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
-3,Baker Mayfield,37483,225.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
+0,Baker Mayfield,37483,220.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
+1,Baker Mayfield,37483,225.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
+2,Baker Mayfield,37483,220.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
+3,Baker Mayfield,37483,225.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 0,Bijan Robinson,404689,62.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 1,Bijan Robinson,404689,62.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,TB,ATL
 0,Saquon Barkley,33980,68.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
 1,Saquon Barkley,33980,68.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
 0,Darren Waller,38281,43.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
 1,Darren Waller,38281,43.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
-0,Sam Howell,37456,229.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
-1,Sam Howell,37456,229.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
+0,Sam Howell,37456,229.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
+1,Sam Howell,37456,229.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
 0,Terry McLaurin,36688,53.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
 1,Terry McLaurin,36688,53.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
 0,Brian Robinson,241668,56.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NYG,WAS
@@ -245,56 +245,56 @@
 1,Josh Jacobs,36184,76.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,CHI,LV
 0,DJ Moore,38222,58.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,CHI,LV
 1,DJ Moore,38222,58.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,CHI,LV
-0,Mac Jones,38736,200.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
-1,Mac Jones,38736,200.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
+0,Mac Jones,38736,200.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
+1,Mac Jones,38736,200.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 0,Stefon Diggs,34309,86.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 1,Stefon Diggs,34309,86.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 2,Stefon Diggs,34309,86.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 3,Stefon Diggs,34309,86.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
-0,Josh Allen,34275,255.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
-1,Josh Allen,34275,256.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
-2,Josh Allen,34275,255.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
-3,Josh Allen,34275,256.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
+0,Josh Allen,34275,255.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
+1,Josh Allen,34275,256.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
+2,Josh Allen,34275,255.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
+3,Josh Allen,34275,256.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 0,Rhamondre Stevenson,38797,44.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 1,Rhamondre Stevenson,38797,44.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 0,James Cook,34320,53.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 1,James Cook,34320,51.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 2,James Cook,34320,53.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
 3,James Cook,34320,51.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,NE,BUF
-0,Gardner Minshew,35740,218.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
-1,Gardner Minshew,35740,216.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
-2,Gardner Minshew,35740,218.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
-3,Gardner Minshew,35740,216.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
+0,Gardner Minshew,35740,218.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
+1,Gardner Minshew,35740,216.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
+2,Gardner Minshew,35740,218.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
+3,Gardner Minshew,35740,216.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
 0,Michael Pittman,36251,58.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
 1,Michael Pittman,36251,60.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
 2,Michael Pittman,36251,58.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
 3,Michael Pittman,36251,60.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T17:00:00,0.574468085106383,IND,CLE
-0,Matthew Stafford,38227,269.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
-1,Matthew Stafford,38227,269.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
+0,Matthew Stafford,38227,269.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
+1,Matthew Stafford,38227,269.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
 0,Najee Harris,36469,51.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
 1,Najee Harris,36469,51.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
 0,Cooper Kupp,38140,97.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
 1,Cooper Kupp,38140,94.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
 2,Cooper Kupp,38140,97.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
 3,Cooper Kupp,38140,94.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
-0,Kenny Pickett,37427,219.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
-1,Kenny Pickett,37427,222.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
-2,Kenny Pickett,37427,219.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
-3,Kenny Pickett,37427,222.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
-0,Joshua Dobbs,36495,213.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-1,Joshua Dobbs,36495,221.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-2,Joshua Dobbs,36495,213.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-3,Joshua Dobbs,36495,221.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+0,Kenny Pickett,37427,219.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
+1,Kenny Pickett,37427,222.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
+2,Kenny Pickett,37427,219.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
+3,Kenny Pickett,37427,222.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,LAR,PIT
+0,Joshua Dobbs,36495,213.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+1,Joshua Dobbs,36495,221.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+2,Joshua Dobbs,36495,213.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+3,Joshua Dobbs,36495,221.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 0,Tyler Lockett,36004,56.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 1,Tyler Lockett,36004,56.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 0,DK Metcalf,37624,66.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 1,DK Metcalf,37624,65.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 2,DK Metcalf,37624,66.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 3,DK Metcalf,37624,65.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-0,Geno Smith,39062,254.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-1,Geno Smith,39062,251.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-2,Geno Smith,39062,254.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
-3,Geno Smith,39062,251.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+0,Geno Smith,39062,254.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+1,Geno Smith,39062,251.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+2,Geno Smith,39062,254.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
+3,Geno Smith,39062,251.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 0,Marquise Brown,37740,60.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 1,Marquise Brown,37740,63.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
 2,Marquise Brown,37740,60.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:05:00,0.574468085106383,SEA,ARI
@@ -309,10 +309,10 @@
 1,Travis Kelce,36266,79.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
 2,Travis Kelce,36266,77.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
 3,Travis Kelce,36266,79.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
-0,Patrick Mahomes,37657,295.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
-1,Patrick Mahomes,37657,292.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
-2,Patrick Mahomes,37657,295.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
-3,Patrick Mahomes,37657,292.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
+0,Patrick Mahomes,37657,295.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
+1,Patrick Mahomes,37657,292.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
+2,Patrick Mahomes,37657,295.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
+3,Patrick Mahomes,37657,292.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,KC,LAC
 0,Jerry Jeudy,35522,48.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 1,Jerry Jeudy,35522,48.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 0,Courtland Sutton,35515,46.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
@@ -321,290 +321,290 @@
 3,Courtland Sutton,35515,46.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 0,Javonte Williams,36203,53.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 1,Javonte Williams,36203,53.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-0,Russell Wilson,38300,224.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-1,Russell Wilson,38300,219.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-2,Russell Wilson,38300,224.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-3,Russell Wilson,38300,219.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+0,Russell Wilson,38300,224.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+1,Russell Wilson,38300,219.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+2,Russell Wilson,38300,224.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+3,Russell Wilson,38300,219.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 0,Christian Watson,34139,51.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 1,Christian Watson,34139,50.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 2,Christian Watson,34139,51.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 3,Christian Watson,34139,50.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-0,Jordan Love,34208,235.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-1,Jordan Love,34208,240.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-2,Jordan Love,34208,235.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
-3,Jordan Love,34208,240.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+0,Jordan Love,34208,235.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+1,Jordan Love,34208,240.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+2,Jordan Love,34208,235.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
+3,Jordan Love,34208,240.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-22T20:25:00,0.574468085106383,DEN,GB
 0,Michael Thomas,37480,53.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 1,Michael Thomas,37480,53.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
-0,Derek Carr,37801,226.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
-1,Derek Carr,37801,220.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
-2,Derek Carr,37801,226.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
-3,Derek Carr,37801,220.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
+0,Derek Carr,37801,226.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
+1,Derek Carr,37801,220.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
+2,Derek Carr,37801,226.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
+3,Derek Carr,37801,220.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 0,Chris Olave,36699,64.5,-135.0,under,Receiving Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 1,Chris Olave,36699,61.5,-135.0,under,Receiving Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 2,Chris Olave,36699,64.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 3,Chris Olave,36699,61.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 0,Alvin Kamara,38137,62.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
 1,Alvin Kamara,38137,62.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-20T00:15:00,0.574468085106383,NO,JAX
-0,Brandon Aubrey,418113,6.5,102.0,under,Total Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.495049504950495,LAC,DAL
-1,Brandon Aubrey,418113,1.5,-135.0,under,Field Goals Made,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+0,Brandon Aubrey,418113,6.5,102.0,under,Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.495049504950495,LAC,DAL
+1,Brandon Aubrey,418113,1.5,-135.0,under,FG,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 2,Brandon Aubrey,418113,2.5,-130.0,under,Extra Points Made,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-3,Brandon Aubrey,418113,6.5,-135.0,over,Total Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-4,Brandon Aubrey,418113,1.5,105.0,over,Field Goals Made,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+3,Brandon Aubrey,418113,6.5,-135.0,over,Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+4,Brandon Aubrey,418113,1.5,105.0,over,FG,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 5,Brandon Aubrey,418113,2.5,100.0,over,Extra Points Made,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
 0,Sebastian Joseph-Day,38655,0.25,-280.0,under,Sacks,DraftKings,1,2023-10-17T00:15:00,0.7368421052631579,LAC,DAL
 1,Sebastian Joseph-Day,38655,0.25,210.0,over,Sacks,DraftKings,1,2023-10-17T00:15:00,0.3225806451612903,LAC,DAL
 0,Justin Herbert,38387,8.5,-105.0,under,Rush Attempts,BetMGM,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
 1,Justin Herbert,38387,3.5,-155.0,under,Receiving Yards,BetMGM,1,2023-10-17T00:15:00,0.6078431372549019,LAC,DAL
-2,Justin Herbert,38387,25.5,-125.0,under,Passing Completions,BetMGM,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-3,Justin Herbert,38387,0.5,-130.0,under,Interceptions Thrown,BetMGM,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-4,Justin Herbert,38387,292.5,-115.0,under,Passing And Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+2,Justin Herbert,38387,25.5,-125.0,under,Pass Completions,BetMGM,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+3,Justin Herbert,38387,0.5,-130.0,under,INT,BetMGM,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+4,Justin Herbert,38387,292.5,-115.0,under,Pass+Rush Yds,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 5,Justin Herbert,38387,13.5,-115.0,under,Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-6,Justin Herbert,38387,1.5,115.0,under,Passing Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.4651162790697674,LAC,DAL
-7,Justin Herbert,38387,37.5,-115.0,under,Passing Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+6,Justin Herbert,38387,1.5,115.0,under,Pass Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.4651162790697674,LAC,DAL
+7,Justin Herbert,38387,37.5,-115.0,under,Pass Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 8,Justin Herbert,38387,36.5,-115.0,under,Longest Pass Completion,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 9,Justin Herbert,38387,8.5,-110.0,under,Rush Attempts,888sports,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 10,Justin Herbert,38387,3.5,-167.0,under,Receiving Yards,888sports,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
-11,Justin Herbert,38387,25.5,-133.0,under,Passing Completions,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-12,Justin Herbert,38387,0.5,-133.0,under,Interceptions Thrown,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-13,Justin Herbert,38387,292.5,-120.0,under,Passing And Rush Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+11,Justin Herbert,38387,25.5,-133.0,under,Pass Completions,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+12,Justin Herbert,38387,0.5,-133.0,under,INT,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+13,Justin Herbert,38387,292.5,-120.0,under,Pass+Rush Yds,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 14,Justin Herbert,38387,13.5,-125.0,under,Rush Yards,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-15,Justin Herbert,38387,1.5,110.0,under,Passing Touchdowns,888sports,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
-16,Justin Herbert,38387,37.5,-125.0,under,Passing Attempts,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+15,Justin Herbert,38387,1.5,110.0,under,Pass Touchdowns,888sports,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+16,Justin Herbert,38387,37.5,-125.0,under,Pass Attempts,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 17,Justin Herbert,38387,36.5,-120.0,under,Longest Pass Completion,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-18,Justin Herbert,38387,275.5,-120.0,under,Passing Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+18,Justin Herbert,38387,275.5,-120.0,under,Pass Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 19,Justin Herbert,38387,8.5,-105.0,under,Rush Attempts,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
 20,Justin Herbert,38387,3.5,-130.0,under,Receiving Yards,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-21,Justin Herbert,38387,0.5,-110.0,under,Interceptions Thrown,DraftKings,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-22,Justin Herbert,38387,292.5,-115.0,under,Passing And Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+21,Justin Herbert,38387,0.5,-110.0,under,INT,DraftKings,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+22,Justin Herbert,38387,292.5,-115.0,under,Pass+Rush Yds,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 23,Justin Herbert,38387,13.5,-120.0,under,Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-24,Justin Herbert,38387,1.5,124.0,under,Passing Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.4464285714285714,LAC,DAL
-25,Justin Herbert,38387,37.5,-115.0,under,Passing Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-26,Justin Herbert,38387,275.5,-125.0,under,Passing Yards,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+24,Justin Herbert,38387,1.5,124.0,under,Pass Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.4464285714285714,LAC,DAL
+25,Justin Herbert,38387,37.5,-115.0,under,Pass Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+26,Justin Herbert,38387,275.5,-125.0,under,Pass Yards,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 27,Justin Herbert,38387,2.5,106.0,under,Receiving Yards,Caesars,1,2023-10-17T00:15:00,0.4854368932038835,LAC,DAL
-28,Justin Herbert,38387,25.5,-127.0,under,Passing Completions,Caesars,1,2023-10-17T00:15:00,0.5594713656387665,LAC,DAL
-29,Justin Herbert,38387,0.5,-128.0,under,Interceptions Thrown,Caesars,1,2023-10-17T00:15:00,0.5614035087719298,LAC,DAL
+28,Justin Herbert,38387,25.5,-127.0,under,Pass Completions,Caesars,1,2023-10-17T00:15:00,0.5594713656387665,LAC,DAL
+29,Justin Herbert,38387,0.5,-128.0,under,INT,Caesars,1,2023-10-17T00:15:00,0.5614035087719298,LAC,DAL
 30,Justin Herbert,38387,11.5,-120.0,under,Rush Yards,Caesars,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-31,Justin Herbert,38387,1.5,120.0,under,Passing Touchdowns,Caesars,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-32,Justin Herbert,38387,37.5,-120.0,under,Passing Attempts,Caesars,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+31,Justin Herbert,38387,1.5,120.0,under,Pass Touchdowns,Caesars,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
+32,Justin Herbert,38387,37.5,-120.0,under,Pass Attempts,Caesars,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 33,Justin Herbert,38387,36.5,-118.0,under,Longest Pass Completion,Caesars,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
-34,Justin Herbert,38387,275.5,-125.0,under,Passing Yards,Caesars,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-35,Justin Herbert,38387,25.5,-124.0,under,Passing Completions,Pinnacle,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
-36,Justin Herbert,38387,0.5,-118.0,under,Interceptions Thrown,Pinnacle,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
+34,Justin Herbert,38387,275.5,-125.0,under,Pass Yards,Caesars,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+35,Justin Herbert,38387,25.5,-124.0,under,Pass Completions,Pinnacle,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
+36,Justin Herbert,38387,0.5,-118.0,under,INT,Pinnacle,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
 37,Justin Herbert,38387,13.5,-110.0,under,Rush Yards,Pinnacle,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-38,Justin Herbert,38387,1.5,119.0,under,Passing Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.45662100456621,LAC,DAL
-39,Justin Herbert,38387,37.5,-116.0,under,Passing Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5370370370370371,LAC,DAL
+38,Justin Herbert,38387,1.5,119.0,under,Pass Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.45662100456621,LAC,DAL
+39,Justin Herbert,38387,37.5,-116.0,under,Pass Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5370370370370371,LAC,DAL
 40,Justin Herbert,38387,36.5,-128.0,under,Longest Pass Completion,Pinnacle,1,2023-10-17T00:15:00,0.5614035087719298,LAC,DAL
-41,Justin Herbert,38387,275.5,-133.0,under,Passing Yards,Pinnacle,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-42,Justin Herbert,38387,25.5,-120.0,under,Passing Completions,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+41,Justin Herbert,38387,275.5,-133.0,under,Pass Yards,Pinnacle,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+42,Justin Herbert,38387,25.5,-120.0,under,Pass Completions,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 43,Justin Herbert,38387,10.5,100.0,under,Rush Yards,PointsBet,1,2023-10-17T00:15:00,0.5,LAC,DAL
-44,Justin Herbert,38387,1.5,105.0,under,Passing Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+44,Justin Herbert,38387,1.5,105.0,under,Pass Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 45,Justin Herbert,38387,36.5,-110.0,under,Longest Pass Completion,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-46,Justin Herbert,38387,275.5,-115.0,under,Passing Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-47,Justin Herbert,38387,25.5,-120.0,under,Passing Completions,Bet365,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-48,Justin Herbert,38387,0.5,-125.0,under,Interceptions Thrown,Bet365,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+46,Justin Herbert,38387,275.5,-115.0,under,Pass Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+47,Justin Herbert,38387,25.5,-120.0,under,Pass Completions,Bet365,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+48,Justin Herbert,38387,0.5,-125.0,under,INT,Bet365,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 49,Justin Herbert,38387,13.5,-110.0,under,Rush Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-50,Justin Herbert,38387,1.5,120.0,under,Passing Touchdowns,Bet365,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-51,Justin Herbert,38387,37.5,-115.0,under,Passing Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+50,Justin Herbert,38387,1.5,120.0,under,Pass Touchdowns,Bet365,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
+51,Justin Herbert,38387,37.5,-115.0,under,Pass Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 52,Justin Herbert,38387,36.5,100.0,under,Longest Pass Completion,Bet365,1,2023-10-17T00:15:00,0.5,LAC,DAL
-53,Justin Herbert,38387,275.5,-110.0,under,Passing Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-54,Justin Herbert,38387,25.5,-125.0,under,Passing Completions,SportsBetting,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+53,Justin Herbert,38387,275.5,-110.0,under,Pass Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+54,Justin Herbert,38387,25.5,-125.0,under,Pass Completions,SportsBetting,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 55,Justin Herbert,38387,13.5,-114.0,under,Rush Yards,SportsBetting,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-56,Justin Herbert,38387,1.5,128.0,under,Passing Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.4385964912280701,LAC,DAL
-57,Justin Herbert,38387,275.5,-125.0,under,Passing Yards,SportsBetting,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-58,Justin Herbert,38387,25.5,-125.0,under,Passing Completions,BetOnline,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+56,Justin Herbert,38387,1.5,128.0,under,Pass Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.4385964912280701,LAC,DAL
+57,Justin Herbert,38387,275.5,-125.0,under,Pass Yards,SportsBetting,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+58,Justin Herbert,38387,25.5,-125.0,under,Pass Completions,BetOnline,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 59,Justin Herbert,38387,13.5,-114.0,under,Rush Yards,BetOnline,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-60,Justin Herbert,38387,1.5,128.0,under,Passing Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.4385964912280701,LAC,DAL
-61,Justin Herbert,38387,275.5,-125.0,under,Passing Yards,BetOnline,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-62,Justin Herbert,38387,25.5,-125.0,under,Passing Completions,Bovada,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+60,Justin Herbert,38387,1.5,128.0,under,Pass Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.4385964912280701,LAC,DAL
+61,Justin Herbert,38387,275.5,-125.0,under,Pass Yards,BetOnline,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+62,Justin Herbert,38387,25.5,-125.0,under,Pass Completions,Bovada,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 63,Justin Herbert,38387,13.5,-114.0,under,Rush Yards,Bovada,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-64,Justin Herbert,38387,1.5,128.0,under,Passing Touchdowns,Bovada,1,2023-10-17T00:15:00,0.4385964912280701,LAC,DAL
-65,Justin Herbert,38387,275.5,-125.0,under,Passing Yards,Bovada,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-66,Justin Herbert,38387,25.5,-114.0,under,Passing Completions,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-67,Justin Herbert,38387,0.5,-124.0,under,Interceptions Thrown,Four Winds,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
-68,Justin Herbert,38387,287.5,-114.0,under,Passing And Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+64,Justin Herbert,38387,1.5,128.0,under,Pass Touchdowns,Bovada,1,2023-10-17T00:15:00,0.4385964912280701,LAC,DAL
+65,Justin Herbert,38387,275.5,-125.0,under,Pass Yards,Bovada,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+66,Justin Herbert,38387,25.5,-114.0,under,Pass Completions,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+67,Justin Herbert,38387,0.5,-124.0,under,INT,Four Winds,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
+68,Justin Herbert,38387,287.5,-114.0,under,Pass+Rush Yds,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 69,Justin Herbert,38387,11.5,-121.0,under,Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5475113122171946,LAC,DAL
-70,Justin Herbert,38387,1.5,110.0,under,Passing Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+70,Justin Herbert,38387,1.5,110.0,under,Pass Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
 71,Justin Herbert,38387,36.5,-109.0,under,Longest Pass Completion,Four Winds,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-72,Justin Herbert,38387,273.5,-114.0,under,Passing Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-73,Justin Herbert,38387,25.5,-114.0,under,Passing Completions,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-74,Justin Herbert,38387,0.5,-124.0,under,Interceptions Thrown,BetRivers,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
-75,Justin Herbert,38387,287.5,-114.0,under,Passing And Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+72,Justin Herbert,38387,273.5,-114.0,under,Pass Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+73,Justin Herbert,38387,25.5,-114.0,under,Pass Completions,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+74,Justin Herbert,38387,0.5,-124.0,under,INT,BetRivers,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
+75,Justin Herbert,38387,287.5,-114.0,under,Pass+Rush Yds,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 76,Justin Herbert,38387,11.5,-121.0,under,Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5475113122171946,LAC,DAL
-77,Justin Herbert,38387,1.5,110.0,under,Passing Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+77,Justin Herbert,38387,1.5,110.0,under,Pass Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
 78,Justin Herbert,38387,36.5,-109.0,under,Longest Pass Completion,BetRivers,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-79,Justin Herbert,38387,273.5,-114.0,under,Passing Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-80,Justin Herbert,38387,25.5,-114.0,under,Passing Completions,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-81,Justin Herbert,38387,0.5,-124.0,under,Interceptions Thrown,Unibet,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
-82,Justin Herbert,38387,287.5,-114.0,under,Passing And Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+79,Justin Herbert,38387,273.5,-114.0,under,Pass Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+80,Justin Herbert,38387,25.5,-114.0,under,Pass Completions,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+81,Justin Herbert,38387,0.5,-124.0,under,INT,Unibet,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
+82,Justin Herbert,38387,287.5,-114.0,under,Pass+Rush Yds,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 83,Justin Herbert,38387,11.5,-121.0,under,Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5475113122171946,LAC,DAL
-84,Justin Herbert,38387,1.5,110.0,under,Passing Touchdowns,Unibet,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+84,Justin Herbert,38387,1.5,110.0,under,Pass Touchdowns,Unibet,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
 85,Justin Herbert,38387,36.5,-109.0,under,Longest Pass Completion,Unibet,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-86,Justin Herbert,38387,273.5,-114.0,under,Passing Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-87,Justin Herbert,38387,25.5,-114.0,under,Passing Completions,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-88,Justin Herbert,38387,0.5,-124.0,under,Interceptions Thrown,Parx,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
-89,Justin Herbert,38387,287.5,-114.0,under,Passing And Rush Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+86,Justin Herbert,38387,273.5,-114.0,under,Pass Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+87,Justin Herbert,38387,25.5,-114.0,under,Pass Completions,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+88,Justin Herbert,38387,0.5,-124.0,under,INT,Parx,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
+89,Justin Herbert,38387,287.5,-114.0,under,Pass+Rush Yds,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 90,Justin Herbert,38387,11.5,-121.0,under,Rush Yards,Parx,1,2023-10-17T00:15:00,0.5475113122171946,LAC,DAL
-91,Justin Herbert,38387,1.5,110.0,under,Passing Touchdowns,Parx,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+91,Justin Herbert,38387,1.5,110.0,under,Pass Touchdowns,Parx,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
 92,Justin Herbert,38387,36.5,-109.0,under,Longest Pass Completion,Parx,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-93,Justin Herbert,38387,273.5,-114.0,under,Passing Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-94,Justin Herbert,38387,25.5,-114.0,under,Passing Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-95,Justin Herbert,38387,0.5,-124.0,under,Interceptions Thrown,Sugarhouse,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
-96,Justin Herbert,38387,287.5,-114.0,under,Passing And Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+93,Justin Herbert,38387,273.5,-114.0,under,Pass Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+94,Justin Herbert,38387,25.5,-114.0,under,Pass Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+95,Justin Herbert,38387,0.5,-124.0,under,INT,Sugarhouse,1,2023-10-17T00:15:00,0.5535714285714286,LAC,DAL
+96,Justin Herbert,38387,287.5,-114.0,under,Pass+Rush Yds,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 97,Justin Herbert,38387,11.5,-121.0,under,Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5475113122171946,LAC,DAL
-98,Justin Herbert,38387,1.5,110.0,under,Passing Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+98,Justin Herbert,38387,1.5,110.0,under,Pass Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
 99,Justin Herbert,38387,36.5,-109.0,under,Longest Pass Completion,Sugarhouse,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-100,Justin Herbert,38387,273.5,-114.0,under,Passing Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-101,Justin Herbert,38387,25.5,-122.0,under,Passing Completions,FanDuel,1,2023-10-17T00:15:00,0.5495495495495496,LAC,DAL
-102,Justin Herbert,38387,287.5,-114.0,under,Passing And Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+100,Justin Herbert,38387,273.5,-114.0,under,Pass Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+101,Justin Herbert,38387,25.5,-122.0,under,Pass Completions,FanDuel,1,2023-10-17T00:15:00,0.5495495495495496,LAC,DAL
+102,Justin Herbert,38387,287.5,-114.0,under,Pass+Rush Yds,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 103,Justin Herbert,38387,11.5,-110.0,under,Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-104,Justin Herbert,38387,1.5,106.0,under,Passing Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.4854368932038835,LAC,DAL
-105,Justin Herbert,38387,36.5,-114.0,under,Passing Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-106,Justin Herbert,38387,274.5,-110.0,under,Passing Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-114,Justin Herbert,38387,0.5,-135.0,under,Interceptions Thrown,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+104,Justin Herbert,38387,1.5,106.0,under,Pass Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.4854368932038835,LAC,DAL
+105,Justin Herbert,38387,36.5,-114.0,under,Pass Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+106,Justin Herbert,38387,274.5,-110.0,under,Pass Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+114,Justin Herbert,38387,0.5,-135.0,under,INT,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 115,Justin Herbert,38387,13.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-116,Justin Herbert,38387,277.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+116,Justin Herbert,38387,277.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 117,Justin Herbert,38387,13.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-118,Justin Herbert,38387,275.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+118,Justin Herbert,38387,275.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 119,Justin Herbert,38387,8.5,-137.0,over,Rush Attempts,888sports,1,2023-10-17T00:15:00,0.5780590717299579,LAC,DAL
 120,Justin Herbert,38387,3.5,110.0,over,Receiving Yards,888sports,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
-121,Justin Herbert,38387,275.5,-120.0,over,Passing Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-122,Justin Herbert,38387,292.5,-125.0,over,Passing And Rush Yards,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-123,Justin Herbert,38387,37.5,-120.0,over,Passing Attempts,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-124,Justin Herbert,38387,0.5,-110.0,over,Interceptions Thrown,888sports,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-125,Justin Herbert,38387,1.5,-163.0,over,Passing Touchdowns,888sports,1,2023-10-17T00:15:00,0.6197718631178707,LAC,DAL
+121,Justin Herbert,38387,275.5,-120.0,over,Pass Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+122,Justin Herbert,38387,292.5,-125.0,over,Pass+Rush Yds,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+123,Justin Herbert,38387,37.5,-120.0,over,Pass Attempts,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+124,Justin Herbert,38387,0.5,-110.0,over,INT,888sports,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+125,Justin Herbert,38387,1.5,-163.0,over,Pass Touchdowns,888sports,1,2023-10-17T00:15:00,0.6197718631178707,LAC,DAL
 126,Justin Herbert,38387,36.5,-125.0,over,Longest Pass Completion,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-127,Justin Herbert,38387,25.5,-118.0,over,Passing Completions,888sports,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
+127,Justin Herbert,38387,25.5,-118.0,over,Pass Completions,888sports,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
 128,Justin Herbert,38387,13.5,-120.0,over,Rush Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 129,Justin Herbert,38387,8.5,-130.0,over,Rush Attempts,BetMGM,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 130,Justin Herbert,38387,3.5,120.0,over,Receiving Yards,BetMGM,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-131,Justin Herbert,38387,292.5,-115.0,over,Passing And Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-132,Justin Herbert,38387,37.5,-115.0,over,Passing Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-133,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,BetMGM,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-134,Justin Herbert,38387,1.5,-155.0,over,Passing Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.6078431372549019,LAC,DAL
+131,Justin Herbert,38387,292.5,-115.0,over,Pass+Rush Yds,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+132,Justin Herbert,38387,37.5,-115.0,over,Pass Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+133,Justin Herbert,38387,0.5,-105.0,over,INT,BetMGM,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+134,Justin Herbert,38387,1.5,-155.0,over,Pass Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.6078431372549019,LAC,DAL
 135,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-136,Justin Herbert,38387,25.5,-105.0,over,Passing Completions,BetMGM,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+136,Justin Herbert,38387,25.5,-105.0,over,Pass Completions,BetMGM,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
 137,Justin Herbert,38387,13.5,-115.0,over,Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 138,Justin Herbert,38387,8.5,-125.0,over,Rush Attempts,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 139,Justin Herbert,38387,3.5,100.0,over,Receiving Yards,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-140,Justin Herbert,38387,275.5,-105.0,over,Passing Yards,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-141,Justin Herbert,38387,292.5,-115.0,over,Passing And Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-142,Justin Herbert,38387,37.5,-115.0,over,Passing Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-143,Justin Herbert,38387,0.5,-120.0,over,Interceptions Thrown,DraftKings,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-144,Justin Herbert,38387,1.5,-160.0,over,Passing Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.6153846153846154,LAC,DAL
+140,Justin Herbert,38387,275.5,-105.0,over,Pass Yards,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+141,Justin Herbert,38387,292.5,-115.0,over,Pass+Rush Yds,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+142,Justin Herbert,38387,37.5,-115.0,over,Pass Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+143,Justin Herbert,38387,0.5,-120.0,over,INT,DraftKings,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+144,Justin Herbert,38387,1.5,-160.0,over,Pass Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.6153846153846154,LAC,DAL
 145,Justin Herbert,38387,13.5,-110.0,over,Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 146,Justin Herbert,38387,2.5,-145.0,over,Receiving Yards,Caesars,1,2023-10-17T00:15:00,0.5918367346938775,LAC,DAL
-147,Justin Herbert,38387,275.5,-109.0,over,Passing Yards,Caesars,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-148,Justin Herbert,38387,37.5,-114.0,over,Passing Attempts,Caesars,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-149,Justin Herbert,38387,0.5,-106.0,over,Interceptions Thrown,Caesars,1,2023-10-17T00:15:00,0.5145631067961165,LAC,DAL
-150,Justin Herbert,38387,1.5,-167.0,over,Passing Touchdowns,Caesars,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
+147,Justin Herbert,38387,275.5,-109.0,over,Pass Yards,Caesars,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+148,Justin Herbert,38387,37.5,-114.0,over,Pass Attempts,Caesars,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+149,Justin Herbert,38387,0.5,-106.0,over,INT,Caesars,1,2023-10-17T00:15:00,0.5145631067961165,LAC,DAL
+150,Justin Herbert,38387,1.5,-167.0,over,Pass Touchdowns,Caesars,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
 151,Justin Herbert,38387,36.5,-118.0,over,Longest Pass Completion,Caesars,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
-152,Justin Herbert,38387,25.5,-108.0,over,Passing Completions,Caesars,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+152,Justin Herbert,38387,25.5,-108.0,over,Pass Completions,Caesars,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
 153,Justin Herbert,38387,11.5,-114.0,over,Rush Yards,Caesars,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-154,Justin Herbert,38387,275.5,-115.0,over,Passing Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-155,Justin Herbert,38387,1.5,-140.0,over,Passing Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
+154,Justin Herbert,38387,275.5,-115.0,over,Pass Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+155,Justin Herbert,38387,1.5,-140.0,over,Pass Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
 156,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-157,Justin Herbert,38387,25.5,-110.0,over,Passing Completions,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+157,Justin Herbert,38387,25.5,-110.0,over,Pass Completions,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 158,Justin Herbert,38387,10.5,-130.0,over,Rush Yards,PointsBet,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-159,Justin Herbert,38387,275.5,-103.0,over,Passing Yards,SportsBetting,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
-160,Justin Herbert,38387,1.5,-167.0,over,Passing Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
-161,Justin Herbert,38387,25.5,-103.0,over,Passing Completions,SportsBetting,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+159,Justin Herbert,38387,275.5,-103.0,over,Pass Yards,SportsBetting,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+160,Justin Herbert,38387,1.5,-167.0,over,Pass Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
+161,Justin Herbert,38387,25.5,-103.0,over,Pass Completions,SportsBetting,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
 162,Justin Herbert,38387,13.5,-114.0,over,Rush Yards,SportsBetting,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-163,Justin Herbert,38387,275.5,-103.0,over,Passing Yards,BetOnline,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
-164,Justin Herbert,38387,1.5,-167.0,over,Passing Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
-165,Justin Herbert,38387,25.5,-103.0,over,Passing Completions,BetOnline,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+163,Justin Herbert,38387,275.5,-103.0,over,Pass Yards,BetOnline,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+164,Justin Herbert,38387,1.5,-167.0,over,Pass Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
+165,Justin Herbert,38387,25.5,-103.0,over,Pass Completions,BetOnline,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
 166,Justin Herbert,38387,13.5,-114.0,over,Rush Yards,BetOnline,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-167,Justin Herbert,38387,275.5,-103.0,over,Passing Yards,Bovada,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
-168,Justin Herbert,38387,1.5,-167.0,over,Passing Touchdowns,Bovada,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
-169,Justin Herbert,38387,25.5,-103.0,over,Passing Completions,Bovada,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+167,Justin Herbert,38387,275.5,-103.0,over,Pass Yards,Bovada,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+168,Justin Herbert,38387,1.5,-167.0,over,Pass Touchdowns,Bovada,1,2023-10-17T00:15:00,0.6254681647940075,LAC,DAL
+169,Justin Herbert,38387,25.5,-103.0,over,Pass Completions,Bovada,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
 170,Justin Herbert,38387,13.5,-114.0,over,Rush Yards,Bovada,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-171,Justin Herbert,38387,275.5,-100.0,over,Passing Yards,Pinnacle,1,2023-10-17T00:15:00,0.5,LAC,DAL
-172,Justin Herbert,38387,37.5,-114.0,over,Passing Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-173,Justin Herbert,38387,0.5,-113.0,over,Interceptions Thrown,Pinnacle,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
-174,Justin Herbert,38387,1.5,-160.0,over,Passing Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.6153846153846154,LAC,DAL
+171,Justin Herbert,38387,275.5,-100.0,over,Pass Yards,Pinnacle,1,2023-10-17T00:15:00,0.5,LAC,DAL
+172,Justin Herbert,38387,37.5,-114.0,over,Pass Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+173,Justin Herbert,38387,0.5,-113.0,over,INT,Pinnacle,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
+174,Justin Herbert,38387,1.5,-160.0,over,Pass Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.6153846153846154,LAC,DAL
 175,Justin Herbert,38387,36.5,-104.0,over,Longest Pass Completion,Pinnacle,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-176,Justin Herbert,38387,25.5,-107.0,over,Passing Completions,Pinnacle,1,2023-10-17T00:15:00,0.5169082125603864,LAC,DAL
+176,Justin Herbert,38387,25.5,-107.0,over,Pass Completions,Pinnacle,1,2023-10-17T00:15:00,0.5169082125603864,LAC,DAL
 177,Justin Herbert,38387,13.5,-120.0,over,Rush Yards,Pinnacle,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-178,Justin Herbert,38387,275.5,-110.0,over,Passing Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-179,Justin Herbert,38387,37.5,-115.0,over,Passing Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-180,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,Bet365,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-181,Justin Herbert,38387,1.5,-150.0,over,Passing Touchdowns,Bet365,1,2023-10-17T00:15:00,0.6,LAC,DAL
+178,Justin Herbert,38387,275.5,-110.0,over,Pass Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+179,Justin Herbert,38387,37.5,-115.0,over,Pass Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+180,Justin Herbert,38387,0.5,-105.0,over,INT,Bet365,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+181,Justin Herbert,38387,1.5,-150.0,over,Pass Touchdowns,Bet365,1,2023-10-17T00:15:00,0.6,LAC,DAL
 182,Justin Herbert,38387,36.5,-130.0,over,Longest Pass Completion,Bet365,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-183,Justin Herbert,38387,25.5,-110.0,over,Passing Completions,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+183,Justin Herbert,38387,25.5,-110.0,over,Pass Completions,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 184,Justin Herbert,38387,13.5,-110.0,over,Rush Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-185,Justin Herbert,38387,275.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+185,Justin Herbert,38387,275.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 186,Justin Herbert,38387,13.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-187,Justin Herbert,38387,277.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-188,Justin Herbert,38387,0.5,-135.0,over,Interceptions Thrown,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+187,Justin Herbert,38387,277.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+188,Justin Herbert,38387,0.5,-135.0,over,INT,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 189,Justin Herbert,38387,13.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-190,Justin Herbert,38387,273.5,-114.0,over,Passing Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-191,Justin Herbert,38387,287.5,-114.0,over,Passing And Rush Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-192,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,Parx,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-193,Justin Herbert,38387,1.5,-143.0,over,Passing Touchdowns,Parx,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
+190,Justin Herbert,38387,273.5,-114.0,over,Pass Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+191,Justin Herbert,38387,287.5,-114.0,over,Pass+Rush Yds,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+192,Justin Herbert,38387,0.5,-105.0,over,INT,Parx,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+193,Justin Herbert,38387,1.5,-143.0,over,Pass Touchdowns,Parx,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
 194,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,Parx,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-195,Justin Herbert,38387,25.5,-114.0,over,Passing Completions,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+195,Justin Herbert,38387,25.5,-114.0,over,Pass Completions,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 196,Justin Herbert,38387,11.5,-108.0,over,Rush Yards,Parx,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-197,Justin Herbert,38387,273.5,-114.0,over,Passing Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-198,Justin Herbert,38387,287.5,-114.0,over,Passing And Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-199,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,BetRivers,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-200,Justin Herbert,38387,1.5,-143.0,over,Passing Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
+197,Justin Herbert,38387,273.5,-114.0,over,Pass Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+198,Justin Herbert,38387,287.5,-114.0,over,Pass+Rush Yds,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+199,Justin Herbert,38387,0.5,-105.0,over,INT,BetRivers,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+200,Justin Herbert,38387,1.5,-143.0,over,Pass Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
 201,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,BetRivers,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-202,Justin Herbert,38387,25.5,-114.0,over,Passing Completions,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+202,Justin Herbert,38387,25.5,-114.0,over,Pass Completions,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 203,Justin Herbert,38387,11.5,-108.0,over,Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-204,Justin Herbert,38387,273.5,-114.0,over,Passing Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-205,Justin Herbert,38387,287.5,-114.0,over,Passing And Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-206,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,Four Winds,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-207,Justin Herbert,38387,1.5,-143.0,over,Passing Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
+204,Justin Herbert,38387,273.5,-114.0,over,Pass Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+205,Justin Herbert,38387,287.5,-114.0,over,Pass+Rush Yds,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+206,Justin Herbert,38387,0.5,-105.0,over,INT,Four Winds,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+207,Justin Herbert,38387,1.5,-143.0,over,Pass Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
 208,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,Four Winds,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-209,Justin Herbert,38387,25.5,-114.0,over,Passing Completions,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+209,Justin Herbert,38387,25.5,-114.0,over,Pass Completions,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 210,Justin Herbert,38387,11.5,-108.0,over,Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-211,Justin Herbert,38387,273.5,-114.0,over,Passing Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-212,Justin Herbert,38387,287.5,-114.0,over,Passing And Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-213,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,Unibet,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-214,Justin Herbert,38387,1.5,-143.0,over,Passing Touchdowns,Unibet,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
+211,Justin Herbert,38387,273.5,-114.0,over,Pass Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+212,Justin Herbert,38387,287.5,-114.0,over,Pass+Rush Yds,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+213,Justin Herbert,38387,0.5,-105.0,over,INT,Unibet,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+214,Justin Herbert,38387,1.5,-143.0,over,Pass Touchdowns,Unibet,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
 215,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,Unibet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-216,Justin Herbert,38387,25.5,-114.0,over,Passing Completions,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+216,Justin Herbert,38387,25.5,-114.0,over,Pass Completions,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 217,Justin Herbert,38387,11.5,-108.0,over,Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-218,Justin Herbert,38387,273.5,-114.0,over,Passing Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-219,Justin Herbert,38387,287.5,-114.0,over,Passing And Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-220,Justin Herbert,38387,0.5,-105.0,over,Interceptions Thrown,Sugarhouse,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-221,Justin Herbert,38387,1.5,-143.0,over,Passing Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
+218,Justin Herbert,38387,273.5,-114.0,over,Pass Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+219,Justin Herbert,38387,287.5,-114.0,over,Pass+Rush Yds,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+220,Justin Herbert,38387,0.5,-105.0,over,INT,Sugarhouse,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+221,Justin Herbert,38387,1.5,-143.0,over,Pass Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.588477366255144,LAC,DAL
 222,Justin Herbert,38387,36.5,-120.0,over,Longest Pass Completion,Sugarhouse,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-223,Justin Herbert,38387,25.5,-114.0,over,Passing Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+223,Justin Herbert,38387,25.5,-114.0,over,Pass Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 224,Justin Herbert,38387,11.5,-108.0,over,Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-225,Justin Herbert,38387,274.5,-110.0,over,Passing Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-226,Justin Herbert,38387,287.5,-114.0,over,Passing And Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-227,Justin Herbert,38387,36.5,-114.0,over,Passing Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-228,Justin Herbert,38387,1.5,-136.0,over,Passing Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.576271186440678,LAC,DAL
-229,Justin Herbert,38387,25.5,-108.0,over,Passing Completions,FanDuel,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+225,Justin Herbert,38387,274.5,-110.0,over,Pass Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+226,Justin Herbert,38387,287.5,-114.0,over,Pass+Rush Yds,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+227,Justin Herbert,38387,36.5,-114.0,over,Pass Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+228,Justin Herbert,38387,1.5,-136.0,over,Pass Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.576271186440678,LAC,DAL
+229,Justin Herbert,38387,25.5,-108.0,over,Pass Completions,FanDuel,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
 230,Justin Herbert,38387,11.5,-110.0,over,Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-0,DaRon Bland,34397,4.5,-105.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-1,DaRon Bland,34397,4.5,-125.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-0,Jayron Kearse,36693,4.5,-110.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-1,Jayron Kearse,36693,4.5,112.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.4716981132075472,LAC,DAL
-2,Jayron Kearse,36693,4.5,100.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-3,Jayron Kearse,36693,4.5,-120.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-4,Jayron Kearse,36693,4.5,-154.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.6062992125984252,LAC,DAL
-5,Jayron Kearse,36693,4.5,-130.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-0,Malik Jefferson,410127,4.5,-115.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-1,Malik Jefferson,410127,4.5,-128.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5614035087719298,LAC,DAL
-2,Malik Jefferson,410127,4.5,-115.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-3,Malik Jefferson,410127,4.5,-106.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5145631067961165,LAC,DAL
-0,Malik Hooker,34360,4.5,100.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-1,Malik Hooker,34360,2.5,125.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.4444444444444444,LAC,DAL
-2,Malik Hooker,34360,4.5,-108.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-3,Malik Hooker,34360,4.5,-130.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-4,Malik Hooker,34360,2.5,-165.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.6226415094339622,LAC,DAL
-5,Malik Hooker,34360,4.5,-127.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5594713656387665,LAC,DAL
-0,Donovan Wilson,36653,5.5,-105.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-1,Donovan Wilson,36653,5.5,-110.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-2,Donovan Wilson,36653,5.5,-108.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-3,Donovan Wilson,36653,5.5,-120.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-4,Donovan Wilson,36653,5.5,-125.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-5,Donovan Wilson,36653,5.5,-127.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5594713656387665,LAC,DAL
-0,Damone Clark,242683,7.5,100.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-1,Damone Clark,242683,7.5,-101.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5024875621890548,LAC,DAL
-2,Damone Clark,242683,7.5,-130.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-3,Damone Clark,242683,7.5,-135.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+0,DaRon Bland,34397,4.5,-105.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+1,DaRon Bland,34397,4.5,-125.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+0,Jayron Kearse,36693,4.5,-110.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+1,Jayron Kearse,36693,4.5,112.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.4716981132075472,LAC,DAL
+2,Jayron Kearse,36693,4.5,100.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
+3,Jayron Kearse,36693,4.5,-120.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+4,Jayron Kearse,36693,4.5,-154.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.6062992125984252,LAC,DAL
+5,Jayron Kearse,36693,4.5,-130.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+0,Malik Jefferson,410127,4.5,-115.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+1,Malik Jefferson,410127,4.5,-128.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5614035087719298,LAC,DAL
+2,Malik Jefferson,410127,4.5,-115.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+3,Malik Jefferson,410127,4.5,-106.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5145631067961165,LAC,DAL
+0,Malik Hooker,34360,4.5,100.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
+1,Malik Hooker,34360,2.5,125.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.4444444444444444,LAC,DAL
+2,Malik Hooker,34360,4.5,-108.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+3,Malik Hooker,34360,4.5,-130.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+4,Malik Hooker,34360,2.5,-165.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.6226415094339622,LAC,DAL
+5,Malik Hooker,34360,4.5,-127.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5594713656387665,LAC,DAL
+0,Donovan Wilson,36653,5.5,-105.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+1,Donovan Wilson,36653,5.5,-110.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+2,Donovan Wilson,36653,5.5,-108.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+3,Donovan Wilson,36653,5.5,-120.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+4,Donovan Wilson,36653,5.5,-125.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+5,Donovan Wilson,36653,5.5,-127.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5594713656387665,LAC,DAL
+0,Damone Clark,242683,7.5,100.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
+1,Damone Clark,242683,7.5,-101.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5024875621890548,LAC,DAL
+2,Damone Clark,242683,7.5,-130.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+3,Damone Clark,242683,7.5,-135.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 0,Aaron Donald,37648,1.5,-125.0,under,bt15,SportsBetting,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 1,Aaron Donald,37648,12.5,-118.0,under,Receiving Yards,SportsBetting,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
 2,Aaron Donald,37648,1.5,-125.0,under,bt15,BetOnline,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
@@ -1157,238 +1157,238 @@
 107,Keenan Allen,38673,7.5,117.0,over,bt15,Bovada,1,2023-10-17T00:15:00,0.4608294930875576,LAC,DAL
 108,Keenan Allen,38673,83.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 109,Keenan Allen,38673,7.0,-135.0,over,bt15,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-0,Dak Prescott,35704,1.5,-110.0,under,Passing Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+0,Dak Prescott,35704,1.5,-110.0,under,Pass Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 1,Dak Prescott,35704,10.5,-115.0,under,Rush Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-2,Dak Prescott,35704,22.5,-115.0,under,Passing Completions,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+2,Dak Prescott,35704,22.5,-115.0,under,Pass Completions,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 3,Dak Prescott,35704,33.5,-115.0,under,Longest Pass Completion,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-4,Dak Prescott,35704,250.5,-110.0,under,Passing Yards,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-5,Dak Prescott,35704,1.5,105.0,under,Passing Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+4,Dak Prescott,35704,250.5,-110.0,under,Pass Yards,PointsBet,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+5,Dak Prescott,35704,1.5,105.0,under,Pass Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 6,Dak Prescott,35704,12.5,-123.0,under,Rush Yards,SportsBetting,1,2023-10-17T00:15:00,0.5515695067264574,LAC,DAL
-7,Dak Prescott,35704,22.5,-108.0,under,Passing Completions,SportsBetting,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-8,Dak Prescott,35704,258.5,-118.0,under,Passing Yards,SportsBetting,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
-9,Dak Prescott,35704,1.5,105.0,under,Passing Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+7,Dak Prescott,35704,22.5,-108.0,under,Pass Completions,SportsBetting,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+8,Dak Prescott,35704,258.5,-118.0,under,Pass Yards,SportsBetting,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
+9,Dak Prescott,35704,1.5,105.0,under,Pass Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 10,Dak Prescott,35704,12.5,-123.0,under,Rush Yards,BetOnline,1,2023-10-17T00:15:00,0.5515695067264574,LAC,DAL
-11,Dak Prescott,35704,22.5,-108.0,under,Passing Completions,BetOnline,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-12,Dak Prescott,35704,258.5,-118.0,under,Passing Yards,BetOnline,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
-13,Dak Prescott,35704,1.5,105.0,under,Passing Touchdowns,Bovada,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+11,Dak Prescott,35704,22.5,-108.0,under,Pass Completions,BetOnline,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+12,Dak Prescott,35704,258.5,-118.0,under,Pass Yards,BetOnline,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
+13,Dak Prescott,35704,1.5,105.0,under,Pass Touchdowns,Bovada,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 14,Dak Prescott,35704,12.5,-123.0,under,Rush Yards,Bovada,1,2023-10-17T00:15:00,0.5515695067264574,LAC,DAL
-15,Dak Prescott,35704,22.5,-108.0,under,Passing Completions,Bovada,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
-16,Dak Prescott,35704,258.5,-118.0,under,Passing Yards,Bovada,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
-17,Dak Prescott,35704,1.5,100.0,under,Passing Touchdowns,Bet365,1,2023-10-17T00:15:00,0.5,LAC,DAL
+15,Dak Prescott,35704,22.5,-108.0,under,Pass Completions,Bovada,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+16,Dak Prescott,35704,258.5,-118.0,under,Pass Yards,Bovada,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
+17,Dak Prescott,35704,1.5,100.0,under,Pass Touchdowns,Bet365,1,2023-10-17T00:15:00,0.5,LAC,DAL
 18,Dak Prescott,35704,12.5,-110.0,under,Rush Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-19,Dak Prescott,35704,37.5,-115.0,under,Passing Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-20,Dak Prescott,35704,0.5,105.0,under,Interceptions Thrown,Bet365,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
-21,Dak Prescott,35704,22.5,-110.0,under,Passing Completions,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+19,Dak Prescott,35704,37.5,-115.0,under,Pass Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+20,Dak Prescott,35704,0.5,105.0,under,INT,Bet365,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+21,Dak Prescott,35704,22.5,-110.0,under,Pass Completions,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 22,Dak Prescott,35704,33.5,-110.0,under,Longest Pass Completion,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-23,Dak Prescott,35704,253.5,-110.0,under,Passing Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-24,Dak Prescott,35704,1.5,-105.0,under,Passing Touchdowns,888sports,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-25,Dak Prescott,35704,273.5,-120.0,under,Passing And Rush Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+23,Dak Prescott,35704,253.5,-110.0,under,Pass Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+24,Dak Prescott,35704,1.5,-105.0,under,Pass Touchdowns,888sports,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+25,Dak Prescott,35704,273.5,-120.0,under,Pass+Rush Yds,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 26,Dak Prescott,35704,3.5,-175.0,under,Receiving Yards,888sports,1,2023-10-17T00:15:00,0.6363636363636364,LAC,DAL
 27,Dak Prescott,35704,12.5,-133.0,under,Rush Yards,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-28,Dak Prescott,35704,37.5,-120.0,under,Passing Attempts,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-29,Dak Prescott,35704,0.5,100.0,under,Interceptions Thrown,888sports,1,2023-10-17T00:15:00,0.5,LAC,DAL
-30,Dak Prescott,35704,22.5,-118.0,under,Passing Completions,888sports,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
+28,Dak Prescott,35704,37.5,-120.0,under,Pass Attempts,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+29,Dak Prescott,35704,0.5,100.0,under,INT,888sports,1,2023-10-17T00:15:00,0.5,LAC,DAL
+30,Dak Prescott,35704,22.5,-118.0,under,Pass Completions,888sports,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
 31,Dak Prescott,35704,33.5,-110.0,under,Longest Pass Completion,888sports,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-32,Dak Prescott,35704,258.5,-125.0,under,Passing Yards,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-33,Dak Prescott,35704,1.5,100.0,under,Passing Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.5,LAC,DAL
+32,Dak Prescott,35704,258.5,-125.0,under,Pass Yards,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+33,Dak Prescott,35704,1.5,100.0,under,Pass Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.5,LAC,DAL
 34,Dak Prescott,35704,12.5,-122.0,under,Rush Yards,Pinnacle,1,2023-10-17T00:15:00,0.5495495495495496,LAC,DAL
-35,Dak Prescott,35704,37.5,-114.0,under,Passing Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-36,Dak Prescott,35704,0.5,-100.0,under,Interceptions Thrown,Pinnacle,1,2023-10-17T00:15:00,0.5,LAC,DAL
-37,Dak Prescott,35704,22.5,-108.0,under,Passing Completions,Pinnacle,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
+35,Dak Prescott,35704,37.5,-114.0,under,Pass Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+36,Dak Prescott,35704,0.5,-100.0,under,INT,Pinnacle,1,2023-10-17T00:15:00,0.5,LAC,DAL
+37,Dak Prescott,35704,22.5,-108.0,under,Pass Completions,Pinnacle,1,2023-10-17T00:15:00,0.5192307692307693,LAC,DAL
 38,Dak Prescott,35704,33.5,-104.0,under,Longest Pass Completion,Pinnacle,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-39,Dak Prescott,35704,258.5,-120.0,under,Passing Yards,Pinnacle,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-40,Dak Prescott,35704,1.5,100.0,under,Passing Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.5,LAC,DAL
-41,Dak Prescott,35704,273.5,-115.0,under,Passing And Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+39,Dak Prescott,35704,258.5,-120.0,under,Pass Yards,Pinnacle,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+40,Dak Prescott,35704,1.5,100.0,under,Pass Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.5,LAC,DAL
+41,Dak Prescott,35704,273.5,-115.0,under,Pass+Rush Yds,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 42,Dak Prescott,35704,3.5,-165.0,under,Receiving Yards,BetMGM,1,2023-10-17T00:15:00,0.6226415094339622,LAC,DAL
 43,Dak Prescott,35704,12.5,-120.0,under,Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-44,Dak Prescott,35704,37.5,-115.0,under,Passing Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-45,Dak Prescott,35704,0.5,105.0,under,Interceptions Thrown,BetMGM,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
-46,Dak Prescott,35704,22.5,-110.0,under,Passing Completions,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+44,Dak Prescott,35704,37.5,-115.0,under,Pass Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+45,Dak Prescott,35704,0.5,105.0,under,INT,BetMGM,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+46,Dak Prescott,35704,22.5,-110.0,under,Pass Completions,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 47,Dak Prescott,35704,33.5,-105.0,under,Longest Pass Completion,BetMGM,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-48,Dak Prescott,35704,258.5,-115.0,under,Passing Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-49,Dak Prescott,35704,1.5,-135.0,under,Passing Touchdowns,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+48,Dak Prescott,35704,258.5,-115.0,under,Pass Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+49,Dak Prescott,35704,1.5,-135.0,under,Pass Touchdowns,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 50,Dak Prescott,35704,12.5,-135.0,under,Rush Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-51,Dak Prescott,35704,258.5,-135.0,under,Passing Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-52,Dak Prescott,35704,1.5,100.0,under,Passing Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-53,Dak Prescott,35704,273.5,-115.0,under,Passing And Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+51,Dak Prescott,35704,258.5,-135.0,under,Pass Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+52,Dak Prescott,35704,1.5,100.0,under,Pass Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
+53,Dak Prescott,35704,273.5,-115.0,under,Pass+Rush Yds,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 54,Dak Prescott,35704,3.5,-166.0,under,Receiving Yards,DraftKings,1,2023-10-17T00:15:00,0.6240601503759399,LAC,DAL
 55,Dak Prescott,35704,12.5,-130.0,under,Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-56,Dak Prescott,35704,37.5,-115.0,under,Passing Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-57,Dak Prescott,35704,0.5,110.0,under,Interceptions Thrown,DraftKings,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
-58,Dak Prescott,35704,258.5,-115.0,under,Passing Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-59,Dak Prescott,35704,1.5,-104.0,under,Passing Touchdowns,Parx,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-60,Dak Prescott,35704,268.5,-114.0,under,Passing And Rush Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+56,Dak Prescott,35704,37.5,-115.0,under,Pass Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+57,Dak Prescott,35704,0.5,110.0,under,INT,DraftKings,1,2023-10-17T00:15:00,0.4761904761904761,LAC,DAL
+58,Dak Prescott,35704,258.5,-115.0,under,Pass Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+59,Dak Prescott,35704,1.5,-104.0,under,Pass Touchdowns,Parx,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
+60,Dak Prescott,35704,268.5,-114.0,under,Pass+Rush Yds,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 61,Dak Prescott,35704,2.5,120.0,under,Receiving Yards,Parx,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
 62,Dak Prescott,35704,10.5,-115.0,under,Rush Yards,Parx,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-63,Dak Prescott,35704,0.5,108.0,under,Interceptions Thrown,Parx,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
-64,Dak Prescott,35704,22.5,-109.0,under,Passing Completions,Parx,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+63,Dak Prescott,35704,0.5,108.0,under,INT,Parx,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
+64,Dak Prescott,35704,22.5,-109.0,under,Pass Completions,Parx,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
 65,Dak Prescott,35704,33.5,100.0,under,Longest Pass Completion,Parx,1,2023-10-17T00:15:00,0.5,LAC,DAL
-66,Dak Prescott,35704,254.5,-113.0,under,Passing Yards,Parx,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
-67,Dak Prescott,35704,1.5,-104.0,under,Passing Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-68,Dak Prescott,35704,268.5,-114.0,under,Passing And Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+66,Dak Prescott,35704,254.5,-113.0,under,Pass Yards,Parx,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
+67,Dak Prescott,35704,1.5,-104.0,under,Pass Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
+68,Dak Prescott,35704,268.5,-114.0,under,Pass+Rush Yds,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 69,Dak Prescott,35704,2.5,120.0,under,Receiving Yards,BetRivers,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
 70,Dak Prescott,35704,10.5,-115.0,under,Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-71,Dak Prescott,35704,0.5,108.0,under,Interceptions Thrown,BetRivers,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
-72,Dak Prescott,35704,22.5,-109.0,under,Passing Completions,BetRivers,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+71,Dak Prescott,35704,0.5,108.0,under,INT,BetRivers,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
+72,Dak Prescott,35704,22.5,-109.0,under,Pass Completions,BetRivers,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
 73,Dak Prescott,35704,33.5,100.0,under,Longest Pass Completion,BetRivers,1,2023-10-17T00:15:00,0.5,LAC,DAL
-74,Dak Prescott,35704,254.5,-113.0,under,Passing Yards,BetRivers,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
-75,Dak Prescott,35704,1.5,-104.0,under,Passing Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-76,Dak Prescott,35704,268.5,-114.0,under,Passing And Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+74,Dak Prescott,35704,254.5,-113.0,under,Pass Yards,BetRivers,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
+75,Dak Prescott,35704,1.5,-104.0,under,Pass Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
+76,Dak Prescott,35704,268.5,-114.0,under,Pass+Rush Yds,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 77,Dak Prescott,35704,2.5,120.0,under,Receiving Yards,Four Winds,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
 78,Dak Prescott,35704,10.5,-115.0,under,Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-79,Dak Prescott,35704,0.5,108.0,under,Interceptions Thrown,Four Winds,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
-80,Dak Prescott,35704,22.5,-109.0,under,Passing Completions,Four Winds,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+79,Dak Prescott,35704,0.5,108.0,under,INT,Four Winds,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
+80,Dak Prescott,35704,22.5,-109.0,under,Pass Completions,Four Winds,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
 81,Dak Prescott,35704,33.5,100.0,under,Longest Pass Completion,Four Winds,1,2023-10-17T00:15:00,0.5,LAC,DAL
-82,Dak Prescott,35704,254.5,-113.0,under,Passing Yards,Four Winds,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
-83,Dak Prescott,35704,1.5,-104.0,under,Passing Touchdowns,Unibet,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-84,Dak Prescott,35704,268.5,-114.0,under,Passing And Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+82,Dak Prescott,35704,254.5,-113.0,under,Pass Yards,Four Winds,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
+83,Dak Prescott,35704,1.5,-104.0,under,Pass Touchdowns,Unibet,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
+84,Dak Prescott,35704,268.5,-114.0,under,Pass+Rush Yds,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 85,Dak Prescott,35704,2.5,120.0,under,Receiving Yards,Unibet,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
 86,Dak Prescott,35704,10.5,-115.0,under,Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-87,Dak Prescott,35704,0.5,108.0,under,Interceptions Thrown,Unibet,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
-88,Dak Prescott,35704,22.5,-109.0,under,Passing Completions,Unibet,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+87,Dak Prescott,35704,0.5,108.0,under,INT,Unibet,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
+88,Dak Prescott,35704,22.5,-109.0,under,Pass Completions,Unibet,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
 89,Dak Prescott,35704,33.5,100.0,under,Longest Pass Completion,Unibet,1,2023-10-17T00:15:00,0.5,LAC,DAL
-90,Dak Prescott,35704,254.5,-113.0,under,Passing Yards,Unibet,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
-91,Dak Prescott,35704,1.5,-104.0,under,Passing Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-92,Dak Prescott,35704,268.5,-114.0,under,Passing And Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+90,Dak Prescott,35704,254.5,-113.0,under,Pass Yards,Unibet,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
+91,Dak Prescott,35704,1.5,-104.0,under,Pass Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
+92,Dak Prescott,35704,268.5,-114.0,under,Pass+Rush Yds,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 93,Dak Prescott,35704,2.5,120.0,under,Receiving Yards,Sugarhouse,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
 94,Dak Prescott,35704,10.5,-115.0,under,Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-95,Dak Prescott,35704,0.5,108.0,under,Interceptions Thrown,Sugarhouse,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
-96,Dak Prescott,35704,22.5,-109.0,under,Passing Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+95,Dak Prescott,35704,0.5,108.0,under,INT,Sugarhouse,1,2023-10-17T00:15:00,0.4807692307692308,LAC,DAL
+96,Dak Prescott,35704,22.5,-109.0,under,Pass Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
 97,Dak Prescott,35704,33.5,100.0,under,Longest Pass Completion,Sugarhouse,1,2023-10-17T00:15:00,0.5,LAC,DAL
-98,Dak Prescott,35704,254.5,-113.0,under,Passing Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
-99,Dak Prescott,35704,1.5,-106.0,under,Passing Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.5145631067961165,LAC,DAL
-100,Dak Prescott,35704,265.5,-114.0,under,Passing And Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+98,Dak Prescott,35704,254.5,-113.0,under,Pass Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
+99,Dak Prescott,35704,1.5,-106.0,under,Pass Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.5145631067961165,LAC,DAL
+100,Dak Prescott,35704,265.5,-114.0,under,Pass+Rush Yds,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 101,Dak Prescott,35704,10.5,-110.0,under,Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-102,Dak Prescott,35704,36.5,-114.0,under,Passing Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-103,Dak Prescott,35704,22.5,-114.0,under,Passing Completions,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-104,Dak Prescott,35704,253.5,-110.0,under,Passing Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-105,Dak Prescott,35704,1.5,-103.0,under,Passing Touchdowns,Caesars,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
+102,Dak Prescott,35704,36.5,-114.0,under,Pass Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+103,Dak Prescott,35704,22.5,-114.0,under,Pass Completions,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+104,Dak Prescott,35704,253.5,-110.0,under,Pass Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+105,Dak Prescott,35704,1.5,-103.0,under,Pass Touchdowns,Caesars,1,2023-10-17T00:15:00,0.5073891625615764,LAC,DAL
 106,Dak Prescott,35704,3.5,-169.0,under,Receiving Yards,Caesars,1,2023-10-17T00:15:00,0.6282527881040892,LAC,DAL
 107,Dak Prescott,35704,12.5,-120.0,under,Rush Yards,Caesars,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-108,Dak Prescott,35704,37.5,-114.0,under,Passing Attempts,Caesars,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-109,Dak Prescott,35704,0.5,100.0,under,Interceptions Thrown,Caesars,1,2023-10-17T00:15:00,0.5,LAC,DAL
-110,Dak Prescott,35704,22.5,-109.0,under,Passing Completions,Caesars,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
+108,Dak Prescott,35704,37.5,-114.0,under,Pass Attempts,Caesars,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+109,Dak Prescott,35704,0.5,100.0,under,INT,Caesars,1,2023-10-17T00:15:00,0.5,LAC,DAL
+110,Dak Prescott,35704,22.5,-109.0,under,Pass Completions,Caesars,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
 111,Dak Prescott,35704,33.5,-104.0,under,Longest Pass Completion,Caesars,1,2023-10-17T00:15:00,0.5098039215686274,LAC,DAL
-112,Dak Prescott,35704,258.5,-119.0,under,Passing Yards,Caesars,1,2023-10-17T00:15:00,0.54337899543379,LAC,DAL
-113,Dak Prescott,35704,1.5,-135.0,under,Passing Touchdowns,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+112,Dak Prescott,35704,258.5,-119.0,under,Pass Yards,Caesars,1,2023-10-17T00:15:00,0.54337899543379,LAC,DAL
+113,Dak Prescott,35704,1.5,-135.0,under,Pass Touchdowns,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 114,Dak Prescott,35704,12.5,-135.0,under,Rush Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-115,Dak Prescott,35704,258.5,-135.0,under,Passing Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-123,Dak Prescott,35704,273.5,-120.0,over,Passing And Rush Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+115,Dak Prescott,35704,258.5,-135.0,under,Pass Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+123,Dak Prescott,35704,273.5,-120.0,over,Pass+Rush Yds,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 124,Dak Prescott,35704,33.5,-133.0,over,Longest Pass Completion,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
 125,Dak Prescott,35704,12.5,-118.0,over,Rush Yards,888sports,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
 126,Dak Prescott,35704,3.5,120.0,over,Receiving Yards,888sports,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-127,Dak Prescott,35704,37.5,-125.0,over,Passing Attempts,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-128,Dak Prescott,35704,0.5,-150.0,over,Interceptions Thrown,888sports,1,2023-10-17T00:15:00,0.6,LAC,DAL
-129,Dak Prescott,35704,1.5,-141.0,over,Passing Touchdowns,888sports,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
-130,Dak Prescott,35704,22.5,-133.0,over,Passing Completions,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-131,Dak Prescott,35704,258.5,-120.0,over,Passing Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-132,Dak Prescott,35704,273.5,-115.0,over,Passing And Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+127,Dak Prescott,35704,37.5,-125.0,over,Pass Attempts,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+128,Dak Prescott,35704,0.5,-150.0,over,INT,888sports,1,2023-10-17T00:15:00,0.6,LAC,DAL
+129,Dak Prescott,35704,1.5,-141.0,over,Pass Touchdowns,888sports,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
+130,Dak Prescott,35704,22.5,-133.0,over,Pass Completions,888sports,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+131,Dak Prescott,35704,258.5,-120.0,over,Pass Yards,888sports,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+132,Dak Prescott,35704,273.5,-115.0,over,Pass+Rush Yds,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 133,Dak Prescott,35704,33.5,-130.0,over,Longest Pass Completion,BetMGM,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 134,Dak Prescott,35704,12.5,-110.0,over,Rush Yards,BetMGM,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 135,Dak Prescott,35704,3.5,125.0,over,Receiving Yards,BetMGM,1,2023-10-17T00:15:00,0.4444444444444444,LAC,DAL
-136,Dak Prescott,35704,37.5,-115.0,over,Passing Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-137,Dak Prescott,35704,0.5,-145.0,over,Interceptions Thrown,BetMGM,1,2023-10-17T00:15:00,0.5918367346938775,LAC,DAL
-138,Dak Prescott,35704,1.5,-135.0,over,Passing Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-139,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-140,Dak Prescott,35704,258.5,-115.0,over,Passing Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-141,Dak Prescott,35704,273.5,-115.0,over,Passing And Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+136,Dak Prescott,35704,37.5,-115.0,over,Pass Attempts,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+137,Dak Prescott,35704,0.5,-145.0,over,INT,BetMGM,1,2023-10-17T00:15:00,0.5918367346938775,LAC,DAL
+138,Dak Prescott,35704,1.5,-135.0,over,Pass Touchdowns,BetMGM,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+139,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,BetMGM,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+140,Dak Prescott,35704,258.5,-115.0,over,Pass Yards,BetMGM,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+141,Dak Prescott,35704,273.5,-115.0,over,Pass+Rush Yds,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 142,Dak Prescott,35704,12.5,100.0,over,Rush Yards,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
 143,Dak Prescott,35704,3.5,130.0,over,Receiving Yards,DraftKings,1,2023-10-17T00:15:00,0.4347826086956521,LAC,DAL
-144,Dak Prescott,35704,37.5,-115.0,over,Passing Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-145,Dak Prescott,35704,0.5,-140.0,over,Interceptions Thrown,DraftKings,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
-146,Dak Prescott,35704,1.5,-130.0,over,Passing Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-147,Dak Prescott,35704,258.5,-115.0,over,Passing Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-148,Dak Prescott,35704,268.5,-114.0,over,Passing And Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+144,Dak Prescott,35704,37.5,-115.0,over,Pass Attempts,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+145,Dak Prescott,35704,0.5,-140.0,over,INT,DraftKings,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
+146,Dak Prescott,35704,1.5,-130.0,over,Pass Touchdowns,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+147,Dak Prescott,35704,258.5,-115.0,over,Pass Yards,DraftKings,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+148,Dak Prescott,35704,268.5,-114.0,over,Pass+Rush Yds,Sugarhouse,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 149,Dak Prescott,35704,33.5,-130.0,over,Longest Pass Completion,Sugarhouse,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 150,Dak Prescott,35704,10.5,-113.0,over,Rush Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
 151,Dak Prescott,35704,2.5,-157.0,over,Receiving Yards,Sugarhouse,1,2023-10-17T00:15:00,0.6108949416342413,LAC,DAL
-152,Dak Prescott,35704,0.5,-141.0,over,Interceptions Thrown,Sugarhouse,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
-153,Dak Prescott,35704,1.5,-125.0,over,Passing Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-154,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-155,Dak Prescott,35704,254.5,-115.0,over,Passing Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-156,Dak Prescott,35704,268.5,-114.0,over,Passing And Rush Yards,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+152,Dak Prescott,35704,0.5,-141.0,over,INT,Sugarhouse,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
+153,Dak Prescott,35704,1.5,-125.0,over,Pass Touchdowns,Sugarhouse,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+154,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,Sugarhouse,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+155,Dak Prescott,35704,254.5,-115.0,over,Pass Yards,Sugarhouse,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+156,Dak Prescott,35704,268.5,-114.0,over,Pass+Rush Yds,Parx,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 157,Dak Prescott,35704,33.5,-130.0,over,Longest Pass Completion,Parx,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 158,Dak Prescott,35704,10.5,-113.0,over,Rush Yards,Parx,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
 159,Dak Prescott,35704,2.5,-157.0,over,Receiving Yards,Parx,1,2023-10-17T00:15:00,0.6108949416342413,LAC,DAL
-160,Dak Prescott,35704,0.5,-141.0,over,Interceptions Thrown,Parx,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
-161,Dak Prescott,35704,1.5,-125.0,over,Passing Touchdowns,Parx,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-162,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,Parx,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-163,Dak Prescott,35704,254.5,-115.0,over,Passing Yards,Parx,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-164,Dak Prescott,35704,268.5,-114.0,over,Passing And Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+160,Dak Prescott,35704,0.5,-141.0,over,INT,Parx,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
+161,Dak Prescott,35704,1.5,-125.0,over,Pass Touchdowns,Parx,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+162,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,Parx,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+163,Dak Prescott,35704,254.5,-115.0,over,Pass Yards,Parx,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+164,Dak Prescott,35704,268.5,-114.0,over,Pass+Rush Yds,Four Winds,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 165,Dak Prescott,35704,33.5,-130.0,over,Longest Pass Completion,Four Winds,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 166,Dak Prescott,35704,10.5,-113.0,over,Rush Yards,Four Winds,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
 167,Dak Prescott,35704,2.5,-157.0,over,Receiving Yards,Four Winds,1,2023-10-17T00:15:00,0.6108949416342413,LAC,DAL
-168,Dak Prescott,35704,0.5,-141.0,over,Interceptions Thrown,Four Winds,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
-169,Dak Prescott,35704,1.5,-125.0,over,Passing Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-170,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,Four Winds,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-171,Dak Prescott,35704,254.5,-115.0,over,Passing Yards,Four Winds,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-172,Dak Prescott,35704,268.5,-114.0,over,Passing And Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+168,Dak Prescott,35704,0.5,-141.0,over,INT,Four Winds,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
+169,Dak Prescott,35704,1.5,-125.0,over,Pass Touchdowns,Four Winds,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+170,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,Four Winds,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+171,Dak Prescott,35704,254.5,-115.0,over,Pass Yards,Four Winds,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+172,Dak Prescott,35704,268.5,-114.0,over,Pass+Rush Yds,BetRivers,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 173,Dak Prescott,35704,33.5,-130.0,over,Longest Pass Completion,BetRivers,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 174,Dak Prescott,35704,10.5,-113.0,over,Rush Yards,BetRivers,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
 175,Dak Prescott,35704,2.5,-157.0,over,Receiving Yards,BetRivers,1,2023-10-17T00:15:00,0.6108949416342413,LAC,DAL
-176,Dak Prescott,35704,0.5,-141.0,over,Interceptions Thrown,BetRivers,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
-177,Dak Prescott,35704,1.5,-125.0,over,Passing Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-178,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,BetRivers,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-179,Dak Prescott,35704,254.5,-115.0,over,Passing Yards,BetRivers,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-180,Dak Prescott,35704,268.5,-114.0,over,Passing And Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+176,Dak Prescott,35704,0.5,-141.0,over,INT,BetRivers,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
+177,Dak Prescott,35704,1.5,-125.0,over,Pass Touchdowns,BetRivers,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+178,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,BetRivers,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+179,Dak Prescott,35704,254.5,-115.0,over,Pass Yards,BetRivers,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+180,Dak Prescott,35704,268.5,-114.0,over,Pass+Rush Yds,Unibet,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 181,Dak Prescott,35704,33.5,-130.0,over,Longest Pass Completion,Unibet,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
 182,Dak Prescott,35704,10.5,-113.0,over,Rush Yards,Unibet,1,2023-10-17T00:15:00,0.5305164319248826,LAC,DAL
 183,Dak Prescott,35704,2.5,-157.0,over,Receiving Yards,Unibet,1,2023-10-17T00:15:00,0.6108949416342413,LAC,DAL
-184,Dak Prescott,35704,0.5,-141.0,over,Interceptions Thrown,Unibet,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
-185,Dak Prescott,35704,1.5,-125.0,over,Passing Touchdowns,Unibet,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-186,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,Unibet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-187,Dak Prescott,35704,254.5,-115.0,over,Passing Yards,Unibet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-188,Dak Prescott,35704,265.5,-114.0,over,Passing And Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+184,Dak Prescott,35704,0.5,-141.0,over,INT,Unibet,1,2023-10-17T00:15:00,0.5850622406639004,LAC,DAL
+185,Dak Prescott,35704,1.5,-125.0,over,Pass Touchdowns,Unibet,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+186,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,Unibet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+187,Dak Prescott,35704,254.5,-115.0,over,Pass Yards,Unibet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+188,Dak Prescott,35704,265.5,-114.0,over,Pass+Rush Yds,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 189,Dak Prescott,35704,10.5,-110.0,over,Rush Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-190,Dak Prescott,35704,36.5,-114.0,over,Passing Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-191,Dak Prescott,35704,1.5,-120.0,over,Passing Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-192,Dak Prescott,35704,22.5,-114.0,over,Passing Completions,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
-193,Dak Prescott,35704,253.5,-110.0,over,Passing Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+190,Dak Prescott,35704,36.5,-114.0,over,Pass Attempts,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+191,Dak Prescott,35704,1.5,-120.0,over,Pass Touchdowns,FanDuel,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+192,Dak Prescott,35704,22.5,-114.0,over,Pass Completions,FanDuel,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
+193,Dak Prescott,35704,253.5,-110.0,over,Pass Yards,FanDuel,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 194,Dak Prescott,35704,33.5,-115.0,over,Longest Pass Completion,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 195,Dak Prescott,35704,10.5,-115.0,over,Rush Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-196,Dak Prescott,35704,1.5,-120.0,over,Passing Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-197,Dak Prescott,35704,22.5,-115.0,over,Passing Completions,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-198,Dak Prescott,35704,250.5,-120.0,over,Passing Yards,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+196,Dak Prescott,35704,1.5,-120.0,over,Pass Touchdowns,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+197,Dak Prescott,35704,22.5,-115.0,over,Pass Completions,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+198,Dak Prescott,35704,250.5,-120.0,over,Pass Yards,PointsBet,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 199,Dak Prescott,35704,33.5,-128.0,over,Longest Pass Completion,Pinnacle,1,2023-10-17T00:15:00,0.5614035087719298,LAC,DAL
 200,Dak Prescott,35704,12.5,-109.0,over,Rush Yards,Pinnacle,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
-201,Dak Prescott,35704,37.5,-116.0,over,Passing Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5370370370370371,LAC,DAL
-202,Dak Prescott,35704,0.5,-133.0,over,Interceptions Thrown,Pinnacle,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-203,Dak Prescott,35704,1.5,-133.0,over,Passing Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-204,Dak Prescott,35704,22.5,-122.0,over,Passing Completions,Pinnacle,1,2023-10-17T00:15:00,0.5495495495495496,LAC,DAL
-205,Dak Prescott,35704,258.5,-110.0,over,Passing Yards,Pinnacle,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+201,Dak Prescott,35704,37.5,-116.0,over,Pass Attempts,Pinnacle,1,2023-10-17T00:15:00,0.5370370370370371,LAC,DAL
+202,Dak Prescott,35704,0.5,-133.0,over,INT,Pinnacle,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+203,Dak Prescott,35704,1.5,-133.0,over,Pass Touchdowns,Pinnacle,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+204,Dak Prescott,35704,22.5,-122.0,over,Pass Completions,Pinnacle,1,2023-10-17T00:15:00,0.5495495495495496,LAC,DAL
+205,Dak Prescott,35704,258.5,-110.0,over,Pass Yards,Pinnacle,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 206,Dak Prescott,35704,33.5,-120.0,over,Longest Pass Completion,Bet365,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 207,Dak Prescott,35704,12.5,-110.0,over,Rush Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-208,Dak Prescott,35704,37.5,-115.0,over,Passing Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-209,Dak Prescott,35704,0.5,-135.0,over,Interceptions Thrown,Bet365,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-210,Dak Prescott,35704,1.5,-130.0,over,Passing Touchdowns,Bet365,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-211,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,Bet365,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-212,Dak Prescott,35704,253.5,-110.0,over,Passing Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+208,Dak Prescott,35704,37.5,-115.0,over,Pass Attempts,Bet365,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+209,Dak Prescott,35704,0.5,-135.0,over,INT,Bet365,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+210,Dak Prescott,35704,1.5,-130.0,over,Pass Touchdowns,Bet365,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+211,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,Bet365,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+212,Dak Prescott,35704,253.5,-110.0,over,Pass Yards,Bet365,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 213,Dak Prescott,35704,33.5,-132.0,over,Longest Pass Completion,Caesars,1,2023-10-17T00:15:00,0.5689655172413793,LAC,DAL
 214,Dak Prescott,35704,12.5,-114.0,over,Rush Yards,Caesars,1,2023-10-17T00:15:00,0.5327102803738317,LAC,DAL
 215,Dak Prescott,35704,3.5,123.0,over,Receiving Yards,Caesars,1,2023-10-17T00:15:00,0.4484304932735426,LAC,DAL
-216,Dak Prescott,35704,37.5,-120.0,over,Passing Attempts,Caesars,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-217,Dak Prescott,35704,0.5,-137.0,over,Interceptions Thrown,Caesars,1,2023-10-17T00:15:00,0.5780590717299579,LAC,DAL
-218,Dak Prescott,35704,1.5,-133.0,over,Passing Touchdowns,Caesars,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
-219,Dak Prescott,35704,22.5,-125.0,over,Passing Completions,Caesars,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-220,Dak Prescott,35704,258.5,-115.0,over,Passing Yards,Caesars,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
+216,Dak Prescott,35704,37.5,-120.0,over,Pass Attempts,Caesars,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+217,Dak Prescott,35704,0.5,-137.0,over,INT,Caesars,1,2023-10-17T00:15:00,0.5780590717299579,LAC,DAL
+218,Dak Prescott,35704,1.5,-133.0,over,Pass Touchdowns,Caesars,1,2023-10-17T00:15:00,0.5708154506437768,LAC,DAL
+219,Dak Prescott,35704,22.5,-125.0,over,Pass Completions,Caesars,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+220,Dak Prescott,35704,258.5,-115.0,over,Pass Yards,Caesars,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
 228,Dak Prescott,35704,12.5,-105.0,over,Rush Yards,SportsBetting,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-229,Dak Prescott,35704,1.5,-135.0,over,Passing Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-230,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,SportsBetting,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-231,Dak Prescott,35704,258.5,-110.0,over,Passing Yards,SportsBetting,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+229,Dak Prescott,35704,1.5,-135.0,over,Pass Touchdowns,SportsBetting,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+230,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,SportsBetting,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+231,Dak Prescott,35704,258.5,-110.0,over,Pass Yards,SportsBetting,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 232,Dak Prescott,35704,12.5,-105.0,over,Rush Yards,BetOnline,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-233,Dak Prescott,35704,1.5,-135.0,over,Passing Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-234,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,BetOnline,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-235,Dak Prescott,35704,258.5,-110.0,over,Passing Yards,BetOnline,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+233,Dak Prescott,35704,1.5,-135.0,over,Pass Touchdowns,BetOnline,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+234,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,BetOnline,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+235,Dak Prescott,35704,258.5,-110.0,over,Pass Yards,BetOnline,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 236,Dak Prescott,35704,12.5,-105.0,over,Rush Yards,Bovada,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-237,Dak Prescott,35704,1.5,-135.0,over,Passing Touchdowns,Bovada,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-238,Dak Prescott,35704,22.5,-120.0,over,Passing Completions,Bovada,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
-239,Dak Prescott,35704,258.5,-110.0,over,Passing Yards,Bovada,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+237,Dak Prescott,35704,1.5,-135.0,over,Pass Touchdowns,Bovada,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+238,Dak Prescott,35704,22.5,-120.0,over,Pass Completions,Bovada,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+239,Dak Prescott,35704,258.5,-110.0,over,Pass Yards,Bovada,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
 240,Dak Prescott,35704,12.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-241,Dak Prescott,35704,1.5,-135.0,over,Passing Touchdowns,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-242,Dak Prescott,35704,258.5,-135.0,over,Passing Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+241,Dak Prescott,35704,1.5,-135.0,over,Pass Touchdowns,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+242,Dak Prescott,35704,258.5,-135.0,over,Pass Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 243,Dak Prescott,35704,12.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-244,Dak Prescott,35704,1.5,-135.0,over,Passing Touchdowns,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-245,Dak Prescott,35704,258.5,-135.0,over,Passing Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+244,Dak Prescott,35704,1.5,-135.0,over,Pass Touchdowns,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+245,Dak Prescott,35704,258.5,-135.0,over,Pass Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 0,Michael Gallup,36734,3.5,-188.0,under,bt15,888sports,1,2023-10-17T00:15:00,0.6527777777777778,LAC,DAL
 1,Michael Gallup,36734,37.5,-125.0,under,Rush+Rec Yards,888sports,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
 2,Michael Gallup,36734,36.5,-118.0,under,Receiving Yards,888sports,1,2023-10-17T00:15:00,0.5412844036697247,LAC,DAL
@@ -1494,34 +1494,34 @@
 105,Michael Gallup,36734,36.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 106,Michael Gallup,36734,3.0,-135.0,over,bt15,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 0,Cameron Dicker,408835,2.5,-130.0,under,Extra Points Made,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-1,Cameron Dicker,408835,1.5,-125.0,under,Field Goals Made,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
-2,Cameron Dicker,408835,6.5,-120.0,under,Total Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
+1,Cameron Dicker,408835,1.5,-125.0,under,FG,DraftKings,1,2023-10-17T00:15:00,0.5555555555555556,LAC,DAL
+2,Cameron Dicker,408835,6.5,-120.0,under,Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.5454545454545454,LAC,DAL
 3,Cameron Dicker,408835,2.5,100.0,over,Extra Points Made,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-4,Cameron Dicker,408835,1.5,-105.0,over,Field Goals Made,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
-5,Cameron Dicker,408835,6.5,-110.0,over,Total Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
-0,Derwin James,36904,6.5,139.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.4184100418410041,LAC,DAL
-1,Derwin James,36904,6.5,120.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-2,Derwin James,36904,7.0,-135.0,under,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-3,Derwin James,36904,6.5,-192.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.6575342465753424,LAC,DAL
-4,Derwin James,36904,6.5,-150.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.6,LAC,DAL
-5,Derwin James,36904,7.0,-135.0,over,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+4,Cameron Dicker,408835,1.5,-105.0,over,FG,DraftKings,1,2023-10-17T00:15:00,0.5121951219512195,LAC,DAL
+5,Cameron Dicker,408835,6.5,-110.0,over,Kicking Points,Pinnacle,1,2023-10-17T00:15:00,0.5238095238095238,LAC,DAL
+0,Derwin James,36904,6.5,139.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.4184100418410041,LAC,DAL
+1,Derwin James,36904,6.5,120.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
+2,Derwin James,36904,7.0,-135.0,under,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+3,Derwin James,36904,6.5,-192.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.6575342465753424,LAC,DAL
+4,Derwin James,36904,6.5,-150.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.6,LAC,DAL
+5,Derwin James,36904,7.0,-135.0,over,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 0,Micah Parsons,39044,0.5,105.0,under,Sacks,Parx,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 1,Micah Parsons,39044,0.5,105.0,under,Sacks,Four Winds,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 2,Micah Parsons,39044,0.5,105.0,under,Sacks,Unibet,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 3,Micah Parsons,39044,0.5,105.0,under,Sacks,BetRivers,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 4,Micah Parsons,39044,0.5,105.0,under,Sacks,Sugarhouse,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 5,Micah Parsons,39044,0.75,105.0,under,Sacks,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
-6,Micah Parsons,39044,4.5,-135.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+6,Micah Parsons,39044,4.5,-135.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 7,Micah Parsons,39044,0.5,-135.0,under,Sacks,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 8,Micah Parsons,39044,0.75,-135.0,under,Sacks,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-9,Micah Parsons,39044,4.0,-135.0,under,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-10,Micah Parsons,39044,4.5,-140.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
-11,Micah Parsons,39044,4.5,-169.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.6282527881040892,LAC,DAL
-12,Micah Parsons,39044,4.5,105.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+9,Micah Parsons,39044,4.0,-135.0,under,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+10,Micah Parsons,39044,4.5,-140.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
+11,Micah Parsons,39044,4.5,-169.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.6282527881040892,LAC,DAL
+12,Micah Parsons,39044,4.5,105.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
 13,Micah Parsons,39044,0.75,-135.0,over,Sacks,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-14,Micah Parsons,39044,4.5,105.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
-15,Micah Parsons,39044,4.5,123.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.4484304932735426,LAC,DAL
-16,Micah Parsons,39044,4.0,-135.0,over,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+14,Micah Parsons,39044,4.5,105.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+15,Micah Parsons,39044,4.5,123.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.4484304932735426,LAC,DAL
+16,Micah Parsons,39044,4.0,-135.0,over,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 17,Micah Parsons,39044,0.75,-135.0,over,Sacks,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 18,Micah Parsons,39044,0.5,-137.0,over,Sacks,Parx,1,2023-10-17T00:15:00,0.5780590717299579,LAC,DAL
 19,Micah Parsons,39044,0.5,-137.0,over,Sacks,Four Winds,1,2023-10-17T00:15:00,0.5780590717299579,LAC,DAL
@@ -1803,14 +1803,14 @@
 9,Osa Odighizuwa,39038,0.5,210.0,over,Sacks,Unibet,1,2023-10-17T00:15:00,0.3225806451612903,LAC,DAL
 10,Osa Odighizuwa,39038,0.5,210.0,over,Sacks,Four Winds,1,2023-10-17T00:15:00,0.3225806451612903,LAC,DAL
 11,Osa Odighizuwa,39038,0.5,210.0,over,Sacks,Parx,1,2023-10-17T00:15:00,0.3225806451612903,LAC,DAL
-0,Michael Davis,38943,5.5,-160.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.6153846153846154,LAC,DAL
-1,Michael Davis,38943,5.5,-156.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.609375,LAC,DAL
-2,Michael Davis,38943,5.5,-150.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.6,LAC,DAL
-3,Michael Davis,38943,5.0,-135.0,under,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-4,Michael Davis,38943,5.5,120.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-5,Michael Davis,38943,5.5,114.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.4672897196261682,LAC,DAL
-6,Michael Davis,38943,5.5,120.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
-7,Michael Davis,38943,5.0,-135.0,over,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+0,Michael Davis,38943,5.5,-160.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.6153846153846154,LAC,DAL
+1,Michael Davis,38943,5.5,-156.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.609375,LAC,DAL
+2,Michael Davis,38943,5.5,-150.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.6,LAC,DAL
+3,Michael Davis,38943,5.0,-135.0,under,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+4,Michael Davis,38943,5.5,120.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
+5,Michael Davis,38943,5.5,114.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.4672897196261682,LAC,DAL
+6,Michael Davis,38943,5.5,120.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.4545454545454545,LAC,DAL
+7,Michael Davis,38943,5.0,-135.0,over,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 0,DeMarcus Lawrence,995,0.25,-190.0,under,Sacks,DraftKings,1,2023-10-17T00:15:00,0.6551724137931034,LAC,DAL
 1,DeMarcus Lawrence,995,0.5,-230.0,under,Sacks,Parx,1,2023-10-17T00:15:00,0.696969696969697,LAC,DAL
 2,DeMarcus Lawrence,995,0.5,-230.0,under,Sacks,Four Winds,1,2023-10-17T00:15:00,0.696969696969697,LAC,DAL
@@ -2031,28 +2031,28 @@
 189,Tony Pollard,35610,68.5,-135.0,over,Rush Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 190,Tony Pollard,35610,20.5,-135.0,over,Receiving Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 191,Tony Pollard,35610,69.5,-135.0,over,Rush Yards,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-0,Asante Samuel,35320,3.5,115.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.4651162790697674,LAC,DAL
-1,Asante Samuel,35320,3.5,130.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.4347826086956521,LAC,DAL
-2,Asante Samuel,35320,4.0,-135.0,under,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-3,Asante Samuel,35320,3.5,-150.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.6,LAC,DAL
-4,Asante Samuel,35320,3.5,-166.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.6240601503759399,LAC,DAL
-5,Asante Samuel,35320,4.0,-135.0,over,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-0,Kenneth Murray,38684,6.5,100.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5,LAC,DAL
-1,Kenneth Murray,38684,6.5,100.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
-2,Kenneth Murray,38684,6.5,-101.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5024875621890548,LAC,DAL
-3,Kenneth Murray,38684,6.5,-135.0,under,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-4,Kenneth Murray,38684,6.5,-135.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-5,Kenneth Murray,38684,6.5,-130.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
-6,Kenneth Murray,38684,6.5,-135.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-7,Kenneth Murray,38684,6.5,-135.0,over,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-0,Eric Kendricks,38658,7.5,105.0,under,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
-1,Eric Kendricks,38658,7.5,105.0,under,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
-2,Eric Kendricks,38658,7.5,106.0,under,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.4854368932038835,LAC,DAL
-3,Eric Kendricks,38658,8.0,-135.0,under,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-4,Eric Kendricks,38658,7.5,-140.0,over,Tackles and Assists,BetMGM,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
-5,Eric Kendricks,38658,7.5,-135.0,over,Tackles and Assists,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
-6,Eric Kendricks,38658,7.5,-145.0,over,Tackles and Assists,Caesars,1,2023-10-17T00:15:00,0.5918367346938775,LAC,DAL
-7,Eric Kendricks,38658,8.0,-135.0,over,Tackles and Assists,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+0,Asante Samuel,35320,3.5,115.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.4651162790697674,LAC,DAL
+1,Asante Samuel,35320,3.5,130.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.4347826086956521,LAC,DAL
+2,Asante Samuel,35320,4.0,-135.0,under,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+3,Asante Samuel,35320,3.5,-150.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.6,LAC,DAL
+4,Asante Samuel,35320,3.5,-166.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.6240601503759399,LAC,DAL
+5,Asante Samuel,35320,4.0,-135.0,over,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+0,Kenneth Murray,38684,6.5,100.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5,LAC,DAL
+1,Kenneth Murray,38684,6.5,100.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5,LAC,DAL
+2,Kenneth Murray,38684,6.5,-101.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5024875621890548,LAC,DAL
+3,Kenneth Murray,38684,6.5,-135.0,under,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+4,Kenneth Murray,38684,6.5,-135.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+5,Kenneth Murray,38684,6.5,-130.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.5652173913043478,LAC,DAL
+6,Kenneth Murray,38684,6.5,-135.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+7,Kenneth Murray,38684,6.5,-135.0,over,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+0,Eric Kendricks,38658,7.5,105.0,under,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+1,Eric Kendricks,38658,7.5,105.0,under,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.4878048780487805,LAC,DAL
+2,Eric Kendricks,38658,7.5,106.0,under,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.4854368932038835,LAC,DAL
+3,Eric Kendricks,38658,8.0,-135.0,under,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+4,Eric Kendricks,38658,7.5,-140.0,over,Tackles+Ast,BetMGM,1,2023-10-17T00:15:00,0.5833333333333334,LAC,DAL
+5,Eric Kendricks,38658,7.5,-135.0,over,Tackles+Ast,DraftKings,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
+6,Eric Kendricks,38658,7.5,-145.0,over,Tackles+Ast,Caesars,1,2023-10-17T00:15:00,0.5918367346938775,LAC,DAL
+7,Eric Kendricks,38658,8.0,-135.0,over,Tackles+Ast,PrizePicks,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 0,Dorance Armstrong,38109,0.25,-425.0,under,Sacks,DraftKings,1,2023-10-17T00:15:00,0.8095238095238095,LAC,DAL
 1,Dorance Armstrong,38109,0.25,300.0,over,Sacks,DraftKings,1,2023-10-17T00:15:00,0.25,LAC,DAL
 0,Donald Parham,37708,9.5,-109.0,under,bt66,Caesars,1,2023-10-17T00:15:00,0.5215311004784688,LAC,DAL
@@ -2171,22 +2171,22 @@
 95,Jake Ferguson,36804,3.5,-135.0,over,bt15,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 96,Jake Ferguson,36804,37.5,-135.0,over,Receiving Yards,Underdog Fantasy,1,2023-10-17T00:15:00,0.574468085106383,LAC,DAL
 97,Jake Ferguson,36804,35.5,-115.0,over,Receiving Yards,PointsBet,1,2023-10-17T00:15:00,0.5348837209302325,LAC,DAL
-0,Kaidon Salter,64340,1.5,115.0,under,Passing Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.4651162790697674,LIB,MTS
+0,Kaidon Salter,64340,1.5,115.0,under,Pass Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.4651162790697674,LIB,MTS
 1,Kaidon Salter,64340,46.5,-120.0,under,Rush Yards,DraftKings,2,2023-10-17T23:00:00,0.5454545454545454,LIB,MTS
-2,Kaidon Salter,64340,218.5,-115.0,under,Passing Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
+2,Kaidon Salter,64340,218.5,-115.0,under,Pass Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
 3,Kaidon Salter,64340,42.5,-135.0,under,Rush Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
-4,Kaidon Salter,64340,218.5,-135.0,under,Passing Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
-5,Kaidon Salter,64340,1.5,-155.0,over,Passing Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.6078431372549019,LIB,MTS
+4,Kaidon Salter,64340,218.5,-135.0,under,Pass Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
+5,Kaidon Salter,64340,1.5,-155.0,over,Pass Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.6078431372549019,LIB,MTS
 6,Kaidon Salter,64340,46.5,-115.0,over,Rush Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
-7,Kaidon Salter,64340,218.5,-115.0,over,Passing Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
+7,Kaidon Salter,64340,218.5,-115.0,over,Pass Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
 8,Kaidon Salter,64340,42.5,-135.0,over,Rush Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
-9,Kaidon Salter,64340,218.5,-135.0,over,Passing Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
-0,Nicholas Vattiato,145250,1.5,-125.0,under,Passing Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.5555555555555556,LIB,MTS
-1,Nicholas Vattiato,145250,251.5,-115.0,under,Passing Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
-2,Nicholas Vattiato,145250,244.5,-135.0,under,Passing Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
-3,Nicholas Vattiato,145250,1.5,-105.0,over,Passing Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.5121951219512195,LIB,MTS
-4,Nicholas Vattiato,145250,251.5,-115.0,over,Passing Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
-5,Nicholas Vattiato,145250,244.5,-135.0,over,Passing Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
+9,Kaidon Salter,64340,218.5,-135.0,over,Pass Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
+0,Nicholas Vattiato,145250,1.5,-125.0,under,Pass Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.5555555555555556,LIB,MTS
+1,Nicholas Vattiato,145250,251.5,-115.0,under,Pass Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
+2,Nicholas Vattiato,145250,244.5,-135.0,under,Pass Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
+3,Nicholas Vattiato,145250,1.5,-105.0,over,Pass Touchdowns,DraftKings,2,2023-10-17T23:00:00,0.5121951219512195,LIB,MTS
+4,Nicholas Vattiato,145250,251.5,-115.0,over,Pass Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
+5,Nicholas Vattiato,145250,244.5,-135.0,over,Pass Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
 0,CJ Daniels,142562,67.5,-115.0,under,Receiving Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
 1,CJ Daniels,142562,66.5,-135.0,under,Receiving Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
 2,CJ Daniels,142562,67.5,-115.0,over,Receiving Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
@@ -2205,14 +2205,14 @@
 1,Holden Willis,188869,58.5,-135.0,under,Receiving Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
 2,Holden Willis,188869,58.5,-115.0,over,Receiving Yards,DraftKings,2,2023-10-17T23:00:00,0.5348837209302325,LIB,MTS
 3,Holden Willis,188869,58.5,-135.0,over,Receiving Yards,Underdog Fantasy,2,2023-10-17T23:00:00,0.574468085106383,LIB,MTS
-0,Billy Wiles,184412,177.5,-114.0,under,Passing Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
-1,Billy Wiles,184412,0.5,158.0,under,Passing Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.3875968992248062,SAB,USM
-2,Billy Wiles,184412,177.5,-114.0,over,Passing Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
-3,Billy Wiles,184412,0.5,-215.0,over,Passing Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.6825396825396826,SAB,USM
-0,Carter Bradley,146114,2.5,-220.0,under,Passing Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.6875,SAB,USM
-1,Carter Bradley,146114,270.5,-114.0,under,Passing Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
-2,Carter Bradley,146114,2.5,162.0,over,Passing Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.3816793893129771,SAB,USM
-3,Carter Bradley,146114,270.5,-114.0,over,Passing Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
+0,Billy Wiles,184412,177.5,-114.0,under,Pass Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
+1,Billy Wiles,184412,0.5,158.0,under,Pass Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.3875968992248062,SAB,USM
+2,Billy Wiles,184412,177.5,-114.0,over,Pass Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
+3,Billy Wiles,184412,0.5,-215.0,over,Pass Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.6825396825396826,SAB,USM
+0,Carter Bradley,146114,2.5,-220.0,under,Pass Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.6875,SAB,USM
+1,Carter Bradley,146114,270.5,-114.0,under,Pass Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
+2,Carter Bradley,146114,2.5,162.0,over,Pass Touchdowns,FanDuel,2,2023-10-17T23:30:00,0.3816793893129771,SAB,USM
+3,Carter Bradley,146114,270.5,-114.0,over,Pass Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
 0,La'Damian Webb,226971,80.5,-114.0,under,Rush Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
 1,La'Damian Webb,226971,80.5,-114.0,over,Rush Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
 0,Jakarius Caston,162526,49.5,-114.0,under,Receiving Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
@@ -2223,12 +2223,12 @@
 1,Latreal Jones,207314,45.5,-114.0,over,Receiving Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
 0,Jamaal Pritchett,188424,40.5,-114.0,under,Receiving Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
 1,Jamaal Pritchett,188424,40.5,-114.0,over,Receiving Yards,FanDuel,2,2023-10-17T23:30:00,0.5327102803738317,SAB,USM
-0,Austin Reed,67471,2.5,-140.0,under,Passing Touchdowns,DraftKings,2,2023-10-17T23:30:00,0.5833333333333334,JVS,WKY
-1,Austin Reed,67471,304.5,-115.0,under,Passing Yards,DraftKings,2,2023-10-17T23:30:00,0.5348837209302325,JVS,WKY
-2,Austin Reed,67471,300.5,-135.0,under,Passing Yards,Underdog Fantasy,2,2023-10-17T23:30:00,0.574468085106383,JVS,WKY
-3,Austin Reed,67471,2.5,105.0,over,Passing Touchdowns,DraftKings,2,2023-10-17T23:30:00,0.4878048780487805,JVS,WKY
-4,Austin Reed,67471,304.5,-115.0,over,Passing Yards,DraftKings,2,2023-10-17T23:30:00,0.5348837209302325,JVS,WKY
-5,Austin Reed,67471,300.5,-135.0,over,Passing Yards,Underdog Fantasy,2,2023-10-17T23:30:00,0.574468085106383,JVS,WKY
+0,Austin Reed,67471,2.5,-140.0,under,Pass Touchdowns,DraftKings,2,2023-10-17T23:30:00,0.5833333333333334,JVS,WKY
+1,Austin Reed,67471,304.5,-115.0,under,Pass Yards,DraftKings,2,2023-10-17T23:30:00,0.5348837209302325,JVS,WKY
+2,Austin Reed,67471,300.5,-135.0,under,Pass Yards,Underdog Fantasy,2,2023-10-17T23:30:00,0.574468085106383,JVS,WKY
+3,Austin Reed,67471,2.5,105.0,over,Pass Touchdowns,DraftKings,2,2023-10-17T23:30:00,0.4878048780487805,JVS,WKY
+4,Austin Reed,67471,304.5,-115.0,over,Pass Yards,DraftKings,2,2023-10-17T23:30:00,0.5348837209302325,JVS,WKY
+5,Austin Reed,67471,300.5,-135.0,over,Pass Yards,Underdog Fantasy,2,2023-10-17T23:30:00,0.574468085106383,JVS,WKY
 0,Malachi Corley,188096,93.5,-115.0,under,Receiving Yards,DraftKings,2,2023-10-17T23:30:00,0.5348837209302325,JVS,WKY
 1,Malachi Corley,188096,92.5,-135.0,under,Receiving Yards,Underdog Fantasy,2,2023-10-17T23:30:00,0.574468085106383,JVS,WKY
 2,Malachi Corley,188096,93.5,-115.0,over,Receiving Yards,DraftKings,2,2023-10-17T23:30:00,0.5348837209302325,JVS,WKY

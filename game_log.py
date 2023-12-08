@@ -2,12 +2,11 @@ import pandas as pd
 from scipy.stats import poisson
 import matplotlib.pyplot as plt
 
-def load_current_line(path,key,time) -> pd.DataFrame:
+def load_current_line(path,time_col,identifier) -> pd.DataFrame:
     df = pd.read_csv(path,index_col=0)
-
-    if key in df.columns and time in df.columns:
-        df = df.sort_values(by=time,ascending=False)
-        return df.loc[df[time]== df[time].max()].reset_index(drop=True)
+    if  (time_col in df.columns) and (identifier in df.columns):
+        df = df.sort_values(by=time_col,ascending=False)
+        return df.loc[df[time_col]== df[time_col].max()].reset_index(drop=True)
     else:
         return df
 
