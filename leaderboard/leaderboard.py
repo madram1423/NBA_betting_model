@@ -10,7 +10,7 @@ requests = tls_client.Session(
 
 
 def get_standings():
-    acronyms = pd.read_csv('reference_data/acronyms.csv',index_col=0)
+    acronyms = pd.read_csv('./reference_data/acronyms.csv',index_col=0)
     acr_dict = {}
     for i in range(len(acronyms)):
         acr_dict[acronyms.Team[i]] = acronyms.Acr[i]
