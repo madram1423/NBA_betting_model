@@ -5,7 +5,7 @@ import pandas as pd
 import tls_client
 from bs4 import BeautifulSoup
 import requests
-from leaderboard import get_standings
+#from leaderboard import get_standings
 acronyms = pd.read_csv("reference_data/acronyms.csv", index_col=0)
 
 requests = tls_client.Session(
@@ -68,13 +68,13 @@ shared_preds = [
 ]
 
 cam_preds = [
-    random.sample(west,8),
-    random.sample(east,8)
+    ['PHX','DEN','MIN','SAC','LAL','DAL','LAC','GSW'],
+    ['MIL','BOS','NYK','CLE','PHI','BKN','IND','MIA']
 ]
 
 austy_preds = [
-    random.sample(west,8),
-    random.sample(east,8)
+    ['DEN','SAC','PHX','LAL','GSW','OKC','LAC','DAL'],
+    ['BOS','MIL','NYK','CLE','PHI','MIA','ATL','IND']
 ]
 
 def compute_score(pred_rank, actual_rank):
