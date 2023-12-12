@@ -12,14 +12,9 @@ requests = tls_client.Session(
 years = ['2024']
 for year in years:
     soup = get_url_soup(f'https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html')
-
-    # Find all <td> elements with the 'data-append-csv' attribute
     td_elements = soup.find_all('td', {'data-append-csv': True})
 
-    # Create empty lists to store the extracted data
     player_codes = []
-
-    # Loop through the <td> elements
     for td_element in td_elements:
         data_append_csv = td_element['data-append-csv']
         player_name = td_element.find('a').text
@@ -27,10 +22,7 @@ for year in years:
 
     rows = soup.find_all('tr', class_=['full_table', 'italic_text partial_table'])
 
-    # Create a list to store the 'pos' values
     positions = []
-
-    # Loop through the rows and extract the 'pos' value for each row
     for row in rows:
         pos_element = row.find('td', {'data-stat': 'pos'})
         if pos_element:
@@ -53,7 +45,7 @@ for year in years:
                 i = 41
         return headers[1:]
 
-    def get_stats_df(soup,headers,player):
+    def get_player_stats_df(soup,headers,player):
 
         rows = soup.findAll('tr')
         player_stats = [[td.getText() for td in rows[i].findAll('td')]
@@ -64,7 +56,7 @@ for year in years:
         stats.index = range(len(stats))
         return stats
 
-    def get_stats(num,df):
+    def get_all_stats(num,df):
         for person in range(num):
             errors = []
             try:
@@ -76,7 +68,7 @@ for year in years:
                 soup = get_url_soup(url)
                 
                 headers = get_headers(soup)
-                stats = get_stats_df(soup,headers,player_name)
+                stats = get_player_stats_df(soup,headers,player_name)
                 stats['pos'] = df['pos'].iloc[person]
                 stats['season'] = year
                 if person == 0:
@@ -92,7 +84,7 @@ for year in years:
         return data_core
 
     print(len(code_df))
-    data = get_stats(len(code_df),code_df)
+    data = get_all_stats(len(code_df),code_df)
 
     data['Date'] = pd.to_datetime(data['Date'])
     for i in range(len(data)):

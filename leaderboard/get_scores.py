@@ -1,8 +1,14 @@
 import random
 import pandas as pd
 import streamlit as st
-acronyms = pd.read_csv("acronyms.csv", index_col=0)
-standings = pd.read_csv("data/current_standings.csv")
+import pandas as pd
+import tls_client
+from bs4 import BeautifulSoup
+import requests
+from leaderboard import get_standings
+acronyms = pd.read_csv("reference_data/acronyms.csv", index_col=0)
+standings = get_standings()
+#standings = pd.read_csv("data/current_standings.csv")
 east = standings["East"].to_list()
 west = standings["West"].to_list()
 standings_list = [west,east]
@@ -62,7 +68,9 @@ current_df.columns = ['West','East']
 
 standings = pd.concat((current_df,shared_df,cam_df,austy_df),axis=1,keys=['Actual','Shared','Cam','Austy'])
 print(standings)
+st.title('Current Standings vs Predicted Standings')
 st.dataframe(standings)
+st.header('Current Scores')
 st.write('Shared score', sum(shared_score))
 st.write('Cam score', sum(austy_score))
 st.write('Austy score', sum(cam_score))
